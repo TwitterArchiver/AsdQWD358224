@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1897087162480246895",
+    "created_at": "2025-03-05T05:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T06:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897152676187771299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1335132884278108161",
+          "start": 0,
+          "username": "stats_feed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897152676187771299",
+    "in_reply_to_user_id": "1335132884278108161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897087162480246895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stats_feed 茶叶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1897087162480246895",
+        "created_at": "2025-03-05T05:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T06:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897152676187771299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1335132884278108161",
+              "start": 0,
+              "username": "stats_feed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897152676187771299",
+        "in_reply_to_user_id": "1335132884278108161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897087162480246895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stats_feed 茶叶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335132884278108161",
+        "conversation_id": "1897087162480246895",
+        "created_at": "2025-03-05T00:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T01:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897087162480246895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897087162480246895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 130583,
+          "like_count": 388,
+          "quote_count": 20,
+          "reply_count": 371,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "What are you starting to like as you get older?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 2726,
+          "like_count": 63738,
+          "listed_count": 6,
+          "media_count": 1518,
+          "tweet_count": 11598
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T08:07:34.000Z",
+        "description": "There are three kinds of lies: lies, damned lies, and statistics. Sister page of @engineers_feed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "engineers_feed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@stats_feed",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@stats_feed",
+                "start": 0,
+                "url": "https://t.co/Lso9z1yJ8I"
+              }
+            ]
+          }
+        },
+        "id": "1335132884278108161",
+        "name": "World of Statistics",
+        "pinned_tweet_id": "1896247759985893703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335168437220421632/VCHg78Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3960979,
+          "following_count": 568,
+          "like_count": 2438,
+          "listed_count": 6921,
+          "media_count": 1479,
+          "tweet_count": 28656
+        },
+        "url": "https://t.co/Lso9z1yJ8I",
+        "username": "stats_feed",
+        "verified": true
+      }
+    ]
+  }
+}

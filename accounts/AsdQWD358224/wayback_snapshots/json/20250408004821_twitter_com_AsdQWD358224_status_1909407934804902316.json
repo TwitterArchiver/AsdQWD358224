@@ -1,0 +1,570 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908990903533842432"
+      ],
+      "media_source_tweet_id": [
+        "1908990909947240803"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1909407934804902316",
+    "created_at": "2025-04-08T00:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T01:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909407934804902316"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Ethereum",
+          "probability": 0.5717,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1373615088532328449",
+          "start": 3,
+          "username": "exitpumpBTC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wd9TfJtWnY",
+          "end": 59,
+          "expanded_url": "https://x.com/exitpumpBTC/status/1908990909947240803/photo/1",
+          "media_key": "3_1908990903533842432",
+          "start": 36,
+          "url": "https://t.co/Wd9TfJtWnY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909407934804902316",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908990909947240803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @exitpumpBTC: Thank you Ethereum https://t.co/Wd9TfJtWnY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 593,
+        "media_key": "3_1908990903533842432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn4ZHMyWMAAhaXv.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908990903533842432"
+          ],
+          "media_source_tweet_id": [
+            "1908990909947240803"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1909407934804902316",
+        "created_at": "2025-04-08T00:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T01:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909407934804902316"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Ethereum",
+              "probability": 0.5717,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1373615088532328449",
+              "start": 3,
+              "username": "exitpumpBTC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wd9TfJtWnY",
+              "end": 59,
+              "expanded_url": "https://x.com/exitpumpBTC/status/1908990909947240803/photo/1",
+              "media_key": "3_1908990903533842432",
+              "start": 36,
+              "url": "https://t.co/Wd9TfJtWnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909407934804902316",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908990909947240803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @exitpumpBTC: Thank you Ethereum https://t.co/Wd9TfJtWnY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908990903533842432"
+          ]
+        },
+        "author_id": "1373615088532328449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1908990909947240803",
+        "created_at": "2025-04-06T21:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T22:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908990909947240803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Ethereum",
+              "probability": 0.521,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wd9TfJtWnY",
+              "end": 42,
+              "expanded_url": "https://x.com/exitpumpBTC/status/1908990909947240803/photo/1",
+              "media_key": "3_1908990903533842432",
+              "start": 19,
+              "url": "https://t.co/Wd9TfJtWnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908990909947240803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 248662,
+          "like_count": 9635,
+          "quote_count": 32,
+          "reply_count": 47,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "Thank you Ethereum https://t.co/Wd9TfJtWnY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/+5g版/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "fe_ions"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（清明节ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 2976,
+          "like_count": 84571,
+          "listed_count": 12,
+          "media_count": 1772,
+          "tweet_count": 13917
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T12:39:09.000Z",
+        "description": "Orderflow | My Discord group: https://t.co/bR6V64eyKF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/mGPMcFVTRe",
+                "end": 53,
+                "expanded_url": "https://discord.gg/mGPMcFVTRe",
+                "start": 30,
+                "url": "https://t.co/bR6V64eyKF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/exitpump",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/exitpump",
+                "start": 0,
+                "url": "https://t.co/IhxD7WFanu"
+              }
+            ]
+          }
+        },
+        "id": "1373615088532328449",
+        "name": "exitpump",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876063516433494016/Xyk9K0UC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23351,
+          "following_count": 937,
+          "like_count": 17290,
+          "listed_count": 379,
+          "media_count": 2559,
+          "tweet_count": 6587
+        },
+        "url": "https://t.co/IhxD7WFanu",
+        "username": "exitpumpBTC",
+        "verified": true
+      }
+    ]
+  }
+}

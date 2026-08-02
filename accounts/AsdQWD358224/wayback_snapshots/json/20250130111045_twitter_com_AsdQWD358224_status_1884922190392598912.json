@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1884917615304618062",
+    "created_at": "2025-01-30T11:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T12:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884922190392598912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1239359884560232448",
+          "start": 0,
+          "username": "nes_tea3939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884922190392598912",
+    "in_reply_to_user_id": "1239359884560232448",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884917615304618062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nes_tea3939 13 26\n&gt;ᴗoಣ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1884917615304618062",
+        "created_at": "2025-01-30T11:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T12:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884922190392598912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1239359884560232448",
+              "start": 0,
+              "username": "nes_tea3939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884922190392598912",
+        "in_reply_to_user_id": "1239359884560232448",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884917615304618062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nes_tea3939 13 26\n&gt;ᴗoಣ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884917612242726912"
+          ]
+        },
+        "author_id": "1239359884560232448",
+        "conversation_id": "1884917615304618062",
+        "created_at": "2025-01-30T10:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884917615304618062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPIOYSd8ap",
+              "end": 26,
+              "expanded_url": "https://x.com/nes_tea3939/status/1884917615304618062/photo/1",
+              "media_key": "3_1884917612242726912",
+              "start": 3,
+              "url": "https://t.co/mPIOYSd8ap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884917615304618062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵～ https://t.co/mPIOYSd8ap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "fe_ions"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 2408,
+          "like_count": 39918,
+          "listed_count": 6,
+          "media_count": 830,
+          "tweet_count": 7490
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T01:16:54.000Z",
+        "description": "是正太控  叫我透明就好，泛性恋偏同，XP是我认为可爱的事物，欢迎贴贴，有男友啦~@noviceK3  英专生 人类观察\n废料里推：@nestea114514\n职业翻译准备中……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "noviceK3"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "nestea114514"
+              }
+            ]
+          }
+        },
+        "id": "1239359884560232448",
+        "location": "赛博空间",
+        "name": "透明Biy🏳️‍🌈",
+        "pinned_tweet_id": "1867422744981418385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866042968182046720/flvjCgkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 2426,
+          "like_count": 10178,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 5372
+        },
+        "username": "nes_tea3939",
+        "verified": false
+      }
+    ]
+  }
+}

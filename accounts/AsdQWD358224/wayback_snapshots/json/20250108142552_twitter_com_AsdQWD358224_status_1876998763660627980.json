@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1876966780477809097",
+    "created_at": "2025-01-08T14:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T15:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876998763660627980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4646273545",
+          "start": 0,
+          "username": "kurtsunx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876998763660627980",
+    "in_reply_to_user_id": "4646273545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876966780477809097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurtsunx 哇！感觉这碗皮蛋瘦肉粥好香哎\n想吃 (ᐥᐜᐥ)♡︎ᐝ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1876966780477809097",
+        "created_at": "2025-01-08T14:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T15:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876998763660627980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4646273545",
+              "start": 0,
+              "username": "kurtsunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876998763660627980",
+        "in_reply_to_user_id": "4646273545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876966780477809097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurtsunx 哇！感觉这碗皮蛋瘦肉粥好香哎\n想吃 (ᐥᐜᐥ)♡︎ᐝ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876966767777787906"
+          ]
+        },
+        "author_id": "4646273545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251586",
+              "name": "Online - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1390708238690095106",
+              "name": "UberEats"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597251964928",
+              "name": "Car Rental/Sharing - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046018833",
+              "name": "UberEATS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          }
+        ],
+        "conversation_id": "1876966780477809097",
+        "created_at": "2025-01-08T12:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T13:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876966780477809097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kXIBzBJh8T",
+              "end": 130,
+              "expanded_url": "https://x.com/kurtsunx/status/1876966780477809097/photo/1",
+              "media_key": "3_1876966767777787906",
+              "start": 107,
+              "url": "https://t.co/kXIBzBJh8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876966780477809097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1587,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "1. 因為拔智齒，不能吃太硬的食物。\n\n2. 於是叫了uber eats上面的皮蛋瘦肉粥。\n\n3. 想吃麵筋，加點了麵筋！😋\n\n4. 店家直接給一整個罐頭來。\n\n？？？\n\n欸不是，我只是想吃一口而已呀！ XDDD https://t.co/kXIBzBJh8T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1872682595814928454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 2066,
+          "like_count": 20471,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 3811
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-25T00:42:39.000Z",
+        "description": "說故事、小知識、曬貓。\n\n偶爾發些 ACG 或 Vtuber 的東西，或是分享自媒體創作的筆記。\n\n(養的黑貓叫馬六)\n\n最近有在寫一份專門for創作者的電子報《黑貓創作報》\nhttps://t.co/GmhPxVPzSq\n\nYT頻道：\nhttps://t.co/zSjzZyAbVL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3BYP7dk",
+                "end": 111,
+                "expanded_url": "https://bit.ly/3BYP7dk",
+                "start": 88,
+                "url": "https://t.co/GmhPxVPzSq"
+              },
+              {
+                "display_url": "youtube.com/@black_cat_tea…",
+                "end": 142,
+                "expanded_url": "https://www.youtube.com/@black_cat_teacher",
+                "start": 119,
+                "url": "https://t.co/zSjzZyAbVL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/blackcat_teach…",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/blackcat_teacher",
+                "start": 0,
+                "url": "https://t.co/UcswZ1pIAc"
+              }
+            ]
+          }
+        },
+        "id": "4646273545",
+        "location": "taiwan",
+        "name": "黑貓老師",
+        "pinned_tweet_id": "1846965837984591904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829218057610506242/SuI53EgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32181,
+          "following_count": 1960,
+          "like_count": 30809,
+          "listed_count": 59,
+          "media_count": 1493,
+          "tweet_count": 12512
+        },
+        "url": "https://t.co/UcswZ1pIAc",
+        "username": "kurtsunx",
+        "verified": true
+      }
+    ]
+  }
+}

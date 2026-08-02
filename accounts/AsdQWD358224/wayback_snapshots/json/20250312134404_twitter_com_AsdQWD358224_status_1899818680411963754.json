@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1818959111532523520"
+      ],
+      "media_source_tweet_id": [
+        "1818959117148704827"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1899818680411963754",
+    "created_at": "2025-03-12T13:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T14:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899818680411963754"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "台北市内",
+          "probability": 0.6401,
+          "start": 17,
+          "type": "Place"
+        },
+        {
+          "end": 29,
+          "normalized_text": "台湾",
+          "probability": 0.509,
+          "start": 28,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1315695841022111745",
+          "start": 3,
+          "username": "taiwan417"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9zxgg3LWMA",
+          "end": 123,
+          "expanded_url": "https://x.com/taiwan417/status/1818959117148704827/photo/1",
+          "media_key": "3_1818959111532523520",
+          "start": 100,
+          "url": "https://t.co/9zxgg3LWMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899818680411963754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818959117148704827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taiwan417: 📍台北市内の夜市\n初めて台湾行く方は、「士林夜市」「寧夏夜市」「饒河夜市」「艋舺夜市商圈（萬華夜市）」「臨江街夜市（通化夜市）」の台北5大夜市から選ぶのがおすすめです✨ https://t.co/9zxgg3LWMA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1818959111532523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT49rLfbMAA7w53.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818959111532523520"
+          ],
+          "media_source_tweet_id": [
+            "1818959117148704827"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1899818680411963754",
+        "created_at": "2025-03-12T13:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T14:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899818680411963754"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "台北市内",
+              "probability": 0.6401,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 29,
+              "normalized_text": "台湾",
+              "probability": 0.509,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1315695841022111745",
+              "start": 3,
+              "username": "taiwan417"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zxgg3LWMA",
+              "end": 123,
+              "expanded_url": "https://x.com/taiwan417/status/1818959117148704827/photo/1",
+              "media_key": "3_1818959111532523520",
+              "start": 100,
+              "url": "https://t.co/9zxgg3LWMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899818680411963754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818959117148704827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taiwan417: 📍台北市内の夜市\n初めて台湾行く方は、「士林夜市」「寧夏夜市」「饒河夜市」「艋舺夜市商圈（萬華夜市）」「臨江街夜市（通化夜市）」の台北5大夜市から選ぶのがおすすめです✨ https://t.co/9zxgg3LWMA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818959111532523520"
+          ]
+        },
+        "author_id": "1315695841022111745",
+        "conversation_id": "1818959117148704827",
+        "created_at": "2024-08-01T10:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T11:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818959117148704827"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "台北市内",
+              "probability": 0.6642,
+              "start": 2,
+              "type": "Place"
+            },
+            {
+              "end": 14,
+              "normalized_text": "台湾",
+              "probability": 0.4978,
+              "start": 13,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zxgg3LWMA",
+              "end": 108,
+              "expanded_url": "https://x.com/taiwan417/status/1818959117148704827/photo/1",
+              "media_key": "3_1818959111532523520",
+              "start": 85,
+              "url": "https://t.co/9zxgg3LWMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818959117148704827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 97285,
+          "like_count": 1064,
+          "quote_count": 18,
+          "reply_count": 2,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "📍台北市内の夜市\n初めて台湾行く方は、「士林夜市」「寧夏夜市」「饒河夜市」「艋舺夜市商圈（萬華夜市）」「臨江街夜市（通化夜市）」の台北5大夜市から選ぶのがおすすめです✨ https://t.co/9zxgg3LWMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "fe_ions"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 2790,
+          "like_count": 68584,
+          "listed_count": 7,
+          "media_count": 1608,
+          "tweet_count": 12299
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T16:48:36.000Z",
+        "description": "夜市が好きすぎる人✏️台湾全国の夜市を記録 📏測量中 ... 全台灣夜市地圖 夜市になるのが夢 #はしご夜市 https://t.co/H1QjPaYpdJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "はしご夜市"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/taiwan417",
+                "end": 78,
+                "expanded_url": "https://instagram.com/taiwan417",
+                "start": 55,
+                "url": "https://t.co/H1QjPaYpdJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiwan417.com",
+                "end": 23,
+                "expanded_url": "http://taiwan417.com",
+                "start": 0,
+                "url": "https://t.co/h6d67HQ51X"
+              }
+            ]
+          }
+        },
+        "id": "1315695841022111745",
+        "location": "台湾夜市𝟐𝟎𝟎 ⅓ 測量中...",
+        "name": "よいちず | 台湾夜市",
+        "pinned_tweet_id": "1818959117148704827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847718040454254593/hSxD4Nqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 27,
+          "like_count": 3080,
+          "listed_count": 13,
+          "media_count": 395,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/h6d67HQ51X",
+        "username": "taiwan417",
+        "verified": false
+      }
+    ]
+  }
+}

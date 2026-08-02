@@ -1,0 +1,780 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1022475984325369856",
+          "name": "Mobile Suit Gundam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1022475984325369856",
+          "name": "Mobile Suit Gundam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      }
+    ],
+    "conversation_id": "1935660400554725407",
+    "created_at": "2025-06-19T11:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T12:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935660400554725407"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "米津玄師 Plazma",
+          "probability": 0.366,
+          "start": 35,
+          "type": "Person"
+        },
+        {
+          "end": 62,
+          "normalized_text": "BOW AND ARROW",
+          "probability": 0.5995,
+          "start": 50,
+          "type": "Other"
+        },
+        {
+          "end": 123,
+          "normalized_text": "メダリスト",
+          "probability": 0.7792,
+          "start": 119,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1420668230",
+          "start": 3,
+          "username": "reissuerecords"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935660400554725407",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5321
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932642570263494692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reissuerecords: ━━━━━━━━━━━━━\n 米津玄師\n Plazma / BOW AND ARROW\n 本日リリース  \n━━━━━━━━━━━━━ \n 『機動戦士Gundam GQuuuuuuX』主題歌  \n『メダリスト』オープニング主題歌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22814,
+        "height": 1080,
+        "media_key": "13_1932641294335299584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932641294335299584/img/6vNxHJ8Ioo_E3G3F.jpg",
+        "public_metrics": {
+          "view_count": 244214
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932641294335299584/vid/avc1/320x320/A2mVPFUsrjKs0qtr.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932641294335299584/vid/avc1/1080x1080/dpIEpYPTKEmhK6BE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932641294335299584/pl/4Lz19FnNwBNtwcl_.m3u8?v=32b"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932641294335299584/vid/avc1/540x540/6b6Sgx5L5ig4YOAV.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932641294335299584/vid/avc1/720x720/TYO_oldpImHZ9lgS.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          }
+        ],
+        "conversation_id": "1935660400554725407",
+        "created_at": "2025-06-19T11:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935660400554725407"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "米津玄師 Plazma",
+              "probability": 0.366,
+              "start": 35,
+              "type": "Person"
+            },
+            {
+              "end": 62,
+              "normalized_text": "BOW AND ARROW",
+              "probability": 0.5995,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 123,
+              "normalized_text": "メダリスト",
+              "probability": 0.7792,
+              "start": 119,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1420668230",
+              "start": 3,
+              "username": "reissuerecords"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935660400554725407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5321
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932642570263494692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reissuerecords: ━━━━━━━━━━━━━\n 米津玄師\n Plazma / BOW AND ARROW\n 本日リリース  \n━━━━━━━━━━━━━ \n 『機動戦士Gundam GQuuuuuuX』主題歌  \n『メダリスト』オープニング主題歌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932641294335299584"
+          ]
+        },
+        "author_id": "1420668230",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          }
+        ],
+        "conversation_id": "1932642570263494692",
+        "created_at": "2025-06-11T03:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T04:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932642570263494692"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "米津玄師 Plazma",
+              "probability": 0.3691,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 42,
+              "normalized_text": "BOW AND ARROW",
+              "probability": 0.6011,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "メダリスト",
+              "probability": 0.7608,
+              "start": 99,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T2GrejJ234",
+              "end": 170,
+              "expanded_url": "https://x.com/reissuerecords/status/1932642570263494692/video/1",
+              "media_key": "13_1932641294335299584",
+              "start": 147,
+              "url": "https://t.co/T2GrejJ234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932642570263494692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 279,
+                "start": 274,
+                "tag": "米津玄師"
+              },
+              {
+                "end": 293,
+                "start": 280,
+                "tag": "KenshiYonezu"
+              },
+              {
+                "end": 302,
+                "start": 295,
+                "tag": "Plazma"
+              },
+              {
+                "end": 313,
+                "start": 303,
+                "tag": "GQuuuuuuX"
+              },
+              {
+                "end": 321,
+                "start": 314,
+                "tag": "ジークアクス"
+              },
+              {
+                "end": 335,
+                "start": 323,
+                "tag": "BOWANDARROW"
+              },
+              {
+                "end": 342,
+                "start": 336,
+                "tag": "メダリスト"
+              },
+              {
+                "end": 352,
+                "start": 343,
+                "tag": "medalist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reissuerecords.net/Plazma_bowanda…",
+                "end": 204,
+                "expanded_url": "https://reissuerecords.net/Plazma_bowandarrow/",
+                "start": 181,
+                "url": "https://t.co/miyDIcdAQu"
+              },
+              {
+                "display_url": "ticket.kenshiyonezu.jp/tour/2026",
+                "end": 272,
+                "expanded_url": "https://ticket.kenshiyonezu.jp/tour/2026",
+                "start": 249,
+                "url": "https://t.co/06EIbRsqRD"
+              }
+            ]
+          },
+          "text": "━━━━━━━━━━━━━\n 米津玄師\n Plazma / BOW AND ARROW\n 本日リリース  \n━━━━━━━━━━━━━ \n 『機動戦士Gundam GQuuuuuuX』主題歌  \n『メダリスト』オープニング主題歌    \n\n２曲のダブルA面シングルが本日リリースを迎えました🎂\n\nアニメの物語と共に、楽曲の世界観を手にとって味わってみてください\nhttps://t.co/miyDIcdAQu\n\n米津玄師 2026 TOUR / GHOST　\nチケットの受付は、6/15(日)まで\nhttps://t.co/06EIbRsqRD\n\n#米津玄師 #KenshiYonezu \n#Plazma #GQuuuuuuX #ジークアクス \n#BOWANDARROW #メダリスト #medalist"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1213,
+          "impression_count": 1126943,
+          "like_count": 34170,
+          "quote_count": 203,
+          "reply_count": 360,
+          "retweet_count": 5321
+        },
+        "reply_settings": "everyone",
+        "text": "━━━━━━━━━━━━━\n 米津玄師\n Plazma / BOW AND ARROW\n 本日リリース  \n━━━━━━━━━━━━━ \n 『機動戦士Gundam GQuuuuuuX』主題歌  \n『メダリスト』オープニング主題歌    \n\n２曲のダブルA面シングルが本日リリースを迎えました🎂 https://t.co/T2GrejJ234"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "username": "fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 3137,
+          "like_count": 94142,
+          "listed_count": 12,
+          "media_count": 1946,
+          "tweet_count": 15428
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-11T13:35:08.000Z",
+        "description": "#米津玄師  ＠hachi_08 公式スタッフアカウント_____\n#KenshiYonezu  Official staff account\n\nhttps://t.co/j2ZfftO2Ky",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "米津玄師"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "tag": "KenshiYonezu"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "hachi_08"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/KenshiYonezu…",
+                "end": 96,
+                "expanded_url": "https://www.youtube.com/c/KenshiYonezuHACHI",
+                "start": 73,
+                "url": "https://t.co/j2ZfftO2Ky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reissuerecords.net",
+                "end": 23,
+                "expanded_url": "https://reissuerecords.net",
+                "start": 0,
+                "url": "https://t.co/Rvq4WEYevV"
+              }
+            ]
+          }
+        },
+        "id": "1420668230",
+        "name": "REISSUE RECORDS",
+        "pinned_tweet_id": "1932642570263494692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879581140794900480/S8fR8rv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307113,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 1544,
+          "media_count": 858,
+          "tweet_count": 3857
+        },
+        "url": "https://t.co/Rvq4WEYevV",
+        "username": "reissuerecords",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1951907259866337322",
+    "created_at": "2025-08-04T03:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T04:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952207968612851828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811021800773668865",
+          "start": 0,
+          "username": "21175628347ml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952207968612851828",
+    "in_reply_to_user_id": "1811021800773668865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952176961264201962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@21175628347ml 秋季"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1951907259866337322",
+        "created_at": "2025-08-04T03:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T04:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952207968612851828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811021800773668865",
+              "start": 0,
+              "username": "21175628347ml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952207968612851828",
+        "in_reply_to_user_id": "1811021800773668865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952176961264201962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@21175628347ml 秋季"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811021800773668865",
+        "conversation_id": "1951907259866337322",
+        "created_at": "2025-08-04T01:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T02:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952176961264201962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952176961264201962",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951907259866337322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fe_ions"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气system.（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 3115,
+          "like_count": 97558,
+          "listed_count": 12,
+          "media_count": 2015,
+          "tweet_count": 15849
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:57:13.000Z",
+        "description": "",
+        "id": "1811021800773668865",
+        "name": "47ml",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906053440545185793/eacXIRlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 282,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 106
+        },
+        "username": "21175628347ml",
+        "verified": false
+      }
+    ]
+  }
+}

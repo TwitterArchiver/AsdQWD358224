@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907827405319974914"
+      ],
+      "media_source_tweet_id": [
+        "1907827411275956428"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      }
+    ],
+    "conversation_id": "1908279345959100453",
+    "created_at": "2025-04-04T22:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T23:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908279345959100453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899652162000715776",
+          "start": 3,
+          "username": "on_nya_ki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dP7TH8ETob",
+          "end": 65,
+          "expanded_url": "https://x.com/on_nya_ki/status/1907827411275956428/photo/1",
+          "media_key": "3_1907827405319974914",
+          "start": 42,
+          "url": "https://t.co/dP7TH8ETob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908279345959100453",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907827411275956428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @on_nya_ki: これ持ってゲーセンとか学校行ったら、友達出来るかな。 https://t.co/dP7TH8ETob"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_1907827405319974914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnn26sLaMAIMNiG.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907827405319974914"
+          ],
+          "media_source_tweet_id": [
+            "1907827411275956428"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          }
+        ],
+        "conversation_id": "1908279345959100453",
+        "created_at": "2025-04-04T22:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T23:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908279345959100453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899652162000715776",
+              "start": 3,
+              "username": "on_nya_ki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dP7TH8ETob",
+              "end": 65,
+              "expanded_url": "https://x.com/on_nya_ki/status/1907827411275956428/photo/1",
+              "media_key": "3_1907827405319974914",
+              "start": 42,
+              "url": "https://t.co/dP7TH8ETob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908279345959100453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907827411275956428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @on_nya_ki: これ持ってゲーセンとか学校行ったら、友達出来るかな。 https://t.co/dP7TH8ETob"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907827405319974914"
+          ]
+        },
+        "author_id": "1899652162000715776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          }
+        ],
+        "conversation_id": "1907827411275956428",
+        "created_at": "2025-04-03T16:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T17:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907827411275956428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dP7TH8ETob",
+              "end": 50,
+              "expanded_url": "https://x.com/on_nya_ki/status/1907827411275956428/photo/1",
+              "media_key": "3_1907827405319974914",
+              "start": 27,
+              "url": "https://t.co/dP7TH8ETob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907827411275956428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 62509,
+          "like_count": 1361,
+          "quote_count": 29,
+          "reply_count": 21,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "これ持ってゲーセンとか学校行ったら、友達出来るかな。 https://t.co/dP7TH8ETob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/+5g版/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "fe_ions"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（清明节ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 2947,
+          "like_count": 82678,
+          "listed_count": 11,
+          "media_count": 1762,
+          "tweet_count": 13818
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T02:42:35.000Z",
+        "description": "☁️オンゲキ🕹☁️maimai🧤☁️start···▸2025.03☁️🚺☁️かわいい音がすき☁️ #めるゲキ日記📖 ́͏̖-☁️ #めるの絵見たま絵🎨 ́͏̖-",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 50,
+                "tag": "めるゲキ日記"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "tag": "めるの絵見たま絵"
+              }
+            ]
+          }
+        },
+        "id": "1899652162000715776",
+        "location": "大阪🐙  切実に友達がほしい",
+        "name": "ゲキ沼める/•᷅‎‎•᷄\\୭",
+        "pinned_tweet_id": "1907775772552819029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900999302891401218/vchVVgR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 145,
+          "like_count": 1540,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 266
+        },
+        "username": "on_nya_ki",
+        "verified": false
+      }
+    ]
+  }
+}

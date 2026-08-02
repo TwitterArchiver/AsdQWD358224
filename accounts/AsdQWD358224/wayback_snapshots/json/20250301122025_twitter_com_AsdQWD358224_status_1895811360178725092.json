@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1895640446119915520"
+      ],
+      "media_source_tweet_id": [
+        "1895642067382260059"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1895811360178725092",
+    "created_at": "2025-03-01T12:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T13:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895811360178725092"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 69,
+          "tag": "China"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1470889179987193859",
+          "start": 3,
+          "username": "zhangmanman555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CssgypQpkl",
+          "end": 99,
+          "expanded_url": "https://x.com/zhangmanman555/status/1895642067382260059/video/1",
+          "media_key": "7_1895640446119915520",
+          "start": 76,
+          "url": "https://t.co/CssgypQpkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895811360178725092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895642067382260059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhangmanman555: 2月24日，广东深圳，一名听障司机接到听障乘客，他们相视一笑的瞬间，充满了“他乡遇故知”的欣喜。 #China https://t.co/CssgypQpkl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27968,
+        "height": 1080,
+        "media_key": "7_1895640446119915520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895640446119915520/pu/img/uSH1frY7VRskZyva.jpg",
+        "public_metrics": {
+          "view_count": 161928
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895640446119915520/pu/vid/avc1/360x270/IYlMeUE1e5Avn05n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895640446119915520/pu/vid/avc1/480x360/OdB0n3Vmzbc2upUJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895640446119915520/pu/vid/avc1/960x720/-QvTQ_ce_04VsnAH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1895640446119915520/pu/pl/tOZSk0mUTnGPYXqi.m3u8?tag=12"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895640446119915520"
+          ],
+          "media_source_tweet_id": [
+            "1895642067382260059"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1895811360178725092",
+        "created_at": "2025-03-01T12:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895811360178725092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 69,
+              "tag": "China"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1470889179987193859",
+              "start": 3,
+              "username": "zhangmanman555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CssgypQpkl",
+              "end": 99,
+              "expanded_url": "https://x.com/zhangmanman555/status/1895642067382260059/video/1",
+              "media_key": "7_1895640446119915520",
+              "start": 76,
+              "url": "https://t.co/CssgypQpkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895811360178725092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895642067382260059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhangmanman555: 2月24日，广东深圳，一名听障司机接到听障乘客，他们相视一笑的瞬间，充满了“他乡遇故知”的欣喜。 #China https://t.co/CssgypQpkl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895640446119915520"
+          ]
+        },
+        "author_id": "1470889179987193859",
+        "conversation_id": "1895642067382260059",
+        "created_at": "2025-03-01T01:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T02:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895642067382260059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "China"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CssgypQpkl",
+              "end": 79,
+              "expanded_url": "https://x.com/zhangmanman555/status/1895642067382260059/video/1",
+              "media_key": "7_1895640446119915520",
+              "start": 56,
+              "url": "https://t.co/CssgypQpkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895642067382260059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 366020,
+          "like_count": 1630,
+          "quote_count": 11,
+          "reply_count": 25,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "2月24日，广东深圳，一名听障司机接到听障乘客，他们相视一笑的瞬间，充满了“他乡遇故知”的欣喜。 #China https://t.co/CssgypQpkl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（复学 ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 2703,
+          "like_count": 60517,
+          "listed_count": 7,
+          "media_count": 1475,
+          "tweet_count": 11183
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-14T22:52:00.000Z",
+        "description": "爱生活！分享美好！（欢迎互fo）\n中华古诗词，到底有多美！\n最美中国字！\n（图源自网络，侵删，谢谢！）",
+        "id": "1470889179987193859",
+        "name": "张蔓蔓",
+        "pinned_tweet_id": "1885131726323933330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1470890985437630464/L2bbxc_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106210,
+          "following_count": 60476,
+          "like_count": 597983,
+          "listed_count": 182,
+          "media_count": 10109,
+          "tweet_count": 32982
+        },
+        "username": "zhangmanman555",
+        "verified": true
+      }
+    ]
+  }
+}

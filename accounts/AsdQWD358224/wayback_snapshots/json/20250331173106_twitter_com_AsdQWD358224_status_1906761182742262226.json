@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906571010381627392"
+      ],
+      "media_source_tweet_id": [
+        "1906571018296250697"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1511323041464168451",
+          "name": "Graduation 2022"
+        }
+      }
+    ],
+    "conversation_id": "1906761182742262226",
+    "created_at": "2025-03-31T17:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T18:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906761182742262226"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ヤン",
+          "probability": 0.6225,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1214029238426206208",
+          "start": 3,
+          "username": "sawayanchannel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DGyGeQWnmZ",
+          "end": 54,
+          "expanded_url": "https://x.com/sawayanchannel/status/1906571018296250697/photo/1",
+          "media_key": "3_1906571010381627392",
+          "start": 31,
+          "url": "https://t.co/DGyGeQWnmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906761182742262226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1471
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906571018296250697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sawayanchannel: ヤン、大学卒業！㊗️ https://t.co/DGyGeQWnmZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_1906571010381627392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnWAO4TawAA7GXo.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906571010381627392"
+          ],
+          "media_source_tweet_id": [
+            "1906571018296250697"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "1906761182742262226",
+        "created_at": "2025-03-31T17:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906761182742262226"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ヤン",
+              "probability": 0.6225,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1214029238426206208",
+              "start": 3,
+              "username": "sawayanchannel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGyGeQWnmZ",
+              "end": 54,
+              "expanded_url": "https://x.com/sawayanchannel/status/1906571018296250697/photo/1",
+              "media_key": "3_1906571010381627392",
+              "start": 31,
+              "url": "https://t.co/DGyGeQWnmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906761182742262226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1471
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906571018296250697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sawayanchannel: ヤン、大学卒業！㊗️ https://t.co/DGyGeQWnmZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906571010381627392"
+          ]
+        },
+        "author_id": "1214029238426206208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "1906571018296250697",
+        "created_at": "2025-03-31T04:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T05:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906571018296250697"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "ヤン",
+              "probability": 0.5692,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGyGeQWnmZ",
+              "end": 34,
+              "expanded_url": "https://x.com/sawayanchannel/status/1906571018296250697/photo/1",
+              "media_key": "3_1906571010381627392",
+              "start": 11,
+              "url": "https://t.co/DGyGeQWnmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906571018296250697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 2242070,
+          "like_count": 62672,
+          "quote_count": 260,
+          "reply_count": 209,
+          "retweet_count": 1471
+        },
+        "reply_settings": "everyone",
+        "text": "ヤン、大学卒業！㊗️ https://t.co/DGyGeQWnmZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/含糖友跨顺男/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 2932,
+          "like_count": 80203,
+          "listed_count": 11,
+          "media_count": 1727,
+          "tweet_count": 13543
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-06T03:42:09.000Z",
+        "description": "Ukrainian 🇺🇦 YouTubers in Japan🇯🇵 . . サワヤンゲームズ【東欧のもこう】 . . 日本人がやることを 外国人が 日本語でやる . . もっと面白く ※丸々全転載を除き、面白いと思ったところを切り抜いて投稿することは自由にやってください👍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sawayanchannel",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sawayanchannel",
+                "start": 0,
+                "url": "https://t.co/0AyRkjnh2r"
+              }
+            ]
+          }
+        },
+        "id": "1214029238426206208",
+        "name": "サワヤン SAWAYAN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1309744816717090819/tygDBTV9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215447,
+          "following_count": 1,
+          "like_count": 3430,
+          "listed_count": 145,
+          "media_count": 535,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/0AyRkjnh2r",
+        "username": "sawayanchannel",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932534306292858880"
+      ],
+      "media_source_tweet_id": [
+        "1932534315302207682"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1933059154782076974",
+    "created_at": "2025-06-12T07:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T08:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933059154782076974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1538153792373334017",
+          "start": 3,
+          "username": "Buzziririgong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AG1g0EM6ku",
+          "end": 45,
+          "expanded_url": "https://x.com/Buzziririgong/status/1932534315302207682/photo/1",
+          "media_key": "3_1932534306292858880",
+          "start": 22,
+          "url": "https://t.co/AG1g0EM6ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933059154782076974",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5567
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932534315302207682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Buzziririgong: :p https://t.co/AG1g0EM6ku"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1932534306292858880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtG9tmrXgAAtq5a.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932534306292858880"
+          ],
+          "media_source_tweet_id": [
+            "1932534315302207682"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1933059154782076974",
+        "created_at": "2025-06-12T07:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T08:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933059154782076974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1538153792373334017",
+              "start": 3,
+              "username": "Buzziririgong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AG1g0EM6ku",
+              "end": 45,
+              "expanded_url": "https://x.com/Buzziririgong/status/1932534315302207682/photo/1",
+              "media_key": "3_1932534306292858880",
+              "start": 22,
+              "url": "https://t.co/AG1g0EM6ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933059154782076974",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5567
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932534315302207682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Buzziririgong: :p https://t.co/AG1g0EM6ku"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932534306292858880"
+          ]
+        },
+        "author_id": "1538153792373334017",
+        "conversation_id": "1932534315302207682",
+        "created_at": "2025-06-10T20:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T21:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932534315302207682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AG1g0EM6ku",
+              "end": 26,
+              "expanded_url": "https://x.com/Buzziririgong/status/1932534315302207682/photo/1",
+              "media_key": "3_1932534306292858880",
+              "start": 3,
+              "url": "https://t.co/AG1g0EM6ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932534315302207682",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1601,
+          "impression_count": 1280306,
+          "like_count": 51381,
+          "quote_count": 114,
+          "reply_count": 34,
+          "retweet_count": 5567
+        },
+        "reply_settings": "everyone",
+        "text": ":p https://t.co/AG1g0EM6ku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF🏳️‍⚧️/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 3123,
+          "like_count": 93247,
+          "listed_count": 12,
+          "media_count": 1937,
+          "tweet_count": 15296
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T13:37:22.000Z",
+        "description": "",
+        "id": "1538153792373334017",
+        "name": "butter cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929680368627494912/6e2S8lFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159588,
+          "following_count": 0,
+          "like_count": 1729,
+          "listed_count": 4266,
+          "media_count": 2994,
+          "tweet_count": 3465
+        },
+        "username": "Buzziririgong",
+        "verified": true
+      }
+    ]
+  }
+}

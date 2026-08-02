@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995802370765426688"
+      ],
+      "media_source_tweet_id": [
+        "1995802373931855950"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1995802922723196993",
+    "created_at": "2025-12-02T10:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T11:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995802922723196993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791687125533958144",
+          "start": 3,
+          "username": "rosmarinou"
+        },
+        {
+          "end": 33,
+          "id": "1680247071608303616",
+          "start": 20,
+          "username": "AsdQWD358224"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjrk5ppzja",
+          "end": 57,
+          "expanded_url": "https://x.com/rosmarinou/status/1995802373931855950/photo/1",
+          "media_key": "3_1995802370765426688",
+          "start": 34,
+          "url": "https://t.co/bjrk5ppzja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995802922723196993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995802373931855950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rosmarinou: 胡闹厨房@AsdQWD358224 https://t.co/bjrk5ppzja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1995802370765426688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KDrpdbEAAMM69.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995802370765426688"
+          ],
+          "media_source_tweet_id": [
+            "1995802373931855950"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1995802922723196993",
+        "created_at": "2025-12-02T10:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995802922723196993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791687125533958144",
+              "start": 3,
+              "username": "rosmarinou"
+            },
+            {
+              "end": 33,
+              "id": "1680247071608303616",
+              "start": 20,
+              "username": "AsdQWD358224"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjrk5ppzja",
+              "end": 57,
+              "expanded_url": "https://x.com/rosmarinou/status/1995802373931855950/photo/1",
+              "media_key": "3_1995802370765426688",
+              "start": 34,
+              "url": "https://t.co/bjrk5ppzja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995802922723196993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995802373931855950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rosmarinou: 胡闹厨房@AsdQWD358224 https://t.co/bjrk5ppzja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995802370765426688"
+          ]
+        },
+        "author_id": "1791687125533958144",
+        "conversation_id": "1995802373931855950",
+        "created_at": "2025-12-02T10:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995802373931855950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1680247071608303616",
+              "start": 4,
+              "username": "AsdQWD358224"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjrk5ppzja",
+              "end": 41,
+              "expanded_url": "https://x.com/rosmarinou/status/1995802373931855950/photo/1",
+              "media_key": "3_1995802370765426688",
+              "start": 18,
+              "url": "https://t.co/bjrk5ppzja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995802373931855950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "胡闹厨房@AsdQWD358224 https://t.co/bjrk5ppzja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/多边关系/蛋挞单推/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww  超级好的姐姐w\n/秋分在线中/我绝对是健全人/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "calsys456"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "franciswwwww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2643,
+          "following_count": 3122,
+          "like_count": 100623,
+          "listed_count": 12,
+          "media_count": 2185,
+          "tweet_count": 16723
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T04:28:16.000Z",
+        "description": "妈妈喵：@xianjing_youhu  姐姐：@yehai0032  猪：@zyh842159145 超级大笨猪：@MisakaMisakaxfu             晚安🕯️@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "xianjing_youhu"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "yehai0032"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "zyh842159145"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "MisakaMisakaxfu"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1791687125533958144",
+        "location": "河南新乡",
+        "name": "Rosmarinus🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895856134432452609/ys8gvkqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 71,
+          "like_count": 45148,
+          "listed_count": 1,
+          "media_count": 1593,
+          "tweet_count": 2405
+        },
+        "username": "rosmarinou",
+        "verified": false
+      }
+    ]
+  }
+}

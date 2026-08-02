@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945856523176906752"
+      ],
+      "media_source_tweet_id": [
+        "1945856530869309758"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1946109221587845515",
+    "created_at": "2025-07-18T07:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T08:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946109221587845515"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Grok",
+          "probability": 0.7153,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "Ani"
+        },
+        {
+          "end": 45,
+          "start": 36,
+          "tag": "チンギュラリティ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482152839497535489",
+          "start": 3,
+          "username": "astasiadream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eJ6vIQXlsw",
+          "end": 69,
+          "expanded_url": "https://x.com/astasiadream/status/1945856530869309758/photo/1",
+          "media_key": "3_1945856523176906752",
+          "start": 46,
+          "url": "https://t.co/eJ6vIQXlsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946109221587845515",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2642
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945856530869309758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @astasiadream: Grok cosplay\n#Ani #チンギュラリティ https://t.co/eJ6vIQXlsw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945856523176906752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwESMr_WEAAkQaf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945856523176906752"
+          ],
+          "media_source_tweet_id": [
+            "1945856530869309758"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1946109221587845515",
+        "created_at": "2025-07-18T07:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T08:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946109221587845515"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Grok",
+              "probability": 0.7153,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "Ani"
+            },
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "チンギュラリティ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1482152839497535489",
+              "start": 3,
+              "username": "astasiadream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJ6vIQXlsw",
+              "end": 69,
+              "expanded_url": "https://x.com/astasiadream/status/1945856530869309758/photo/1",
+              "media_key": "3_1945856523176906752",
+              "start": 46,
+              "url": "https://t.co/eJ6vIQXlsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946109221587845515",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2642
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945856530869309758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @astasiadream: Grok cosplay\n#Ani #チンギュラリティ https://t.co/eJ6vIQXlsw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945856523176906752"
+          ]
+        },
+        "author_id": "1482152839497535489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1945856530869309758",
+        "created_at": "2025-07-17T14:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945856530869309758"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Grok",
+              "probability": 0.8067,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 16,
+              "normalized_text": "Ani",
+              "probability": 0.5234,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "Ani"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "チンギュラリティ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJ6vIQXlsw",
+              "end": 51,
+              "expanded_url": "https://x.com/astasiadream/status/1945856530869309758/photo/1",
+              "media_key": "3_1945856523176906752",
+              "start": 28,
+              "url": "https://t.co/eJ6vIQXlsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945856530869309758",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19010,
+          "impression_count": 1370793,
+          "like_count": 75964,
+          "quote_count": 166,
+          "reply_count": 361,
+          "retweet_count": 2642
+        },
+        "reply_settings": "everyone",
+        "text": "Grok cosplay\n#Ani #チンギュラリティ https://t.co/eJ6vIQXlsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fe_ions"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气system.（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 3121,
+          "like_count": 96103,
+          "listed_count": 12,
+          "media_count": 1986,
+          "tweet_count": 15684
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T00:49:26.000Z",
+        "description": "‍my cosplay gallery | 私のコスプレギャラリー ‍ ‍ ‍ ‍ ‍ ‍ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "allmylinks.com/astasiabio",
+                "end": 23,
+                "expanded_url": "https://allmylinks.com/astasiabio",
+                "start": 0,
+                "url": "https://t.co/9UBAms279W"
+              }
+            ]
+          }
+        },
+        "id": "1482152839497535489",
+        "location": "Tokyo, Japan",
+        "name": "‍ ‍ ‍ ‍𝔞𝔰𝔱𝔞 𓆩𓆩︎༒𓆪𓆪",
+        "pinned_tweet_id": "1919360150898397500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818361643707121670/ntHyQxBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116428,
+          "following_count": 51,
+          "like_count": 2109,
+          "listed_count": 1998,
+          "media_count": 334,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/9UBAms279W",
+        "username": "astasiadream",
+        "verified": false
+      }
+    ]
+  }
+}

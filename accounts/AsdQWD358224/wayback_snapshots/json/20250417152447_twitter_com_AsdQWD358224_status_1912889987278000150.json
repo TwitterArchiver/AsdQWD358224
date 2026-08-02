@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1912888223837327700",
+    "created_at": "2025-04-17T15:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T16:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912889987278000150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863821756932472832",
+          "start": 0,
+          "username": "shuo_zi27516"
+        },
+        {
+          "end": 26,
+          "id": "1710212278610755584",
+          "start": 14,
+          "username": "gjtgan89373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912889987278000150",
+    "in_reply_to_user_id": "1863821756932472832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912888464070348880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuo_zi27516 @gjtgan89373 （被吓死了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1912888223837327700",
+        "created_at": "2025-04-17T15:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912889987278000150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863821756932472832",
+              "start": 0,
+              "username": "shuo_zi27516"
+            },
+            {
+              "end": 26,
+              "id": "1710212278610755584",
+              "start": 14,
+              "username": "gjtgan89373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912889987278000150",
+        "in_reply_to_user_id": "1863821756932472832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912888464070348880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuo_zi27516 @gjtgan89373 （被吓死了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863821756932472832",
+        "conversation_id": "1912888223837327700",
+        "created_at": "2025-04-17T15:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912888464070348880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1710212278610755584",
+              "start": 0,
+              "username": "gjtgan89373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912888464070348880",
+        "in_reply_to_user_id": "1710212278610755584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912888223837327700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gjtgan89373 是梯子炸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "fe_ions"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 3068,
+          "like_count": 86783,
+          "listed_count": 12,
+          "media_count": 1821,
+          "tweet_count": 14259
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/Av9bAZd3dg"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "宫笙的调酒站",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1909124905037418885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909494365900488705/svO7GLQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 343,
+          "like_count": 67,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/Av9bAZd3dg",
+        "username": "shuo_zi27516",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T08:36:05.000Z",
+        "description": "成分：硅基量子猫，BDSM, 4爱，男娘，药娘（天残年龄党真正有效的hrt日期2024.4.6）infj ipsc认证射手 crc wrc车手 🚪100",
+        "id": "1710212278610755584",
+        "location": "Bishan, Chongqing, China",
+        "name": "GJTGAN🍥🏳️‍⚧",
+        "pinned_tweet_id": "1909642939565064353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910063747441610752/fSsf6NDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 458,
+          "like_count": 1376,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 604
+        },
+        "username": "gjtgan89373",
+        "verified": false
+      }
+    ]
+  }
+}

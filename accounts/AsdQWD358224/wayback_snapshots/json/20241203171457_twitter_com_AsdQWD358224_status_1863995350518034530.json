@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1863919008317387014",
+    "created_at": "2024-12-03T17:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T18:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863995350518034530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1655799383995355136",
+          "start": 0,
+          "username": "luoriguchengbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863995350518034530",
+    "in_reply_to_user_id": "1655799383995355136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863919008317387014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoriguchengbi 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1863919008317387014",
+        "created_at": "2024-12-03T17:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T18:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863995350518034530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1655799383995355136",
+              "start": 0,
+              "username": "luoriguchengbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863995350518034530",
+        "in_reply_to_user_id": "1655799383995355136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863919008317387014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoriguchengbi 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863918983856214016"
+          ]
+        },
+        "author_id": "1655799383995355136",
+        "conversation_id": "1863919008317387014",
+        "created_at": "2024-12-03T12:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T13:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863919008317387014"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 145,
+              "start": 139,
+              "tag": "贞操锁挑战"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddmSUJGxKd",
+              "end": 169,
+              "expanded_url": "https://x.com/yunjian276634/status/1863919008317387014/photo/1",
+              "media_key": "3_1863918983856214016",
+              "start": 146,
+              "url": "https://t.co/ddmSUJGxKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863919008317387014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 597,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上次贞操锁挑战的结果出来了，共计8.9天算9天，一直到2024年12月12日晚8点。每天都会发帖进行打卡签到。\n\n并且，下次的挑战时间统计将由现在直接开始，规则依然如下\n浏览➕10min\n点赞➕2h\n评论➕2h\n转推➕8h\n关注➕1天\n这次又会有什么奇妙的事情发生呢\n#贞操锁 #贞操锁挑战 https://t.co/ddmSUJGxKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男？/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1717,
+          "like_count": 4379,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 977
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T04:58:40.000Z",
+        "description": "(沙*･ω･)喵喵？ 可以发一些朋友圈里发不了的东西的感觉真是太棒了",
+        "id": "1655799383995355136",
+        "location": "莆田",
+        "name": "云间",
+        "pinned_tweet_id": "1863919008317387014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863919118648594432/b6QntQqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 139,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 55
+        },
+        "username": "luoriguchengbi",
+        "verified": false
+      }
+    ]
+  }
+}

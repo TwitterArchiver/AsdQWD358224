@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1899796126540382349",
+    "created_at": "2025-03-12T15:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T16:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899852503224827924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1876832792744792064",
+          "start": 0,
+          "username": "menntikorosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899852503224827924",
+    "in_reply_to_user_id": "1876832792744792064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899796126540382349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@menntikorosei 长的不好看\n会玩舞萌\n会玩维多利亚三"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1899796126540382349",
+        "created_at": "2025-03-12T15:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T16:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899852503224827924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1876832792744792064",
+              "start": 0,
+              "username": "menntikorosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899852503224827924",
+        "in_reply_to_user_id": "1876832792744792064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899796126540382349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@menntikorosei 长的不好看\n会玩舞萌\n会玩维多利亚三"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876832792744792064",
+        "conversation_id": "1899796126540382349",
+        "created_at": "2025-03-12T12:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T13:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899796126540382349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hdn28741127348…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hdn287411273489/status/1899537353317961813",
+              "start": 28,
+              "url": "https://t.co/MWH2r9Sl4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899796126540382349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 591,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899537353317961813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找炮友\n要求：\n1长得好看\n2会打舞萌\n3玩维多利亚3 https://t.co/MWH2r9Sl4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "fe_ions"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 2791,
+          "like_count": 68704,
+          "listed_count": 7,
+          "media_count": 1608,
+          "tweet_count": 12317
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T03:26:32.000Z",
+        "description": "如闪电般归来，双相精神病一个，女装爱好者，不键政，🉑互fo，双性恋 向我匿名问答：https://t.co/VFlYPDdDYv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/menntikorosei",
+                "end": 64,
+                "expanded_url": "https://ngl.link/menntikorosei",
+                "start": 41,
+                "url": "https://t.co/VFlYPDdDYv"
+              }
+            ]
+          }
+        },
+        "id": "1876832792744792064",
+        "location": "大贝塔里",
+        "name": "檬七（俊达萌二代目）",
+        "pinned_tweet_id": "1882465626012409968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876834159290966016/tLvBUcco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 361,
+          "like_count": 2228,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 1454
+        },
+        "username": "menntikorosei",
+        "verified": false
+      }
+    ]
+  }
+}

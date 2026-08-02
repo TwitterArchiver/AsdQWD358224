@@ -1,0 +1,339 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1798080935742845025",
+    "created_at": "2024-06-06T18:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T19:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798779258904695027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "898922311553822720",
+          "start": 0,
+          "username": "archi_tradition"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798779258904695027",
+    "in_reply_to_user_id": "898922311553822720",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798080935742845025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@archi_tradition 好漂亮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1798080935742845025",
+        "created_at": "2024-06-06T18:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T19:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798779258904695027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "898922311553822720",
+              "start": 0,
+              "username": "archi_tradition"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798779258904695027",
+        "in_reply_to_user_id": "898922311553822720",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798080935742845025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@archi_tradition 好漂亮"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798080929967255552"
+          ]
+        },
+        "author_id": "898922311553822720",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1781480297973837824",
+              "name": "Portugal vs Finland"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226245392801792",
+              "name": "FC Porto"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226237394243584",
+              "name": "International - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756519901077504",
+              "name": "Int. Friendly Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1781480297973837824",
+              "name": "Portugal vs Finland"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1781480297973837824",
+              "name": "Portugal vs Finland"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226245392801792",
+              "name": "FC Porto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1798080935742845025",
+        "created_at": "2024-06-04T19:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T20:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798080935742845025"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Porto",
+              "probability": 0.5303,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 14,
+              "normalized_text": "Portugal",
+              "probability": 0.7136,
+              "start": 7,
+              "type": "Place"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Ruben Oliveira",
+              "probability": 0.8449,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/30RDB2Csh5",
+              "end": 60,
+              "expanded_url": "https://twitter.com/archi_tradition/status/1798080935742845025/photo/1",
+              "media_key": "3_1798080929967255552",
+              "start": 37,
+              "url": "https://t.co/30RDB2Csh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798080935742845025",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 382,
+          "impression_count": 257357,
+          "like_count": 9099,
+          "quote_count": 31,
+          "reply_count": 58,
+          "retweet_count": 1252
+        },
+        "reply_settings": "everyone",
+        "text": "Porto, Portugal 🇵🇹\n📸: Ruben Oliveira https://t.co/30RDB2Csh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 331,
+          "like_count": 455,
+          "listed_count": 0,
+          "tweet_count": 29
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-19T14:59:15.000Z",
+        "description": "Exploring the world of traditional architecture and cultural marvels.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "architectureandtradition.com",
+                "end": 23,
+                "expanded_url": "https://www.architectureandtradition.com",
+                "start": 0,
+                "url": "https://t.co/K4h1ui2SXe"
+              }
+            ]
+          }
+        },
+        "id": "898922311553822720",
+        "location": "United States",
+        "name": "Architecture & Tradition",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678486804746436609/n6Nx78Ra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649607,
+          "following_count": 1081,
+          "like_count": 77890,
+          "listed_count": 2967,
+          "tweet_count": 4332
+        },
+        "url": "https://t.co/K4h1ui2SXe",
+        "username": "archi_tradition",
+        "verified": true
+      }
+    ]
+  }
+}

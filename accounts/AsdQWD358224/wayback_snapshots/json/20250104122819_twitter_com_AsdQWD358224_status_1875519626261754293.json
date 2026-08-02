@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1875355804746051715",
+    "created_at": "2025-01-04T12:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T13:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875519626261754293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "55995659",
+          "start": 0,
+          "username": "biantaishaLee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875519626261754293",
+    "in_reply_to_user_id": "55995659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875355804746051715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biantaishaLee 你不要跟我哇哇叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1875355804746051715",
+        "created_at": "2025-01-04T12:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T13:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875519626261754293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "55995659",
+              "start": 0,
+              "username": "biantaishaLee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875519626261754293",
+        "in_reply_to_user_id": "55995659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875355804746051715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biantaishaLee 你不要跟我哇哇叫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875355794394537985"
+          ]
+        },
+        "author_id": "55995659",
+        "conversation_id": "1875355804746051715",
+        "created_at": "2025-01-04T01:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T02:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875355804746051715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OC7A2gYFZz",
+              "end": 52,
+              "expanded_url": "https://x.com/biantaishaLee/status/1875355804746051715/photo/1",
+              "media_key": "3_1875355794394537985",
+              "start": 29,
+              "url": "https://t.co/OC7A2gYFZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875355804746051715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13711,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你能否信雅达的翻译这句话？\n\n反正我读出来的时候笑了半天 https://t.co/OC7A2gYFZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1872682595814928454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 2008,
+          "like_count": 16319,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 3248
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-12T02:33:05.000Z",
+        "description": "三时热带植物商店，时不时会小红书直播卖货    。做过营销策划，新媒体代运营。",
+        "id": "55995659",
+        "name": "变态小李哩哩哩",
+        "pinned_tweet_id": "1791036934791549256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634201245736140801/jxOMhNQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3478,
+          "following_count": 3270,
+          "like_count": 40451,
+          "listed_count": 14,
+          "media_count": 2181,
+          "tweet_count": 17276
+        },
+        "username": "biantaishaLee",
+        "verified": false
+      }
+    ]
+  }
+}

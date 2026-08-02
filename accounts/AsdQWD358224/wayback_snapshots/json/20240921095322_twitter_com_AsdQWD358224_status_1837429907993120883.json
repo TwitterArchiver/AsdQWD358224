@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1837386910119178699",
+    "created_at": "2024-09-21T09:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T10:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837429907993120883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1412787007940481030",
+          "start": 0,
+          "username": "CutieRivers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837429907993120883",
+    "in_reply_to_user_id": "1412787007940481030",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837386910119178699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CutieRivers ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1837386910119178699].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837386910119178699",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1837386910119178699"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1837386910119178699",
+        "created_at": "2024-09-21T09:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T10:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837429907993120883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1412787007940481030",
+              "start": 0,
+              "username": "CutieRivers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837429907993120883",
+        "in_reply_to_user_id": "1412787007940481030",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837386910119178699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CutieRivers ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 996,
+          "like_count": 1899,
+          "listed_count": 0,
+          "tweet_count": 177
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T14:54:12.000Z",
+        "description": "百川！一般路过可爱小女孩（猫咪进化来的）！私信一直开着欢迎聊天～\n门槛是什么我不知道！\n某wiki 笨蛋编辑，请多多指教！BPD打击警告⚠️⚠️⚠️  亲爱的@theboxofgirl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "theboxofgirl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "『數據刪除』.wiki",
+                "end": 23,
+                "expanded_url": "http://xn--36jc603xzvptwab16s.wiki",
+                "start": 0,
+                "url": "https://t.co/3p9FOeYSEs"
+              }
+            ]
+          }
+        },
+        "id": "1412787007940481030",
+        "location": "距离您0.23km",
+        "name": "♡百川花花子♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829916267698065408/D35Omeop_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 92,
+          "like_count": 9442,
+          "listed_count": 2,
+          "tweet_count": 6327
+        },
+        "url": "https://t.co/3p9FOeYSEs",
+        "username": "CutieRivers",
+        "verified": false
+      }
+    ]
+  }
+}

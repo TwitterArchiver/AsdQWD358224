@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1904951082549235712"
+      ],
+      "media_source_tweet_id": [
+        "1904951175528526074"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "854952148374663168",
+          "name": "Super Mario"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "854952148374663168",
+          "name": "Super Mario"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1905423242292330547",
+    "created_at": "2025-03-28T00:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T01:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905423242292330547"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "Hightail Falls",
+          "probability": 0.6449,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 55,
+          "normalized_text": "Super Mario Galaxy 2",
+          "probability": 0.9597,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1876540688109555713",
+          "start": 3,
+          "username": "MediaSMGMusic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sABgzDvibC",
+          "end": 80,
+          "expanded_url": "https://x.com/MediaSMGMusic/status/1904951175528526074/video/1",
+          "media_key": "13_1904951082549235712",
+          "start": 57,
+          "url": "https://t.co/sABgzDvibC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905423242292330547",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1355
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904951175528526074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MediaSMGMusic: Hightail Falls - Super Mario Galaxy 2 https://t.co/sABgzDvibC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30966,
+        "height": 720,
+        "media_key": "13_1904951082549235712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1904951082549235712/img/YH-Np6vf4RQRX5Z0.jpg",
+        "public_metrics": {
+          "view_count": 81745
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904951082549235712/vid/avc1/272x270/MBlWXmlZLmLo7Omm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904951082549235712/vid/avc1/362x360/rux4AmIJeyTGrAhO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904951082549235712/vid/avc1/726x720/NMgnKxbUWTl2sAqT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1904951082549235712/pl/8EYlY7x6Ujea1g1v.m3u8?tag=14"
+          }
+        ],
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1904951082549235712"
+          ],
+          "media_source_tweet_id": [
+            "1904951175528526074"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854952148374663168",
+              "name": "Super Mario"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854952148374663168",
+              "name": "Super Mario"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1905423242292330547",
+        "created_at": "2025-03-28T00:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T01:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905423242292330547"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Hightail Falls",
+              "probability": 0.6449,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Super Mario Galaxy 2",
+              "probability": 0.9597,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1876540688109555713",
+              "start": 3,
+              "username": "MediaSMGMusic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sABgzDvibC",
+              "end": 80,
+              "expanded_url": "https://x.com/MediaSMGMusic/status/1904951175528526074/video/1",
+              "media_key": "13_1904951082549235712",
+              "start": 57,
+              "url": "https://t.co/sABgzDvibC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905423242292330547",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1355
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904951175528526074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MediaSMGMusic: Hightail Falls - Super Mario Galaxy 2 https://t.co/sABgzDvibC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1904951082549235712"
+          ]
+        },
+        "author_id": "1876540688109555713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854952148374663168",
+              "name": "Super Mario"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854952148374663168",
+              "name": "Super Mario"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1904951175528526074",
+        "created_at": "2025-03-26T17:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T18:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904951175528526074"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Hightail Falls",
+              "probability": 0.4488,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 36,
+              "normalized_text": "Super Mario Galaxy 2",
+              "probability": 0.9528,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sABgzDvibC",
+              "end": 61,
+              "expanded_url": "https://x.com/MediaSMGMusic/status/1904951175528526074/video/1",
+              "media_key": "13_1904951082549235712",
+              "start": 38,
+              "url": "https://t.co/sABgzDvibC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904951175528526074",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2217,
+          "impression_count": 53366,
+          "like_count": 11120,
+          "quote_count": 30,
+          "reply_count": 21,
+          "retweet_count": 1355
+        },
+        "reply_settings": "everyone",
+        "text": "Hightail Falls - Super Mario Galaxy 2 https://t.co/sABgzDvibC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧/成都刷新/可以喊我“面面”/泛性恋\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "fe_ions"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 2915,
+          "like_count": 77598,
+          "listed_count": 11,
+          "media_count": 1695,
+          "tweet_count": 13280
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T08:05:51.000Z",
+        "description": "Media with music from Super Mario Galaxy/2 DMs open for submissions, inspiration from @SmashBrawlMemes, not part of Nintendo, requests one at a time",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "SmashBrawlMemes"
+              }
+            ]
+          }
+        },
+        "id": "1876540688109555713",
+        "location": "Comet Observatory",
+        "name": "Media with SMG/SMG2 Music (SUBMISSIONS OPEN)",
+        "pinned_tweet_id": "1904951175528526074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876542523981582336/IjsZelRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 155,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 102
+        },
+        "username": "MediaSMGMusic",
+        "verified": false
+      }
+    ]
+  }
+}

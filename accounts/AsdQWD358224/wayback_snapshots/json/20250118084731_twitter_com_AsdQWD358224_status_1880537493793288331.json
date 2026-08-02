@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1880527452008771602",
+    "created_at": "2025-01-18T08:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T09:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880537493793288331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810940865952763906",
+          "start": 0,
+          "username": "Tw2027Liberate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880537493793288331",
+    "in_reply_to_user_id": "1810940865952763906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880527452008771602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tw2027Liberate *^◎^*（冒头"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1880527452008771602].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880527452008771602",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1880527452008771602"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1880527452008771602",
+        "created_at": "2025-01-18T08:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T09:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880537493793288331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810940865952763906",
+              "start": 0,
+              "username": "Tw2027Liberate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880537493793288331",
+        "in_reply_to_user_id": "1810940865952763906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880527452008771602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tw2027Liberate *^◎^*（冒头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 2182,
+          "like_count": 27466,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 5037
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T07:35:38.000Z",
+        "description": "有大事忙，半退推两个月以上。🇨🇳薄粉，ENTP，会日语，人生愿望是能再次在星海广场上看到那根华表。让我们一起大喊一声：豪迈 纯礼貌互挂@Alankiller8964 加入橙子教请在你的名称后面打上一个🍊 #冰魔法 专栏 你骂我背后阴阳我我也懒得搭理你，因为你就一水蒸汽，纯纯的沸雾 逐渐脱离键政和X中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "冰魔法"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Alankiller8964"
+              }
+            ]
+          }
+        },
+        "id": "1810940865952763906",
+        "location": "泰拉大陆 星穹列车上 吃着方块蛋糕",
+        "name": "0o橙子教教主阿橙o0🍊（锁淡推淡政版）",
+        "pinned_tweet_id": "1876221591698424270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876639727467782144/PedEwaK3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 682,
+          "like_count": 19251,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 4409
+        },
+        "username": "Tw2027Liberate",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1822281025331818947",
+    "created_at": "2024-08-14T07:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T08:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823624519875224006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2276826697",
+          "start": 0,
+          "username": "Sky0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823624519875224006",
+    "in_reply_to_user_id": "2276826697",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822281025331818947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sky0v 东罗马（确信）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1822281025331818947",
+        "created_at": "2024-08-14T07:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T08:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823624519875224006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2276826697",
+              "start": 0,
+              "username": "Sky0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823624519875224006",
+        "in_reply_to_user_id": "2276826697",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822281025331818947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sky0v 东罗马（确信）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822281020474802177",
+            "3_1822281020562915328"
+          ]
+        },
+        "author_id": "2276826697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1822281025331818947",
+        "created_at": "2024-08-10T14:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T15:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822281025331818947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ヨーロッパ",
+              "probability": 0.8629,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "Victoria3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bx3inkzjqh",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Sky0v/status/1822281025331818947/photo/1",
+              "media_key": "3_1822281020474802177",
+              "start": 59,
+              "url": "https://t.co/Bx3INKZJQh"
+            },
+            {
+              "display_url": "pic.x.com/bx3inkzjqh",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Sky0v/status/1822281025331818947/photo/1",
+              "media_key": "3_1822281020562915328",
+              "start": 59,
+              "url": "https://t.co/Bx3INKZJQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822281025331818947",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ヨーロッパの病人を蘇生されてました…後もう少し時間あれば健康どころか健康すぎる人に出来たのに…\n#Victoria3 https://t.co/Bx3INKZJQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 455,
+          "like_count": 816,
+          "listed_count": 0,
+          "tweet_count": 70
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-05T00:13:03.000Z",
+        "description": "精神的に参って、数々の不祥事を起こしましたが少しはマシになってきました。フォローブロックはご自由に。【駄菓子屋あんらく堂 タジムニウス・レオンクール】",
+        "id": "2276826697",
+        "location": "NEOクガネ　公鉄(クガネ)丸",
+        "name": "タジ…何だったけ？",
+        "pinned_tweet_id": "1813873467663831186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810132272907186176/QrvyAt5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 1450,
+          "like_count": 18404,
+          "listed_count": 5,
+          "tweet_count": 41017
+        },
+        "username": "Sky0v",
+        "verified": false
+      }
+    ]
+  }
+}

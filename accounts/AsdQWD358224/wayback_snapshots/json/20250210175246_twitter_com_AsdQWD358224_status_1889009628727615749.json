@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1888925553853620232",
+    "created_at": "2025-02-10T17:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T18:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889009628727615749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1355034977570701316",
+          "start": 0,
+          "username": "JCMarkEvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889009628727615749",
+    "in_reply_to_user_id": "1355034977570701316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888925553853620232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JCMarkEvo 早上洗偏商务，晚上洗偏运动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1888925553853620232",
+        "created_at": "2025-02-10T17:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T18:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889009628727615749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1355034977570701316",
+              "start": 0,
+              "username": "JCMarkEvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889009628727615749",
+        "in_reply_to_user_id": "1355034977570701316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888925553853620232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JCMarkEvo 早上洗偏商务，晚上洗偏运动"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1888925552859648000"
+          ]
+        },
+        "author_id": "1355034977570701316",
+        "conversation_id": "1888925553853620232",
+        "created_at": "2025-02-10T12:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T13:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888925553853620232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888925553853620232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1059,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上洗澡和晚上洗澡哪个更权威？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢猫猫/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_7650  宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "fe_ions"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "Caroline_7650"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学淡推版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 2533,
+          "like_count": 47281,
+          "listed_count": 8,
+          "media_count": 1042,
+          "tweet_count": 8769
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T06:08:18.000Z",
+        "description": "Hello mate , glad to see you here👋 ｜🇨🇳Senior student of International Economics ｜🇬🇧Adam Smith Business School-UofG (2025 Fall)",
+        "id": "1355034977570701316",
+        "location": "Port 10809",
+        "name": "J.C.Mark🍀",
+        "pinned_tweet_id": "1731142168080003138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883054211379990528/IEoMqdFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 898,
+          "like_count": 30824,
+          "listed_count": 10,
+          "media_count": 2121,
+          "tweet_count": 7971
+        },
+        "username": "JCMarkEvo",
+        "verified": false
+      }
+    ]
+  }
+}

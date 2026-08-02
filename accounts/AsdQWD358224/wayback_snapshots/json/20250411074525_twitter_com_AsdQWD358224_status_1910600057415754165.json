@@ -1,0 +1,601 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1656294065489707008"
+      ],
+      "media_source_tweet_id": [
+        "1656294069797281793"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "1910600057415754165",
+    "created_at": "2025-04-11T07:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T08:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910600057415754165"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "台湾",
+          "probability": 0.9611,
+          "start": 13,
+          "type": "Place"
+        },
+        {
+          "end": 20,
+          "normalized_text": "名古屋拉麵",
+          "probability": 0.4412,
+          "start": 16,
+          "type": "Place"
+        },
+        {
+          "end": 33,
+          "normalized_text": "名古屋",
+          "probability": 0.9825,
+          "start": 31,
+          "type": "Place"
+        },
+        {
+          "end": 36,
+          "normalized_text": "台湾",
+          "probability": 0.5695,
+          "start": 35,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "107442462",
+          "start": 3,
+          "username": "vha30"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yrarCXKp9a",
+          "end": 92,
+          "expanded_url": "https://x.com/vha30/status/1656294069797281793/photo/1",
+          "media_key": "3_1656294065489707008",
+          "start": 69,
+          "url": "https://t.co/yrarCXKp9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910600057415754165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1656294069797281793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vha30: 先週台湾で名古屋拉麵を食べたので、今週は名古屋で台湾ラーメンを食べてみた。\nそれほどむせずに食べることができたよw https://t.co/yrarCXKp9a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1656294065489707008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FvxWrVkaAAA-rzf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1656294065489707008"
+          ],
+          "media_source_tweet_id": [
+            "1656294069797281793"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1910600057415754165",
+        "created_at": "2025-04-11T07:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T08:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910600057415754165"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "台湾",
+              "probability": 0.9611,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 20,
+              "normalized_text": "名古屋拉麵",
+              "probability": 0.4412,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 33,
+              "normalized_text": "名古屋",
+              "probability": 0.9825,
+              "start": 31,
+              "type": "Place"
+            },
+            {
+              "end": 36,
+              "normalized_text": "台湾",
+              "probability": 0.5695,
+              "start": 35,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "107442462",
+              "start": 3,
+              "username": "vha30"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrarCXKp9a",
+              "end": 92,
+              "expanded_url": "https://x.com/vha30/status/1656294069797281793/photo/1",
+              "media_key": "3_1656294065489707008",
+              "start": 69,
+              "url": "https://t.co/yrarCXKp9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910600057415754165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656294069797281793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vha30: 先週台湾で名古屋拉麵を食べたので、今週は名古屋で台湾ラーメンを食べてみた。\nそれほどむせずに食べることができたよw https://t.co/yrarCXKp9a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1656294065489707008"
+          ]
+        },
+        "author_id": "107442462",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1656294069797281793",
+        "created_at": "2023-05-10T13:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-10T14:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1656294069797281793"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "台湾",
+              "probability": 0.9664,
+              "start": 2,
+              "type": "Place"
+            },
+            {
+              "end": 9,
+              "normalized_text": "名古屋拉麵",
+              "probability": 0.435,
+              "start": 5,
+              "type": "Place"
+            },
+            {
+              "end": 22,
+              "normalized_text": "名古屋",
+              "probability": 0.9818,
+              "start": 20,
+              "type": "Place"
+            },
+            {
+              "end": 25,
+              "normalized_text": "台湾",
+              "probability": 0.5618,
+              "start": 24,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrarCXKp9a",
+              "end": 81,
+              "expanded_url": "https://x.com/vha30/status/1656294069797281793/photo/1",
+              "media_key": "3_1656294065489707008",
+              "start": 58,
+              "url": "https://t.co/yrarCXKp9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1656294069797281793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "先週台湾で名古屋拉麵を食べたので、今週は名古屋で台湾ラーメンを食べてみた。\nそれほどむせずに食べることができたよw https://t.co/yrarCXKp9a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "fe_ions"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（2025.4.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 2993,
+          "like_count": 85522,
+          "listed_count": 12,
+          "media_count": 1790,
+          "tweet_count": 14042
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-22T15:36:52.000Z",
+        "description": "姿を見ただけでは本質は理解できない。모습만 봐서는 본질을 이해할 수 없다. 行く言葉が美しければこそ、来る言葉が美しい。가는 말이 고와야 오는 말이 곱다. 저는 일본에 살고 있는 일본사람입니다. 잘 부탁드립니다. RT多めです。またRTや「いいね」は必ずしも賛意を示すものではありません。",
+        "id": "107442462",
+        "location": "Japan",
+        "name": "T.M.@ちぇるり隊",
+        "pinned_tweet_id": "1327448840882982913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/547134126629736448/KaXlurqC_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 5189,
+          "like_count": 908775,
+          "listed_count": 54,
+          "media_count": 4403,
+          "tweet_count": 493295
+        },
+        "username": "vha30",
+        "verified": false
+      }
+    ]
+  }
+}

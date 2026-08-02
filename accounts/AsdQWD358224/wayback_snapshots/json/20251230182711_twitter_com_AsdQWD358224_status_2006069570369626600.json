@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005854046159286272",
+        "3_2005854046171848704",
+        "3_2005854046159335424",
+        "3_2005854046138294272"
+      ],
+      "media_source_tweet_id": [
+        "2005854051196346629",
+        "2005854051196346629",
+        "2005854051196346629",
+        "2005854051196346629"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2006069570369626600",
+    "created_at": "2025-12-30T18:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T19:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006069570369626600"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 49,
+          "tag": "2025年自分が選ぶ今年の4枚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "204935045",
+          "start": 3,
+          "username": "itadaki_yasu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aUSg9eDM0k",
+          "end": 89,
+          "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+          "media_key": "3_2005854046159286272",
+          "start": 66,
+          "url": "https://t.co/aUSg9eDM0k"
+        },
+        {
+          "display_url": "pic.x.com/aUSg9eDM0k",
+          "end": 89,
+          "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+          "media_key": "3_2005854046171848704",
+          "start": 66,
+          "url": "https://t.co/aUSg9eDM0k"
+        },
+        {
+          "display_url": "pic.x.com/aUSg9eDM0k",
+          "end": 89,
+          "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+          "media_key": "3_2005854046159335424",
+          "start": 66,
+          "url": "https://t.co/aUSg9eDM0k"
+        },
+        {
+          "display_url": "pic.x.com/aUSg9eDM0k",
+          "end": 89,
+          "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+          "media_key": "3_2005854046138294272",
+          "start": 66,
+          "url": "https://t.co/aUSg9eDM0k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006069570369626600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1005
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005854051196346629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itadaki_yasu: 今年はあまり絵が思ったほど描けなかったな。来年がんばります。 #2025年自分が選ぶ今年の4枚 https://t.co/aUSg9eDM0k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2005854046159286272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Y5oKSasAAD3tf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2005854046171848704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Y5oKVaYAAu7e0.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2005854046159335424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Y5oKSbcAAWcAj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2005854046138294272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Y5oKNaYAAZtoO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005854046159286272",
+            "3_2005854046171848704",
+            "3_2005854046159335424",
+            "3_2005854046138294272"
+          ],
+          "media_source_tweet_id": [
+            "2005854051196346629",
+            "2005854051196346629",
+            "2005854051196346629",
+            "2005854051196346629"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006069570369626600",
+        "created_at": "2025-12-30T18:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T19:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006069570369626600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 49,
+              "tag": "2025年自分が選ぶ今年の4枚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "204935045",
+              "start": 3,
+              "username": "itadaki_yasu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUSg9eDM0k",
+              "end": 89,
+              "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+              "media_key": "3_2005854046159286272",
+              "start": 66,
+              "url": "https://t.co/aUSg9eDM0k"
+            },
+            {
+              "display_url": "pic.x.com/aUSg9eDM0k",
+              "end": 89,
+              "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+              "media_key": "3_2005854046171848704",
+              "start": 66,
+              "url": "https://t.co/aUSg9eDM0k"
+            },
+            {
+              "display_url": "pic.x.com/aUSg9eDM0k",
+              "end": 89,
+              "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+              "media_key": "3_2005854046159335424",
+              "start": 66,
+              "url": "https://t.co/aUSg9eDM0k"
+            },
+            {
+              "display_url": "pic.x.com/aUSg9eDM0k",
+              "end": 89,
+              "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+              "media_key": "3_2005854046138294272",
+              "start": 66,
+              "url": "https://t.co/aUSg9eDM0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006069570369626600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1005
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005854051196346629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itadaki_yasu: 今年はあまり絵が思ったほど描けなかったな。来年がんばります。 #2025年自分が選ぶ今年の4枚 https://t.co/aUSg9eDM0k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005854046159286272",
+            "3_2005854046171848704",
+            "3_2005854046159335424",
+            "3_2005854046138294272"
+          ]
+        },
+        "author_id": "204935045",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2005854051196346629",
+        "created_at": "2025-12-30T04:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005854051196346629"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 31,
+              "tag": "2025年自分が選ぶ今年の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUSg9eDM0k",
+              "end": 71,
+              "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+              "media_key": "3_2005854046159286272",
+              "start": 48,
+              "url": "https://t.co/aUSg9eDM0k"
+            },
+            {
+              "display_url": "pic.x.com/aUSg9eDM0k",
+              "end": 71,
+              "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+              "media_key": "3_2005854046171848704",
+              "start": 48,
+              "url": "https://t.co/aUSg9eDM0k"
+            },
+            {
+              "display_url": "pic.x.com/aUSg9eDM0k",
+              "end": 71,
+              "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+              "media_key": "3_2005854046159335424",
+              "start": 48,
+              "url": "https://t.co/aUSg9eDM0k"
+            },
+            {
+              "display_url": "pic.x.com/aUSg9eDM0k",
+              "end": 71,
+              "expanded_url": "https://x.com/itadaki_yasu/status/2005854051196346629/photo/1",
+              "media_key": "3_2005854046138294272",
+              "start": 48,
+              "url": "https://t.co/aUSg9eDM0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005854051196346629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1453,
+          "impression_count": 255850,
+          "like_count": 10966,
+          "quote_count": 22,
+          "reply_count": 11,
+          "retweet_count": 1005
+        },
+        "reply_settings": "everyone",
+        "text": "今年はあまり絵が思ったほど描けなかったな。来年がんばります。 #2025年自分が選ぶ今年の4枚 https://t.co/aUSg9eDM0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/多边关系/蛋挞单推/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww  超级好的姐姐w\n/秋分在线中/我绝对是健全人/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "calsys456"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "franciswwwww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 3072,
+          "like_count": 100620,
+          "listed_count": 12,
+          "media_count": 2206,
+          "tweet_count": 16832
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-19T20:02:21.000Z",
+        "description": "Seattle Food Illustrator / Vtuber fan 🚑🍙🌽\nhttps://t.co/im02DHj11Y\n\nPFP: by @tabakko oyabun.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "tabakko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "itadakimarket.myshopify.com",
+                "end": 65,
+                "expanded_url": "https://itadakimarket.myshopify.com/",
+                "start": 42,
+                "url": "https://t.co/im02DHj11Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/StudioLG",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/StudioLG",
+                "start": 0,
+                "url": "https://t.co/JJFmjw6TC8"
+              }
+            ]
+          }
+        },
+        "id": "204935045",
+        "location": "Please do not repost artworks.",
+        "name": "ItadakiYasu🍜 |🚑🍙🌽| SACANIME AA19",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721007409051922432/citfTLl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140439,
+          "following_count": 848,
+          "like_count": 98583,
+          "listed_count": 1037,
+          "media_count": 4906,
+          "tweet_count": 28959
+        },
+        "url": "https://t.co/JJFmjw6TC8",
+        "username": "itadaki_yasu",
+        "verified": true
+      }
+    ]
+  }
+}

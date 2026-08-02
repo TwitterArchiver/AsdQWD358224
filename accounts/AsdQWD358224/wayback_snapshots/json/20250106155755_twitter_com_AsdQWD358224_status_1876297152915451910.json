@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876296796542210049"
+      ],
+      "media_source_tweet_id": [
+        "1876296801286058406"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1876297152915451910",
+    "created_at": "2025-01-06T15:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T16:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876297152915451910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484582068663521281",
+          "start": 3,
+          "username": "data_syuxchu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwjO6GIzP2",
+          "end": 41,
+          "expanded_url": "https://x.com/data_syuxchu/status/1876296801286058406/photo/1",
+          "media_key": "3_1876296796542210049",
+          "start": 18,
+          "url": "https://t.co/fwjO6GIzP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876297152915451910",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876296801286058406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @data_syuxchu: https://t.co/fwjO6GIzP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1876296796542210049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggnx_tMaEAEChaT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876296796542210049"
+          ],
+          "media_source_tweet_id": [
+            "1876296801286058406"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1876297152915451910",
+        "created_at": "2025-01-06T15:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876297152915451910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484582068663521281",
+              "start": 3,
+              "username": "data_syuxchu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwjO6GIzP2",
+              "end": 41,
+              "expanded_url": "https://x.com/data_syuxchu/status/1876296801286058406/photo/1",
+              "media_key": "3_1876296796542210049",
+              "start": 18,
+              "url": "https://t.co/fwjO6GIzP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876297152915451910",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876296801286058406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @data_syuxchu: https://t.co/fwjO6GIzP2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876296796542210049"
+          ]
+        },
+        "author_id": "1484582068663521281",
+        "conversation_id": "1876296801286058406",
+        "created_at": "2025-01-06T15:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876296801286058406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwjO6GIzP2",
+              "end": 23,
+              "expanded_url": "https://x.com/data_syuxchu/status/1876296801286058406/photo/1",
+              "media_key": "3_1876296796542210049",
+              "start": 0,
+              "url": "https://t.co/fwjO6GIzP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876296801286058406",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fwjO6GIzP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1872682595814928454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 2029,
+          "like_count": 18558,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 3560
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "sjk ꄗ→@syuushuu_naizou ￤爹@losb555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "syuushuu_naizou"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "losb555"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/data_syux…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/data_syuxchu",
+                "start": 0,
+                "url": "https://t.co/IQWCDzb4eb"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "🖱",
+        "name": "莠ﾋ卆髮? 闊溯亜‼️",
+        "pinned_tweet_id": "1866480745428189464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876131674142220288/WkLbx6jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 336,
+          "like_count": 21688,
+          "listed_count": 6,
+          "media_count": 272,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/IQWCDzb4eb",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}

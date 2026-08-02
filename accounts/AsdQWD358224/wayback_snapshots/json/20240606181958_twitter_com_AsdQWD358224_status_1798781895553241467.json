@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1798762965031645184"
+      ],
+      "media_source_tweet_id": [
+        "1798762968949379447"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1798781895553241467",
+    "created_at": "2024-06-06T18:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T19:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798781895553241467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "898922311553822720",
+          "start": 3,
+          "username": "archi_tradition"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4izAQPGlKp",
+          "end": 91,
+          "expanded_url": "https://twitter.com/archi_tradition/status/1798762968949379447/photo/1",
+          "media_key": "3_1798762965031645184",
+          "start": 68,
+          "url": "https://t.co/4izAQPGlKp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798781895553241467",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798762968949379447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @archi_tradition: Which city in the world has the best location? https://t.co/4izAQPGlKp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1798762965031645184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPZ9Yu3W8AA8Ni9.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798762965031645184"
+          ],
+          "media_source_tweet_id": [
+            "1798762968949379447"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1798781895553241467",
+        "created_at": "2024-06-06T18:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T19:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798781895553241467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "898922311553822720",
+              "start": 3,
+              "username": "archi_tradition"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4izAQPGlKp",
+              "end": 91,
+              "expanded_url": "https://twitter.com/archi_tradition/status/1798762968949379447/photo/1",
+              "media_key": "3_1798762965031645184",
+              "start": 68,
+              "url": "https://t.co/4izAQPGlKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798781895553241467",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798762968949379447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @archi_tradition: Which city in the world has the best location? https://t.co/4izAQPGlKp"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798762965031645184"
+          ]
+        },
+        "author_id": "898922311553822720",
+        "conversation_id": "1798762968949379447",
+        "created_at": "2024-06-06T17:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T18:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798762968949379447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4izAQPGlKp",
+              "end": 70,
+              "expanded_url": "https://twitter.com/archi_tradition/status/1798762968949379447/photo/1",
+              "media_key": "3_1798762965031645184",
+              "start": 47,
+              "url": "https://t.co/4izAQPGlKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798762968949379447",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 38021,
+          "like_count": 590,
+          "quote_count": 6,
+          "reply_count": 71,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "Which city in the world has the best location? https://t.co/4izAQPGlKp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 331,
+          "like_count": 455,
+          "listed_count": 0,
+          "tweet_count": 36
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-19T14:59:15.000Z",
+        "description": "Exploring the world of traditional architecture and cultural marvels.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "architectureandtradition.com",
+                "end": 23,
+                "expanded_url": "https://www.architectureandtradition.com",
+                "start": 0,
+                "url": "https://t.co/K4h1ui2SXe"
+              }
+            ]
+          }
+        },
+        "id": "898922311553822720",
+        "location": "United States",
+        "name": "Architecture & Tradition",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678486804746436609/n6Nx78Ra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649606,
+          "following_count": 1081,
+          "like_count": 77890,
+          "listed_count": 2967,
+          "tweet_count": 4332
+        },
+        "url": "https://t.co/K4h1ui2SXe",
+        "username": "archi_tradition",
+        "verified": true
+      }
+    ]
+  }
+}

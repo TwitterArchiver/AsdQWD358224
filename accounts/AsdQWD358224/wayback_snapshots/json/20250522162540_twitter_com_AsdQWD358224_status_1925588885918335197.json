@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1918234401479233686",
+    "created_at": "2025-05-22T16:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925588885918335197"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "猎奇"
+        },
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "东北"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "东北雨姐"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男喘"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "原神"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1573169818345172992",
+          "start": 0,
+          "username": "gaga20220923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925588885918335197",
+    "in_reply_to_user_id": "1573169818345172992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918234401479233686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga20220923 ＃猎奇\n＃东北\n＃东北雨姐\n＃男喘\n＃原神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32902,
+        "height": 1280,
+        "media_key": "7_1918234367555715072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1918234367555715072/pu/img/Y7o8Zevx5lsf0Ndk.jpg",
+        "public_metrics": {
+          "view_count": 16848
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918234367555715072/pu/vid/avc1/320x710/k5P31lhaVuujFkWG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918234367555715072/pu/vid/avc1/480x1066/svqArrwcmWbJT9gA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918234367555715072/pu/vid/avc1/576x1280/fX2RoJzvucjv8BB-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1918234367555715072/pu/pl/zf7XvQ_BAHE1nfBk.m3u8?tag=12&v=920"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1918234401479233686",
+        "created_at": "2025-05-22T16:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925588885918335197"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "猎奇"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "东北"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "东北雨姐"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男喘"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "原神"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573169818345172992",
+              "start": 0,
+              "username": "gaga20220923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925588885918335197",
+        "in_reply_to_user_id": "1573169818345172992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918234401479233686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga20220923 ＃猎奇\n＃东北\n＃东北雨姐\n＃男喘\n＃原神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1918234367555715072"
+          ]
+        },
+        "author_id": "1573169818345172992",
+        "conversation_id": "1918234401479233686",
+        "created_at": "2025-05-02T09:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T10:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918234401479233686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMDr4vetOo",
+              "end": 36,
+              "expanded_url": "https://x.com/gaga20220923/status/1918234401479233686/video/1",
+              "media_key": "7_1918234367555715072",
+              "start": 13,
+              "url": "https://t.co/dMDr4vetOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918234401479233686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 67852,
+          "like_count": 303,
+          "quote_count": 17,
+          "reply_count": 279,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "男喘实录，我去休息了🚬。 https://t.co/dMDr4vetOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/泛性恋/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "fe_ions"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1922659380727591195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 3127,
+          "like_count": 91498,
+          "listed_count": 12,
+          "media_count": 1916,
+          "tweet_count": 15037
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:38:15.000Z",
+        "description": "业余男喘   🚪13145200     \n欢迎投稿猎奇文案，有空就读。\n一天拉屎五次纪录保持者。\n自用蜂鸟VPN：https://t.co/CYB6lgSvzy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=bCYCjNHY",
+                "start": 58,
+                "url": "https://t.co/CYB6lgSvzy"
+              }
+            ]
+          }
+        },
+        "id": "1573169818345172992",
+        "location": "厕所",
+        "name": "牛逼的人名字都要取13个字",
+        "pinned_tweet_id": "1918234401479233686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915059386894123008/blcEBMv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 571,
+          "like_count": 59950,
+          "listed_count": 8,
+          "media_count": 74,
+          "tweet_count": 6131
+        },
+        "username": "gaga20220923",
+        "verified": false
+      }
+    ]
+  }
+}

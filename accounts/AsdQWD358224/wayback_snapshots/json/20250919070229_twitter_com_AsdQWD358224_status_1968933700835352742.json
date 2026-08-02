@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968571791787646976",
+        "3_1968571791842107392"
+      ],
+      "media_source_tweet_id": [
+        "1968571961430216943",
+        "1968571961430216943"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1968933700835352742",
+    "created_at": "2025-09-19T07:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T08:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968933700835352742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "975770906",
+          "start": 3,
+          "username": "usamintears"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDzcWrXMAm",
+          "end": 40,
+          "expanded_url": "https://x.com/usamintears/status/1968571961430216943/photo/1",
+          "media_key": "3_1968571791787646976",
+          "start": 17,
+          "url": "https://t.co/XDzcWrXMAm"
+        },
+        {
+          "display_url": "pic.x.com/XDzcWrXMAm",
+          "end": 40,
+          "expanded_url": "https://x.com/usamintears/status/1968571961430216943/photo/1",
+          "media_key": "3_1968571791842107392",
+          "start": 17,
+          "url": "https://t.co/XDzcWrXMAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968933700835352742",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 217
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968571961430216943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usamintears: https://t.co/XDzcWrXMAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1968571791787646976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1HFnVxbYAA125g.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1968571791842107392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1HFnV-aYAABVik.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968571791787646976",
+            "3_1968571791842107392"
+          ],
+          "media_source_tweet_id": [
+            "1968571961430216943",
+            "1968571961430216943"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968933700835352742",
+        "created_at": "2025-09-19T07:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T08:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968933700835352742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "975770906",
+              "start": 3,
+              "username": "usamintears"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDzcWrXMAm",
+              "end": 40,
+              "expanded_url": "https://x.com/usamintears/status/1968571961430216943/photo/1",
+              "media_key": "3_1968571791787646976",
+              "start": 17,
+              "url": "https://t.co/XDzcWrXMAm"
+            },
+            {
+              "display_url": "pic.x.com/XDzcWrXMAm",
+              "end": 40,
+              "expanded_url": "https://x.com/usamintears/status/1968571961430216943/photo/1",
+              "media_key": "3_1968571791842107392",
+              "start": 17,
+              "url": "https://t.co/XDzcWrXMAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968933700835352742",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968571961430216943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usamintears: https://t.co/XDzcWrXMAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968571791787646976",
+            "3_1968571791842107392"
+          ]
+        },
+        "author_id": "975770906",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968571961430216943",
+        "created_at": "2025-09-18T07:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968571961430216943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDzcWrXMAm",
+              "end": 23,
+              "expanded_url": "https://x.com/usamintears/status/1968571961430216943/photo/1",
+              "media_key": "3_1968571791787646976",
+              "start": 0,
+              "url": "https://t.co/XDzcWrXMAm"
+            },
+            {
+              "display_url": "pic.x.com/XDzcWrXMAm",
+              "end": 23,
+              "expanded_url": "https://x.com/usamintears/status/1968571961430216943/photo/1",
+              "media_key": "3_1968571791842107392",
+              "start": 0,
+              "url": "https://t.co/XDzcWrXMAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968571961430216943",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 147369,
+          "like_count": 2778,
+          "quote_count": 8,
+          "reply_count": 23,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XDzcWrXMAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/反战反仇恨/❤️    \n@Caroline_9870   ❤️\n/秋分在线中/双相焦虑阿斯ADHD C-PTSD/混合型系统/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Caroline_9870"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 3135,
+          "like_count": 99981,
+          "listed_count": 12,
+          "media_count": 2081,
+          "tweet_count": 16297
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-28T09:47:19.000Z",
+        "description": "頭像by @ITSME_ZUO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "ITSME_ZUO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/N4jWLaRpeFI?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/N4jWLaRpeFI?si=ZXjexHTNsqXRGqnk",
+                "start": 0,
+                "url": "https://t.co/4pfkeJMDJg"
+              }
+            ]
+          }
+        },
+        "id": "975770906",
+        "name": "新細敏體",
+        "pinned_tweet_id": "1804080916333236597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927521100973408256/fao6EZmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15742,
+          "following_count": 331,
+          "like_count": 56577,
+          "listed_count": 23,
+          "media_count": 1712,
+          "tweet_count": 20202
+        },
+        "url": "https://t.co/4pfkeJMDJg",
+        "username": "usamintears",
+        "verified": true
+      }
+    ]
+  }
+}

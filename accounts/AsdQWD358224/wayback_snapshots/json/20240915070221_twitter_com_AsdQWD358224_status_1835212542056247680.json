@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1835200834079993929",
+    "created_at": "2024-09-15T07:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T08:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835212542056247680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705414209432064000",
+          "start": 0,
+          "username": "hung1623120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835212542056247680",
+    "in_reply_to_user_id": "1705414209432064000",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835200834079993929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hung1623120 笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1835200834079993929",
+        "created_at": "2024-09-15T07:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T08:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835212542056247680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705414209432064000",
+              "start": 0,
+              "username": "hung1623120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835212542056247680",
+        "in_reply_to_user_id": "1705414209432064000",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835200834079993929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hung1623120 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835200830817157121"
+          ]
+        },
+        "author_id": "1705414209432064000",
+        "conversation_id": "1835200834079993929",
+        "created_at": "2024-09-15T06:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T07:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835200834079993929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tr5c4iom8d",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hung1623120/status/1835200834079993929/photo/1",
+              "media_key": "3_1835200830817157121",
+              "start": 8,
+              "url": "https://t.co/tr5C4IoM8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835200834079993929",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "WC，武器王! https://t.co/tr5C4IoM8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 796,
+          "like_count": 1820,
+          "listed_count": 0,
+          "tweet_count": 136
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T02:50:29.000Z",
+        "description": "本人王洪文，1935年出生在长春，早年参加过朝鲜战争，1951年入党，战争结束后在国棉十七厂保卫科担任科事部，1966年成立工总司并担任总司令，1973年在中共十大当选为副主席，在随后的几年里成功当选为主席",
+        "id": "1705414209432064000",
+        "location": "上海工总司",
+        "name": "王洪文",
+        "pinned_tweet_id": "1813072735410790762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214483579916288/AOfFqC95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5097,
+          "following_count": 432,
+          "like_count": 4147,
+          "listed_count": 24,
+          "tweet_count": 5904
+        },
+        "username": "hung1623120",
+        "verified": false
+      }
+    ]
+  }
+}

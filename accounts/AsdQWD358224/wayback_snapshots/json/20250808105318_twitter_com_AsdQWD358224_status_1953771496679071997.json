@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1953769831834300512",
+    "created_at": "2025-08-08T10:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T11:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953771496679071997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953771496679071997",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953769831834300512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1953769831834300512",
+        "created_at": "2025-08-08T10:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953771496679071997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953771496679071997",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953769831834300512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1953769831834300512",
+        "created_at": "2025-08-08T10:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953769831834300512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChenAaaa233/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ChenAaaa233/status/1953754071485350005",
+              "start": 18,
+              "url": "https://t.co/DrNHUqhqnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953769831834300512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953754071485350005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "放冰柜里吧，反正自恨男娘不敢出柜的 https://t.co/DrNHUqhqnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fe_ions"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气system.（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 3111,
+          "like_count": 97579,
+          "listed_count": 12,
+          "media_count": 2021,
+          "tweet_count": 15876
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F36猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18413,
+          "following_count": 189,
+          "like_count": 570,
+          "listed_count": 66,
+          "media_count": 90,
+          "tweet_count": 18509
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1903929768376233984"
+      ],
+      "media_source_tweet_id": [
+        "1903929820473598029"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1904451405374534100",
+    "created_at": "2025-03-25T08:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T09:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904451405374534100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874237391583797250",
+          "start": 3,
+          "username": "getsuyou_man"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UsidKwz6fD",
+          "end": 50,
+          "expanded_url": "https://x.com/getsuyou_man/status/1903929820473598029/video/1",
+          "media_key": "13_1903929768376233984",
+          "start": 27,
+          "url": "https://t.co/UsidKwz6fD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904451405374534100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3571
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903929820473598029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @getsuyou_man: 起きろ社畜ども。 https://t.co/UsidKwz6fD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2066,
+        "height": 1280,
+        "media_key": "13_1903929768376233984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1903929768376233984/img/OaJW4e8Dncnwijg7.jpg",
+        "public_metrics": {
+          "view_count": 666090
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903929768376233984/vid/avc1/320x568/azNGco7c7zWVepkh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903929768376233984/vid/avc1/480x852/RDkrnSP8ctSJAd2n.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903929768376233984/vid/avc1/720x1280/kaLcZk1eZv7FsjlE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1903929768376233984/pl/El2ktYkcKFs_CIxi.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1903929768376233984"
+          ],
+          "media_source_tweet_id": [
+            "1903929820473598029"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1904451405374534100",
+        "created_at": "2025-03-25T08:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T09:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904451405374534100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874237391583797250",
+              "start": 3,
+              "username": "getsuyou_man"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsidKwz6fD",
+              "end": 50,
+              "expanded_url": "https://x.com/getsuyou_man/status/1903929820473598029/video/1",
+              "media_key": "13_1903929768376233984",
+              "start": 27,
+              "url": "https://t.co/UsidKwz6fD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904451405374534100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3571
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903929820473598029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @getsuyou_man: 起きろ社畜ども。 https://t.co/UsidKwz6fD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1903929768376233984"
+          ]
+        },
+        "author_id": "1874237391583797250",
+        "conversation_id": "1903929820473598029",
+        "created_at": "2025-03-23T22:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T23:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903929820473598029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsidKwz6fD",
+              "end": 32,
+              "expanded_url": "https://x.com/getsuyou_man/status/1903929820473598029/video/1",
+              "media_key": "13_1903929768376233984",
+              "start": 9,
+              "url": "https://t.co/UsidKwz6fD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903929820473598029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2311,
+          "impression_count": 2425594,
+          "like_count": 56544,
+          "quote_count": 329,
+          "reply_count": 189,
+          "retweet_count": 3571
+        },
+        "reply_settings": "everyone",
+        "text": "起きろ社畜ども。 https://t.co/UsidKwz6fD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧/成都刷新/可以喊我“面面”/泛性恋\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "fe_ions"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 2893,
+          "like_count": 76705,
+          "listed_count": 11,
+          "media_count": 1685,
+          "tweet_count": 13172
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T23:34:18.000Z",
+        "description": "休日明けの愚かな人間どもに月曜を宣告する者だ。/＃異形頭/ サブ垢のようなもの▶︎https://t.co/ubff7375jD /出演依頼はDMに頼む。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "異形頭"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/buttondaaa",
+                "end": 64,
+                "expanded_url": "https://x.com/buttondaaa",
+                "start": 41,
+                "url": "https://t.co/ubff7375jD"
+              }
+            ]
+          }
+        },
+        "id": "1874237391583797250",
+        "location": "地球",
+        "name": "月曜マン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875830589296877568/IsSV8ZTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22690,
+          "following_count": 9,
+          "like_count": 53,
+          "listed_count": 15,
+          "media_count": 40,
+          "tweet_count": 54
+        },
+        "username": "getsuyou_man",
+        "verified": false
+      }
+    ]
+  }
+}

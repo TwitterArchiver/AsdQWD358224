@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869409168828018688"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1869408202884055236",
+    "created_at": "2024-12-18T15:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T16:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869409173928370434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B44jZCopBl",
+          "end": 32,
+          "expanded_url": "https://x.com/AsdQWD358224/status/1869409173928370434/photo/1",
+          "media_key": "3_1869409168828018688",
+          "start": 9,
+          "url": "https://t.co/B44jZCopBl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869409173928370434",
+    "in_reply_to_user_id": "1680247071608303616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869408202884055236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好诶！还有卤肉！ https://t.co/B44jZCopBl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1869409173928370434].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1869409173928370434",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1869409173928370434"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_1869409168828018688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfF5vAfaMAA6y1H.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869408198240980992",
+            "3_1869408199641825281"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1869408202884055236",
+        "created_at": "2024-12-18T15:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T16:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869408202884055236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4qF9um5dd",
+              "end": 68,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1869408202884055236/photo/1",
+              "media_key": "3_1869408198240980992",
+              "start": 45,
+              "url": "https://t.co/O4qF9um5dd"
+            },
+            {
+              "display_url": "pic.x.com/O4qF9um5dd",
+              "end": 68,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1869408202884055236/photo/1",
+              "media_key": "3_1869408199641825281",
+              "start": 45,
+              "url": "https://t.co/O4qF9um5dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869408202884055236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有三分之二瓶酒，那今天晚上就继续喝吧 ৲( ᵒ ૩ᵕ )৴♡*৹\n我还特地买了下酒菜！ https://t.co/O4qF9um5dd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？（没有翻车）/07年17岁/高三在读/无政治倾向/抑郁ing…/汉族/拒绝建政/喜欢猫猫/对任何人友善（除了zhihei）/成渝刷新/可以喊我“面面”",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1846,
+          "like_count": 5873,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1347
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

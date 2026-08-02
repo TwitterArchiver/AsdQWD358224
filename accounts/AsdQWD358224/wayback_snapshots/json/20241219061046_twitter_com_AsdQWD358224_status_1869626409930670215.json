@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1868990656678707590",
+    "created_at": "2024-12-19T06:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T07:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869626409930670215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1487107021325234177",
+          "start": 0,
+          "username": "Pircate01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869626409930670215",
+    "in_reply_to_user_id": "1487107021325234177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868990656678707590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pircate01 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1868990656678707590",
+        "created_at": "2024-12-19T06:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T07:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869626409930670215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1487107021325234177",
+              "start": 0,
+              "username": "Pircate01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869626409930670215",
+        "in_reply_to_user_id": "1487107021325234177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868990656678707590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pircate01 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487107021325234177",
+        "conversation_id": "1868990656678707590",
+        "created_at": "2024-12-17T12:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T13:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868990656678707590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868990656678707590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 38724,
+          "like_count": 110,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "可以给我看看你们的🐔巴和脚底么，我想和你做知根知底的好朋友🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？（没有翻车）/07年17岁/高三在读/无政治倾向/抑郁ing…/汉族/拒绝建政/喜欢猫猫/对任何人友善（除了zhihei）/成渝刷新/可以喊我“面面”/181cm 145.1斤/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 1849,
+          "like_count": 5931,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1366
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T16:55:40.000Z",
+        "description": "应当，学习，吃句句，男同美德要牢记——🏴‍☠️🐱",
+        "id": "1487107021325234177",
+        "name": "海盗猫",
+        "pinned_tweet_id": "1851916732517994567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854865588554022912/px2m72yU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 336,
+          "like_count": 9068,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1272
+        },
+        "username": "Pircate01",
+        "verified": false
+      }
+    ]
+  }
+}

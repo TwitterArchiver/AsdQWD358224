@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1852634058490261714",
+    "created_at": "2024-11-02T13:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T14:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852708737179660674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766062676130856960",
+          "start": 0,
+          "username": "PixelGeek606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852708737179660674",
+    "in_reply_to_user_id": "1766062676130856960",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852634058490261714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PixelGeek606 找二舅妈借几根膨胀螺丝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1852634058490261714",
+        "created_at": "2024-11-02T13:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852708737179660674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766062676130856960",
+              "start": 0,
+              "username": "PixelGeek606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852708737179660674",
+        "in_reply_to_user_id": "1766062676130856960",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852634058490261714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PixelGeek606 找二舅妈借几根膨胀螺丝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852634055071948800"
+          ]
+        },
+        "author_id": "1766062676130856960",
+        "conversation_id": "1852634058490261714",
+        "created_at": "2024-11-02T08:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T09:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852634058490261714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecGwiuVZ4L",
+              "end": 39,
+              "expanded_url": "https://x.com/PixelGeek606/status/1852634058490261714/photo/1",
+              "media_key": "3_1852634055071948800",
+              "start": 16,
+              "url": "https://t.co/ecGwiuVZ4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852634058490261714",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11448,
+          "like_count": 141,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这楼梯上面的小平台能拿来干嘛🤔 https://t.co/ecGwiuVZ4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站",
+        "name": "鲜虾🍤鱼板🍥面🍜（互FO）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 1395,
+          "like_count": 2709,
+          "listed_count": 0,
+          "tweet_count": 523
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T11:25:39.000Z",
+        "description": "技术爱好者，喜欢操作系统、硬件及网络\n同时我也关注数码产品，只粉产品不粉厂商\n摄影爱好者，但没相机\n疯疯癫癫，有时发疯\n极度排斥OD圈，请某些人自重\n我以中国人为荣🇨🇳",
+        "id": "1766062676130856960",
+        "location": "璃月港",
+        "name": "爱吃巧克力的橡木蛋糕卷",
+        "pinned_tweet_id": "1836043090169336262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843297589820817408/PNyPE0M__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 166,
+          "like_count": 10621,
+          "listed_count": 0,
+          "tweet_count": 4948
+        },
+        "username": "PixelGeek606",
+        "verified": false
+      }
+    ]
+  }
+}

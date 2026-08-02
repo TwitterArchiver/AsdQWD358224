@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1863770042522825208",
+    "created_at": "2024-12-03T14:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T15:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863956479163920678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1508319011200651267",
+          "start": 0,
+          "username": "lamte15072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863956479163920678",
+    "in_reply_to_user_id": "1508319011200651267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863770042522825208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lamte15072 抱抱大家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1863770042522825208",
+        "created_at": "2024-12-03T14:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863956479163920678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1508319011200651267",
+              "start": 0,
+              "username": "lamte15072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863956479163920678",
+        "in_reply_to_user_id": "1508319011200651267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863770042522825208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lamte15072 抱抱大家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508319011200651267",
+        "conversation_id": "1863770042522825208",
+        "created_at": "2024-12-03T02:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T03:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863770042522825208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863770042522825208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱抱大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 1715,
+          "like_count": 4334,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 960
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T05:44:22.000Z",
+        "description": "你可以叫我绿,明日方舟，scp,特摄，游戏王，Warhammer40K爱好者；提问箱：https://t.co/YnqA90Al5g\n同样欢迎关注第二人格（x）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lamte15072",
+                "end": 66,
+                "expanded_url": "https://ngl.link/lamte15072",
+                "start": 43,
+                "url": "https://t.co/YnqA90Al5g"
+              }
+            ]
+          }
+        },
+        "id": "1508319011200651267",
+        "location": "Tokyo-to",
+        "name": "lamte.Aic",
+        "pinned_tweet_id": "1829842886499975336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863164680966922240/aH6oXhtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 665,
+          "like_count": 11584,
+          "listed_count": 17,
+          "media_count": 102,
+          "tweet_count": 698
+        },
+        "username": "lamte15072",
+        "verified": false
+      }
+    ]
+  }
+}

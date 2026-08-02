@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905894392776544256"
+      ],
+      "media_source_tweet_id": [
+        "1905894417002824174"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1906332469395398994",
+    "created_at": "2025-03-30T13:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T14:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906332469395398994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748576983930576896",
+          "start": 3,
+          "username": "foodlove777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ot3ZOCaIn9",
+          "end": 48,
+          "expanded_url": "https://x.com/foodlove777/status/1905894417002824174/photo/1",
+          "media_key": "3_1905894392776544256",
+          "start": 25,
+          "url": "https://t.co/Ot3ZOCaIn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906332469395398994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905894417002824174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foodlove777: 人生にカツ丼！ https://t.co/Ot3ZOCaIn9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_1905894392776544256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnMY2jTa0AACH_K.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905894392776544256"
+          ],
+          "media_source_tweet_id": [
+            "1905894417002824174"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1906332469395398994",
+        "created_at": "2025-03-30T13:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T14:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906332469395398994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748576983930576896",
+              "start": 3,
+              "username": "foodlove777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ot3ZOCaIn9",
+              "end": 48,
+              "expanded_url": "https://x.com/foodlove777/status/1905894417002824174/photo/1",
+              "media_key": "3_1905894392776544256",
+              "start": 25,
+              "url": "https://t.co/Ot3ZOCaIn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906332469395398994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905894417002824174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foodlove777: 人生にカツ丼！ https://t.co/Ot3ZOCaIn9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905894392776544256"
+          ]
+        },
+        "author_id": "1748576983930576896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1905894417002824174",
+        "created_at": "2025-03-29T08:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T09:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905894417002824174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ot3ZOCaIn9",
+              "end": 31,
+              "expanded_url": "https://x.com/foodlove777/status/1905894417002824174/photo/1",
+              "media_key": "3_1905894392776544256",
+              "start": 8,
+              "url": "https://t.co/Ot3ZOCaIn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905894417002824174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15488,
+          "like_count": 1938,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "人生にカツ丼！ https://t.co/Ot3ZOCaIn9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/07年17岁/含糖友跨顺男/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "fe_ions"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 2917,
+          "like_count": 79583,
+          "listed_count": 11,
+          "media_count": 1717,
+          "tweet_count": 13441
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T05:23:50.000Z",
+        "description": "料理/散歩/読書/掃除が好きな人間です。",
+        "id": "1748576983930576896",
+        "location": "Amazonアソシエイトに参加中",
+        "name": "マヨネーズ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748578649916497920/LnBQFIBs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3984,
+          "following_count": 6961,
+          "like_count": 1319,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 2103
+        },
+        "username": "foodlove777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "706083902411055104",
+          "name": "Basketball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "706083902411055104",
+          "name": "Basketball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1896238479899787510",
+    "created_at": "2025-03-02T16:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T17:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896238479899787510"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "Beijing",
+          "probability": 0.9116,
+          "start": 52,
+          "type": "Place"
+        },
+        {
+          "end": 119,
+          "normalized_text": "Capital Steel",
+          "probability": 0.4233,
+          "start": 107,
+          "type": "Organization"
+        },
+        {
+          "end": 136,
+          "normalized_text": "Iron Company",
+          "probability": 0.3697,
+          "start": 125,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3511226595",
+          "start": 3,
+          "username": "tongbingxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896238479899787510",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1050
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894008120260669600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tongbingxue: A newly opened basketball court in Beijing, transformed from the former cooling towers of Capital Steel and Iron Company.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_1894007817972887552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjeE1gWMAA9bd-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1896238479899787510",
+        "created_at": "2025-03-02T16:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T17:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896238479899787510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "Beijing",
+              "probability": 0.9116,
+              "start": 52,
+              "type": "Place"
+            },
+            {
+              "end": 119,
+              "normalized_text": "Capital Steel",
+              "probability": 0.4233,
+              "start": 107,
+              "type": "Organization"
+            },
+            {
+              "end": 136,
+              "normalized_text": "Iron Company",
+              "probability": 0.3697,
+              "start": 125,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3511226595",
+              "start": 3,
+              "username": "tongbingxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896238479899787510",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1050
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894008120260669600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tongbingxue: A newly opened basketball court in Beijing, transformed from the former cooling towers of Capital Steel and Iron Company.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894007817972887552"
+          ]
+        },
+        "author_id": "3511226595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1894008120260669600",
+        "created_at": "2025-02-24T12:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:53:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894007834452320540",
+          "1894008120260669600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Beijing",
+              "probability": 0.9038,
+              "start": 35,
+              "type": "Place"
+            },
+            {
+              "end": 102,
+              "normalized_text": "Capital Steel",
+              "probability": 0.4998,
+              "start": 90,
+              "type": "Organization"
+            },
+            {
+              "end": 119,
+              "normalized_text": "Iron Company",
+              "probability": 0.3529,
+              "start": 108,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXD0avaPQt",
+              "end": 145,
+              "expanded_url": "https://x.com/tongbingxue/status/1894008120260669600/photo/1",
+              "media_key": "3_1894007817972887552",
+              "start": 122,
+              "url": "https://t.co/OXD0avaPQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894008120260669600",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1003,
+          "impression_count": 4444742,
+          "like_count": 13212,
+          "quote_count": 555,
+          "reply_count": 127,
+          "retweet_count": 1050
+        },
+        "reply_settings": "everyone",
+        "text": "A newly opened basketball court in Beijing, transformed from the former cooling towers of Capital Steel and Iron Company. https://t.co/OXD0avaPQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（挣扎求生版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 2712,
+          "like_count": 61951,
+          "listed_count": 7,
+          "media_count": 1495,
+          "tweet_count": 11357
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-01T09:51:02.000Z",
+        "description": "Visuals of Greater China. Curated by Tong Bingxue仝冰雪, Collector & Historian, Author: History of Photo Studios in China, A Life in Portraits. DM open.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/Visuals_china",
+                "end": 23,
+                "expanded_url": "https://instagram.com/Visuals_china",
+                "start": 0,
+                "url": "https://t.co/aZ4BIMYiAc"
+              }
+            ]
+          }
+        },
+        "id": "3511226595",
+        "location": "Beijing",
+        "name": "China in Pictures",
+        "pinned_tweet_id": "1894008120260669600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764645373333925888/A4Qszvv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123872,
+          "following_count": 642,
+          "like_count": 4523,
+          "listed_count": 975,
+          "media_count": 5544,
+          "tweet_count": 7161
+        },
+        "url": "https://t.co/aZ4BIMYiAc",
+        "username": "tongbingxue",
+        "verified": true
+      }
+    ]
+  }
+}

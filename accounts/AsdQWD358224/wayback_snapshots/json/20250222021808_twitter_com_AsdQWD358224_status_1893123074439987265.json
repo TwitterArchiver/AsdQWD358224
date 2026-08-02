@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1893123074439987265",
+    "created_at": "2025-02-22T02:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T03:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893123074439987265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Adonis_s_s/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Adonis_s_s/status/1892977731991998634",
+          "start": 15,
+          "url": "https://t.co/iE4Po32fEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893123074439987265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892977731991998634",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么玩？07MTF 想玩生物 https://t.co/iE4Po32fEI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1893123074439987265",
+        "created_at": "2025-02-22T02:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T03:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893123074439987265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Adonis_s_s/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Adonis_s_s/status/1892977731991998634",
+              "start": 15,
+              "url": "https://t.co/iE4Po32fEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893123074439987265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892977731991998634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么玩？07MTF 想玩生物 https://t.co/iE4Po32fEI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428706836455165956",
+        "conversation_id": "1892977731991998634",
+        "created_at": "2025-02-21T16:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T17:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892977731991998634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892977731991998634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 26760,
+          "like_count": 89,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "怎么玩？07男 想破处"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（被教务处赶出学校版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 2638,
+          "like_count": 54182,
+          "listed_count": 7,
+          "media_count": 1343,
+          "tweet_count": 10210
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-20T13:13:59.000Z",
+        "description": "爱是两个契合灵魂之间的碰撞 不约 INFJ",
+        "id": "1428706836455165956",
+        "location": "南京",
+        "name": "阿澈",
+        "pinned_tweet_id": "1841052404516540437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544725415683469313/IAiuux6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 599,
+          "like_count": 18345,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 4081
+        },
+        "username": "Adonis_s_s",
+        "verified": false
+      }
+    ]
+  }
+}

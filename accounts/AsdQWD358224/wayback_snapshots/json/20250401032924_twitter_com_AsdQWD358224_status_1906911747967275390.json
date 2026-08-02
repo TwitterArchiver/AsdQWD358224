@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906662103567712256"
+      ],
+      "media_source_tweet_id": [
+        "1906825077871546682"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1906911747967275390",
+    "created_at": "2025-04-01T03:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T04:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906911747967275390"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "小川町",
+          "probability": 0.7864,
+          "start": 15,
+          "type": "Place"
+        },
+        {
+          "end": 21,
+          "normalized_text": "豊はる",
+          "probability": 0.7208,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "豊はる"
+        },
+        {
+          "end": 85,
+          "start": 78,
+          "tag": "立ち食いそば"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "蕎麦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1083907481758138369",
+          "start": 3,
+          "username": "rakusyoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UPa6hsxJlD",
+          "end": 113,
+          "expanded_url": "https://x.com/rakusyoku/status/1906825077871546682/photo/1",
+          "media_key": "3_1906662103567712256",
+          "start": 90,
+          "url": "https://t.co/UPa6hsxJlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906911747967275390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906825077871546682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rakusyoku: 小川町の豊はるさんでいただいたてっちゃんそば煮玉子トッピング。\nてっちゃんの脂身最高！蕎麦との相性もバッチリです😊\n#豊はる　#立ち食いそば　#蕎麦 https://t.co/UPa6hsxJlD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_1906662103567712256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXTFM3aQAAAIJm.jpg",
+        "width": 2426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906662103567712256"
+          ],
+          "media_source_tweet_id": [
+            "1906825077871546682"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1906911747967275390",
+        "created_at": "2025-04-01T03:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T04:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906911747967275390"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "小川町",
+              "probability": 0.7864,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 21,
+              "normalized_text": "豊はる",
+              "probability": 0.7208,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "豊はる"
+            },
+            {
+              "end": 85,
+              "start": 78,
+              "tag": "立ち食いそば"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "蕎麦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1083907481758138369",
+              "start": 3,
+              "username": "rakusyoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPa6hsxJlD",
+              "end": 113,
+              "expanded_url": "https://x.com/rakusyoku/status/1906825077871546682/photo/1",
+              "media_key": "3_1906662103567712256",
+              "start": 90,
+              "url": "https://t.co/UPa6hsxJlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906911747967275390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906825077871546682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rakusyoku: 小川町の豊はるさんでいただいたてっちゃんそば煮玉子トッピング。\nてっちゃんの脂身最高！蕎麦との相性もバッチリです😊\n#豊はる　#立ち食いそば　#蕎麦 https://t.co/UPa6hsxJlD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906662103567712256"
+          ]
+        },
+        "author_id": "1083907481758138369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1906825077871546682",
+        "created_at": "2025-03-31T21:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T22:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906825077871546682"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "豊はる"
+            },
+            {
+              "end": 70,
+              "start": 63,
+              "tag": "立ち食いそば"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "蕎麦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPa6hsxJlD",
+              "end": 98,
+              "expanded_url": "https://x.com/rakusyoku/status/1906825077871546682/photo/1",
+              "media_key": "3_1906662103567712256",
+              "start": 75,
+              "url": "https://t.co/UPa6hsxJlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906825077871546682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2894,
+          "like_count": 738,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "小川町の豊はるさんでいただいたてっちゃんそば煮玉子トッピング。\nてっちゃんの脂身最高！蕎麦との相性もバッチリです😊\n#豊はる　#立ち食いそば　#蕎麦 https://t.co/UPa6hsxJlD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/+5g版/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "fe_ions"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️❤️❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 2925,
+          "like_count": 80523,
+          "listed_count": 11,
+          "media_count": 1732,
+          "tweet_count": 13578
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-12T02:04:16.000Z",
+        "description": "食べ歩き部員及びカツ丼部員。外食した部活動の内容をメインに呟きます。\n丼好き洋食好き鮨好きラーメン好きB級グルメ好きその他諸々守備範囲です。\nちなみにお酒も酔っ払うのも大好きです。\nDM✖基本返信しません。DMでの挨拶も不要です。\n無言フォロー歓迎・無言フォロー失礼いたします。\n#かつ丼　#カツ丼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 140,
+                "tag": "かつ丼"
+              },
+              {
+                "end": 149,
+                "start": 145,
+                "tag": "カツ丼"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.livedoor.jp/sohf/",
+                "end": 23,
+                "expanded_url": "http://blog.livedoor.jp/sohf/",
+                "start": 0,
+                "url": "https://t.co/0CAfJibsTp"
+              }
+            ]
+          }
+        },
+        "id": "1083907481758138369",
+        "name": "そう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345677588014923776/ePHLr_q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13604,
+          "following_count": 12611,
+          "like_count": 183707,
+          "listed_count": 37,
+          "media_count": 6393,
+          "tweet_count": 10126
+        },
+        "url": "https://t.co/0CAfJibsTp",
+        "username": "rakusyoku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1798762968949379447",
+    "created_at": "2024-06-06T18:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T19:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798782062716948800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "898922311553822720",
+          "start": 0,
+          "username": "archi_tradition"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798782062716948800",
+    "in_reply_to_user_id": "898922311553822720",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798762968949379447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@archi_tradition 1453，买买提，美食，破城，胜利，后面忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1798762968949379447",
+        "created_at": "2024-06-06T18:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T19:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798782062716948800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "898922311553822720",
+              "start": 0,
+              "username": "archi_tradition"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798782062716948800",
+        "in_reply_to_user_id": "898922311553822720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798762968949379447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@archi_tradition 1453，买买提，美食，破城，胜利，后面忘了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798762965031645184"
+          ]
+        },
+        "author_id": "898922311553822720",
+        "conversation_id": "1798762968949379447",
+        "created_at": "2024-06-06T17:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T18:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798762968949379447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4izAQPGlKp",
+              "end": 70,
+              "expanded_url": "https://twitter.com/archi_tradition/status/1798762968949379447/photo/1",
+              "media_key": "3_1798762965031645184",
+              "start": 47,
+              "url": "https://t.co/4izAQPGlKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798762968949379447",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 38280,
+          "like_count": 593,
+          "quote_count": 6,
+          "reply_count": 72,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "Which city in the world has the best location? https://t.co/4izAQPGlKp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 331,
+          "like_count": 455,
+          "listed_count": 0,
+          "tweet_count": 37
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-19T14:59:15.000Z",
+        "description": "Exploring the world of traditional architecture and cultural marvels.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "architectureandtradition.com",
+                "end": 23,
+                "expanded_url": "https://www.architectureandtradition.com",
+                "start": 0,
+                "url": "https://t.co/K4h1ui2SXe"
+              }
+            ]
+          }
+        },
+        "id": "898922311553822720",
+        "location": "United States",
+        "name": "Architecture & Tradition",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678486804746436609/n6Nx78Ra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649605,
+          "following_count": 1081,
+          "like_count": 77890,
+          "listed_count": 2967,
+          "tweet_count": 4332
+        },
+        "url": "https://t.co/K4h1ui2SXe",
+        "username": "archi_tradition",
+        "verified": true
+      }
+    ]
+  }
+}

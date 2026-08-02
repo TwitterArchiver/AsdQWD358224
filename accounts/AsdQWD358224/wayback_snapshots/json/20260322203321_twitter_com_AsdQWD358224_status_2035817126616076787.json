@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2035817126616076787",
+    "created_at": "2026-03-22T20:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T21:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035817126616076787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1868701291830206464",
+          "start": 3,
+          "username": "A_Asystem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.me/+E_t8qGe5nahjN…",
+          "end": 53,
+          "expanded_url": "https://t.me/+E_t8qGe5nahjNTg1",
+          "start": 30,
+          "status": 200,
+          "unwound_url": "https://t.me/+E_t8qGe5nahjNTg1",
+          "url": "https://t.co/1LnTFJAq6Y"
+        },
+        {
+          "display_url": "ngl.link/a_asystem",
+          "end": 88,
+          "expanded_url": "https://ngl.link/a_asystem",
+          "start": 65,
+          "status": 200,
+          "unwound_url": "https://ngl.link/a_asystem",
+          "url": "https://t.co/Z2LkkSXs1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035817126616076787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905421355195269408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A_Asystem: 我们的telegram闲聊群\nhttps://t.co/1LnTFJAq6Y\nngl提问箱(匿名)\nhttps://t.co/Z2LkkSXs1T\ndiscord闲聊群没有审核机制，如果需要可以私信单独发链接~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2035817126616076787",
+        "created_at": "2026-03-22T20:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T21:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035817126616076787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1868701291830206464",
+              "start": 3,
+              "username": "A_Asystem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.me/+E_t8qGe5nahjN…",
+              "end": 53,
+              "expanded_url": "https://t.me/+E_t8qGe5nahjNTg1",
+              "start": 30,
+              "status": 200,
+              "unwound_url": "https://t.me/+E_t8qGe5nahjNTg1",
+              "url": "https://t.co/1LnTFJAq6Y"
+            },
+            {
+              "display_url": "ngl.link/a_asystem",
+              "end": 88,
+              "expanded_url": "https://ngl.link/a_asystem",
+              "start": 65,
+              "status": 200,
+              "unwound_url": "https://ngl.link/a_asystem",
+              "url": "https://t.co/Z2LkkSXs1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035817126616076787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905421355195269408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A_Asystem: 我们的telegram闲聊群\nhttps://t.co/1LnTFJAq6Y\nngl提问箱(匿名)\nhttps://t.co/Z2LkkSXs1T\ndiscord闲聊群没有审核机制，如果需要可以私信单独发链接~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868701291830206464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1905421355195269408",
+        "created_at": "2025-03-28T00:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T01:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905421355195269408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "t.me/+E_t8qGe5nahjN…",
+              "end": 38,
+              "expanded_url": "https://t.me/+E_t8qGe5nahjNTg1",
+              "start": 15,
+              "status": 200,
+              "unwound_url": "https://t.me/+E_t8qGe5nahjNTg1",
+              "url": "https://t.co/1LnTFJAq6Y"
+            },
+            {
+              "display_url": "ngl.link/a_asystem",
+              "end": 73,
+              "expanded_url": "https://ngl.link/a_asystem",
+              "start": 50,
+              "status": 200,
+              "unwound_url": "https://ngl.link/a_asystem",
+              "url": "https://t.co/Z2LkkSXs1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905421355195269408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6345,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们的telegram闲聊群\nhttps://t.co/1LnTFJAq6Y\nngl提问箱(匿名)\nhttps://t.co/Z2LkkSXs1T\ndiscord闲聊群没有审核机制，如果需要可以私信单独发链接~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/恋爱脑治愈中/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww \n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "calsys456"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656276719665152/czyvKgrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 3036,
+          "like_count": 101310,
+          "listed_count": 14,
+          "media_count": 2267,
+          "tweet_count": 17338
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1905421355195269408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 522,
+          "like_count": 9752,
+          "listed_count": 6,
+          "media_count": 113,
+          "tweet_count": 5520
+        },
+        "username": "A_Asystem",
+        "verified": false
+      }
+    ]
+  }
+}

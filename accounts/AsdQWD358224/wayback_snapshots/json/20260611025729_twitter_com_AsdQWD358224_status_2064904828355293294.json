@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064904820239282176"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2064904828355293294",
+    "created_at": "2026-06-11T02:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064904828355293294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y6orT3FiP4",
+          "end": 85,
+          "expanded_url": "https://x.com/AsdQWD358224/status/2064904828355293294/photo/1",
+          "media_key": "3_2064904820239282176",
+          "start": 62,
+          "url": "https://t.co/Y6orT3FiP4"
+        },
+        {
+          "display_url": "x.com/gra5s_awa/stat…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/gra5s_awa/status/2064774567575671040",
+          "start": 86,
+          "url": "https://t.co/BVy2MlmtFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064904828355293294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064774567575671040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我各个学科水平：\n语文：会说中文的猪猪\n数学：猪猪\n英语：猪猪\n物理：猪猪\n化学：猪猪\n地理：猪猪\n政治：猪猪\n生物：猪猪 https://t.co/Y6orT3FiP4 https://t.co/BVy2MlmtFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2064904820239282176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgD_mFasAAFvlN.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064904820239282176"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064904828355293294",
+        "created_at": "2026-06-11T02:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064904828355293294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6orT3FiP4",
+              "end": 85,
+              "expanded_url": "https://x.com/AsdQWD358224/status/2064904828355293294/photo/1",
+              "media_key": "3_2064904820239282176",
+              "start": 62,
+              "url": "https://t.co/Y6orT3FiP4"
+            },
+            {
+              "display_url": "x.com/gra5s_awa/stat…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/gra5s_awa/status/2064774567575671040",
+              "start": 86,
+              "url": "https://t.co/BVy2MlmtFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064904828355293294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064774567575671040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：会说中文的猪猪\n数学：猪猪\n英语：猪猪\n物理：猪猪\n化学：猪猪\n地理：猪猪\n政治：猪猪\n生物：猪猪 https://t.co/Y6orT3FiP4 https://t.co/BVy2MlmtFs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375769014396329985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064774567575671040",
+        "created_at": "2026-06-10T18:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064774567575671040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/aoim33/status/2064564600742543835",
+              "start": 93,
+              "url": "https://t.co/UM9BYtisBs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064774567575671040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064564600742543835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：我会说中文\n数学：一点点高等数学\n英语：B2～C1（たぶん）\n物理：高中水平\n化学：高中水平\n地理：能构思世界地图\n政治：高中时强势科目（？！）\n生物：9331 https://t.co/UM9BYtisBs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "北雁秋分🍔",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 3008,
+          "like_count": 102476,
+          "listed_count": 12,
+          "media_count": 2305,
+          "tweet_count": 17847
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-27T11:21:47.000Z",
+        "description": "漢語｜EN｜台語（閩南語）｜INFP | 大一｜是明日方舟風笛推！｜成分複雜 ｜歡迎互fo講古",
+        "id": "1375769014396329985",
+        "location": "Quanzhou,Fujian,ROC",
+        "name": "風笛bagpipe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038819159031894016/CxQ2-SpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 273,
+          "like_count": 3328,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 3655
+        },
+        "username": "gra5s_awa",
+        "verified": false
+      }
+    ]
+  }
+}

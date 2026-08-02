@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894080153661444102"
+      ],
+      "media_source_tweet_id": [
+        "1894080162947330078"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1894226199855206653",
+    "created_at": "2025-02-25T03:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T04:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894226199855206653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "962886313929097216",
+          "start": 3,
+          "username": "SoysenSyndrome"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9BqakkZmnR",
+          "end": 52,
+          "expanded_url": "https://x.com/SoysenSyndrome/status/1894080162947330078/photo/1",
+          "media_key": "3_1894080153661444102",
+          "start": 29,
+          "url": "https://t.co/9BqakkZmnR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894226199855206653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894080162947330078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SoysenSyndrome: 一片白飯咖喱灣🍛 https://t.co/9BqakkZmnR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1894080153661444102",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkkf3U8bkAYvoE_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894080153661444102"
+          ],
+          "media_source_tweet_id": [
+            "1894080162947330078"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1894226199855206653",
+        "created_at": "2025-02-25T03:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T04:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894226199855206653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "962886313929097216",
+              "start": 3,
+              "username": "SoysenSyndrome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9BqakkZmnR",
+              "end": 52,
+              "expanded_url": "https://x.com/SoysenSyndrome/status/1894080162947330078/photo/1",
+              "media_key": "3_1894080153661444102",
+              "start": 29,
+              "url": "https://t.co/9BqakkZmnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894226199855206653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894080162947330078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SoysenSyndrome: 一片白飯咖喱灣🍛 https://t.co/9BqakkZmnR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894080153661444102"
+          ]
+        },
+        "author_id": "962886313929097216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1894080162947330078",
+        "created_at": "2025-02-24T17:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T18:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894080162947330078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9BqakkZmnR",
+              "end": 32,
+              "expanded_url": "https://x.com/SoysenSyndrome/status/1894080162947330078/photo/1",
+              "media_key": "3_1894080153661444102",
+              "start": 9,
+              "url": "https://t.co/9BqakkZmnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894080162947330078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7616,
+          "like_count": 558,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "一片白飯咖喱灣🍛 https://t.co/9BqakkZmnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（被教务处赶出学校版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 2650,
+          "like_count": 55830,
+          "listed_count": 7,
+          "media_count": 1388,
+          "tweet_count": 10476
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-12T03:09:21.000Z",
+        "description": "佛系畫圖",
+        "id": "962886313929097216",
+        "name": "尼爾森式症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656994467893878784/uJNMSww6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5038,
+          "following_count": 443,
+          "like_count": 73560,
+          "listed_count": 38,
+          "media_count": 1794,
+          "tweet_count": 7261
+        },
+        "username": "SoysenSyndrome",
+        "verified": false
+      }
+    ]
+  }
+}

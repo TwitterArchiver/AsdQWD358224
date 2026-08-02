@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "2066801569744699602",
+    "created_at": "2026-06-16T08:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066801569744699602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BBCWorld/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/BBCWorld/status/2066430642640814197",
+          "start": 27,
+          "url": "https://t.co/SzvD1QdbrO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066801569744699602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066430642640814197",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "向18岁以下在校的未成年学生传教的人能不能都死一死啊 https://t.co/SzvD1QdbrO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2066801569744699602",
+        "created_at": "2026-06-16T08:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066801569744699602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BBCWorld/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/BBCWorld/status/2066430642640814197",
+              "start": 27,
+              "url": "https://t.co/SzvD1QdbrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066801569744699602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066430642640814197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "向18岁以下在校的未成年学生传教的人能不能都死一死啊 https://t.co/SzvD1QdbrO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "742143",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "2066430642640814197",
+        "created_at": "2026-06-15T08:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066430642640814197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "More than 30 members of Early Rain Covenant Church were taken for interrogation midway through Sunday service.",
+              "display_url": "bbc.in/3QpKvod",
+              "end": 83,
+              "expanded_url": "https://bbc.in/3QpKvod",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2066430643748106240/PVx43ZPZ?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066430643748106240/PVx43ZPZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "China detains two leaders of influential underground church",
+              "unwound_url": "https://www.bbc.com/news/articles/ce9582vlm83o?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign=Social_Flow&at_link_origin=BBCWorld&at_link_type=web_link&at_link_id=46DAB1A0-6890-11F1-A50A-8D4F34B3A839&at_medium=social&at_ptr_name=twitter&at_campaign_type=owned&at_bbc_team=editorial&at_format=link",
+              "url": "https://t.co/ApDx24KufQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066430642640814197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 184629,
+          "like_count": 721,
+          "quote_count": 41,
+          "reply_count": 150,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "China detains two leaders of influential underground church https://t.co/ApDx24KufQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "北雁秋分🍔",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 3008,
+          "like_count": 102656,
+          "listed_count": 13,
+          "media_count": 2311,
+          "tweet_count": 17898
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-01T07:44:29.000Z",
+        "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "BBCBreaking"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "username": "BBCNews"
+              },
+              {
+                "end": 138,
+                "start": 129,
+                "username": "BBCSport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/news",
+                "end": 23,
+                "expanded_url": "http://www.bbc.com/news",
+                "start": 0,
+                "url": "https://t.co/4zUWrLAYqP"
+              }
+            ]
+          }
+        },
+        "id": "742143",
+        "location": "London, UK",
+        "name": "BBC News (World)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42147285,
+          "following_count": 17,
+          "like_count": 1,
+          "listed_count": 134011,
+          "media_count": 27236,
+          "tweet_count": 408851
+        },
+        "url": "https://t.co/4zUWrLAYqP",
+        "username": "BBCWorld",
+        "verified": true
+      }
+    ]
+  }
+}

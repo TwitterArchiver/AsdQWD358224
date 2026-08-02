@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904606797018578944"
+      ],
+      "media_source_tweet_id": [
+        "1904606819177103865"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1904841608895619453",
+    "created_at": "2025-03-26T10:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T11:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904841608895619453"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "burgir",
+          "probability": 0.3951,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "714090062024196096",
+          "start": 3,
+          "username": "AlwaysAlele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8PykAhaC9g",
+          "end": 47,
+          "expanded_url": "https://x.com/AlwaysAlele/status/1904606819177103865/photo/1",
+          "media_key": "3_1904606797018578944",
+          "start": 24,
+          "url": "https://t.co/8PykAhaC9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904841608895619453",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10374
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904606819177103865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlwaysAlele: burgir https://t.co/8PykAhaC9g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 913,
+        "media_key": "3_1904606797018578944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm6FynUWQAAW1t-.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904606797018578944"
+          ],
+          "media_source_tweet_id": [
+            "1904606819177103865"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1904841608895619453",
+        "created_at": "2025-03-26T10:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T11:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904841608895619453"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "burgir",
+              "probability": 0.3951,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "714090062024196096",
+              "start": 3,
+              "username": "AlwaysAlele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PykAhaC9g",
+              "end": 47,
+              "expanded_url": "https://x.com/AlwaysAlele/status/1904606819177103865/photo/1",
+              "media_key": "3_1904606797018578944",
+              "start": 24,
+              "url": "https://t.co/8PykAhaC9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904841608895619453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10374
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904606819177103865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlwaysAlele: burgir https://t.co/8PykAhaC9g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904606797018578944"
+          ]
+        },
+        "author_id": "714090062024196096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1904606819177103865",
+        "created_at": "2025-03-25T18:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T19:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904606819177103865"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "burgir",
+              "probability": 0.6026,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PykAhaC9g",
+              "end": 30,
+              "expanded_url": "https://x.com/AlwaysAlele/status/1904606819177103865/photo/1",
+              "media_key": "3_1904606797018578944",
+              "start": 7,
+              "url": "https://t.co/8PykAhaC9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904606819177103865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5067,
+          "impression_count": 923642,
+          "like_count": 105770,
+          "quote_count": 232,
+          "reply_count": 103,
+          "retweet_count": 10374
+        },
+        "reply_settings": "everyone",
+        "text": "burgir https://t.co/8PykAhaC9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧/成都刷新/可以喊我“面面”/泛性恋\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "fe_ions"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 2896,
+          "like_count": 77258,
+          "listed_count": 11,
+          "media_count": 1688,
+          "tweet_count": 13213
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-27T14:01:52.000Z",
+        "description": "🐞🌱 /⁠ᐠ⁠｡_｡⁠ᐟ⁠\\ Aveces dibujo || 💌contact: alwaysalele@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/alwaysalele?ig…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/alwaysalele?igshid=MzNlNGNkZWQ4Mg==",
+                "start": 0,
+                "url": "https://t.co/hJnuCW7UeJ"
+              }
+            ]
+          }
+        },
+        "id": "714090062024196096",
+        "location": "Perú",
+        "name": "･:*Alele ☁️",
+        "pinned_tweet_id": "1902480595059392971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894861032889184256/4VEizFeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55073,
+          "following_count": 714,
+          "like_count": 86179,
+          "listed_count": 194,
+          "media_count": 2185,
+          "tweet_count": 19792
+        },
+        "url": "https://t.co/hJnuCW7UeJ",
+        "username": "AlwaysAlele",
+        "verified": false
+      }
+    ]
+  }
+}

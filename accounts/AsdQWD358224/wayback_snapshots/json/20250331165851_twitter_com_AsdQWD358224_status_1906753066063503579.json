@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1906753066063503579",
+    "created_at": "2025-03-31T16:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T17:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906753066063503579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1340653010263953412",
+          "start": 3,
+          "username": "IShowSpeedHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906753066063503579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3873
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906679319499358381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IShowSpeedHQ: 🚨| BREAKING: Speed recreated the famous “Super Idol” meme with the original creator in China 🤣🇨🇳\n\nSpeed在中国和原作者一起重现了著名的“Su…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14866,
+        "height": 1280,
+        "media_key": "13_1906679252310691840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1906679252310691840/img/sGJ57xzAI79eAq7O.jpg",
+        "public_metrics": {
+          "view_count": 463153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906679252310691840/vid/avc1/320x568/s6fwxReIsJz450IH.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906679252310691840/vid/avc1/480x852/_2WkBXwPlZiFCSEF.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906679252310691840/vid/avc1/720x1280/CsEZBzZ35UmdPq2s.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906679252310691840/pl/r07PbxX1V9CkZl_2.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1906753066063503579",
+        "created_at": "2025-03-31T16:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T17:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906753066063503579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1340653010263953412",
+              "start": 3,
+              "username": "IShowSpeedHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906753066063503579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3873
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906679319499358381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IShowSpeedHQ: 🚨| BREAKING: Speed recreated the famous “Super Idol” meme with the original creator in China 🤣🇨🇳\n\nSpeed在中国和原作者一起重现了著名的“Su…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906679252310691840"
+          ]
+        },
+        "author_id": "1340653010263953412",
+        "conversation_id": "1906679319499358381",
+        "created_at": "2025-03-31T12:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906679319499358381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vldmaoXz6j",
+              "end": 159,
+              "expanded_url": "https://x.com/IShowSpeedHQ/status/1906679319499358381/video/1",
+              "media_key": "13_1906679252310691840",
+              "start": 136,
+              "url": "https://t.co/vldmaoXz6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906679319499358381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5601,
+          "impression_count": 1112839,
+          "like_count": 50059,
+          "quote_count": 359,
+          "reply_count": 213,
+          "retweet_count": 3873
+        },
+        "reply_settings": "everyone",
+        "text": "🚨| BREAKING: Speed recreated the famous “Super Idol” meme with the original creator in China 🤣🇨🇳\n\nSpeed在中国和原作者一起重现了著名的“Super Idol”梗 🤣🇨🇳 https://t.co/vldmaoXz6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/含糖友跨顺男/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 2929,
+          "like_count": 80142,
+          "listed_count": 11,
+          "media_count": 1726,
+          "tweet_count": 13533
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-20T13:39:27.000Z",
+        "description": "Join the #1 source for all things Speed-Related and never miss a beat! | @TheHQQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "TheHQQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@IShowSpeed/li…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@IShowSpeed/live",
+                "start": 0,
+                "url": "https://t.co/XYaC5IpweL"
+              }
+            ]
+          }
+        },
+        "id": "1340653010263953412",
+        "location": "🔔 Turn Post Notifications On",
+        "name": "Speedy HQ",
+        "pinned_tweet_id": "1906679319499358381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689059415838560256/fZ457J9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171876,
+          "following_count": 7,
+          "like_count": 7322,
+          "listed_count": 101,
+          "media_count": 6122,
+          "tweet_count": 7317
+        },
+        "url": "https://t.co/XYaC5IpweL",
+        "username": "IShowSpeedHQ",
+        "verified": true
+      }
+    ]
+  }
+}

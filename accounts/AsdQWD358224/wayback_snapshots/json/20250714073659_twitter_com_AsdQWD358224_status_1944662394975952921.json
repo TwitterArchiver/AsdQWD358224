@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944004031333953536"
+      ],
+      "media_source_tweet_id": [
+        "1944004044978368835"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1944662394975952921",
+    "created_at": "2025-07-14T07:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T08:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944662394975952921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600811336010674176",
+          "start": 3,
+          "username": "Chu9w0ww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AhlwRnOOzZ",
+          "end": 60,
+          "expanded_url": "https://x.com/Chu9w0ww/status/1944004044978368835/photo/1",
+          "media_key": "3_1944004031333953536",
+          "start": 37,
+          "url": "https://t.co/AhlwRnOOzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944662394975952921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944004044978368835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chu9w0ww: 感觉像那种走路时后台会挂maimai直播的人 https://t.co/AhlwRnOOzZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944004031333953536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvp9XeGWcAAIbOS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944004031333953536"
+          ],
+          "media_source_tweet_id": [
+            "1944004044978368835"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1944662394975952921",
+        "created_at": "2025-07-14T07:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944662394975952921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600811336010674176",
+              "start": 3,
+              "username": "Chu9w0ww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhlwRnOOzZ",
+              "end": 60,
+              "expanded_url": "https://x.com/Chu9w0ww/status/1944004044978368835/photo/1",
+              "media_key": "3_1944004031333953536",
+              "start": 37,
+              "url": "https://t.co/AhlwRnOOzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944662394975952921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944004044978368835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chu9w0ww: 感觉像那种走路时后台会挂maimai直播的人 https://t.co/AhlwRnOOzZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944004031333953536"
+          ]
+        },
+        "author_id": "1600811336010674176",
+        "conversation_id": "1944004044978368835",
+        "created_at": "2025-07-12T12:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T13:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944004044978368835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhlwRnOOzZ",
+              "end": 46,
+              "expanded_url": "https://x.com/Chu9w0ww/status/1944004044978368835/photo/1",
+              "media_key": "3_1944004031333953536",
+              "start": 23,
+              "url": "https://t.co/AhlwRnOOzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944004044978368835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4233,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "感觉像那种走路时后台会挂maimai直播的人 https://t.co/AhlwRnOOzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/OSDD/人生三周目\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "fe_ions"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分/谷雨（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 3119,
+          "like_count": 95625,
+          "listed_count": 12,
+          "media_count": 1981,
+          "tweet_count": 15646
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T11:15:53.000Z",
+        "description": "无聊的数值怪",
+        "id": "1600811336010674176",
+        "name": "Chu9w0ww",
+        "pinned_tweet_id": "1879629465866919955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653423862753935360/WRP832Lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 20,
+          "like_count": 4681,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 75
+        },
+        "username": "Chu9w0ww",
+        "verified": false
+      }
+    ]
+  }
+}

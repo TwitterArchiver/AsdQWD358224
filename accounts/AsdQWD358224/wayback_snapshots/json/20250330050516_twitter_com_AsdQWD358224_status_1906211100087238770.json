@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1906188989452959897",
+    "created_at": "2025-03-30T05:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T06:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906211100087238770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1670362954590728197",
+          "start": 0,
+          "username": "Kagurazakahyoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906211100087238770",
+    "in_reply_to_user_id": "1670362954590728197",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906188989452959897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagurazakahyoto 👉👈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906188989452959897].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906188989452959897",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906188989452959897"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1906188989452959897",
+        "created_at": "2025-03-30T05:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T06:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906211100087238770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1670362954590728197",
+              "start": 0,
+              "username": "Kagurazakahyoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906211100087238770",
+        "in_reply_to_user_id": "1670362954590728197",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906188989452959897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagurazakahyoto 👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/07年17岁/含糖友跨顺男/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "fe_ions"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 2917,
+          "like_count": 79501,
+          "listed_count": 11,
+          "media_count": 1715,
+          "tweet_count": 13429
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "07| MTX🏳️‍⚧️|:HRT：2025/01/14|无证含糖｜彼女@kiriyama_lemon清酱@heiwawomamore好姐姐@asahi_jx @Xinyi_ADHD小语@charming_xiaoyu杂鱼兰@Inwal3310",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "kiriyama_lemon"
+              },
+              {
+                "end": 67,
+                "start": 53,
+                "username": "heiwawomamore"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "username": "asahi_jx"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "Xinyi_ADHD"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "Inwal3310"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "土星",
+        "name": "神楽坂 溫原🍥🌂",
+        "pinned_tweet_id": "1904884335209242778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904518310261354496/3Kw9woIm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 1006,
+          "like_count": 9214,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 2230
+        },
+        "username": "Kagurazakahyoto",
+        "verified": false
+      }
+    ]
+  }
+}

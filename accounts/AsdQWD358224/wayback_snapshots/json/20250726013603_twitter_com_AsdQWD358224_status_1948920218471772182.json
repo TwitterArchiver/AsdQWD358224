@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1948752602163724289"
+      ],
+      "media_source_tweet_id": [
+        "1948752747165069702"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1948920218471772182",
+    "created_at": "2025-07-26T01:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T02:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948920218471772182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1304245539660275718",
+          "start": 3,
+          "username": "ALCrego_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KRs18RiZur",
+          "end": 49,
+          "expanded_url": "https://x.com/ALCrego_/status/1948752747165069702/photo/1",
+          "media_key": "16_1948752602163724289",
+          "start": 26,
+          "url": "https://t.co/KRs18RiZur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948920218471772182",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2010
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948752747165069702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ALCrego_: · Photons · https://t.co/KRs18RiZur"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "16_1948752602163724289",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GwtcKq8WQAEMUWN.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GwtcKq8WQAEMUWN.mp4"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1948752602163724289"
+          ],
+          "media_source_tweet_id": [
+            "1948752747165069702"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1948920218471772182",
+        "created_at": "2025-07-26T01:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T02:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948920218471772182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1304245539660275718",
+              "start": 3,
+              "username": "ALCrego_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRs18RiZur",
+              "end": 49,
+              "expanded_url": "https://x.com/ALCrego_/status/1948752747165069702/photo/1",
+              "media_key": "16_1948752602163724289",
+              "start": 26,
+              "url": "https://t.co/KRs18RiZur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948920218471772182",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2010
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948752747165069702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ALCrego_: · Photons · https://t.co/KRs18RiZur"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1948752602163724289"
+          ]
+        },
+        "author_id": "1304245539660275718",
+        "conversation_id": "1948752747165069702",
+        "created_at": "2025-07-25T14:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948752747165069702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRs18RiZur",
+              "end": 35,
+              "expanded_url": "https://x.com/ALCrego_/status/1948752747165069702/photo/1",
+              "media_key": "16_1948752602163724289",
+              "start": 12,
+              "url": "https://t.co/KRs18RiZur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948752747165069702",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2988,
+          "impression_count": 527610,
+          "like_count": 15489,
+          "quote_count": 57,
+          "reply_count": 59,
+          "retweet_count": 2010
+        },
+        "reply_settings": "everyone",
+        "text": "· Photons · https://t.co/KRs18RiZur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fe_ions"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气system.（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 3112,
+          "like_count": 96743,
+          "listed_count": 12,
+          "media_count": 2001,
+          "tweet_count": 15744
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-11T02:29:47.000Z",
+        "description": "pic-vid-gif No -ism \nMember of @CementoMusgo and VJ of @DiosketeCrew",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "CementoMusgo"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "username": "DiosketeCrew"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/alcrego",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/alcrego",
+                "start": 0,
+                "url": "https://t.co/GqRccLDpcf"
+              }
+            ]
+          }
+        },
+        "id": "1304245539660275718",
+        "name": "A. L. Crego",
+        "pinned_tweet_id": "1485001774582882305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744569104005021696/7knvHzBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57615,
+          "following_count": 4276,
+          "like_count": 176158,
+          "listed_count": 629,
+          "media_count": 30440,
+          "tweet_count": 175024
+        },
+        "url": "https://t.co/GqRccLDpcf",
+        "username": "ALCrego_",
+        "verified": true
+      }
+    ]
+  }
+}

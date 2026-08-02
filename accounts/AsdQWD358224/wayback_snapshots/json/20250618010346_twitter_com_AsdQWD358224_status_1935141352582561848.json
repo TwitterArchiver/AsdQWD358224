@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935022996088827904"
+      ],
+      "media_source_tweet_id": [
+        "1935023001210060880"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1935141352582561848",
+    "created_at": "2025-06-18T01:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T02:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935141352582561848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1878243162734637056",
+          "start": 3,
+          "username": "MusicGameHell"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dmmSauJtvi",
+          "end": 48,
+          "expanded_url": "https://x.com/MusicGameHell/status/1935023001210060880/photo/1",
+          "media_key": "3_1935022996088827904",
+          "start": 25,
+          "url": "https://t.co/dmmSauJtvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935141352582561848",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935023001210060880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MusicGameHell: Inbox https://t.co/dmmSauJtvi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_1935022996088827904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqVKaoWMAAS3sa.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935022996088827904"
+          ],
+          "media_source_tweet_id": [
+            "1935023001210060880"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1935141352582561848",
+        "created_at": "2025-06-18T01:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T02:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935141352582561848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1878243162734637056",
+              "start": 3,
+              "username": "MusicGameHell"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmmSauJtvi",
+              "end": 48,
+              "expanded_url": "https://x.com/MusicGameHell/status/1935023001210060880/photo/1",
+              "media_key": "3_1935022996088827904",
+              "start": 25,
+              "url": "https://t.co/dmmSauJtvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935141352582561848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935023001210060880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MusicGameHell: Inbox https://t.co/dmmSauJtvi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935022996088827904"
+          ]
+        },
+        "author_id": "1878243162734637056",
+        "conversation_id": "1935023001210060880",
+        "created_at": "2025-06-17T17:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935023001210060880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmmSauJtvi",
+              "end": 29,
+              "expanded_url": "https://x.com/MusicGameHell/status/1935023001210060880/photo/1",
+              "media_key": "3_1935022996088827904",
+              "start": 6,
+              "url": "https://t.co/dmmSauJtvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935023001210060880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3756,
+          "like_count": 262,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "Inbox https://t.co/dmmSauJtvi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "username": "fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 3135,
+          "like_count": 93782,
+          "listed_count": 12,
+          "media_count": 1946,
+          "tweet_count": 15369
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T00:50:55.000Z",
+        "description": "Page for saving music game shitposting.\n\nSubmit your memes, events, new music game releases, gameplay videos,  community news, and anything music game related.",
+        "id": "1878243162734637056",
+        "name": "Music Game Hell",
+        "pinned_tweet_id": "1930631891687702559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925400858361040896/OYPx0HZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 3,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1465,
+          "tweet_count": 1473
+        },
+        "username": "MusicGameHell",
+        "verified": false
+      }
+    ]
+  }
+}

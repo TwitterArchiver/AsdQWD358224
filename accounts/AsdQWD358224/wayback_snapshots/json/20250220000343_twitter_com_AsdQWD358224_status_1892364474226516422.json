@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1892258740688007529",
+    "created_at": "2025-02-20T00:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T01:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892364474226516422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1675450235483717632",
+          "start": 0,
+          "username": "menma_sub"
+        },
+        {
+          "end": 23,
+          "id": "1487651724810723332",
+          "start": 11,
+          "username": "kage_papuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892364474226516422",
+    "in_reply_to_user_id": "1675450235483717632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892268003766485389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@menma_sub @kage_papuki 是的呢，姐姐一定要好好活下去啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1892268003766485389].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1892268003766485389",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1892268003766485389"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1892258740688007529",
+        "created_at": "2025-02-20T00:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T01:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892364474226516422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1675450235483717632",
+              "start": 0,
+              "username": "menma_sub"
+            },
+            {
+              "end": 23,
+              "id": "1487651724810723332",
+              "start": 11,
+              "username": "kage_papuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892364474226516422",
+        "in_reply_to_user_id": "1675450235483717632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892268003766485389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@menma_sub @kage_papuki 是的呢，姐姐一定要好好活下去啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（学校坐牢版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 2621,
+          "like_count": 52731,
+          "listed_count": 7,
+          "media_count": 1282,
+          "tweet_count": 9851
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:24:10.000Z",
+        "description": "@TianqiChen666のsubアカです｜是めんま的小号｜一个倒垃圾的地方，不定时发疯｜感谢浏览｜このアカウントの発言は消極的に偏っていますので、ご注意してください⚠️｜此账号言论较负面，请注意⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1675450235483717632",
+        "name": "めんまsub🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1892258740688007529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887908558257405955/4aO5tr-n_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 211,
+          "like_count": 1539,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 618
+        },
+        "username": "menma_sub",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T04:59:55.000Z",
+        "description": "Hi~这里是Papuki的表推/是神明大人呢😇/大证家暴党/天残😭/友跨🍥友同🌈/无性恋/社恐(不擅长聊天抱歉🥺)/逃避社交/回避型人格😭/大一/很少键政/互fo私信哦/匿名问答: https://t.co/JsvpYyNNtU /应该也没什么好写了的吧",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kage_papuki",
+                "end": 114,
+                "expanded_url": "https://ngl.link/kage_papuki",
+                "start": 91,
+                "url": "https://t.co/JsvpYyNNtU"
+              }
+            ]
+          }
+        },
+        "id": "1487651724810723332",
+        "location": "🌏    🚀    🌕",
+        "name": "Papuki🍜⛩️🦊🌕😇(回家劝家长版)",
+        "pinned_tweet_id": "1889642425586520182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887845723770867713/QBCBLRT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 822,
+          "like_count": 23859,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 3037
+        },
+        "username": "kage_papuki",
+        "verified": false
+      }
+    ]
+  }
+}

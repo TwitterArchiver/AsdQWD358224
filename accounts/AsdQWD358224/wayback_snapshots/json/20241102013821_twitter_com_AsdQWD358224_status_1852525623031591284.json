@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1852333693777678603",
+    "created_at": "2024-11-02T01:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T02:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852525623031591284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1789586690400800769",
+          "start": 0,
+          "username": "ameear005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852525623031591284",
+    "in_reply_to_user_id": "1789586690400800769",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852333693777678603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameear005 巴勒斯坦应该属于太平天国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1852333693777678603",
+        "created_at": "2024-11-02T01:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T02:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852525623031591284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1789586690400800769",
+              "start": 0,
+              "username": "ameear005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852525623031591284",
+        "in_reply_to_user_id": "1789586690400800769",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852333693777678603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameear005 巴勒斯坦应该属于太平天国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789586690400800769",
+        "conversation_id": "1852333693777678603",
+        "created_at": "2024-11-01T12:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T13:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852333693777678603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852333693777678603",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3674,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以色列 vs 巴勒斯坦\n\n有没有人谁不支持任何一方？像我这样的人。😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站",
+        "name": "鲜虾🍤鱼板🍥面🍜（互FO）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 1387,
+          "like_count": 2654,
+          "listed_count": 0,
+          "tweet_count": 515
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "♦️♦️♦️",
+        "id": "1789586690400800769",
+        "location": "미합중국 해군항공대",
+        "name": "아멜리아 에어하트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816495461983027200/TBpwUHdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 923,
+          "like_count": 15743,
+          "listed_count": 5,
+          "tweet_count": 4245
+        },
+        "username": "ameear005",
+        "verified": false
+      }
+    ]
+  }
+}

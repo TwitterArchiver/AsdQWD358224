@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1835890098145206612",
+    "created_at": "2024-09-17T16:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T17:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836081655649550711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1786694173883871232",
+          "start": 0,
+          "username": "2022Fxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836081655649550711",
+    "in_reply_to_user_id": "1786694173883871232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835890098145206612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2022Fxs 高几？不会直接上高三吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1835890098145206612",
+        "created_at": "2024-09-17T16:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T17:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836081655649550711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786694173883871232",
+              "start": 0,
+              "username": "2022Fxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836081655649550711",
+        "in_reply_to_user_id": "1786694173883871232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835890098145206612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2022Fxs 高几？不会直接上高三吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786694173883871232",
+        "conversation_id": "1835890098145206612",
+        "created_at": "2024-09-17T03:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T04:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835890098145206612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835890098145206612",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天复学了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 908,
+          "like_count": 1859,
+          "listed_count": 0,
+          "tweet_count": 155
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T09:47:51.000Z",
+        "description": "在努力活着\n爱人，活着的原因与目的@sabulin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "sabulin8964"
+              }
+            ]
+          }
+        },
+        "id": "1786694173883871232",
+        "location": "黑暗的角落",
+        "name": "流光🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819243129423515648/OcxK0fXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 256,
+          "like_count": 10736,
+          "listed_count": 2,
+          "tweet_count": 5889
+        },
+        "username": "2022Fxs",
+        "verified": false
+      }
+    ]
+  }
+}

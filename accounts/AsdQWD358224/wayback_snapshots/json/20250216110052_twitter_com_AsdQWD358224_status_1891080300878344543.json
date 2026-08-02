@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885209537113972739"
+      ],
+      "media_source_tweet_id": [
+        "1885209581368053932"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1891080300878344543",
+    "created_at": "2025-02-16T11:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T12:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891080300878344543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759046390242799616",
+          "start": 3,
+          "username": "seed1355850"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rz4H0xWNtA",
+          "end": 48,
+          "expanded_url": "https://x.com/seed1355850/status/1885209581368053932/photo/1",
+          "media_key": "3_1885209537113972739",
+          "start": 25,
+          "url": "https://t.co/rz4H0xWNtA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891080300878344543",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885209581368053932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seed1355850: 西藏林芝美景！ https://t.co/rz4H0xWNtA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1891080300878344543].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1891080300878344543",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1891080300878344543"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1396,
+        "media_key": "3_1885209537113972739",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GimcFfLbYAMwYpp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885209537113972739"
+          ]
+        },
+        "author_id": "1759046390242799616",
+        "conversation_id": "1885209581368053932",
+        "created_at": "2025-01-31T06:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T07:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885209581368053932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rz4H0xWNtA",
+              "end": 31,
+              "expanded_url": "https://x.com/seed1355850/status/1885209581368053932/photo/1",
+              "media_key": "3_1885209537113972739",
+              "start": 8,
+              "url": "https://t.co/rz4H0xWNtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885209581368053932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1239,
+          "like_count": 199,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "西藏林芝美景！ https://t.co/rz4H0xWNtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢猫猫/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_7650  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 97,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "fe_ions"
+              },
+              {
+                "end": 151,
+                "start": 137,
+                "username": "Caroline_7650"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（戒O版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 2607,
+          "like_count": 50904,
+          "listed_count": 7,
+          "media_count": 1183,
+          "tweet_count": 9399
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T02:45:28.000Z",
+        "description": "分享生活，分享快乐，部分图片来自网络，如有不妥，请联系删除。",
+        "id": "1759046390242799616",
+        "name": "flower seed（💯互fo💯互评互赞）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759046780883464192/e0_gohaP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7726,
+          "following_count": 7830,
+          "like_count": 75818,
+          "listed_count": 11,
+          "media_count": 253,
+          "tweet_count": 2844
+        },
+        "username": "seed1355850",
+        "verified": false
+      }
+    ]
+  }
+}

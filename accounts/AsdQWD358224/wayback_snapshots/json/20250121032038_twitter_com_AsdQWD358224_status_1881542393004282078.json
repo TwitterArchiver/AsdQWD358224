@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337567798169600",
+          "name": "Products - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873034",
+          "name": "AMD"
+        }
+      }
+    ],
+    "conversation_id": "1880923329290437037",
+    "created_at": "2025-01-21T03:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T04:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881542393004282078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817214536753020928",
+          "start": 0,
+          "username": "LinranOVERDOSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881542393004282078",
+    "in_reply_to_user_id": "1817214536753020928",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880923329290437037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinranOVERDOSE AMD R5 5600"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873034",
+              "name": "AMD"
+            }
+          }
+        ],
+        "conversation_id": "1880923329290437037",
+        "created_at": "2025-01-21T03:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T04:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881542393004282078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817214536753020928",
+              "start": 0,
+              "username": "LinranOVERDOSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881542393004282078",
+        "in_reply_to_user_id": "1817214536753020928",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880923329290437037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinranOVERDOSE AMD R5 5600"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817214536753020928",
+        "conversation_id": "1880923329290437037",
+        "created_at": "2025-01-19T10:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880923329290437037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880923329290437037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 56062,
+          "like_count": 351,
+          "quote_count": 9,
+          "reply_count": 385,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "推友们都在用什么处理器？\n我有用骁龙660，骁龙8GEN2和E5-2666 V3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 2250,
+          "like_count": 30087,
+          "listed_count": 5,
+          "media_count": 496,
+          "tweet_count": 5638
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T15:05:00.000Z",
+        "description": "私信回fo，每天都会给大家带来推荐歌曲的哦~\n🇨🇳  | 垃圾佬 | 学生 | 无证不含糖边缘mtf🏳️‍⚧️ | 板绘练习in | 双关语\n这里是铃岚，最重要的人@ZAQwQ2147LvU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "ZAQwQ2147LvU"
+              }
+            ]
+          }
+        },
+        "id": "1817214536753020928",
+        "location": "Behind you",
+        "name": "铃岚リラん🎐",
+        "pinned_tweet_id": "1859354456846204964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817214787706560512/pqA1Gwr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 616,
+          "like_count": 5397,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1112
+        },
+        "username": "LinranOVERDOSE",
+        "verified": false
+      }
+    ]
+  }
+}

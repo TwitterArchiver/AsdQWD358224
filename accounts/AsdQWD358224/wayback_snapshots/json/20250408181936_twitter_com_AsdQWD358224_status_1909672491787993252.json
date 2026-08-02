@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909672488562475008"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1909665818960707861",
+    "created_at": "2025-04-08T18:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T19:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909672491787993252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "HyotoChandesuyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ze2H5AqokL",
+          "end": 40,
+          "expanded_url": "https://x.com/AsdQWD358224/status/1909672491787993252/photo/1",
+          "media_key": "3_1909672488562475008",
+          "start": 17,
+          "url": "https://t.co/ze2H5AqokL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909672491787993252",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909671996927185304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyotoChandesuyo https://t.co/ze2H5AqokL"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1909671996927185304].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1909671996927185304",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1909671996927185304"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909672488562475008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoCFAq4aQAAZNJ7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909672488562475008"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1909665818960707861",
+        "created_at": "2025-04-08T18:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T19:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909672491787993252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "HyotoChandesuyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ze2H5AqokL",
+              "end": 40,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1909672491787993252/photo/1",
+              "media_key": "3_1909672488562475008",
+              "start": 17,
+              "url": "https://t.co/ze2H5AqokL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909672491787993252",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909671996927185304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyotoChandesuyo https://t.co/ze2H5AqokL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "fe_ions"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（清明节ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 2988,
+          "like_count": 85097,
+          "listed_count": 12,
+          "media_count": 1783,
+          "tweet_count": 13978
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "いつまでも風に吹かれたい",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと 🍥",
+        "pinned_tweet_id": "1903805604915020062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905203684100988929/7iDkVEzE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 973,
+          "like_count": 90718,
+          "listed_count": 14,
+          "media_count": 4079,
+          "tweet_count": 26884
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

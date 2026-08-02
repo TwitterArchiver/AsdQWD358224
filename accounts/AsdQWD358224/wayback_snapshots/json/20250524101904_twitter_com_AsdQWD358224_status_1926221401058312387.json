@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1924325307416260609"
+      ],
+      "media_source_tweet_id": [
+        "1924325356720341306"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1926221401058312387",
+    "created_at": "2025-05-24T10:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T11:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926221401058312387"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Explosions",
+          "probability": 0.6906,
+          "start": 22,
+          "type": "Other"
+        },
+        {
+          "end": 48,
+          "normalized_text": "Battlefield 6",
+          "probability": 0.9487,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 75,
+          "normalized_text": "Battlefield",
+          "probability": 0.8787,
+          "start": 65,
+          "type": "Other"
+        },
+        {
+          "end": 91,
+          "normalized_text": "Battlefield6",
+          "probability": 0.8157,
+          "start": 80,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 64,
+          "tag": "Battlefield"
+        },
+        {
+          "end": 92,
+          "start": 79,
+          "tag": "Battlefield6"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "774708231457341440",
+          "start": 3,
+          "username": "FPSFRONTLINE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pRnP6e55xn",
+          "end": 116,
+          "expanded_url": "https://x.com/FPSFRONTLINE/status/1924325356720341306/video/1",
+          "media_key": "13_1924325307416260609",
+          "start": 93,
+          "url": "https://t.co/pRnP6e55xn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926221401058312387",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924325356720341306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FPSFRONTLINE: The Explosions on Battlefield 6 are insane 🤯\n\n#Battlefield | #Battlefield6 https://t.co/pRnP6e55xn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5200,
+        "height": 720,
+        "media_key": "13_1924325307416260609",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1924325307416260609/img/tq390zSgZb5u8r89.jpg",
+        "public_metrics": {
+          "view_count": 61415
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924325307416260609/vid/avc1/480x270/nIbH13tH8ZpG8i6M.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924325307416260609/vid/avc1/640x360/JWm53JaXtp532nIv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924325307416260609/vid/avc1/1280x720/Rs96KCbLzA7aON-r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1924325307416260609/pl/z_ohVk9yubqa2nJx.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1924325307416260609"
+          ],
+          "media_source_tweet_id": [
+            "1924325356720341306"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1926221401058312387",
+        "created_at": "2025-05-24T10:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926221401058312387"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Explosions",
+              "probability": 0.6906,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 48,
+              "normalized_text": "Battlefield 6",
+              "probability": 0.9487,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Battlefield",
+              "probability": 0.8787,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 91,
+              "normalized_text": "Battlefield6",
+              "probability": 0.8157,
+              "start": 80,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "Battlefield"
+            },
+            {
+              "end": 92,
+              "start": 79,
+              "tag": "Battlefield6"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "774708231457341440",
+              "start": 3,
+              "username": "FPSFRONTLINE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRnP6e55xn",
+              "end": 116,
+              "expanded_url": "https://x.com/FPSFRONTLINE/status/1924325356720341306/video/1",
+              "media_key": "13_1924325307416260609",
+              "start": 93,
+              "url": "https://t.co/pRnP6e55xn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926221401058312387",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924325356720341306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FPSFRONTLINE: The Explosions on Battlefield 6 are insane 🤯\n\n#Battlefield | #Battlefield6 https://t.co/pRnP6e55xn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1924325307416260609"
+          ]
+        },
+        "author_id": "774708231457341440",
+        "conversation_id": "1924325356720341306",
+        "created_at": "2025-05-19T04:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T05:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924325356720341306"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Explosions",
+              "probability": 0.5549,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "Battlefield 6",
+              "probability": 0.9621,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Battlefield",
+              "probability": 0.8789,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Battlefield6",
+              "probability": 0.8199,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 46,
+              "tag": "Battlefield"
+            },
+            {
+              "end": 74,
+              "start": 61,
+              "tag": "Battlefield6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRnP6e55xn",
+              "end": 98,
+              "expanded_url": "https://x.com/FPSFRONTLINE/status/1924325356720341306/video/1",
+              "media_key": "13_1924325307416260609",
+              "start": 75,
+              "url": "https://t.co/pRnP6e55xn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924325356720341306",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 130877,
+          "like_count": 2046,
+          "quote_count": 12,
+          "reply_count": 23,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "The Explosions on Battlefield 6 are insane 🤯\n\n#Battlefield | #Battlefield6 https://t.co/pRnP6e55xn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/泛性恋/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "fe_ions"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1922659380727591195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 3135,
+          "like_count": 91801,
+          "listed_count": 12,
+          "media_count": 1916,
+          "tweet_count": 15084
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-10T20:36:50.000Z",
+        "description": "Your #1 Source for Call of Duty, Battlefield, and FPS News! Get the latest leaks, updates, and insights. Follow now! #FPS #CallofDuty #Warzone #Battlefield",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "FPS"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "tag": "CallofDuty"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "tag": "Warzone"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "tag": "Battlefield"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/FPSFRONTLINE",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/FPSFRONTLINE",
+                "start": 0,
+                "url": "https://t.co/OHr1Y3Rc3q"
+              }
+            ]
+          }
+        },
+        "id": "774708231457341440",
+        "location": "Connect With Us 👉",
+        "name": "FPS FRONTLINE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923182838154743808/pGyI96LM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139226,
+          "following_count": 437,
+          "like_count": 13257,
+          "listed_count": 223,
+          "media_count": 5730,
+          "tweet_count": 13702
+        },
+        "url": "https://t.co/OHr1Y3Rc3q",
+        "username": "FPSFRONTLINE",
+        "verified": true
+      }
+    ]
+  }
+}

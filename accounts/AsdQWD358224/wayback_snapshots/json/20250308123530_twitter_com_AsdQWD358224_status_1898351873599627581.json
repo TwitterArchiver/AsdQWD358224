@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898345722044702720",
+        "3_1898345722594066432",
+        "3_1898345722623512576",
+        "3_1898345723017809920"
+      ],
+      "media_source_tweet_id": [
+        "1898345731150512172",
+        "1898345731150512172",
+        "1898345731150512172",
+        "1898345731150512172"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1898351873599627581",
+    "created_at": "2025-03-08T12:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T13:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898351873599627581"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812822938728726528",
+          "start": 3,
+          "username": "hukouya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fbee1TaDbm",
+          "end": 70,
+          "expanded_url": "https://x.com/hukouya/status/1898345731150512172/photo/1",
+          "media_key": "3_1898345722044702720",
+          "start": 47,
+          "url": "https://t.co/fbee1TaDbm"
+        },
+        {
+          "display_url": "pic.x.com/fbee1TaDbm",
+          "end": 70,
+          "expanded_url": "https://x.com/hukouya/status/1898345731150512172/photo/1",
+          "media_key": "3_1898345722594066432",
+          "start": 47,
+          "url": "https://t.co/fbee1TaDbm"
+        },
+        {
+          "display_url": "pic.x.com/fbee1TaDbm",
+          "end": 70,
+          "expanded_url": "https://x.com/hukouya/status/1898345731150512172/photo/1",
+          "media_key": "3_1898345722623512576",
+          "start": 47,
+          "url": "https://t.co/fbee1TaDbm"
+        },
+        {
+          "display_url": "pic.x.com/fbee1TaDbm",
+          "end": 70,
+          "expanded_url": "https://x.com/hukouya/status/1898345731150512172/photo/1",
+          "media_key": "3_1898345723017809920",
+          "start": 47,
+          "url": "https://t.co/fbee1TaDbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898351873599627581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898345731150512172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hukouya: 可爱一点的……好像还行，长发好磨人\n#kigurumi #着ぐるみ https://t.co/fbee1TaDbm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898351873599627581].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898351873599627581",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898351873599627581"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898345722044702720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlhHYFdbYAAnDpc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898345722594066432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlhHYHgaAAAajZ3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898345722623512576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlhHYHnbUAAH1S9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898345723017809920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlhHYJFb0AAN_7d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898345722044702720",
+            "3_1898345722594066432",
+            "3_1898345722623512576",
+            "3_1898345723017809920"
+          ]
+        },
+        "author_id": "1812822938728726528",
+        "conversation_id": "1898345731150512172",
+        "created_at": "2025-03-08T12:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T13:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898345731150512172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbee1TaDbm",
+              "end": 57,
+              "expanded_url": "https://x.com/hukouya/status/1898345731150512172/photo/1",
+              "media_key": "3_1898345722044702720",
+              "start": 34,
+              "url": "https://t.co/fbee1TaDbm"
+            },
+            {
+              "display_url": "pic.x.com/fbee1TaDbm",
+              "end": 57,
+              "expanded_url": "https://x.com/hukouya/status/1898345731150512172/photo/1",
+              "media_key": "3_1898345722594066432",
+              "start": 34,
+              "url": "https://t.co/fbee1TaDbm"
+            },
+            {
+              "display_url": "pic.x.com/fbee1TaDbm",
+              "end": 57,
+              "expanded_url": "https://x.com/hukouya/status/1898345731150512172/photo/1",
+              "media_key": "3_1898345722623512576",
+              "start": 34,
+              "url": "https://t.co/fbee1TaDbm"
+            },
+            {
+              "display_url": "pic.x.com/fbee1TaDbm",
+              "end": 57,
+              "expanded_url": "https://x.com/hukouya/status/1898345731150512172/photo/1",
+              "media_key": "3_1898345723017809920",
+              "start": 34,
+              "url": "https://t.co/fbee1TaDbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898345731150512172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "可爱一点的……好像还行，长发好磨人\n#kigurumi #着ぐるみ https://t.co/fbee1TaDbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 2740,
+          "like_count": 66315,
+          "listed_count": 7,
+          "media_count": 1558,
+          "tweet_count": 11923
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T12:14:13.000Z",
+        "description": "只想当普通的kiger，不想多参与杂事，请理解/目前的女儿是小海湾和麦昆，未出生的是要乐奈，收养了🕯️@TianqiChen666🕯️的亚托莉/需要大家多指正和包涵的萌新/偶尔有一点不清水的坏孩子/本质是芳文和百合厨/欢迎私扩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1812822938728726528",
+        "location": "金陵or赣",
+        "name": "萤火与户口（萤户）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812880966186360832/hZnfkubX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 3010,
+          "like_count": 2501,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 1732
+        },
+        "username": "hukouya",
+        "verified": false
+      }
+    ]
+  }
+}

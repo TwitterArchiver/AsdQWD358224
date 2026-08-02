@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891486608882626560",
+        "3_1891486609448828928"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1681830421095665665",
+    "created_at": "2025-02-17T13:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T14:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891486611264950662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1340513105504161793",
+          "start": 0,
+          "username": "xuzhoushuye2020"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ga7jf81FgB",
+          "end": 40,
+          "expanded_url": "https://x.com/AsdQWD358224/status/1891486611264950662/photo/1",
+          "media_key": "3_1891486608882626560",
+          "start": 17,
+          "url": "https://t.co/Ga7jf81FgB"
+        },
+        {
+          "display_url": "pic.x.com/Ga7jf81FgB",
+          "end": 40,
+          "expanded_url": "https://x.com/AsdQWD358224/status/1891486611264950662/photo/1",
+          "media_key": "3_1891486609448828928",
+          "start": 17,
+          "url": "https://t.co/Ga7jf81FgB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891486611264950662",
+    "in_reply_to_user_id": "1340513105504161793",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1681830421095665665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuzhoushuye2020 https://t.co/Ga7jf81FgB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 617,
+        "media_key": "3_1891486608882626560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj_pDJvbcAAOp9P.jpg",
+        "width": 720
+      },
+      {
+        "height": 237,
+        "media_key": "3_1891486609448828928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj_pDL2bAAAx9Gd.jpg",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891486608882626560",
+            "3_1891486609448828928"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1681830421095665665",
+        "created_at": "2025-02-17T13:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T14:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891486611264950662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1340513105504161793",
+              "start": 0,
+              "username": "xuzhoushuye2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ga7jf81FgB",
+              "end": 40,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1891486611264950662/photo/1",
+              "media_key": "3_1891486608882626560",
+              "start": 17,
+              "url": "https://t.co/Ga7jf81FgB"
+            },
+            {
+              "display_url": "pic.x.com/Ga7jf81FgB",
+              "end": 40,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1891486611264950662/photo/1",
+              "media_key": "3_1891486609448828928",
+              "start": 17,
+              "url": "https://t.co/Ga7jf81FgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891486611264950662",
+        "in_reply_to_user_id": "1340513105504161793",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1681830421095665665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuzhoushuye2020 https://t.co/Ga7jf81FgB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1681808235978985472",
+            "3_1681808235983171584",
+            "3_1681830414028263424",
+            "3_1681811366326448128"
+          ]
+        },
+        "author_id": "1340513105504161793",
+        "conversation_id": "1681830421095665665",
+        "created_at": "2023-07-20T00:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2023-07-20T01:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1681830421095665665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "人形提款机"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "傻逼奴"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "无脑上贡"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "报销奴"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "黑心压榨"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "工资奴"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "账单奴"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "供猪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYWcKDtKrJ",
+              "end": 107,
+              "expanded_url": "https://x.com/xuzhoushuye2020/status/1681830421095665665/photo/1",
+              "media_key": "3_1681808235978985472",
+              "start": 84,
+              "url": "https://t.co/bYWcKDtKrJ"
+            },
+            {
+              "display_url": "pic.x.com/bYWcKDtKrJ",
+              "end": 107,
+              "expanded_url": "https://x.com/xuzhoushuye2020/status/1681830421095665665/photo/1",
+              "media_key": "3_1681808235983171584",
+              "start": 84,
+              "url": "https://t.co/bYWcKDtKrJ"
+            },
+            {
+              "display_url": "pic.x.com/bYWcKDtKrJ",
+              "end": 107,
+              "expanded_url": "https://x.com/xuzhoushuye2020/status/1681830421095665665/photo/1",
+              "media_key": "3_1681830414028263424",
+              "start": 84,
+              "url": "https://t.co/bYWcKDtKrJ"
+            },
+            {
+              "display_url": "pic.x.com/bYWcKDtKrJ",
+              "end": 107,
+              "expanded_url": "https://x.com/xuzhoushuye2020/status/1681830421095665665/photo/1",
+              "media_key": "3_1681811366326448128",
+              "start": 84,
+              "url": "https://t.co/bYWcKDtKrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1681830421095665665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 84951,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那些想看爹拉屎的傻逼，撸着自己阳痿的废物JB，跪着给爹贡拉屎辛苦费。#ATM奴 #人形提款机 🏧#傻逼奴 #无脑上贡 #报销奴 #黑心压榨 #工资奴 #账单奴 #供猪 https://t.co/bYWcKDtKrJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_7650  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_7650"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（学校坐牢版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 2615,
+          "like_count": 51453,
+          "listed_count": 7,
+          "media_count": 1221,
+          "tweet_count": 9550
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-20T04:23:36.000Z",
+        "description": "收脚奴，狗奴，马奴，账单奴，🏧奴，工资奴，🚾奴,出原味。【佛性更新，请勿催更】。QQ:976174112（加QQ备注自己的属性。）不接推广，不卖号。",
+        "id": "1340513105504161793",
+        "location": "江苏徐州",
+        "name": "徐州鼠爷",
+        "pinned_tweet_id": "1853008851450339825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342319230448857089/hq7l3Z-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14351,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 33,
+          "media_count": 64,
+          "tweet_count": 71
+        },
+        "username": "xuzhoushuye2020",
+        "verified": false
+      }
+    ]
+  }
+}

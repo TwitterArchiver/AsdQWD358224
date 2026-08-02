@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1820135556866797568",
+        "3_1820135556829126656",
+        "3_1820135556829138944",
+        "3_1820135556820713472"
+      ],
+      "media_source_tweet_id": [
+        "1820135703185113222",
+        "1820135703185113222",
+        "1820135703185113222",
+        "1820135703185113222"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1895135955885138358",
+    "created_at": "2025-02-27T15:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T16:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895135955885138358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "870984790639394816",
+          "start": 3,
+          "username": "amandalan1107"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b0ELNOjEqm",
+          "end": 130,
+          "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+          "media_key": "13_1820135556866797568",
+          "start": 107,
+          "url": "https://t.co/b0ELNOjEqm"
+        },
+        {
+          "display_url": "pic.x.com/b0ELNOjEqm",
+          "end": 130,
+          "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+          "media_key": "3_1820135556829126656",
+          "start": 107,
+          "url": "https://t.co/b0ELNOjEqm"
+        },
+        {
+          "display_url": "pic.x.com/b0ELNOjEqm",
+          "end": 130,
+          "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+          "media_key": "3_1820135556829138944",
+          "start": 107,
+          "url": "https://t.co/b0ELNOjEqm"
+        },
+        {
+          "display_url": "pic.x.com/b0ELNOjEqm",
+          "end": 130,
+          "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+          "media_key": "3_1820135556820713472",
+          "start": 107,
+          "url": "https://t.co/b0ELNOjEqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895135955885138358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820135703185113222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amandalan1107: 最后告别曲目照例是《友谊地久天长》，跟表演完的上海老阿哥开心交谈，难为西装笔挺，皮鞋铮亮的老克勒阿哥们也不嫌我一双拖鞋走天涯的南洋风，大家一起拍照相约再喝一杯，又约明晚再聚。 https://t.co/b0ELNOjEqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75106,
+        "height": 720,
+        "media_key": "13_1820135556866797568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1820135556866797568/img/vqnOuMkrcqAurC3p.jpg",
+        "public_metrics": {
+          "view_count": 4933
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1820135556866797568/vid/avc1/480x270/KuPKHP0kwR9TWqaN.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1820135556866797568/vid/avc1/640x360/VG6EjUtTcPJ0RjcZ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1820135556866797568/vid/avc1/1280x720/bqBRlICxqwjB0Z2A.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1820135556866797568/pl/NzxRexly61NtBNkB.m3u8?tag=16&v=cbd"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1820135556829126656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUJrpTvboAAHJpZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1820135556829138944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUJrpTvb0AAORLg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1820135556820713472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUJrpTtbQAAL1EI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1820135556866797568",
+            "3_1820135556829126656",
+            "3_1820135556829138944",
+            "3_1820135556820713472"
+          ],
+          "media_source_tweet_id": [
+            "1820135703185113222",
+            "1820135703185113222",
+            "1820135703185113222",
+            "1820135703185113222"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1895135955885138358",
+        "created_at": "2025-02-27T15:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T16:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895135955885138358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "870984790639394816",
+              "start": 3,
+              "username": "amandalan1107"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0ELNOjEqm",
+              "end": 130,
+              "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+              "media_key": "13_1820135556866797568",
+              "start": 107,
+              "url": "https://t.co/b0ELNOjEqm"
+            },
+            {
+              "display_url": "pic.x.com/b0ELNOjEqm",
+              "end": 130,
+              "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+              "media_key": "3_1820135556829126656",
+              "start": 107,
+              "url": "https://t.co/b0ELNOjEqm"
+            },
+            {
+              "display_url": "pic.x.com/b0ELNOjEqm",
+              "end": 130,
+              "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+              "media_key": "3_1820135556829138944",
+              "start": 107,
+              "url": "https://t.co/b0ELNOjEqm"
+            },
+            {
+              "display_url": "pic.x.com/b0ELNOjEqm",
+              "end": 130,
+              "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+              "media_key": "3_1820135556820713472",
+              "start": 107,
+              "url": "https://t.co/b0ELNOjEqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895135955885138358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820135703185113222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amandalan1107: 最后告别曲目照例是《友谊地久天长》，跟表演完的上海老阿哥开心交谈，难为西装笔挺，皮鞋铮亮的老克勒阿哥们也不嫌我一双拖鞋走天涯的南洋风，大家一起拍照相约再喝一杯，又约明晚再聚。 https://t.co/b0ELNOjEqm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1820135556866797568",
+            "3_1820135556829126656",
+            "3_1820135556829138944",
+            "3_1820135556820713472"
+          ]
+        },
+        "author_id": "870984790639394816",
+        "conversation_id": "1820135703185113222",
+        "created_at": "2024-08-04T16:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T17:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820135703185113222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0ELNOjEqm",
+              "end": 111,
+              "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+              "media_key": "13_1820135556866797568",
+              "start": 88,
+              "url": "https://t.co/b0ELNOjEqm"
+            },
+            {
+              "display_url": "pic.x.com/b0ELNOjEqm",
+              "end": 111,
+              "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+              "media_key": "3_1820135556829126656",
+              "start": 88,
+              "url": "https://t.co/b0ELNOjEqm"
+            },
+            {
+              "display_url": "pic.x.com/b0ELNOjEqm",
+              "end": 111,
+              "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+              "media_key": "3_1820135556829138944",
+              "start": 88,
+              "url": "https://t.co/b0ELNOjEqm"
+            },
+            {
+              "display_url": "pic.x.com/b0ELNOjEqm",
+              "end": 111,
+              "expanded_url": "https://x.com/amandalan1107/status/1820135703185113222/video/1",
+              "media_key": "3_1820135556820713472",
+              "start": 88,
+              "url": "https://t.co/b0ELNOjEqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820135703185113222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8804,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "最后告别曲目照例是《友谊地久天长》，跟表演完的上海老阿哥开心交谈，难为西装笔挺，皮鞋铮亮的老克勒阿哥们也不嫌我一双拖鞋走天涯的南洋风，大家一起拍照相约再喝一杯，又约明晚再聚。 https://t.co/b0ELNOjEqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（复学 ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894980154599837696/FcQHSP86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 2685,
+          "like_count": 58362,
+          "listed_count": 7,
+          "media_count": 1449,
+          "tweet_count": 10935
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-03T12:45:31.000Z",
+        "description": "无条件的信任就是爱 忍得住就忍，忍不住就哭，一切都会过去的。 如果你认识从前的我，也许你会原谅现在的我。（完全不认识的人擅自给我发私信骚扰，直接屏蔽拉黑）",
+        "id": "870984790639394816",
+        "location": "Singapore",
+        "name": "曼曼",
+        "pinned_tweet_id": "1889951933907251303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875338496409468928/ZMxQoJ1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16725,
+          "following_count": 2485,
+          "like_count": 20179,
+          "listed_count": 56,
+          "media_count": 4522,
+          "tweet_count": 30241
+        },
+        "username": "amandalan1107",
+        "verified": true
+      }
+    ]
+  }
+}

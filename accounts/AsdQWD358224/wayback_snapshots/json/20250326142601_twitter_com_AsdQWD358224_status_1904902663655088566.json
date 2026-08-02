@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902297069559410690"
+      ],
+      "media_source_tweet_id": [
+        "1904367646931607865"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1904902663655088566",
+    "created_at": "2025-03-26T14:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T15:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904902663655088566"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "オンゲキ Re:Fresh",
+          "probability": 0.6987,
+          "start": 40,
+          "type": "Other"
+        },
+        {
+          "end": 76,
+          "normalized_text": "Our Wrenally",
+          "probability": 0.7522,
+          "start": 65,
+          "type": "Other"
+        },
+        {
+          "end": 82,
+          "normalized_text": "8-EM",
+          "probability": 0.5331,
+          "start": 79,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "923845298027294720",
+          "start": 3,
+          "username": "ongeki_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xjBQ9bSFCg",
+          "end": 116,
+          "expanded_url": "https://x.com/ongeki_official/status/1904367646931607865/photo/1",
+          "media_key": "3_1902297069559410690",
+          "start": 93,
+          "url": "https://t.co/xjBQ9bSFCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904902663655088566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1469
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904367646931607865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ongeki_official: 3/27(木)稼働となる新バージョン『オンゲキ Re:Fresh』では、チュウマイ楽曲「Our Wrenally」「8-EM」が追加されます！ https://t.co/xjBQ9bSFCg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_1902297069559410690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZRGyBa8AIwBmR.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902297069559410690"
+          ],
+          "media_source_tweet_id": [
+            "1904367646931607865"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1904902663655088566",
+        "created_at": "2025-03-26T14:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T15:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904902663655088566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "オンゲキ Re:Fresh",
+              "probability": 0.6987,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "Our Wrenally",
+              "probability": 0.7522,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "8-EM",
+              "probability": 0.5331,
+              "start": 79,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "923845298027294720",
+              "start": 3,
+              "username": "ongeki_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjBQ9bSFCg",
+              "end": 116,
+              "expanded_url": "https://x.com/ongeki_official/status/1904367646931607865/photo/1",
+              "media_key": "3_1902297069559410690",
+              "start": 93,
+              "url": "https://t.co/xjBQ9bSFCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904902663655088566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1469
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904367646931607865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ongeki_official: 3/27(木)稼働となる新バージョン『オンゲキ Re:Fresh』では、チュウマイ楽曲「Our Wrenally」「8-EM」が追加されます！ https://t.co/xjBQ9bSFCg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902297069559410690"
+          ]
+        },
+        "author_id": "923845298027294720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1904367646931607865",
+        "created_at": "2025-03-25T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904367646931607865"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "オンゲキ Re:Fresh",
+              "probability": 0.7989,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Our Wrenally",
+              "probability": 0.7806,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "8-EM",
+              "probability": 0.5648,
+              "start": 58,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjBQ9bSFCg",
+              "end": 95,
+              "expanded_url": "https://x.com/ongeki_official/status/1904367646931607865/photo/1",
+              "media_key": "3_1902297069559410690",
+              "start": 72,
+              "url": "https://t.co/xjBQ9bSFCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904367646931607865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 358122,
+          "like_count": 3396,
+          "quote_count": 375,
+          "reply_count": 9,
+          "retweet_count": 1469
+        },
+        "reply_settings": "everyone",
+        "text": "3/27(木)稼働となる新バージョン『オンゲキ Re:Fresh』では、チュウマイ楽曲「Our Wrenally」「8-EM」が追加されます！ https://t.co/xjBQ9bSFCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧/成都刷新/可以喊我“面面”/泛性恋\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "fe_ions"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 2906,
+          "like_count": 77356,
+          "listed_count": 11,
+          "media_count": 1689,
+          "tweet_count": 13223
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-27T09:34:18.000Z",
+        "description": "SEGA音楽ゲーム「オンゲキ」の公式アカウントです。▼ゲキチュウマイ→@performai ▼チュウニズム公式→ @chunithm ▼maimai公式→ @maimai_official ▼公式全国大会→ @kop_sega ▼Youtubeチャンネル→https://t.co/TMlWfMLoQS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "performai"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "chunithm"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "maimai_official"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "kop_sega"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/ONGEKI",
+                "end": 151,
+                "expanded_url": "http://youtube.com/c/ONGEKI",
+                "start": 128,
+                "url": "https://t.co/TMlWfMLoQS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ongeki.sega.jp",
+                "end": 23,
+                "expanded_url": "https://ongeki.sega.jp",
+                "start": 0,
+                "url": "https://t.co/RvEDrgsKoh"
+              }
+            ]
+          }
+        },
+        "id": "923845298027294720",
+        "location": "セガ",
+        "name": "オンゲキ公式",
+        "pinned_tweet_id": "1903642863495160172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642000184547889154/D0hZHBwD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121899,
+          "following_count": 61,
+          "like_count": 390,
+          "listed_count": 1089,
+          "media_count": 1903,
+          "tweet_count": 3732
+        },
+        "url": "https://t.co/RvEDrgsKoh",
+        "username": "ongeki_official",
+        "verified": true
+      }
+    ]
+  }
+}

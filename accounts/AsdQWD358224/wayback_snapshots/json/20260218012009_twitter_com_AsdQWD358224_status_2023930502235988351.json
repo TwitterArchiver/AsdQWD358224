@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023696064390590474"
+      ],
+      "media_source_tweet_id": [
+        "2023870570182402502"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023930502235988351",
+    "created_at": "2026-02-18T01:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T02:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023930502235988351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739880218347937792",
+          "start": 3,
+          "username": "kitten_zukan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UP5uUVUiVp",
+          "end": 54,
+          "expanded_url": "https://x.com/kitten_zukan/status/2023870570182402502/video/1",
+          "media_key": "13_2023696064390590474",
+          "start": 31,
+          "url": "https://t.co/UP5uUVUiVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023930502235988351",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023870570182402502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitten_zukan: ^ ̳ᴗ  ̫ ᴗ ̳^ https://t.co/UP5uUVUiVp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14826,
+        "height": 662,
+        "media_key": "13_2023696064390590474",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023696064390590474/img/9Kc6RCY-WbVNplWm.jpg",
+        "public_metrics": {
+          "view_count": 28773
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023696064390590474/vid/avc1/292x270/kBetcj_eMMqQ5wL6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023696064390590474/vid/avc1/390x360/CDey_XMvK8ZCRrPC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023696064390590474/vid/avc1/720x662/rQ3JDUUwdV_v0MUL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023696064390590474/pl/7Qt40TNnr9mGjMvH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023696064390590474"
+          ],
+          "media_source_tweet_id": [
+            "2023870570182402502"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023930502235988351",
+        "created_at": "2026-02-18T01:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023930502235988351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739880218347937792",
+              "start": 3,
+              "username": "kitten_zukan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UP5uUVUiVp",
+              "end": 54,
+              "expanded_url": "https://x.com/kitten_zukan/status/2023870570182402502/video/1",
+              "media_key": "13_2023696064390590474",
+              "start": 31,
+              "url": "https://t.co/UP5uUVUiVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023930502235988351",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023870570182402502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitten_zukan: ^ ̳ᴗ  ̫ ᴗ ̳^ https://t.co/UP5uUVUiVp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023696064390590474"
+          ]
+        },
+        "author_id": "1739880218347937792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023870570182402502",
+        "created_at": "2026-02-17T21:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023870570182402502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UP5uUVUiVp",
+              "end": 36,
+              "expanded_url": "https://x.com/kitten_zukan/status/2023870570182402502/video/1",
+              "media_key": "13_2023696064390590474",
+              "start": 13,
+              "url": "https://t.co/UP5uUVUiVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023870570182402502",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 885,
+          "impression_count": 101393,
+          "like_count": 7191,
+          "quote_count": 29,
+          "reply_count": 14,
+          "retweet_count": 1176
+        },
+        "reply_settings": "everyone",
+        "text": "^ ̳ᴗ  ̫ ᴗ ̳^ https://t.co/UP5uUVUiVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/多边关系/蛋挞单推/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww \n  @QieZhiyuan ❤️\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "calsys456"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "QieZhiyuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656276719665152/czyvKgrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 3049,
+          "like_count": 100969,
+          "listed_count": 14,
+          "media_count": 2245,
+          "tweet_count": 17111
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T05:25:51.000Z",
+        "description": "仔猫大量発生中につきご注意ください ฅ^.ˬ.^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kitten_zukan/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kitten_zukan/",
+                "start": 0,
+                "url": "https://t.co/wVbDtKSAWz"
+              }
+            ]
+          }
+        },
+        "id": "1739880218347937792",
+        "location": "Cat Tower",
+        "name": "こねこ図鑑",
+        "pinned_tweet_id": "2023296789000945811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808122021513224192/uvEjL6Qu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37895,
+          "following_count": 5241,
+          "like_count": 16777,
+          "listed_count": 154,
+          "media_count": 4260,
+          "tweet_count": 4736
+        },
+        "url": "https://t.co/wVbDtKSAWz",
+        "username": "kitten_zukan",
+        "verified": true
+      }
+    ]
+  }
+}

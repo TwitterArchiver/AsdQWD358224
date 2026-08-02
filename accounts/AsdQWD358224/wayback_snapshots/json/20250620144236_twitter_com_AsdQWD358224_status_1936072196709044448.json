@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935843539771904000"
+      ],
+      "media_source_tweet_id": [
+        "1936001329161486674"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1936072196709044448",
+    "created_at": "2025-06-20T14:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T15:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936072196709044448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482356237115310084",
+          "start": 3,
+          "username": "LocalBateman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7fYL4rpPA",
+          "end": 41,
+          "expanded_url": "https://x.com/LocalBateman/status/1936001329161486674/photo/1",
+          "media_key": "3_1935843539771904000",
+          "start": 18,
+          "url": "https://t.co/U7fYL4rpPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936072196709044448",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936001329161486674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LocalBateman: https://t.co/U7fYL4rpPA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_1935843539771904000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt1_cWDW0AAAptE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935843539771904000"
+          ],
+          "media_source_tweet_id": [
+            "1936001329161486674"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1936072196709044448",
+        "created_at": "2025-06-20T14:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936072196709044448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1482356237115310084",
+              "start": 3,
+              "username": "LocalBateman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7fYL4rpPA",
+              "end": 41,
+              "expanded_url": "https://x.com/LocalBateman/status/1936001329161486674/photo/1",
+              "media_key": "3_1935843539771904000",
+              "start": 18,
+              "url": "https://t.co/U7fYL4rpPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936072196709044448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936001329161486674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LocalBateman: https://t.co/U7fYL4rpPA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935843539771904000"
+          ]
+        },
+        "author_id": "1482356237115310084",
+        "conversation_id": "1936001329161486674",
+        "created_at": "2025-06-20T10:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936001329161486674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7fYL4rpPA",
+              "end": 23,
+              "expanded_url": "https://x.com/LocalBateman/status/1936001329161486674/photo/1",
+              "media_key": "3_1935843539771904000",
+              "start": 0,
+              "url": "https://t.co/U7fYL4rpPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936001329161486674",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 28675,
+          "like_count": 2064,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/U7fYL4rpPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "fe_ions"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 3138,
+          "like_count": 94247,
+          "listed_count": 12,
+          "media_count": 1946,
+          "tweet_count": 15435
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T14:18:01.000Z",
+        "description": "If you want to ignite the fire just ignite yourself. alt @LocalBateman_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "LocalBateman_"
+              }
+            ]
+          }
+        },
+        "id": "1482356237115310084",
+        "location": "Dm for credit or removal ",
+        "name": "Your Typical Local Man",
+        "pinned_tweet_id": "1535610044779315202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664391317688836097/UPd8ZDNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753952,
+          "following_count": 191,
+          "like_count": 75616,
+          "listed_count": 1418,
+          "media_count": 19291,
+          "tweet_count": 22687
+        },
+        "username": "LocalBateman",
+        "verified": true
+      }
+    ]
+  }
+}

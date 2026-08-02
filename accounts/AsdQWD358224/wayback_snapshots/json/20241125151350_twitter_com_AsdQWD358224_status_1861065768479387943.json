@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1861009898873713074",
+    "created_at": "2024-11-25T15:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T16:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861065768479387943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491243559596412928",
+          "start": 0,
+          "username": "xiling53535158"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861065768479387943",
+    "in_reply_to_user_id": "1491243559596412928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861009898873713074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiling53535158 把显卡和内存拔出来，擦一擦金手指呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1861009898873713074",
+        "created_at": "2024-11-25T15:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T16:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861065768479387943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491243559596412928",
+              "start": 0,
+              "username": "xiling53535158"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861065768479387943",
+        "in_reply_to_user_id": "1491243559596412928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861009898873713074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiling53535158 把显卡和内存拔出来，擦一擦金手指呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861009885279977472"
+          ]
+        },
+        "author_id": "1491243559596412928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1861009898873713074",
+        "created_at": "2024-11-25T11:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T12:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861009898873713074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XX3LJHlTFL",
+              "end": 78,
+              "expanded_url": "https://x.com/xiling53535158/status/1861009898873713074/photo/1",
+              "media_key": "3_1861009885279977472",
+              "start": 55,
+              "url": "https://t.co/XX3LJHlTFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861009898873713074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前段时间刚装好电脑主板就亮红灯了，连bios都没进去，等明天再排查一下原因吧，实在不行就只能找个上门修机了🌚 https://t.co/XX3LJHlTFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 1664,
+          "like_count": 3677,
+          "listed_count": 0,
+          "tweet_count": 784
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T02:52:35.000Z",
+        "description": "@xiling.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "xiling"
+              }
+            ]
+          }
+        },
+        "id": "1491243559596412928",
+        "name": "汐澪✨💙",
+        "pinned_tweet_id": "1803040479522525311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808509698196533248/R28xvlcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 279,
+          "like_count": 7645,
+          "listed_count": 0,
+          "tweet_count": 1184
+        },
+        "username": "xiling53535158",
+        "verified": false
+      }
+    ]
+  }
+}

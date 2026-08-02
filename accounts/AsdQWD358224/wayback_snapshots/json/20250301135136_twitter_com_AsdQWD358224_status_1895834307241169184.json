@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1844974210919301121"
+      ],
+      "media_source_tweet_id": [
+        "1844974218825400809"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1895834307241169184",
+    "created_at": "2025-03-01T13:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895834307241169184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1421851995355369477",
+          "start": 3,
+          "username": "Aichijiandanxyz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YiLRUO1Sgc",
+          "end": 62,
+          "expanded_url": "https://x.com/Aichijiandanxyz/status/1844974218825400809/photo/1",
+          "media_key": "3_1844974210919301121",
+          "start": 39,
+          "url": "https://t.co/YiLRUO1Sgc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895834307241169184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844974218825400809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aichijiandanxyz: 放个蛋挞在这里，帮我看一下，别偷吃 https://t.co/YiLRUO1Sgc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895834307241169184].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895834307241169184",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895834307241169184"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1844974210919301121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZqqRQ2aAAE64Ah.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1844974210919301121"
+          ]
+        },
+        "author_id": "1421851995355369477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1844974218825400809",
+        "created_at": "2024-10-12T05:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-12T06:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844974218825400809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YiLRUO1Sgc",
+              "end": 41,
+              "expanded_url": "https://x.com/Aichijiandanxyz/status/1844974218825400809/photo/1",
+              "media_key": "3_1844974210919301121",
+              "start": 18,
+              "url": "https://t.co/YiLRUO1Sgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844974218825400809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 631872,
+          "like_count": 5664,
+          "quote_count": 30,
+          "reply_count": 355,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "放个蛋挞在这里，帮我看一下，别偷吃 https://t.co/YiLRUO1Sgc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（复学 ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 2705,
+          "like_count": 60667,
+          "listed_count": 7,
+          "media_count": 1481,
+          "tweet_count": 11202
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "贱人更是滚开！\n@eggyyybaby\nvpn⬇️\n#煎蛋不想说话就唱歌吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "煎蛋不想说话就唱歌吧"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=3mkaPReT",
+                "start": 0,
+                "url": "https://t.co/UzTTlXSUsc"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894261271958052864/KkxeeQHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19954,
+          "following_count": 398,
+          "like_count": 148367,
+          "listed_count": 64,
+          "media_count": 6074,
+          "tweet_count": 64301
+        },
+        "url": "https://t.co/UzTTlXSUsc",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

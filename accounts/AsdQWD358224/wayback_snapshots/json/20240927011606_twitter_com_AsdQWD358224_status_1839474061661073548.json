@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1839414226143830197",
+    "created_at": "2024-09-27T01:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T02:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839474061661073548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1038150281794646017",
+          "start": 0,
+          "username": "earthcurated"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839474061661073548",
+    "in_reply_to_user_id": "1038150281794646017",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839414226143830197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@earthcurated German"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1839414226143830197",
+        "created_at": "2024-09-27T01:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T02:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839474061661073548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1038150281794646017",
+              "start": 0,
+              "username": "earthcurated"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839474061661073548",
+        "in_reply_to_user_id": "1038150281794646017",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839414226143830197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@earthcurated German"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1038150281794646017",
+        "conversation_id": "1839414226143830197",
+        "created_at": "2024-09-26T21:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T22:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839414226143830197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839414226143830197",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 30084,
+          "like_count": 130,
+          "quote_count": 13,
+          "reply_count": 147,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "If you could visit any country in the world, where would you go?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 1056,
+          "like_count": 1944,
+          "listed_count": 0,
+          "tweet_count": 206
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-07T19:41:29.000Z",
+        "description": "Displaying Earth's beautiful destinations curated by the world's greatest photographers. followed by @elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1038150281794646017",
+        "name": "Earth",
+        "pinned_tweet_id": "1839382929564479856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590966054800564225/3hZ1EhAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489709,
+          "following_count": 48076,
+          "like_count": 35402,
+          "listed_count": 2016,
+          "tweet_count": 9472
+        },
+        "username": "earthcurated",
+        "verified": true
+      }
+    ]
+  }
+}

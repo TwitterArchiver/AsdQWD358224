@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1980621350122487972",
+    "created_at": "2025-10-21T13:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980621350122487972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1568268459674574848",
+          "start": 3,
+          "username": "calsys456"
+        },
+        {
+          "end": 38,
+          "id": "1680247071608303616",
+          "start": 25,
+          "username": "AsdQWD358224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980621350122487972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980307295620956512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @calsys456: 妹妹你好有美感（笑 @AsdQWD358224"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1980621350122487972",
+        "created_at": "2025-10-21T13:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980621350122487972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1568268459674574848",
+              "start": 3,
+              "username": "calsys456"
+            },
+            {
+              "end": 38,
+              "id": "1680247071608303616",
+              "start": 25,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980621350122487972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980307295620956512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @calsys456: 妹妹你好有美感（笑 @AsdQWD358224"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "conversation_id": "1980307295620956512",
+        "created_at": "2025-10-20T16:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T17:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980307295620956512"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "你好有美",
+              "probability": 0.5172,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1680247071608303616",
+              "start": 10,
+              "username": "AsdQWD358224"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ddzhanshou5150…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ddzhanshou5150/status/1979796136564338883",
+              "start": 24,
+              "url": "https://t.co/nJZjR4ouh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980307295620956512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979796136564338883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妹妹你好有美感（笑 @AsdQWD358224 https://t.co/nJZjR4ouh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/反战反仇恨/多边关系/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️\n/秋分在线中/双相焦虑阿斯ADHD C-PTSD OSDD-1b/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "calsys456"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "username": "fe_ions"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 3131,
+          "like_count": 100242,
+          "listed_count": 11,
+          "media_count": 2122,
+          "tweet_count": 16471
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ADHD & BPD & C-PTSD & DID & MDD & Schizophrenia | Write in Lisp | Sister @Simone_Luxem @AsdQWD358224, Lover @HANLIANYI331 @S_S_Asuka_02 @Caroline_9870",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "S_S_Asuka_02"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "Caroline_9870"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "calsys.org",
+                "end": 23,
+                "expanded_url": "https://calsys.org",
+                "start": 0,
+                "url": "https://t.co/MUWDEAPteH"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Wuhan",
+        "name": "北雁月月「月历系统」🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898804235514368000/QV2HgGTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 1076,
+          "like_count": 45842,
+          "listed_count": 9,
+          "media_count": 245,
+          "tweet_count": 4722
+        },
+        "url": "https://t.co/MUWDEAPteH",
+        "username": "calsys456",
+        "verified": true
+      }
+    ]
+  }
+}

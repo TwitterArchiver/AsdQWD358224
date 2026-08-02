@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1958862882613145750",
+    "created_at": "2025-08-22T12:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T13:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958870552526954550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "821614513736781825",
+          "start": 0,
+          "username": "14ManGo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958870552526954550",
+    "in_reply_to_user_id": "821614513736781825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958862882613145750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@14ManGo1 芒芒！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1958862683601870848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9HO3PboAATOfE.jpg",
+        "width": 1555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1958862882613145750",
+        "created_at": "2025-08-22T12:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T13:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958870552526954550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "821614513736781825",
+              "start": 0,
+              "username": "14ManGo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958870552526954550",
+        "in_reply_to_user_id": "821614513736781825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958862882613145750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@14ManGo1 芒芒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958862683601870848"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "1958862882613145750",
+        "created_at": "2025-08-22T12:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T13:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958862882613145750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3LgrlK9r8",
+              "end": 46,
+              "expanded_url": "https://x.com/14ManGo1/status/1958862882613145750/photo/1",
+              "media_key": "3_1958862683601870848",
+              "start": 23,
+              "url": "https://t.co/r3LgrlK9r8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958862882613145750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性转故事一则\n爷爷奶奶！你关注的画师更新了！ https://t.co/r3LgrlK9r8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fe_ions"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 3111,
+          "like_count": 97880,
+          "listed_count": 12,
+          "media_count": 2032,
+          "tweet_count": 15985
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木",
+        "pinned_tweet_id": "1581220939135479814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581942891970117632/5yQy-y4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29279,
+          "following_count": 91,
+          "like_count": 94,
+          "listed_count": 92,
+          "media_count": 107,
+          "tweet_count": 280
+        },
+        "username": "14ManGo1",
+        "verified": false
+      }
+    ]
+  }
+}

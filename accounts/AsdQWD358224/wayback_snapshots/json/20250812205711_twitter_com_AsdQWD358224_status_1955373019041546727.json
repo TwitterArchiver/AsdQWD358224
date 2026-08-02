@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1954924672400888136",
+    "created_at": "2025-08-12T20:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T21:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955373019041546727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769742689514455040",
+          "start": 0,
+          "username": "HzShibari86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955373019041546727",
+    "in_reply_to_user_id": "1769742689514455040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954924672400888136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HzShibari86 羡慕喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1954924672400888136",
+        "created_at": "2025-08-12T20:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T21:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955373019041546727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769742689514455040",
+              "start": 0,
+              "username": "HzShibari86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955373019041546727",
+        "in_reply_to_user_id": "1769742689514455040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954924672400888136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HzShibari86 羡慕喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769742689514455040",
+        "conversation_id": "1954924672400888136",
+        "created_at": "2025-08-11T15:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954924672400888136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pizyj/status/1…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/pizyj/status/1954924260994211879",
+              "start": 9,
+              "url": "https://t.co/bxZXyYTPV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954924672400888136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2216,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954924260994211879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真好看啊真好看🥰 https://t.co/bxZXyYTPV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fe_ions"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 3116,
+          "like_count": 97592,
+          "listed_count": 12,
+          "media_count": 2025,
+          "tweet_count": 15911
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T15:08:37.000Z",
+        "description": "这里是燃～\n是一只成精的家养刺猬～\n馋嘴吃货～抽象乐子人～\n记录美好生活～分享BDSM日常～\n主人: @TarsMark2 \n老婆: @Bismark_fmpire \n家养水豚: @Vincy1230 \n小白猫: @Pizyj \n绳缚号: @HzShibari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "TarsMark2"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Bismark_fmpire"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Vincy1230"
+              },
+              {
+                "end": 113,
+                "start": 107,
+                "username": "Pizyj"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "HzShibari"
+              }
+            ]
+          }
+        },
+        "id": "1769742689514455040",
+        "location": "温暖柔软的被窝里",
+        "name": "燃",
+        "pinned_tweet_id": "1949742860518986209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951615623454433280/xqnRiRxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5240,
+          "following_count": 409,
+          "like_count": 13319,
+          "listed_count": 11,
+          "media_count": 1725,
+          "tweet_count": 6868
+        },
+        "username": "HzShibari86",
+        "verified": false
+      }
+    ]
+  }
+}

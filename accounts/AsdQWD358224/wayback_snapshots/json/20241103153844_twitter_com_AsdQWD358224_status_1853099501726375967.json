@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1852897080001642618",
+    "created_at": "2024-11-03T15:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T16:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853099501726375967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821055353834131456",
+          "start": 0,
+          "username": "mzd1968"
+        },
+        {
+          "end": 17,
+          "id": "1764991223792906240",
+          "start": 9,
+          "username": "ZW3333T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853099501726375967",
+    "in_reply_to_user_id": "1821055353834131456",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852899892013723967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzd1968 @ZW3333T 😡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1852899892013723967].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1852899892013723967",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1852899892013723967"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1852897080001642618",
+        "created_at": "2024-11-03T15:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T16:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853099501726375967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821055353834131456",
+              "start": 0,
+              "username": "mzd1968"
+            },
+            {
+              "end": 17,
+              "id": "1764991223792906240",
+              "start": 9,
+              "username": "ZW3333T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853099501726375967",
+        "in_reply_to_user_id": "1821055353834131456",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852899892013723967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzd1968 @ZW3333T 😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站",
+        "name": "鲜虾🍤鱼板🍥面🍜（互FO）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 1404,
+          "like_count": 2738,
+          "listed_count": 0,
+          "tweet_count": 533
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T05:26:52.000Z",
+        "description": "淡推中/永久锁推账号，查成分回fo/程朱理学拯救中国，毛泽东思想拯救世界/存天理，灭人欲，成功的第一步在于戒除色欲，反面典型@Mingckwkb @Mizuki_8964 @KRKRDKDK_ /本人真正支持和喜欢的@Lmao_Zh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Mingckwkb"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Mizuki_8964"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "KRKRDKDK_"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "username": "Lmao_Zh"
+              }
+            ]
+          }
+        },
+        "id": "1821055353834131456",
+        "location": "在中推这个淫乱的大环境下，我是第一个劝人戒除色欲的🎃",
+        "name": "陈伯达（中推劝戒第一人）",
+        "pinned_tweet_id": "1853081694120669693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841120918480863232/eBG7MDrn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1412,
+          "like_count": 10487,
+          "listed_count": 4,
+          "tweet_count": 8281
+        },
+        "username": "mzd1968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T12:28:14.000Z",
+        "description": "我说话笨笨的，打字也慢慢的",
+        "id": "1764991223792906240",
+        "location": "你的后面我在呢",
+        "name": "wet.zZz🎃🎃🎃",
+        "pinned_tweet_id": "1837145243860488666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844415201975971840/XVhxyUfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 1803,
+          "like_count": 122407,
+          "listed_count": 6,
+          "tweet_count": 12636
+        },
+        "username": "ZW3333T",
+        "verified": false
+      }
+    ]
+  }
+}

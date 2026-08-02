@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1880200208447074763",
+    "created_at": "2025-01-17T15:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T16:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880273239160811527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1830502698996940800",
+          "start": 0,
+          "username": "Jeremy00520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880273239160811527",
+    "in_reply_to_user_id": "1830502698996940800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880200208447074763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jeremy00520 多少？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1880200208447074763",
+        "created_at": "2025-01-17T15:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880273239160811527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1830502698996940800",
+              "start": 0,
+              "username": "Jeremy00520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880273239160811527",
+        "in_reply_to_user_id": "1830502698996940800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880200208447074763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jeremy00520 多少？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880200200561782784"
+          ]
+        },
+        "author_id": "1830502698996940800",
+        "conversation_id": "1880200208447074763",
+        "created_at": "2025-01-17T10:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T11:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880200208447074763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycMb60U9fS",
+              "end": 26,
+              "expanded_url": "https://x.com/Jeremy00520/status/1880200208447074763/photo/1",
+              "media_key": "3_1880200200561782784",
+              "start": 3,
+              "url": "https://t.co/ycMb60U9fS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880200208447074763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4113,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3块 https://t.co/ycMb60U9fS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 2164,
+          "like_count": 26961,
+          "listed_count": 3,
+          "media_count": 400,
+          "tweet_count": 4894
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T07:07:22.000Z",
+        "description": "None",
+        "id": "1830502698996940800",
+        "location": "Neptune",
+        "name": "糖醋里脊",
+        "pinned_tweet_id": "1872259122613391369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871136959558823936/uML1SkZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 369,
+          "like_count": 30206,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 10485
+        },
+        "username": "Jeremy00520",
+        "verified": false
+      }
+    ]
+  }
+}

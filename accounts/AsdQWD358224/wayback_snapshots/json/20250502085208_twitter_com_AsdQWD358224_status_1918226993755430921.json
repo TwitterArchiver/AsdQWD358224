@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918108744459620352"
+      ],
+      "media_source_tweet_id": [
+        "1918108757390770434"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "1918226993755430921",
+    "created_at": "2025-05-02T08:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T09:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918226993755430921"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "paris",
+          "probability": 0.91,
+          "start": 23,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1427384347963928576",
+          "start": 3,
+          "username": "gatinarios"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1KSr2u9mzG",
+          "end": 52,
+          "expanded_url": "https://x.com/gatinarios/status/1918108757390770434/photo/1",
+          "media_key": "3_1918108744459620352",
+          "start": 29,
+          "url": "https://t.co/1KSr2u9mzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918226993755430921",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1604
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918108757390770434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gatinarios: nós em paris https://t.co/1KSr2u9mzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1545,
+        "media_key": "3_1918108744459620352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp59vZIWEAAkMtE.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918108744459620352"
+          ],
+          "media_source_tweet_id": [
+            "1918108757390770434"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "1918226993755430921",
+        "created_at": "2025-05-02T08:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918226993755430921"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "paris",
+              "probability": 0.91,
+              "start": 23,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1427384347963928576",
+              "start": 3,
+              "username": "gatinarios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KSr2u9mzG",
+              "end": 52,
+              "expanded_url": "https://x.com/gatinarios/status/1918108757390770434/photo/1",
+              "media_key": "3_1918108744459620352",
+              "start": 29,
+              "url": "https://t.co/1KSr2u9mzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918226993755430921",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1604
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918108757390770434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gatinarios: nós em paris https://t.co/1KSr2u9mzG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918108744459620352"
+          ]
+        },
+        "author_id": "1427384347963928576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "1918108757390770434",
+        "created_at": "2025-05-02T01:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T02:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918108757390770434"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "paris",
+              "probability": 0.8679,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KSr2u9mzG",
+              "end": 36,
+              "expanded_url": "https://x.com/gatinarios/status/1918108757390770434/photo/1",
+              "media_key": "3_1918108744459620352",
+              "start": 13,
+              "url": "https://t.co/1KSr2u9mzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918108757390770434",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 548,
+          "impression_count": 201115,
+          "like_count": 15821,
+          "quote_count": 81,
+          "reply_count": 87,
+          "retweet_count": 1604
+        },
+        "reply_settings": "everyone",
+        "text": "nós em paris https://t.co/1KSr2u9mzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/泛性恋/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "fe_ions"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 3131,
+          "like_count": 89871,
+          "listed_count": 12,
+          "media_count": 1873,
+          "tweet_count": 14733
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T21:38:55.000Z",
+        "description": "gatos que acho por aí!!! não são minhas imagens!!! manda miau na dm pra créditos/remoção/contato!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gatinarios",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/gatinarios",
+                "start": 0,
+                "url": "https://t.co/jJZoT58hCJ"
+              }
+            ]
+          }
+        },
+        "id": "1427384347963928576",
+        "location": "Brasil",
+        "name": "gatos fazendo gatices",
+        "pinned_tweet_id": "1914489838838968495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911285752526229504/M7vBupxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802502,
+          "following_count": 97,
+          "like_count": 1624,
+          "listed_count": 1563,
+          "media_count": 2138,
+          "tweet_count": 3182
+        },
+        "url": "https://t.co/jJZoT58hCJ",
+        "username": "gatinarios",
+        "verified": true
+      }
+    ]
+  }
+}

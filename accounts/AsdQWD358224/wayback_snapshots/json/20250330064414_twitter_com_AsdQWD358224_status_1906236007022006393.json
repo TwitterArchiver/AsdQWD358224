@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1906236007022006393",
+    "created_at": "2025-03-30T06:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T07:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906236007022006393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1738471284915290112",
+          "start": 3,
+          "username": "JValentine10143"
+        },
+        {
+          "end": 29,
+          "id": "1433678976564662273",
+          "start": 21,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906236007022006393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905853506210128167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JValentine10143: @hsn8086 希望我死掉后 朋友可以上这个给我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1906236007022006393",
+        "created_at": "2025-03-30T06:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T07:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906236007022006393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1738471284915290112",
+              "start": 3,
+              "username": "JValentine10143"
+            },
+            {
+              "end": 29,
+              "id": "1433678976564662273",
+              "start": 21,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906236007022006393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905853506210128167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JValentine10143: @hsn8086 希望我死掉后 朋友可以上这个给我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738471284915290112",
+        "conversation_id": "1905836414467784724",
+        "created_at": "2025-03-29T05:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T06:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905853506210128167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905853506210128167",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15119,
+          "like_count": 946,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905836414467784724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 希望我死掉后 朋友可以上这个给我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/07年17岁/含糖友跨顺男/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "fe_ions"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 2917,
+          "like_count": 79505,
+          "listed_count": 11,
+          "media_count": 1715,
+          "tweet_count": 13430
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T08:07:17.000Z",
+        "description": "愁看黄楠能不能死 \n废物 恶不恶心 \n一天到晚上腿就看黄 \n还八点才下班 \n初中都没读完 \n胖的跟头猪一样 \n到推上来 别把别人吓死了",
+        "id": "1738471284915290112",
+        "location": "妈妈喂我一口就当喂鸡了咯咯哒咯咯哒",
+        "name": "八点才下班啊啊啊啊啊啊啊啊！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883101422205784065/B9iMN1Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 723,
+          "like_count": 14869,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1516
+        },
+        "username": "JValentine10143",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1898763769171542384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52633,
+          "following_count": 946,
+          "like_count": 38125,
+          "listed_count": 126,
+          "media_count": 8263,
+          "tweet_count": 14127
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

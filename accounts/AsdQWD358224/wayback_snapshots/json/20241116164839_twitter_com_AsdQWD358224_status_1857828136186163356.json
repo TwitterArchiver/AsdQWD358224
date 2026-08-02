@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1857229599568179594",
+    "created_at": "2024-11-16T16:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T17:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857828136186163356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503743701612642304",
+          "start": 0,
+          "username": "zhangju41963978"
+        },
+        {
+          "end": 31,
+          "id": "1921246986",
+          "start": 17,
+          "username": "Havrintsetseg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857828136186163356",
+    "in_reply_to_user_id": "1503743701612642304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857399638414024879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangju41963978 @Havrintsetseg 这种一般都是蛙蛙自我YY，别把你的心情搞坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1857229599568179594",
+        "created_at": "2024-11-16T16:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T17:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857828136186163356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503743701612642304",
+              "start": 0,
+              "username": "zhangju41963978"
+            },
+            {
+              "end": 31,
+              "id": "1921246986",
+              "start": 17,
+              "username": "Havrintsetseg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857828136186163356",
+        "in_reply_to_user_id": "1503743701612642304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857399638414024879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangju41963978 @Havrintsetseg 这种一般都是蛙蛙自我YY，别把你的心情搞坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503743701612642304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1857229599568179594",
+        "created_at": "2024-11-15T12:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T13:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857399638414024879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1921246986",
+              "start": 0,
+              "username": "Havrintsetseg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857399638414024879",
+        "in_reply_to_user_id": "1921246986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857229599568179594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Havrintsetseg 智障东西，我就是蒙古的，不光过得好，中考还额外加五分，你们一群精神白人有什么脸替我们说话，老子直接化身习近平成吉思汗合体版打下你们东欧和北美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站",
+        "name": "鲜虾🍤鱼板🍥面🍜（互FO）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1520,
+          "like_count": 3126,
+          "listed_count": 0,
+          "tweet_count": 681
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T14:43:49.000Z",
+        "description": "中国蒙古族，共产主义左派，是男的，爱国但不包庇国家和党派的问题，拒绝支黑和过度辱华，拒绝粉红//两岸和平，世界和平////爱玩英雄联盟和使命召唤，爱玩无期迷途少女前线1和2//喜欢金属摇滚，最爱林肯公园（LinkinPark）",
+        "id": "1503743701612642304",
+        "location": "米诺斯危机管理局（MBCC）",
+        "name": "Love Seraphine🇨🇳🇹🇼🇲🇳",
+        "pinned_tweet_id": "1855589414807953824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796757273017991168/7mS4t_Jg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 598,
+          "like_count": 20889,
+          "listed_count": 0,
+          "tweet_count": 2090
+        },
+        "username": "zhangju41963978",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-30T20:55:21.000Z",
+        "description": "Freedom of speech, publication, association, and worship is the greatest achievement in the entire history of mankind, including Mongolia.",
+        "id": "1921246986",
+        "name": "HB",
+        "pinned_tweet_id": "1836990923554582760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738796290019074048/UHX-2xPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 212,
+          "like_count": 5393,
+          "listed_count": 2,
+          "tweet_count": 1399
+        },
+        "username": "Havrintsetseg",
+        "verified": false
+      }
+    ]
+  }
+}

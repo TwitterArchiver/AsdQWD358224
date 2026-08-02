@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1824431684894253560",
+    "created_at": "2024-08-18T03:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T04:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825017382114635948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658126572807925760",
+          "start": 0,
+          "username": "fatshrimp7"
+        },
+        {
+          "end": 21,
+          "id": "1361996737850712066",
+          "start": 12,
+          "username": "Purepalo"
+        },
+        {
+          "end": 37,
+          "id": "1151913018936053760",
+          "start": 22,
+          "username": "jacksonhinklle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825017382114635948",
+    "in_reply_to_user_id": "1658126572807925760",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824897813756399943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fatshrimp7 @Purepalo @jacksonhinklle 建议你搬去上海，上海更发达。外国社区更多，上海本地的公共服务也更丰富"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1824431684894253560",
+        "created_at": "2024-08-18T03:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T04:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825017382114635948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658126572807925760",
+              "start": 0,
+              "username": "fatshrimp7"
+            },
+            {
+              "end": 21,
+              "id": "1361996737850712066",
+              "start": 12,
+              "username": "Purepalo"
+            },
+            {
+              "end": 37,
+              "id": "1151913018936053760",
+              "start": 22,
+              "username": "jacksonhinklle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825017382114635948",
+        "in_reply_to_user_id": "1658126572807925760",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824897813756399943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fatshrimp7 @Purepalo @jacksonhinklle 建议你搬去上海，上海更发达。外国社区更多，上海本地的公共服务也更丰富"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658126572807925760",
+        "conversation_id": "1824431684894253560",
+        "created_at": "2024-08-17T19:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T20:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824897813756399943"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 130,
+              "normalized_text": "Greater Bay Area",
+              "probability": 0.8945,
+              "start": 115,
+              "type": "Place"
+            },
+            {
+              "end": 141,
+              "normalized_text": "Beijing",
+              "probability": 0.9291,
+              "start": 135,
+              "type": "Place"
+            },
+            {
+              "end": 151,
+              "normalized_text": "Shanghai",
+              "probability": 0.9742,
+              "start": 144,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1361996737850712066",
+              "start": 0,
+              "username": "Purepalo"
+            },
+            {
+              "end": 25,
+              "id": "1151913018936053760",
+              "start": 10,
+              "username": "jacksonhinklle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824897813756399943",
+        "in_reply_to_user_id": "1361996737850712066",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1045,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824433649560727737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Purepalo @jacksonhinklle I am heading there to check out where I am going to settle down soon. Should I settle in Greater Bay Area or Beijing, Shanghai area"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 462,
+          "like_count": 989,
+          "listed_count": 0,
+          "tweet_count": 81
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T15:06:23.000Z",
+        "description": "",
+        "id": "1658126572807925760",
+        "name": "Fat Shrimp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715331172463771648/El4UhDQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 99,
+          "like_count": 42014,
+          "listed_count": 3,
+          "tweet_count": 10054
+        },
+        "username": "fatshrimp7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T11:11:57.000Z",
+        "description": "You Hold cash , I HODL Crypto .  🇵🇸.                     فلسطين ١٩٤٨",
+        "id": "1361996737850712066",
+        "location": "Melbourne, Victoria",
+        "name": "PurePalo",
+        "pinned_tweet_id": "1791572094821543948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1390670092795408386/ZkKVdsXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 179,
+          "like_count": 7704,
+          "listed_count": 4,
+          "tweet_count": 4870
+        },
+        "username": "Purepalo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-18T17:53:59.000Z",
+        "description": "Fighting for a FREE AMERICA @ACPMain 🇺🇸☦️ thedivewithjackson@gmail.com - https://t.co/bvulmS3517",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "ACPMain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jacksonhinkle",
+                "end": 96,
+                "expanded_url": "https://t.me/jacksonhinkle",
+                "start": 73,
+                "url": "https://t.co/bvulmS3517"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/jacksonhinkle",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/jacksonhinkle",
+                "start": 0,
+                "url": "https://t.co/xcyQcehzt2"
+              }
+            ]
+          }
+        },
+        "id": "1151913018936053760",
+        "location": "Miami, FL",
+        "name": "Jackson Hinkle 🇺🇸",
+        "pinned_tweet_id": "1819539704099828055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567704552283193345/wMLFemzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755685,
+          "following_count": 429,
+          "like_count": 12247,
+          "listed_count": 6100,
+          "tweet_count": 20251
+        },
+        "url": "https://t.co/xcyQcehzt2",
+        "username": "jacksonhinklle",
+        "verified": true
+      }
+    ]
+  }
+}

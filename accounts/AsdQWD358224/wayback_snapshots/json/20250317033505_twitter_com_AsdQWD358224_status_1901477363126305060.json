@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1901477363126305060",
+    "created_at": "2025-03-17T03:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T04:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901477363126305060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shaoguanwai2/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/shaoguanwai2/status/1901171108348326123",
+          "start": 18,
+          "url": "https://t.co/We6I7RVNPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901477363126305060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901171108348326123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以上一休29吗 真的有点撑不住了 https://t.co/We6I7RVNPb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1901477363126305060",
+        "created_at": "2025-03-17T03:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T04:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901477363126305060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shaoguanwai2/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/shaoguanwai2/status/1901171108348326123",
+              "start": 18,
+              "url": "https://t.co/We6I7RVNPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901477363126305060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901171108348326123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以上一休29吗 真的有点撑不住了 https://t.co/We6I7RVNPb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757944489346568192",
+        "conversation_id": "1901171108348326123",
+        "created_at": "2025-03-16T07:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T08:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901171108348326123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901171108348326123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14831,
+          "like_count": 283,
+          "quote_count": 4,
+          "reply_count": 28,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "可以上一休29吗 真的有点撑不住了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2827,
+          "like_count": 70946,
+          "listed_count": 9,
+          "media_count": 1643,
+          "tweet_count": 12661
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T01:47:49.000Z",
+        "description": "一些碎碎念 一些奇奇怪怪的文案 提问箱 https://t.co/hcNRO2Dip0 希望大家一切顺利天天开心",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oiiiii36411",
+                "end": 43,
+                "expanded_url": "https://ngl.link/oiiiii36411",
+                "start": 20,
+                "url": "https://t.co/hcNRO2Dip0"
+              }
+            ]
+          }
+        },
+        "id": "1757944489346568192",
+        "location": "随便",
+        "name": "Oiiiii",
+        "pinned_tweet_id": "1866489037739250108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875547046725480449/wgthGEHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13306,
+          "following_count": 165,
+          "like_count": 21826,
+          "listed_count": 23,
+          "media_count": 895,
+          "tweet_count": 14113
+        },
+        "username": "shaoguanwai2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1963190676809777528",
+    "created_at": "2025-09-04T08:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T09:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963522302055743741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842203626418409472",
+          "start": 0,
+          "username": "yyyzlz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963522302055743741",
+    "in_reply_to_user_id": "1842203626418409472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963190676809777528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyzlz3 成都跨："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1963190674234478592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6nhEwbEAA5Ehx.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1963190676809777528",
+        "created_at": "2025-09-04T08:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T09:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963522302055743741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842203626418409472",
+              "start": 0,
+              "username": "yyyzlz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963522302055743741",
+        "in_reply_to_user_id": "1842203626418409472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963190676809777528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyzlz3 成都跨："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963190674234478592"
+          ]
+        },
+        "author_id": "1842203626418409472",
+        "conversation_id": "1963190676809777528",
+        "created_at": "2025-09-03T10:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963190676809777528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaLshSzEy2",
+              "end": 39,
+              "expanded_url": "https://x.com/yyyzlz3/status/1963190676809777528/photo/1",
+              "media_key": "3_1963190674234478592",
+              "start": 16,
+              "url": "https://t.co/PaLshSzEy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963190676809777528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1931,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个新头像自己做的时候都没绷住 https://t.co/PaLshSzEy2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推（无政治倾向）\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "fe_ions"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 3130,
+          "like_count": 98982,
+          "listed_count": 12,
+          "media_count": 2053,
+          "tweet_count": 16096
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T14:02:46.000Z",
+        "description": "@yzhlzi3二代目，旧账处于封禁和未封禁之间的量子叠加态，我带着梗图和对🐜🐉的怨恨回来了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "yzhlzi3"
+              }
+            ]
+          }
+        },
+        "id": "1842203626418409472",
+        "location": "罗克萨特主义合众国联盟",
+        "name": "狸🏳️‍⚧️",
+        "pinned_tweet_id": "1961348886498554330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963181317308444672/7FQGiR4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 380,
+          "like_count": 6124,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1488
+        },
+        "username": "yyyzlz3",
+        "verified": false
+      }
+    ]
+  }
+}

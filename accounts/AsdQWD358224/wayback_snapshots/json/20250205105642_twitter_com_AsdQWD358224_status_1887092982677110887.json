@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886909467956273156"
+      ],
+      "media_source_tweet_id": [
+        "1886909471764701460"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1887092982677110887",
+    "created_at": "2025-02-05T10:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T11:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887092982677110887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1159237294294880256",
+          "start": 3,
+          "username": "Gekikawa_Dbts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U5b4ct6Ows",
+          "end": 51,
+          "expanded_url": "https://x.com/Gekikawa_Dbts/status/1886909471764701460/photo/1",
+          "media_key": "3_1886909467956273156",
+          "start": 28,
+          "url": "https://t.co/U5b4ct6Ows"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887092982677110887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1288
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886909471764701460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gekikawa_Dbts: 後ろを振り返る猫 https://t.co/U5b4ct6Ows"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1886909467956273156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi-mKfDa4AQEoal.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886909467956273156"
+          ],
+          "media_source_tweet_id": [
+            "1886909471764701460"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1887092982677110887",
+        "created_at": "2025-02-05T10:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T11:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887092982677110887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1159237294294880256",
+              "start": 3,
+              "username": "Gekikawa_Dbts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U5b4ct6Ows",
+              "end": 51,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1886909471764701460/photo/1",
+              "media_key": "3_1886909467956273156",
+              "start": 28,
+              "url": "https://t.co/U5b4ct6Ows"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887092982677110887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1288
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886909471764701460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gekikawa_Dbts: 後ろを振り返る猫 https://t.co/U5b4ct6Ows"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886909467956273156"
+          ]
+        },
+        "author_id": "1159237294294880256",
+        "conversation_id": "1886909471764701460",
+        "created_at": "2025-02-04T22:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T23:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886909471764701460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U5b4ct6Ows",
+              "end": 32,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1886909471764701460/photo/1",
+              "media_key": "3_1886909467956273156",
+              "start": 9,
+              "url": "https://t.co/U5b4ct6Ows"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886909471764701460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 639,
+          "impression_count": 473450,
+          "like_count": 27553,
+          "quote_count": 84,
+          "reply_count": 95,
+          "retweet_count": 1288
+        },
+        "reply_settings": "everyone",
+        "text": "後ろを振り返る猫 https://t.co/U5b4ct6Ows"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "fe_ions"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学淡推版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 2501,
+          "like_count": 44200,
+          "listed_count": 7,
+          "media_count": 968,
+          "tweet_count": 8203
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T22:58:03.000Z",
+        "description": "かわいい動物たちをツイートしていきます。 Cute Animals",
+        "id": "1159237294294880256",
+        "name": "激かわ動物",
+        "pinned_tweet_id": "1692137323595792449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159237407616581632/NT-xjzPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544426,
+          "following_count": 4287,
+          "like_count": 91010,
+          "listed_count": 1503,
+          "media_count": 13787,
+          "tweet_count": 13939
+        },
+        "username": "Gekikawa_Dbts",
+        "verified": true
+      }
+    ]
+  }
+}

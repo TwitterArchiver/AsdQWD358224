@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870695214832369664"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1870648358332936642",
+    "created_at": "2024-12-22T04:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T05:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870695219278274989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LLJKagjlrW",
+          "end": 41,
+          "expanded_url": "https://x.com/AsdQWD358224/status/1870695219278274989/photo/1",
+          "media_key": "3_1870695214832369664",
+          "start": 18,
+          "url": "https://t.co/LLJKagjlrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870695219278274989",
+    "in_reply_to_user_id": "1680247071608303616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870648358332936642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是O大了的下场\n又割了6刀…… https://t.co/LLJKagjlrW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1870695219278274989].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1870695219278274989",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1870695219278274989"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1870695214832369664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfYLYvMbQAAOviH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870648356118331392"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1870648358332936642",
+        "created_at": "2024-12-22T01:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T02:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870648358332936642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvtgoi8fpX",
+              "end": 45,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1870648358332936642/photo/1",
+              "media_key": "3_1870648356118331392",
+              "start": 22,
+              "url": "https://t.co/wvtgoi8fpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870648358332936642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我再也不OD了\n(|||❛︵❛.) https://t.co/wvtgoi8fpX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？/07年17岁/高三在读/无政治倾向/抑郁ing…/汉族/拒绝建政/喜欢猫猫/对任何人友善（除了zhihei）/OD/生活推/成渝刷新/可以喊我“面面”/181cm 147.5斤（我是肥猪TAT）/泛性恋/长相和棍哥一样/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1882,
+          "like_count": 6938,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1617
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

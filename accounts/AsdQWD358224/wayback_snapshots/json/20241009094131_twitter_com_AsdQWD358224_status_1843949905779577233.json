@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1843897912021135694",
+    "created_at": "2024-10-09T09:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T10:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843949905779577233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1516428117161689091",
+          "start": 0,
+          "username": "MiaoShenXiuSi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843949905779577233",
+    "in_reply_to_user_id": "1516428117161689091",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843897912021135694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaoShenXiuSi “原神”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1843897912021135694",
+        "created_at": "2024-10-09T09:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T10:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843949905779577233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1516428117161689091",
+              "start": 0,
+              "username": "MiaoShenXiuSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843949905779577233",
+        "in_reply_to_user_id": "1516428117161689091",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843897912021135694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoShenXiuSi “原神”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843897890852483073"
+          ]
+        },
+        "author_id": "1516428117161689091",
+        "conversation_id": "1843897912021135694",
+        "created_at": "2024-10-09T06:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T07:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843897912021135694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsQJczdODD",
+              "end": 38,
+              "expanded_url": "https://x.com/MiaoShenXiuSi/status/1843897912021135694/photo/1",
+              "media_key": "3_1843897890852483073",
+              "start": 15,
+              "url": "https://t.co/GsQJczdODD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843897912021135694",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于“没有药么？”的回答…… https://t.co/GsQJczdODD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 1173,
+          "like_count": 2128,
+          "listed_count": 0,
+          "tweet_count": 238
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T14:48:04.000Z",
+        "description": "女大大一/双性恋跨女/童年意识19雌二醇20泰蔡达武变女性术喉结术/穷鬼没闺蜜男友爱/通模难久残废跨女无法骄傲/天赋党半家长党/脸好看女相女嗓260Hz无伪音/菜金融专业/菜涉猎广泛/过期JK/吊带裙/喜欢可爱/凝胶猫猫/玉玉/167/55/80A好小呜/39码/沙漏型/民主自由人权福利/键证不爆照/上推随便玩/吾将死",
+        "id": "1516428117161689091",
+        "location": "偷乐星球牛马国洼地省韭菜市乌rumqi-mid路64号A4房",
+        "name": "喵喵～快润🍁或快寄掉！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3416,
+          "following_count": 378,
+          "like_count": 48878,
+          "listed_count": 14,
+          "tweet_count": 22456
+        },
+        "username": "MiaoShenXiuSi",
+        "verified": false
+      }
+    ]
+  }
+}

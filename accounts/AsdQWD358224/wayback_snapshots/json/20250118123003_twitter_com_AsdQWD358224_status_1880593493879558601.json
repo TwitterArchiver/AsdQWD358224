@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1880470813465596163",
+    "created_at": "2025-01-18T12:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T13:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880593493879558601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1573778885996584960",
+          "start": 0,
+          "username": "altaz_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880593493879558601",
+    "in_reply_to_user_id": "1573778885996584960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880576340778451015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@altaz_0 好诶～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1880470813465596163",
+        "created_at": "2025-01-18T12:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T13:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880593493879558601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1573778885996584960",
+              "start": 0,
+              "username": "altaz_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880593493879558601",
+        "in_reply_to_user_id": "1573778885996584960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880576340778451015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@altaz_0 好诶～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573778885996584960",
+        "conversation_id": "1880470813465596163",
+        "created_at": "2025-01-18T11:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880576340778451015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880576340778451015",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880470813465596163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 是人民公园！\n喝茶好诶喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 2182,
+          "like_count": 27478,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 5036
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T20:59:51.000Z",
+        "description": "04年无证含糖mtf🏳️‍⚧️｜女同｜是xyn喵🍥｜gaht:1723106454｜双相妹｜持证电工（高低压）｜刷新点：成都/oxford｜妹妹：@shenyuebanran｜欢迎多多交流喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "shenyuebanran"
+              }
+            ]
+          }
+        },
+        "id": "1573778885996584960",
+        "location": "10.10.0.10",
+        "name": "altaz",
+        "pinned_tweet_id": "1879929468984471642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863241827387641856/w5b7b1wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 1227,
+          "like_count": 78487,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 459
+        },
+        "username": "altaz_0",
+        "verified": false
+      }
+    ]
+  }
+}

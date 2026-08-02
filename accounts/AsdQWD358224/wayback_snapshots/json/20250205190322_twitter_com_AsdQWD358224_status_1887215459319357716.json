@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1887214252068642992",
+    "created_at": "2025-02-05T19:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T20:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887215459319357716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886351959244115968",
+          "start": 0,
+          "username": "yurufufufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887215459319357716",
+    "in_reply_to_user_id": "1886351959244115968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887215003100717408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yurufufufu 抱抱（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1887214252068642992",
+        "created_at": "2025-02-05T19:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T20:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887215459319357716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886351959244115968",
+              "start": 0,
+              "username": "yurufufufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887215459319357716",
+        "in_reply_to_user_id": "1886351959244115968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887215003100717408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yurufufufu 抱抱（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886351959244115968",
+        "conversation_id": "1887214252068642992",
+        "created_at": "2025-02-05T19:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T20:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887215003100717408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887215003100717408",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887214252068642992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 我没有朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "fe_ions"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学淡推版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 2500,
+          "like_count": 44793,
+          "listed_count": 7,
+          "media_count": 977,
+          "tweet_count": 8327
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T09:52:28.000Z",
+        "description": "06深圳🏳️‍⚧️🍥/ MtF / EN,CN / 想要和同类交朋友。。/  urbex / 人工智慧 / 超人类主义 / 药学 / 神经接口 /",
+        "id": "1886351959244115968",
+        "location": "新型号",
+        "name": "yuru🍥..",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886356228273795072/zIv8a6Gc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 29,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "yurufufufu",
+        "verified": false
+      }
+    ]
+  }
+}

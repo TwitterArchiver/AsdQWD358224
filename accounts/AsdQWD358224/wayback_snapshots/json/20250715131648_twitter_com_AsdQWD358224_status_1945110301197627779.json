@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945053904364036097"
+      ],
+      "media_source_tweet_id": [
+        "1945053915172495487"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1945110301197627779",
+    "created_at": "2025-07-15T13:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T14:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945110301197627779"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 14,
+          "tag": "KALEIDX_SCOPE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493535317743538178",
+          "start": 3,
+          "username": "ckchiki3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DrldodEzmj",
+          "end": 52,
+          "expanded_url": "https://x.com/ckchiki3/status/1945053915172495487/photo/1",
+          "media_key": "3_1945053904364036097",
+          "start": 29,
+          "url": "https://t.co/DrldodEzmj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945110301197627779",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945053915172495487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ckchiki3: #KALEIDX_SCOPE https://t.co/DrldodEzmj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1945053904364036097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv44OH6a4AE0zms.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945053904364036097"
+          ],
+          "media_source_tweet_id": [
+            "1945053915172495487"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945110301197627779",
+        "created_at": "2025-07-15T13:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T14:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945110301197627779"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 14,
+              "tag": "KALEIDX_SCOPE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493535317743538178",
+              "start": 3,
+              "username": "ckchiki3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrldodEzmj",
+              "end": 52,
+              "expanded_url": "https://x.com/ckchiki3/status/1945053915172495487/photo/1",
+              "media_key": "3_1945053904364036097",
+              "start": 29,
+              "url": "https://t.co/DrldodEzmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945110301197627779",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945053915172495487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ckchiki3: #KALEIDX_SCOPE https://t.co/DrldodEzmj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945053904364036097"
+          ]
+        },
+        "author_id": "1493535317743538178",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945053915172495487",
+        "created_at": "2025-07-15T09:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945053915172495487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "KALEIDX_SCOPE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrldodEzmj",
+              "end": 38,
+              "expanded_url": "https://x.com/ckchiki3/status/1945053915172495487/photo/1",
+              "media_key": "3_1945053904364036097",
+              "start": 15,
+              "url": "https://t.co/DrldodEzmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945053915172495487",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 15400,
+          "like_count": 759,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "#KALEIDX_SCOPE https://t.co/DrldodEzmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/OSDD/人生三周目\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "fe_ions"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气system.（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 3119,
+          "like_count": 95814,
+          "listed_count": 12,
+          "media_count": 1983,
+          "tweet_count": 15655
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T10:39:16.000Z",
+        "description": "その音ゲーマー？ってやつ、一緒に治していこうな‼️　サブ→@ckchiki4　FA→#しおりすたーず　18→",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "しおりすたーず"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "ckchiki4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ckchiki3",
+                "end": 23,
+                "expanded_url": "https://lit.link/ckchiki3",
+                "start": 0,
+                "url": "https://t.co/oh6EyUYosv"
+              }
+            ]
+          }
+        },
+        "id": "1493535317743538178",
+        "location": "Osaka - Nara",
+        "name": "ちき(しおりす)",
+        "pinned_tweet_id": "1928482428504453322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919064239291162624/LnWVk4NF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 883,
+          "like_count": 41471,
+          "listed_count": 7,
+          "media_count": 1771,
+          "tweet_count": 13417
+        },
+        "url": "https://t.co/oh6EyUYosv",
+        "username": "ckchiki3",
+        "verified": false
+      }
+    ]
+  }
+}

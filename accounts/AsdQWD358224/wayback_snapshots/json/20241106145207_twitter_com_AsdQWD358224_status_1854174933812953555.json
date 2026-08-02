@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1853963715927773525",
+    "created_at": "2024-11-06T14:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T15:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854174933812953555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682760650442051587",
+          "start": 0,
+          "username": "senbuyu172144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854174933812953555",
+    "in_reply_to_user_id": "1682760650442051587",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853963715927773525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senbuyu172144 我会睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1853963715927773525",
+        "created_at": "2024-11-06T14:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T15:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854174933812953555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682760650442051587",
+              "start": 0,
+              "username": "senbuyu172144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854174933812953555",
+        "in_reply_to_user_id": "1682760650442051587",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853963715927773525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senbuyu172144 我会睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853963696654934027"
+          ]
+        },
+        "author_id": "1682760650442051587",
+        "conversation_id": "1853963715927773525",
+        "created_at": "2024-11-06T00:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T01:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853963715927773525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bUJcsSS07",
+              "end": 68,
+              "expanded_url": "https://x.com/senbuyu172144/status/1853963715927773525/photo/1",
+              "media_key": "3_1853963696654934027",
+              "start": 45,
+              "url": "https://t.co/3bUJcsSS07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853963715927773525",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7835,
+          "like_count": 117,
+          "quote_count": 6,
+          "reply_count": 45,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "忽然好奇大家怎么想？\n我觉得如果朋友可以在身边的话，不结婚也一样（狗屁世界迟早把他炸了） https://t.co/3bUJcsSS07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站",
+        "name": "鲜虾🍤鱼板🍥面🍜（互FO）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 1432,
+          "like_count": 2819,
+          "listed_count": 0,
+          "tweet_count": 552
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T14:33:10.000Z",
+        "description": "愿好朋友有情人终成眷属 讨厌的人给我成兄妹然后还要孽恋劈腿 ｜ 一个很温柔很好说话的人（不过温柔只给温柔的人）｜欢迎互fo大部分都会回的",
+        "id": "1682760650442051587",
+        "location": "吉林",
+        "name": "sen",
+        "pinned_tweet_id": "1853773611116716483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837702426390155268/tN-ctE2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 322,
+          "like_count": 3287,
+          "listed_count": 0,
+          "tweet_count": 1246
+        },
+        "username": "senbuyu172144",
+        "verified": false
+      }
+    ]
+  }
+}

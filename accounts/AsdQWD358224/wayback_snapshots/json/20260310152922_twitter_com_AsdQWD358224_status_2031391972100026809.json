@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030168675895107585"
+      ],
+      "media_source_tweet_id": [
+        "2030168784804401575"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031391972100026809",
+    "created_at": "2026-03-10T15:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031391972100026809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1394577843196088321",
+          "start": 3,
+          "username": "tuduraw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsoT6qCRl9",
+          "end": 43,
+          "expanded_url": "https://x.com/tuduraw/status/2030168784804401575/video/1",
+          "media_key": "13_2030168675895107585",
+          "start": 20,
+          "url": "https://t.co/nsoT6qCRl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031391972100026809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030168784804401575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuduraw: とりあえず。 https://t.co/nsoT6qCRl9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50176,
+        "height": 1080,
+        "media_key": "13_2030168675895107585",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030168675895107585/img/t5SJ0cZ_gTtpEcLU.jpg",
+        "public_metrics": {
+          "view_count": 227413
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030168675895107585/vid/avc1/480x270/wm6HGkXKjooLjmlJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030168675895107585/vid/avc1/640x360/W_kKqvQxWoILnHFe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030168675895107585/vid/avc1/1280x720/_PyAgqyaPBW-oBg1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030168675895107585/pl/HbY5HPusPOIc1XJa.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030168675895107585"
+          ],
+          "media_source_tweet_id": [
+            "2030168784804401575"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031391972100026809",
+        "created_at": "2026-03-10T15:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031391972100026809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1394577843196088321",
+              "start": 3,
+              "username": "tuduraw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsoT6qCRl9",
+              "end": 43,
+              "expanded_url": "https://x.com/tuduraw/status/2030168784804401575/video/1",
+              "media_key": "13_2030168675895107585",
+              "start": 20,
+              "url": "https://t.co/nsoT6qCRl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031391972100026809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030168784804401575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuduraw: とりあえず。 https://t.co/nsoT6qCRl9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030168675895107585"
+          ]
+        },
+        "author_id": "1394577843196088321",
+        "conversation_id": "2030168784804401575",
+        "created_at": "2026-03-07T06:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030168784804401575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsoT6qCRl9",
+              "end": 30,
+              "expanded_url": "https://x.com/tuduraw/status/2030168784804401575/video/1",
+              "media_key": "13_2030168675895107585",
+              "start": 7,
+              "url": "https://t.co/nsoT6qCRl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030168784804401575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1796,
+          "impression_count": 636345,
+          "like_count": 8487,
+          "quote_count": 39,
+          "reply_count": 28,
+          "retweet_count": 619
+        },
+        "reply_settings": "everyone",
+        "text": "とりあえず。 https://t.co/nsoT6qCRl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/恋爱脑治愈中/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww \n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "calsys456"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656276719665152/czyvKgrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 3042,
+          "like_count": 101095,
+          "listed_count": 14,
+          "media_count": 2258,
+          "tweet_count": 17187
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T08:57:40.000Z",
+        "description": "懐古系軍事部民\n特記なければLinux＆AMD環境での話のみ。\nつべ→https://t.co/BbgR2RUNcn\n干芋→https://t.co/xEFSrFewRQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/Tuduraw",
+                "end": 58,
+                "expanded_url": "http://youtube.com/c/Tuduraw",
+                "start": 35,
+                "url": "https://t.co/BbgR2RUNcn"
+              },
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 85,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/12BAKULUUDKWI?ref_=wl_share",
+                "start": 62,
+                "url": "https://t.co/xEFSrFewRQ"
+              }
+            ]
+          }
+        },
+        "id": "1394577843196088321",
+        "location": "不定形ならば猫であるべき",
+        "name": "Tuduraw",
+        "pinned_tweet_id": "2009866131260219483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701860323496738816/urkKjKnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 251,
+          "like_count": 3563,
+          "listed_count": 5,
+          "media_count": 519,
+          "tweet_count": 4191
+        },
+        "username": "tuduraw",
+        "verified": false
+      }
+    ]
+  }
+}

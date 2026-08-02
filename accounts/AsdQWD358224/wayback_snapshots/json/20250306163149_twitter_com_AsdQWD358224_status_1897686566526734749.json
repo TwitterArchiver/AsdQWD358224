@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1897685520999928252",
+    "created_at": "2025-03-06T16:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T17:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897686566526734749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "931934663198703616",
+          "start": 0,
+          "username": "BakaHDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897686566526734749",
+    "in_reply_to_user_id": "931934663198703616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897685520999928252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BakaHDT 啊？注意安全啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1897685520999928252",
+        "created_at": "2025-03-06T16:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897686566526734749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "931934663198703616",
+              "start": 0,
+              "username": "BakaHDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897686566526734749",
+        "in_reply_to_user_id": "931934663198703616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897685520999928252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BakaHDT 啊？注意安全啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931934663198703616",
+        "conversation_id": "1897685520999928252",
+        "created_at": "2025-03-06T16:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897685520999928252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897685520999928252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩大了，勒脖子好像给脸上的毛细血管勒爆了，现在整个脑袋都是青紫色的，最难绷的是脖子上有明显的分界线，眼睛好像要爆炸了一样，不敢出门了((("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 2732,
+          "like_count": 65186,
+          "listed_count": 8,
+          "media_count": 1547,
+          "tweet_count": 11792
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T17:18:33.000Z",
+        "description": "mtf/双相/bpd/dpd/asd/adhd | 今天也在努力活着的小女孩，可以叫我123 | 发一些生活中的事情 | 下面的链接是提问箱 | 最爱的主人是 @FTMiaoX 愿意为他付出一切",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "FTMiaoX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bakahdt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bakahdt",
+                "start": 0,
+                "url": "https://t.co/DVXWY0OIcQ"
+              }
+            ]
+          }
+        },
+        "id": "931934663198703616",
+        "location": "发条喵家的笼子里",
+        "name": "BakaHDT🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876193252422164480/fZqr5cG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 473,
+          "like_count": 6322,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 1865
+        },
+        "url": "https://t.co/DVXWY0OIcQ",
+        "username": "BakaHDT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1837109504007450953",
+    "created_at": "2024-09-20T15:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T16:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837154451536388600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1786694173883871232",
+          "start": 0,
+          "username": "2022Fxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837154451536388600",
+    "in_reply_to_user_id": "1786694173883871232",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837109504007450953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2022Fxs 哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1837109504007450953",
+        "created_at": "2024-09-20T15:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T16:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837154451536388600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786694173883871232",
+              "start": 0,
+              "username": "2022Fxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837154451536388600",
+        "in_reply_to_user_id": "1786694173883871232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837109504007450953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2022Fxs 哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786694173883871232",
+        "conversation_id": "1837109504007450953",
+        "created_at": "2024-09-20T12:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T13:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837109504007450953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837109504007450953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 544,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才家里人带我去看了他们的产业，好像是在说只要我娶妻生子当顺男就会很有钱过富裕的生活。但是我选择当我的贫穷小药娘，和我的男朋友在一起。让他们自己当资本家吧，只希望要是再划成分的时候别连累我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 983,
+          "like_count": 1890,
+          "listed_count": 0,
+          "tweet_count": 172
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T09:47:51.000Z",
+        "description": "08年mtf/hrt 2024 5.19/小药娘，生理性别男/家暴党/赛博小烧货/半休学高二文科生/重度焦虑/今天也在努力活着哦\n爱人，活着的原因与目的@sabulin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "sabulin8964"
+              }
+            ]
+          }
+        },
+        "id": "1786694173883871232",
+        "location": "黑暗的角落",
+        "name": "流光🍥（8964天安门限定版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819243129423515648/OcxK0fXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 258,
+          "like_count": 11426,
+          "listed_count": 2,
+          "tweet_count": 6207
+        },
+        "username": "2022Fxs",
+        "verified": false
+      }
+    ]
+  }
+}

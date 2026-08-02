@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1883812967277330432"
+      ],
+      "media_source_tweet_id": [
+        "1883813031257546786"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1883991044116865479",
+    "created_at": "2025-01-27T21:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T22:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883991044116865479"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "春节里的中国"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1603337446183546880",
+          "start": 3,
+          "username": "jye1968"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GPTKOetXiI",
+          "end": 62,
+          "expanded_url": "https://x.com/jye1968/status/1883813031257546786/video/1",
+          "media_key": "7_1883812967277330432",
+          "start": 39,
+          "url": "https://t.co/GPTKOetXiI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883991044116865479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883813031257546786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jye1968: 天呐！谁懂这碗茶缸牛肉面的含金量啊！#春节里的中国 https://t.co/GPTKOetXiI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19666,
+        "height": 1280,
+        "media_key": "7_1883812967277330432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883812967277330432/pu/img/nDy9SY7fV4bdwY2S.jpg",
+        "public_metrics": {
+          "view_count": 8777
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883812967277330432/pu/vid/avc1/320x568/Cyjj8DKSvYQ_lV9v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883812967277330432/pu/vid/avc1/480x852/VTlG8xU1lhkQxebg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883812967277330432/pu/vid/avc1/720x1280/MPvfkiGwA3krCDG4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883812967277330432/pu/pl/DmppE_RZQNGW_3Zq.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883812967277330432"
+          ],
+          "media_source_tweet_id": [
+            "1883813031257546786"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1883991044116865479",
+        "created_at": "2025-01-27T21:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T22:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883991044116865479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "春节里的中国"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1603337446183546880",
+              "start": 3,
+              "username": "jye1968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPTKOetXiI",
+              "end": 62,
+              "expanded_url": "https://x.com/jye1968/status/1883813031257546786/video/1",
+              "media_key": "7_1883812967277330432",
+              "start": 39,
+              "url": "https://t.co/GPTKOetXiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883991044116865479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883813031257546786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jye1968: 天呐！谁懂这碗茶缸牛肉面的含金量啊！#春节里的中国 https://t.co/GPTKOetXiI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883812967277330432"
+          ]
+        },
+        "author_id": "1603337446183546880",
+        "conversation_id": "1883813031257546786",
+        "created_at": "2025-01-27T09:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883813031257546786"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "春节里的中国"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPTKOetXiI",
+              "end": 49,
+              "expanded_url": "https://x.com/jye1968/status/1883813031257546786/video/1",
+              "media_key": "7_1883812967277330432",
+              "start": 26,
+              "url": "https://t.co/GPTKOetXiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883813031257546786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16037,
+          "like_count": 103,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "天呐！谁懂这碗茶缸牛肉面的含金量啊！#春节里的中国 https://t.co/GPTKOetXiI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  特别好的人\n@fe_ions    最爱的姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "fe_ions"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 2369,
+          "like_count": 37334,
+          "listed_count": 6,
+          "media_count": 740,
+          "tweet_count": 6994
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T10:35:40.000Z",
+        "description": "互fo互评互赞！脱粉将取关哦！正在努力回关中，由于每日有关注人数上限，请耐心等待哈！如忘记回关，请在我的置顶贴文留言，我必立马回关！请大家关注我的小号@lbx0815和@xinxin09133，100%回关，一起涨粉吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "lbx0815"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "xinxin09133"
+              }
+            ]
+          }
+        },
+        "id": "1603337446183546880",
+        "name": "新新（互fo互赞互评）",
+        "pinned_tweet_id": "1862691415043821587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763085380453326848/6gLHRO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19675,
+          "following_count": 9967,
+          "like_count": 83383,
+          "listed_count": 38,
+          "media_count": 2089,
+          "tweet_count": 15204
+        },
+        "username": "jye1968",
+        "verified": false
+      }
+    ]
+  }
+}

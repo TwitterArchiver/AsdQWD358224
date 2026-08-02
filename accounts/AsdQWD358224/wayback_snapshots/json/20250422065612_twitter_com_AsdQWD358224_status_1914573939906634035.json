@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1914519310166581250"
+      ],
+      "media_source_tweet_id": [
+        "1914519365875314888"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1914573939906634035",
+    "created_at": "2025-04-22T06:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T07:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914573939906634035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1756412083485474816",
+          "start": 3,
+          "username": "usagidarabbit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dwHAbjacEy",
+          "end": 48,
+          "expanded_url": "https://x.com/usagidarabbit/status/1914519365875314888/video/1",
+          "media_key": "13_1914519310166581250",
+          "start": 25,
+          "url": "https://t.co/dwHAbjacEy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914573939906634035",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 302
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914519365875314888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usagidarabbit: NOOOO https://t.co/dwHAbjacEy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6016,
+        "height": 1280,
+        "media_key": "13_1914519310166581250",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914519310166581250/img/5QK_n4AwuM4JLhIP.jpg",
+        "public_metrics": {
+          "view_count": 8366
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914519310166581250/vid/avc1/320x568/_BYKQ477j-atQzZn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914519310166581250/vid/avc1/480x852/CXpqDN2uoYQN-wqx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914519310166581250/vid/avc1/720x1280/fkzIWqOyiU0tTtnn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914519310166581250/pl/RXJ0z14ADuSjntTm.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914519310166581250"
+          ],
+          "media_source_tweet_id": [
+            "1914519365875314888"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1914573939906634035",
+        "created_at": "2025-04-22T06:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914573939906634035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1756412083485474816",
+              "start": 3,
+              "username": "usagidarabbit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwHAbjacEy",
+              "end": 48,
+              "expanded_url": "https://x.com/usagidarabbit/status/1914519365875314888/video/1",
+              "media_key": "13_1914519310166581250",
+              "start": 25,
+              "url": "https://t.co/dwHAbjacEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914573939906634035",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 302
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914519365875314888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usagidarabbit: NOOOO https://t.co/dwHAbjacEy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914519310166581250"
+          ]
+        },
+        "author_id": "1756412083485474816",
+        "conversation_id": "1914519365875314888",
+        "created_at": "2025-04-22T03:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914519365875314888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwHAbjacEy",
+              "end": 29,
+              "expanded_url": "https://x.com/usagidarabbit/status/1914519365875314888/video/1",
+              "media_key": "13_1914519310166581250",
+              "start": 6,
+              "url": "https://t.co/dwHAbjacEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914519365875314888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 23649,
+          "like_count": 2376,
+          "quote_count": 22,
+          "reply_count": 4,
+          "retweet_count": 302
+        },
+        "reply_settings": "everyone",
+        "text": "NOOOO https://t.co/dwHAbjacEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/泛性恋/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "fe_ions"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 3104,
+          "like_count": 87370,
+          "listed_count": 12,
+          "media_count": 1843,
+          "tweet_count": 14383
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T20:17:37.000Z",
+        "description": "back to normal banner by: @some_ape",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "some_ape"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usagidarabbit",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usagidarabbit",
+                "start": 0,
+                "url": "https://t.co/LYE3HFyT0W"
+              }
+            ]
+          }
+        },
+        "id": "1756412083485474816",
+        "name": "usagi",
+        "pinned_tweet_id": "1867643341854454168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909983380382547969/sv858_tC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18136,
+          "following_count": 259,
+          "like_count": 5556,
+          "listed_count": 12,
+          "media_count": 750,
+          "tweet_count": 3049
+        },
+        "url": "https://t.co/LYE3HFyT0W",
+        "username": "usagidarabbit",
+        "verified": false
+      }
+    ]
+  }
+}

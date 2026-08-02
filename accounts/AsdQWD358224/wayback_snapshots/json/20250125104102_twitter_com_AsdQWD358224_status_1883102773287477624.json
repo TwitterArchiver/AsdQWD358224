@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1883089270765965441",
+    "created_at": "2025-01-25T10:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T11:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883102773287477624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        },
+        {
+          "end": 33,
+          "id": "1558395418110636033",
+          "start": 17,
+          "username": "LeeinCN_Offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883102773287477624",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883089670109855956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical @LeeinCN_Offical 有地震但没感觉到震感（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1883089670109855956].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1883089670109855956",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1883089670109855956"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1883089270765965441",
+        "created_at": "2025-01-25T10:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T11:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883102773287477624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            },
+            {
+              "end": 33,
+              "id": "1558395418110636033",
+              "start": 17,
+              "username": "LeeinCN_Offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883102773287477624",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883089670109855956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical @LeeinCN_Offical 有地震但没感觉到震感（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 2328,
+          "like_count": 35259,
+          "listed_count": 5,
+          "media_count": 626,
+          "tweet_count": 6531
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "台中の男性|讀研中|定期往返兩岸|輕度鍵政|威權主義建制派|生活推轉型中|🚫不禮貌人士與民進黨支持者\n小帳 @hydra1919810",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "hydra1919810"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "隨機出現在一個新地點",
+        "name": "金部長不是金將軍🇨🇳🇹🇼",
+        "pinned_tweet_id": "1843968882928922867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868633854149554176/uISMLHk3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20302,
+          "following_count": 2712,
+          "like_count": 246083,
+          "listed_count": 36,
+          "media_count": 4893,
+          "tweet_count": 47835
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T10:10:12.000Z",
+        "description": "Taiwanese🇹🇼‖廢文很多‖私訊低響應率‖落榜藝術生‖逃生艙@lilaoshuNo1&鎖帳@lilaoshuzuikeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "lilaoshuNo1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "lilaoshuzuikeai"
+              }
+            ]
+          }
+        },
+        "id": "1558395418110636033",
+        "location": "Taiwan ‖ Chengdu",
+        "name": "Lee老鼠不是米老鼠",
+        "pinned_tweet_id": "1786622156564316240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798977011546984449/ft8z1wEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 871,
+          "like_count": 4366,
+          "listed_count": 5,
+          "media_count": 2653,
+          "tweet_count": 12895
+        },
+        "username": "LeeinCN_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

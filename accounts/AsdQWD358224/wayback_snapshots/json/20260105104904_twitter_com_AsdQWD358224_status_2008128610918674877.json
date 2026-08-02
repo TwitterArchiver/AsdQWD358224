@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007963900206338048"
+      ],
+      "media_source_tweet_id": [
+        "2007963962277794137"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "2008128610918674877",
+    "created_at": "2026-01-05T10:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T11:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008128610918674877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556981836961959936",
+          "start": 3,
+          "username": "jamtocham"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kYNGsYKJqu",
+          "end": 55,
+          "expanded_url": "https://x.com/jamtocham/status/2007963962277794137/video/1",
+          "media_key": "13_2007963900206338048",
+          "start": 32,
+          "url": "https://t.co/kYNGsYKJqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008128610918674877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007963962277794137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jamtocham: 下次再见～🤗\n\n🇨🇳~✈️~🇰🇷 https://t.co/kYNGsYKJqu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2566,
+        "height": 1080,
+        "media_key": "13_2007963900206338048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007963900206338048/img/7lT3AobqLZlXt-ET.jpg",
+        "public_metrics": {
+          "view_count": 11892
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007963900206338048/vid/avc1/1280x720/U4gqnKSqm8qFmqg-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007963900206338048/pl/6533pp_P6s_CpKeH.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007963900206338048/vid/avc1/640x360/dMDAEzG_2NR5P6Ll.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007963900206338048/vid/avc1/1920x1080/JL6PTw137C-wXCgI.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007963900206338048/vid/avc1/480x270/DCc2TwI_1nktFcat.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007963900206338048"
+          ],
+          "media_source_tweet_id": [
+            "2007963962277794137"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2008128610918674877",
+        "created_at": "2026-01-05T10:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T11:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008128610918674877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556981836961959936",
+              "start": 3,
+              "username": "jamtocham"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYNGsYKJqu",
+              "end": 55,
+              "expanded_url": "https://x.com/jamtocham/status/2007963962277794137/video/1",
+              "media_key": "13_2007963900206338048",
+              "start": 32,
+              "url": "https://t.co/kYNGsYKJqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008128610918674877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007963962277794137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jamtocham: 下次再见～🤗\n\n🇨🇳~✈️~🇰🇷 https://t.co/kYNGsYKJqu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007963900206338048"
+          ]
+        },
+        "author_id": "1556981836961959936",
+        "conversation_id": "2007963962277794137",
+        "created_at": "2026-01-04T23:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T00:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007963962277794137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYNGsYKJqu",
+              "end": 40,
+              "expanded_url": "https://x.com/jamtocham/status/2007963962277794137/video/1",
+              "media_key": "13_2007963900206338048",
+              "start": 17,
+              "url": "https://t.co/kYNGsYKJqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007963962277794137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 31583,
+          "like_count": 3475,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "下次再见～🤗\n\n🇨🇳~✈️~🇰🇷 https://t.co/kYNGsYKJqu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/多边关系/蛋挞单推/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww  超级好的姐姐w\n/秋分在线中/我绝对是健全人/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "calsys456"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "franciswwwww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 3054,
+          "like_count": 100649,
+          "listed_count": 12,
+          "media_count": 2211,
+          "tweet_count": 16856
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T12:33:03.000Z",
+        "description": "Contact : jamtocham@gmail.com 1일1시노🎨 https://t.co/9jBrpvZcmQ support site - https://t.co/ghVgo7DZ5F Fanbox support - https://t.co/Gg8K5s1mYE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10626273",
+                "end": 60,
+                "expanded_url": "http://pixiv.net/users/10626273",
+                "start": 37,
+                "url": "https://t.co/9jBrpvZcmQ"
+              },
+              {
+                "display_url": "shoulder.fan/@jamtocham",
+                "end": 99,
+                "expanded_url": "https://shoulder.fan/@jamtocham",
+                "start": 76,
+                "url": "https://t.co/ghVgo7DZ5F"
+              },
+              {
+                "display_url": "jamtocham.fanbox.cc",
+                "end": 140,
+                "expanded_url": "http://jamtocham.fanbox.cc",
+                "start": 117,
+                "url": "https://t.co/Gg8K5s1mYE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10626273",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/10626273",
+                "start": 0,
+                "url": "https://t.co/9CImfToEXA"
+              }
+            ]
+          }
+        },
+        "id": "1556981836961959936",
+        "location": "Kivotos",
+        "name": "Jam to cham",
+        "pinned_tweet_id": "2006886684441661452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821159218810118144/YO-qRQro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120835,
+          "following_count": 1015,
+          "like_count": 35955,
+          "listed_count": 231,
+          "media_count": 1692,
+          "tweet_count": 5913
+        },
+        "url": "https://t.co/9CImfToEXA",
+        "username": "jamtocham",
+        "verified": true
+      }
+    ]
+  }
+}

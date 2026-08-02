@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1888988367712575515",
+    "created_at": "2025-02-10T18:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T19:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889018351936327817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889018351936327817",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888988367712575515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 好耶～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1888988367712575515",
+        "created_at": "2025-02-10T18:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T19:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889018351936327817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889018351936327817",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888988367712575515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 好耶～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888988363753140224",
+            "3_1888988364478820352",
+            "3_1888988364604653569",
+            "3_1888988364365598720"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1888988367712575515",
+        "created_at": "2025-02-10T16:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T17:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888988367712575515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 110,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988363753140224",
+              "start": 87,
+              "url": "https://t.co/N8UUTZkQGI"
+            },
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 110,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988364478820352",
+              "start": 87,
+              "url": "https://t.co/N8UUTZkQGI"
+            },
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 110,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988364604653569",
+              "start": 87,
+              "url": "https://t.co/N8UUTZkQGI"
+            },
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 110,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988364365598720",
+              "start": 87,
+              "url": "https://t.co/N8UUTZkQGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888988367712575515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2735,
+          "like_count": 57,
+          "quote_count": 3,
+          "reply_count": 71,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "遲到的4000fo抽獎！🥳\n一等獎：100cm鯊鯊一隻\n二等獎：色普龍一板（50mg*10 五份\n三等獎：10元現金紅包5份\n\n參與方式：轉發評論即可\n\n感謝大家支持喵～😺 https://t.co/N8UUTZkQGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢猫猫/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_7650  宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "fe_ions"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "Caroline_7650"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学淡推版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 2533,
+          "like_count": 47331,
+          "listed_count": 8,
+          "media_count": 1044,
+          "tweet_count": 8785
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌泰補色諾",
+        "pinned_tweet_id": "1887195421598257202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4296,
+          "following_count": 804,
+          "like_count": 34768,
+          "listed_count": 21,
+          "media_count": 962,
+          "tweet_count": 15795
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

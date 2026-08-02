@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1851964284638552537",
+    "created_at": "2024-10-31T15:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T16:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852013576351076602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1335132884278108161",
+          "start": 0,
+          "username": "stats_feed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852013576351076602",
+    "in_reply_to_user_id": "1335132884278108161",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851964284638552537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stats_feed 蚊子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1851964284638552537",
+        "created_at": "2024-10-31T15:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T16:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852013576351076602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1335132884278108161",
+              "start": 0,
+              "username": "stats_feed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852013576351076602",
+        "in_reply_to_user_id": "1335132884278108161",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851964284638552537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stats_feed 蚊子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851964278137393153"
+          ]
+        },
+        "author_id": "1335132884278108161",
+        "conversation_id": "1851964284638552537",
+        "created_at": "2024-10-31T12:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T13:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851964284638552537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VBQNMwsCG",
+              "end": 68,
+              "expanded_url": "https://x.com/stats_feed/status/1851964284638552537/photo/1",
+              "media_key": "3_1851964278137393153",
+              "start": 45,
+              "url": "https://t.co/6VBQNMwsCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851964284638552537",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 285042,
+          "like_count": 969,
+          "quote_count": 111,
+          "reply_count": 1657,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "What do you call these guys in your country? https://t.co/6VBQNMwsCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇半生推/友跨顺男/\n高三在读/无政治倾向/汉族/拒绝建政",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 1338,
+          "like_count": 2496,
+          "listed_count": 0,
+          "tweet_count": 480
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T08:07:34.000Z",
+        "description": "There are three kinds of lies: lies, damned lies, and statistics. Sister page of @engineers_feed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "engineers_feed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@stats_feed",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@stats_feed",
+                "start": 0,
+                "url": "https://t.co/Lso9z1yJ8I"
+              }
+            ]
+          }
+        },
+        "id": "1335132884278108161",
+        "name": "World of Statistics",
+        "pinned_tweet_id": "1832819468155683222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335168437220421632/VCHg78Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3897072,
+          "following_count": 563,
+          "like_count": 1733,
+          "listed_count": 6626,
+          "tweet_count": 17130
+        },
+        "url": "https://t.co/Lso9z1yJ8I",
+        "username": "stats_feed",
+        "verified": true
+      }
+    ]
+  }
+}

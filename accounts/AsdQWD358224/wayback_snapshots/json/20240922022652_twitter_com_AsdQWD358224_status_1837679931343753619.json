@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1837377173898023379",
+    "created_at": "2024-09-22T02:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T03:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837679931343753619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1730436732049600512",
+          "start": 0,
+          "username": "sally7731478613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837679931343753619",
+    "in_reply_to_user_id": "1730436732049600512",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837377173898023379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sally7731478613 好pass"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1837377173898023379",
+        "created_at": "2024-09-22T02:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T03:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837679931343753619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1730436732049600512",
+              "start": 0,
+              "username": "sally7731478613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837679931343753619",
+        "in_reply_to_user_id": "1730436732049600512",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837377173898023379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sally7731478613 好pass"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837377171331108864"
+          ]
+        },
+        "author_id": "1730436732049600512",
+        "conversation_id": "1837377173898023379",
+        "created_at": "2024-09-21T06:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T07:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837377173898023379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xk6zuokdtg",
+              "end": 45,
+              "expanded_url": "https://twitter.com/sally7731478613/status/1837377173898023379/photo/1",
+              "media_key": "3_1837377171331108864",
+              "start": 22,
+              "url": "https://t.co/xk6zUOkdtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837377173898023379",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 23051,
+          "like_count": 413,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "再打我的主意，我就要开枪了！\n（｀Δ´）ゞ https://t.co/xk6zUOkdtg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 1021,
+          "like_count": 1906,
+          "listed_count": 0,
+          "tweet_count": 188
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T04:00:53.000Z",
+        "description": "看清楚是药娘xyn🏳️‍⚧️，天残党，已经炸柜，半家长党，线下圆角实习中....\n🚪30（仅聊天）🚪150（线下🈷先过🚪）真的很感谢，咱可以陪聊或者偶尔发涩涩...\n最爱的两个人@sucrose2023❤️@tofu9033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "sucrose2023"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "tofu9033"
+              }
+            ]
+          }
+        },
+        "id": "1730436732049600512",
+        "location": "Addison apartment ",
+        "name": "sally🍥",
+        "pinned_tweet_id": "1831570603280855318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740231177469083648/AJ4IwuGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45945,
+          "following_count": 762,
+          "like_count": 21702,
+          "listed_count": 135,
+          "tweet_count": 10134
+        },
+        "username": "sally7731478613",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883057771416813568"
+      ],
+      "media_source_tweet_id": [
+        "1883057778308313196"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1883102053867913325",
+    "created_at": "2025-01-25T10:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T11:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883102053867913325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1166130634252853260",
+          "start": 3,
+          "username": "Solithra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/clUHmO8ndQ",
+          "end": 37,
+          "expanded_url": "https://x.com/Solithra/status/1883057778308313196/photo/1",
+          "media_key": "3_1883057771416813568",
+          "start": 14,
+          "url": "https://t.co/clUHmO8ndQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883102053867913325",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883057778308313196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Solithra: https://t.co/clUHmO8ndQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1883057771416813568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiH3EPTWgAAyUWo.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883057771416813568"
+          ],
+          "media_source_tweet_id": [
+            "1883057778308313196"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1883102053867913325",
+        "created_at": "2025-01-25T10:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T11:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883102053867913325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1166130634252853260",
+              "start": 3,
+              "username": "Solithra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/clUHmO8ndQ",
+              "end": 37,
+              "expanded_url": "https://x.com/Solithra/status/1883057778308313196/photo/1",
+              "media_key": "3_1883057771416813568",
+              "start": 14,
+              "url": "https://t.co/clUHmO8ndQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883102053867913325",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883057778308313196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Solithra: https://t.co/clUHmO8ndQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883057771416813568"
+          ]
+        },
+        "author_id": "1166130634252853260",
+        "conversation_id": "1883057778308313196",
+        "created_at": "2025-01-25T07:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T08:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883057778308313196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/clUHmO8ndQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Solithra/status/1883057778308313196/photo/1",
+              "media_key": "3_1883057771416813568",
+              "start": 0,
+              "url": "https://t.co/clUHmO8ndQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883057778308313196",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1485,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/clUHmO8ndQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 2328,
+          "like_count": 35248,
+          "listed_count": 5,
+          "media_count": 626,
+          "tweet_count": 6529
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-26T23:29:48.000Z",
+        "description": "Visuals, Nature, Wallpapers, Travel, Ai Art",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/solithra",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/solithra",
+                "start": 0,
+                "url": "https://t.co/oYCXe3Xpv4"
+              }
+            ]
+          }
+        },
+        "id": "1166130634252853260",
+        "name": "Sol ☼",
+        "pinned_tweet_id": "1882716467059466401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773457730633662464/bD1RVcoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84468,
+          "following_count": 33174,
+          "like_count": 6099,
+          "listed_count": 228,
+          "media_count": 30924,
+          "tweet_count": 34275
+        },
+        "url": "https://t.co/oYCXe3Xpv4",
+        "username": "Solithra",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1804320208011825657",
+    "created_at": "2024-06-22T18:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T19:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804582756200173767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748346218722340864",
+          "start": 0,
+          "username": "Los_Ka1ser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804582756200173767",
+    "in_reply_to_user_id": "1748346218722340864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804320208011825657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Los_Ka1ser 把你送进衡水中学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1804320208011825657",
+        "created_at": "2024-06-22T18:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T19:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804582756200173767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748346218722340864",
+              "start": 0,
+              "username": "Los_Ka1ser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804582756200173767",
+        "in_reply_to_user_id": "1748346218722340864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804320208011825657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Los_Ka1ser 把你送进衡水中学"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804320204882874372"
+          ]
+        },
+        "author_id": "1748346218722340864",
+        "conversation_id": "1804320208011825657",
+        "created_at": "2024-06-22T01:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T02:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804320208011825657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jLATjLjTUi",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Los_Ka1ser/status/1804320208011825657/photo/1",
+              "media_key": "3_1804320204882874372",
+              "start": 11,
+              "url": "https://t.co/jLATjLjTUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804320208011825657",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4098,
+          "like_count": 49,
+          "quote_count": 4,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾之（我也来） https://t.co/jLATjLjTUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 359,
+          "like_count": 520,
+          "listed_count": 0,
+          "tweet_count": 56
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T14:06:37.000Z",
+        "description": "马克思&卢森堡主义 民主社会主义\n我是来自异世界的天才兆铭SAMA！\n代理行政长官@Los_AEIOU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Los_AEIOU"
+              }
+            ]
+          }
+        },
+        "id": "1748346218722340864",
+        "location": "索努斯-李株式會社本部",
+        "name": "Los.🌹🚩",
+        "pinned_tweet_id": "1803298001693319261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798904304889462784/2v557bcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 303,
+          "like_count": 2099,
+          "listed_count": 1,
+          "tweet_count": 1362
+        },
+        "username": "Los_Ka1ser",
+        "verified": false
+      }
+    ]
+  }
+}

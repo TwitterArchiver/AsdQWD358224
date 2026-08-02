@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1774780170039328768",
+        "3_1774780170043551744"
+      ],
+      "media_source_tweet_id": [
+        "1774780177589129716",
+        "1774780177589129716"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1910638810909884712",
+    "created_at": "2025-04-11T10:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T11:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910638810909884712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1018389455193821184",
+          "start": 3,
+          "username": "yueliangting"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4uTCdaJ1Qe",
+          "end": 100,
+          "expanded_url": "https://x.com/yueliangting/status/1774780177589129716/photo/1",
+          "media_key": "3_1774780170039328768",
+          "start": 77,
+          "url": "https://t.co/4uTCdaJ1Qe"
+        },
+        {
+          "display_url": "pic.x.com/4uTCdaJ1Qe",
+          "end": 100,
+          "expanded_url": "https://x.com/yueliangting/status/1774780177589129716/photo/1",
+          "media_key": "3_1774780170043551744",
+          "start": 77,
+          "url": "https://t.co/4uTCdaJ1Qe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910638810909884712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1774780177589129716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueliangting: 本場四川回鍋肉と海老塩ワンタン麺\n今天的回锅肉普通辣。\n上次也吃的回锅肉是变态辣的，第二天早上我屁股贴住到马桶上了🔥 https://t.co/4uTCdaJ1Qe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1774780170039328768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GKFJKVWaAAA6QVq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1774780170043551744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GKFJKVXacAAEHQP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1774780170039328768",
+            "3_1774780170043551744"
+          ],
+          "media_source_tweet_id": [
+            "1774780177589129716",
+            "1774780177589129716"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1910638810909884712",
+        "created_at": "2025-04-11T10:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T11:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910638810909884712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1018389455193821184",
+              "start": 3,
+              "username": "yueliangting"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uTCdaJ1Qe",
+              "end": 100,
+              "expanded_url": "https://x.com/yueliangting/status/1774780177589129716/photo/1",
+              "media_key": "3_1774780170039328768",
+              "start": 77,
+              "url": "https://t.co/4uTCdaJ1Qe"
+            },
+            {
+              "display_url": "pic.x.com/4uTCdaJ1Qe",
+              "end": 100,
+              "expanded_url": "https://x.com/yueliangting/status/1774780177589129716/photo/1",
+              "media_key": "3_1774780170043551744",
+              "start": 77,
+              "url": "https://t.co/4uTCdaJ1Qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910638810909884712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1774780177589129716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueliangting: 本場四川回鍋肉と海老塩ワンタン麺\n今天的回锅肉普通辣。\n上次也吃的回锅肉是变态辣的，第二天早上我屁股贴住到马桶上了🔥 https://t.co/4uTCdaJ1Qe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1774780170039328768",
+            "3_1774780170043551744"
+          ]
+        },
+        "author_id": "1018389455193821184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1774780177589129716",
+        "created_at": "2024-04-01T12:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-01T13:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1774780177589129716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uTCdaJ1Qe",
+              "end": 82,
+              "expanded_url": "https://x.com/yueliangting/status/1774780177589129716/photo/1",
+              "media_key": "3_1774780170039328768",
+              "start": 59,
+              "url": "https://t.co/4uTCdaJ1Qe"
+            },
+            {
+              "display_url": "pic.x.com/4uTCdaJ1Qe",
+              "end": 82,
+              "expanded_url": "https://x.com/yueliangting/status/1774780177589129716/photo/1",
+              "media_key": "3_1774780170043551744",
+              "start": 59,
+              "url": "https://t.co/4uTCdaJ1Qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1774780177589129716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 897,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "本場四川回鍋肉と海老塩ワンタン麺\n今天的回锅肉普通辣。\n上次也吃的回锅肉是变态辣的，第二天早上我屁股贴住到马桶上了🔥 https://t.co/4uTCdaJ1Qe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "fe_ions"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（2025.4.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 3009,
+          "like_count": 85627,
+          "listed_count": 12,
+          "media_count": 1793,
+          "tweet_count": 14056
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-15T06:59:01.000Z",
+        "description": "ご飯系FF企業で2011年から中国駐在（上海→江西省南昌）2021年6月11日に帰国。浙江人の妻、マイペースな9歳娘の3人家族。2023年3月30日キッチンカー開業しました！和老婆一起创业中国小吃移动餐车，2023年3月30号开业了！经营理念：好吃、开心、想再来！",
+        "id": "1018389455193821184",
+        "location": "日本 東京",
+        "name": "🇨🇳移动餐车“月亮亭（ユエリャンティン）”老板 亮总（りあんぞん）",
+        "pinned_tweet_id": "1904888174029267374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599372243020447744/AF7ai6Of_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 1074,
+          "like_count": 51621,
+          "listed_count": 12,
+          "media_count": 1567,
+          "tweet_count": 6875
+        },
+        "username": "yueliangting",
+        "verified": false
+      }
+    ]
+  }
+}

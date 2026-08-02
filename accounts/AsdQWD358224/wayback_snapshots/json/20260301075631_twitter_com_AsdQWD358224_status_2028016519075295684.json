@@ -1,0 +1,608 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2028016519075295684",
+    "created_at": "2026-03-01T07:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T08:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028016519075295684"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "genshintwt",
+          "probability": 0.6193,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 92,
+          "normalized_text": "dendro",
+          "probability": 0.5199,
+          "start": 87,
+          "type": "Other"
+        },
+        {
+          "end": 113,
+          "normalized_text": "sumeru",
+          "probability": 0.6625,
+          "start": 108,
+          "type": "Other"
+        },
+        {
+          "end": 123,
+          "normalized_text": "tighnari",
+          "probability": 0.6065,
+          "start": 116,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 26,
+          "tag": "genshintwt"
+        },
+        {
+          "end": 124,
+          "start": 115,
+          "tag": "tighnari"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1978658104305696769",
+          "start": 3,
+          "username": "naritimely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028016519075295684",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978667791151407164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naritimely: greetings #genshintwt ♡ !\n\n☆ Im a timely account dedicated to our fave dendro botanist from sumeru #tighnari! \n\n&amp; ↻’s are w…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1978667787766640640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wj3ppWsAAraaH.jpg",
+        "width": 736
+      },
+      {
+        "height": 736,
+        "media_key": "3_1978667788269985792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wj3rhXIAA2bNC.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2028016519075295684",
+        "created_at": "2026-03-01T07:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028016519075295684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "genshintwt",
+              "probability": 0.6193,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "dendro",
+              "probability": 0.5199,
+              "start": 87,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "sumeru",
+              "probability": 0.6625,
+              "start": 108,
+              "type": "Other"
+            },
+            {
+              "end": 123,
+              "normalized_text": "tighnari",
+              "probability": 0.6065,
+              "start": 116,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "genshintwt"
+            },
+            {
+              "end": 124,
+              "start": 115,
+              "tag": "tighnari"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1978658104305696769",
+              "start": 3,
+              "username": "naritimely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028016519075295684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978667791151407164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naritimely: greetings #genshintwt ♡ !\n\n☆ Im a timely account dedicated to our fave dendro botanist from sumeru #tighnari! \n\n&amp; ↻’s are w…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978667787766640640",
+            "3_1978667788269985792"
+          ]
+        },
+        "author_id": "1978658104305696769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1978667791151407164",
+        "created_at": "2025-10-16T03:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978667791151407164"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "genshintwt",
+              "probability": 0.5045,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "dendro",
+              "probability": 0.4806,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 97,
+              "normalized_text": "sumeru",
+              "probability": 0.6055,
+              "start": 92,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "tighnari",
+              "probability": 0.506,
+              "start": 100,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 10,
+              "tag": "genshintwt"
+            },
+            {
+              "end": 108,
+              "start": 99,
+              "tag": "tighnari"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "原神"
+            },
+            {
+              "end": 156,
+              "start": 142,
+              "tag": "genshinimpact"
+            },
+            {
+              "end": 166,
+              "start": 157,
+              "tag": "promotwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QuIjHlcvUn",
+              "end": 190,
+              "expanded_url": "https://x.com/naritimely/status/1978667791151407164/photo/1",
+              "media_key": "3_1978667787766640640",
+              "start": 167,
+              "url": "https://t.co/QuIjHlcvUn"
+            },
+            {
+              "display_url": "pic.x.com/QuIjHlcvUn",
+              "end": 190,
+              "expanded_url": "https://x.com/naritimely/status/1978667791151407164/photo/1",
+              "media_key": "3_1978667788269985792",
+              "start": 167,
+              "url": "https://t.co/QuIjHlcvUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978667791151407164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 24443,
+          "like_count": 312,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "greetings #genshintwt ♡ !\n\n☆ Im a timely account dedicated to our fave dendro botanist from sumeru #tighnari! \n\n&amp; ↻’s are welcome ♡ \n\n#原神 #genshinimpact #promotwt https://t.co/QuIjHlcvUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/恋爱脑治愈中/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww \n  @QieZhiyuan ❤️\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "calsys456"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "QieZhiyuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656276719665152/czyvKgrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 3050,
+          "like_count": 100915,
+          "listed_count": 14,
+          "media_count": 2254,
+          "tweet_count": 17136
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T03:04:26.000Z",
+        "description": "account dedicated for #tighnari from genshin impact!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "tighnari"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naritimely.straw.page",
+                "end": 23,
+                "expanded_url": "https://naritimely.straw.page",
+                "start": 0,
+                "url": "https://t.co/bhnw6Fdl5u"
+              }
+            ]
+          }
+        },
+        "id": "1978658104305696769",
+        "location": "20",
+        "name": "timely tighnari 🍄",
+        "pinned_tweet_id": "1978667791151407164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005489493122453505/i0ZmU_3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 119,
+          "like_count": 1123,
+          "listed_count": 5,
+          "media_count": 559,
+          "tweet_count": 2004
+        },
+        "url": "https://t.co/bhnw6Fdl5u",
+        "username": "naritimely",
+        "verified": false
+      }
+    ]
+  }
+}

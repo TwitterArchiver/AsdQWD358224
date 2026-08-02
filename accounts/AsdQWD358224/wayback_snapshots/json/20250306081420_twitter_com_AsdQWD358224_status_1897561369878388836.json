@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1897550441728368643"
+      ],
+      "media_source_tweet_id": [
+        "1897550483310686519"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1897561369878388836",
+    "created_at": "2025-03-06T08:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T09:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897561369878388836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814123449813729280",
+          "start": 3,
+          "username": "w23752946"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SjQAq7Qoj2",
+          "end": 51,
+          "expanded_url": "https://x.com/w23752946/status/1897550483310686519/video/1",
+          "media_key": "7_1897550441728368643",
+          "start": 28,
+          "url": "https://t.co/SjQAq7Qoj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897561369878388836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897550483310686519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @w23752946: 第一次看到这么掰苹果的！ https://t.co/SjQAq7Qoj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39822,
+        "height": 1280,
+        "media_key": "7_1897550441728368643",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1897550441728368643/pu/img/hFIh5C8IgDNvOBnn.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897550441728368643/pu/vid/avc1/320x568/s6pavV0lMDxBCE81.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897550441728368643/pu/vid/avc1/480x852/TUwVfgShZlGTYHwp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897550441728368643/pu/vid/avc1/720x1280/KegUZ7HOBSTa5d2Q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1897550441728368643/pu/pl/Rro_H_1b2o5P7SDh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1897550441728368643"
+          ],
+          "media_source_tweet_id": [
+            "1897550483310686519"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1897561369878388836",
+        "created_at": "2025-03-06T08:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T09:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897561369878388836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814123449813729280",
+              "start": 3,
+              "username": "w23752946"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SjQAq7Qoj2",
+              "end": 51,
+              "expanded_url": "https://x.com/w23752946/status/1897550483310686519/video/1",
+              "media_key": "7_1897550441728368643",
+              "start": 28,
+              "url": "https://t.co/SjQAq7Qoj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897561369878388836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897550483310686519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @w23752946: 第一次看到这么掰苹果的！ https://t.co/SjQAq7Qoj2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1897550441728368643"
+          ]
+        },
+        "author_id": "1814123449813729280",
+        "conversation_id": "1897550483310686519",
+        "created_at": "2025-03-06T07:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T08:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897550483310686519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SjQAq7Qoj2",
+              "end": 36,
+              "expanded_url": "https://x.com/w23752946/status/1897550483310686519/video/1",
+              "media_key": "7_1897550441728368643",
+              "start": 13,
+              "url": "https://t.co/SjQAq7Qoj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897550483310686519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 46,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次看到这么掰苹果的！ https://t.co/SjQAq7Qoj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 2733,
+          "like_count": 64787,
+          "listed_count": 8,
+          "media_count": 1543,
+          "tweet_count": 11762
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T02:22:13.000Z",
+        "description": "只要来日可期 今天就值得欣喜🍀诚信互关 有关必回💯2h回关（图片视频部分来自网络 侵删……）",
+        "id": "1814123449813729280",
+        "name": "wangshaas（互fo必回💯）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814124216620584960/rQleOeMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12631,
+          "following_count": 4325,
+          "like_count": 28600,
+          "listed_count": 11,
+          "media_count": 827,
+          "tweet_count": 4667
+        },
+        "username": "w23752946",
+        "verified": false
+      }
+    ]
+  }
+}

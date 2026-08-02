@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937794082283417600",
+        "3_1937794082287529984",
+        "3_1937794082279202816"
+      ],
+      "media_source_tweet_id": [
+        "1937794139397169516",
+        "1937794139397169516",
+        "1937794139397169516"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1938079845176779159",
+    "created_at": "2025-06-26T03:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T04:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938079845176779159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "17001177",
+          "start": 3,
+          "username": "abara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k9Ar0OCRnk",
+          "end": 34,
+          "expanded_url": "https://x.com/abara/status/1937794139397169516/photo/1",
+          "media_key": "3_1937794082283417600",
+          "start": 11,
+          "url": "https://t.co/k9Ar0OCRnk"
+        },
+        {
+          "display_url": "pic.x.com/k9Ar0OCRnk",
+          "end": 34,
+          "expanded_url": "https://x.com/abara/status/1937794139397169516/photo/1",
+          "media_key": "3_1937794082287529984",
+          "start": 11,
+          "url": "https://t.co/k9Ar0OCRnk"
+        },
+        {
+          "display_url": "pic.x.com/k9Ar0OCRnk",
+          "end": 34,
+          "expanded_url": "https://x.com/abara/status/1937794139397169516/photo/1",
+          "media_key": "3_1937794082279202816",
+          "start": 11,
+          "url": "https://t.co/k9Ar0OCRnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938079845176779159",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937794139397169516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abara: https://t.co/k9Ar0OCRnk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_1937794082283417600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRtc3JbcAApYQg.jpg",
+        "width": 1457
+      },
+      {
+        "height": 1669,
+        "media_key": "3_1937794082287529984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRtc3KaMAAZNWs.jpg",
+        "width": 1159
+      },
+      {
+        "height": 1674,
+        "media_key": "3_1937794082279202816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRtc3IbIAAvl7Y.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937794082283417600",
+            "3_1937794082287529984",
+            "3_1937794082279202816"
+          ],
+          "media_source_tweet_id": [
+            "1937794139397169516",
+            "1937794139397169516",
+            "1937794139397169516"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1938079845176779159",
+        "created_at": "2025-06-26T03:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938079845176779159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "17001177",
+              "start": 3,
+              "username": "abara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9Ar0OCRnk",
+              "end": 34,
+              "expanded_url": "https://x.com/abara/status/1937794139397169516/photo/1",
+              "media_key": "3_1937794082283417600",
+              "start": 11,
+              "url": "https://t.co/k9Ar0OCRnk"
+            },
+            {
+              "display_url": "pic.x.com/k9Ar0OCRnk",
+              "end": 34,
+              "expanded_url": "https://x.com/abara/status/1937794139397169516/photo/1",
+              "media_key": "3_1937794082287529984",
+              "start": 11,
+              "url": "https://t.co/k9Ar0OCRnk"
+            },
+            {
+              "display_url": "pic.x.com/k9Ar0OCRnk",
+              "end": 34,
+              "expanded_url": "https://x.com/abara/status/1937794139397169516/photo/1",
+              "media_key": "3_1937794082279202816",
+              "start": 11,
+              "url": "https://t.co/k9Ar0OCRnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938079845176779159",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937794139397169516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abara: https://t.co/k9Ar0OCRnk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937794082283417600",
+            "3_1937794082287529984",
+            "3_1937794082279202816"
+          ]
+        },
+        "author_id": "17001177",
+        "conversation_id": "1937794139397169516",
+        "created_at": "2025-06-25T08:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T09:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937794139397169516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9Ar0OCRnk",
+              "end": 23,
+              "expanded_url": "https://x.com/abara/status/1937794139397169516/photo/1",
+              "media_key": "3_1937794082283417600",
+              "start": 0,
+              "url": "https://t.co/k9Ar0OCRnk"
+            },
+            {
+              "display_url": "pic.x.com/k9Ar0OCRnk",
+              "end": 23,
+              "expanded_url": "https://x.com/abara/status/1937794139397169516/photo/1",
+              "media_key": "3_1937794082287529984",
+              "start": 0,
+              "url": "https://t.co/k9Ar0OCRnk"
+            },
+            {
+              "display_url": "pic.x.com/k9Ar0OCRnk",
+              "end": 23,
+              "expanded_url": "https://x.com/abara/status/1937794139397169516/photo/1",
+              "media_key": "3_1937794082279202816",
+              "start": 0,
+              "url": "https://t.co/k9Ar0OCRnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937794139397169516",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 932,
+          "impression_count": 203158,
+          "like_count": 12524,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 1104
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/k9Ar0OCRnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "fe_ions"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 3135,
+          "like_count": 94493,
+          "listed_count": 12,
+          "media_count": 1947,
+          "tweet_count": 15461
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2008-10-27T16:13:27.000Z",
+        "description": "漫画とかイラストとか描いてます\nお仕事のご依頼などありましたらメールにてご相談いただけると幸いです\n連絡先:abarabara2008■https://t.co/CuAoIWix8w(■→@)\nFANBOX→https://t.co/4xKHOYaRjv\n創作はこっちで @abaraheiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 136,
+                "username": "abaraheiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yahoo.co.jp",
+                "end": 91,
+                "expanded_url": "http://yahoo.co.jp",
+                "start": 68,
+                "url": "https://t.co/CuAoIWix8w"
+              },
+              {
+                "display_url": "abaraheiki.fanbox.cc",
+                "end": 127,
+                "expanded_url": "http://abaraheiki.fanbox.cc",
+                "start": 104,
+                "url": "https://t.co/4xKHOYaRjv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15063",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/15063",
+                "start": 0,
+                "url": "https://t.co/rZbPeL2mar"
+              }
+            ]
+          }
+        },
+        "id": "17001177",
+        "name": "肋兵器",
+        "pinned_tweet_id": "1930921087824715968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527473742942982144/f5h6zH2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413184,
+          "following_count": 4131,
+          "like_count": 12590,
+          "listed_count": 3926,
+          "media_count": 1417,
+          "tweet_count": 54152
+        },
+        "url": "https://t.co/rZbPeL2mar",
+        "username": "abara",
+        "verified": true
+      }
+    ]
+  }
+}

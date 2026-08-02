@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889164856508784640"
+      ],
+      "media_source_tweet_id": [
+        "1889164869200757017"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1889208860361253037",
+    "created_at": "2025-02-11T07:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T08:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889208860361253037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826416442033795072",
+          "start": 3,
+          "username": "shan80799"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FGcI1T7y6m",
+          "end": 50,
+          "expanded_url": "https://x.com/shan80799/status/1889164869200757017/photo/1",
+          "media_key": "3_1889164856508784640",
+          "start": 27,
+          "url": "https://t.co/FGcI1T7y6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889208860361253037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889164869200757017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shan80799: 饺子拌酸奶，推油们先吃 https://t.co/FGcI1T7y6m"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889208860361253037].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889208860361253037",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889208860361253037"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1889164856508784640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjepbYJboAApE94.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889164856508784640"
+          ]
+        },
+        "author_id": "1826416442033795072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889164869200757017",
+        "created_at": "2025-02-11T04:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T05:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889164869200757017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGcI1T7y6m",
+              "end": 35,
+              "expanded_url": "https://x.com/shan80799/status/1889164869200757017/photo/1",
+              "media_key": "3_1889164856508784640",
+              "start": 12,
+              "url": "https://t.co/FGcI1T7y6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889164869200757017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 895,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "饺子拌酸奶，推油们先吃 https://t.co/FGcI1T7y6m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢猫猫/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_7650  宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "fe_ions"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "Caroline_7650"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学淡推版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 2537,
+          "like_count": 47739,
+          "listed_count": 8,
+          "media_count": 1054,
+          "tweet_count": 8860
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T00:31:07.000Z",
+        "description": "安石性强忮，遇事无可否，自信所见，执意不回。至议变法，而在廷交执不可，安石傅经义， 出己意，辩论辄数百言，众不能诎。甚者谓：天变不足畏，祖宗不足法，人言不足恤。（老保之友:@xu244986）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "xu244986"
+              }
+            ]
+          }
+        },
+        "id": "1826416442033795072",
+        "location": "大宋东京开封府",
+        "name": "宋丞相荆国王文公Caswerlebel",
+        "pinned_tweet_id": "1879869953970680159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870465519448653824/nYaofId8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 672,
+          "like_count": 18016,
+          "listed_count": 7,
+          "media_count": 1078,
+          "tweet_count": 5329
+        },
+        "username": "shan80799",
+        "verified": false
+      }
+    ]
+  }
+}

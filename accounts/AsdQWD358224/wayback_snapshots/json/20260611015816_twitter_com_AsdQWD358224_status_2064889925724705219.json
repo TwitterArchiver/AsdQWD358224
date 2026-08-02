@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064569352125292544",
+        "3_2064569352129503232",
+        "3_2064569352192438272"
+      ],
+      "media_source_tweet_id": [
+        "2064569396660425168",
+        "2064569396660425168",
+        "2064569396660425168"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "2064889925724705219",
+    "created_at": "2026-06-11T01:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T02:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064889925724705219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1372983710644068355",
+          "start": 3,
+          "username": "FreddyLA7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NrPKFubqke",
+          "end": 81,
+          "expanded_url": "https://x.com/FreddyLA7/status/2064569396660425168/photo/1",
+          "media_key": "3_2064569352125292544",
+          "start": 58,
+          "url": "https://t.co/NrPKFubqke"
+        },
+        {
+          "display_url": "pic.x.com/NrPKFubqke",
+          "end": 81,
+          "expanded_url": "https://x.com/FreddyLA7/status/2064569396660425168/photo/1",
+          "media_key": "3_2064569352129503232",
+          "start": 58,
+          "url": "https://t.co/NrPKFubqke"
+        },
+        {
+          "display_url": "pic.x.com/NrPKFubqke",
+          "end": 81,
+          "expanded_url": "https://x.com/FreddyLA7/status/2064569396660425168/photo/1",
+          "media_key": "3_2064569352192438272",
+          "start": 58,
+          "url": "https://t.co/NrPKFubqke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064889925724705219",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064569396660425168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreddyLA7: Little night tour around Auburn campus🚶‍♂️ https://t.co/NrPKFubqke"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064569352125292544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbS4x-WIAAiFjU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064569352129503232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbS4x_WYAAXYTg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064569352192438272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbS4yOWsAAsUCa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064569352125292544",
+            "3_2064569352129503232",
+            "3_2064569352192438272"
+          ],
+          "media_source_tweet_id": [
+            "2064569396660425168",
+            "2064569396660425168",
+            "2064569396660425168"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2064889925724705219",
+        "created_at": "2026-06-11T01:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064889925724705219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1372983710644068355",
+              "start": 3,
+              "username": "FreddyLA7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrPKFubqke",
+              "end": 81,
+              "expanded_url": "https://x.com/FreddyLA7/status/2064569396660425168/photo/1",
+              "media_key": "3_2064569352125292544",
+              "start": 58,
+              "url": "https://t.co/NrPKFubqke"
+            },
+            {
+              "display_url": "pic.x.com/NrPKFubqke",
+              "end": 81,
+              "expanded_url": "https://x.com/FreddyLA7/status/2064569396660425168/photo/1",
+              "media_key": "3_2064569352129503232",
+              "start": 58,
+              "url": "https://t.co/NrPKFubqke"
+            },
+            {
+              "display_url": "pic.x.com/NrPKFubqke",
+              "end": 81,
+              "expanded_url": "https://x.com/FreddyLA7/status/2064569396660425168/photo/1",
+              "media_key": "3_2064569352192438272",
+              "start": 58,
+              "url": "https://t.co/NrPKFubqke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064889925724705219",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064569396660425168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreddyLA7: Little night tour around Auburn campus🚶‍♂️ https://t.co/NrPKFubqke"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064569352125292544",
+            "3_2064569352129503232",
+            "3_2064569352192438272"
+          ]
+        },
+        "author_id": "1372983710644068355",
+        "conversation_id": "2064569396660425168",
+        "created_at": "2026-06-10T04:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064569396660425168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrPKFubqke",
+              "end": 66,
+              "expanded_url": "https://x.com/FreddyLA7/status/2064569396660425168/photo/1",
+              "media_key": "3_2064569352125292544",
+              "start": 43,
+              "url": "https://t.co/NrPKFubqke"
+            },
+            {
+              "display_url": "pic.x.com/NrPKFubqke",
+              "end": 66,
+              "expanded_url": "https://x.com/FreddyLA7/status/2064569396660425168/photo/1",
+              "media_key": "3_2064569352129503232",
+              "start": 43,
+              "url": "https://t.co/NrPKFubqke"
+            },
+            {
+              "display_url": "pic.x.com/NrPKFubqke",
+              "end": 66,
+              "expanded_url": "https://x.com/FreddyLA7/status/2064569396660425168/photo/1",
+              "media_key": "3_2064569352192438272",
+              "start": 43,
+              "url": "https://t.co/NrPKFubqke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064569396660425168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 775033,
+          "like_count": 22763,
+          "quote_count": 34,
+          "reply_count": 166,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "Little night tour around Auburn campus🚶‍♂️ https://t.co/NrPKFubqke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "北雁秋分🍔",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 3006,
+          "like_count": 102386,
+          "listed_count": 12,
+          "media_count": 2302,
+          "tweet_count": 17816
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-19T18:50:08.000Z",
+        "description": "@fcmidtjylland x @alnassrfc | ⭐️⭐️⭐️⭐️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "fcmidtjylland"
+              },
+              {
+                "end": 27,
+                "start": 17,
+                "username": "alnassrfc"
+              }
+            ]
+          }
+        },
+        "id": "1372983710644068355",
+        "location": "Germany",
+        "name": "Freddy🇩🇪",
+        "pinned_tweet_id": "1801926340318232988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872070057498497024/gkXiq86K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313494,
+          "following_count": 318,
+          "like_count": 13204,
+          "listed_count": 278,
+          "media_count": 4169,
+          "tweet_count": 22277
+        },
+        "username": "FreddyLA7",
+        "verified": true
+      }
+    ]
+  }
+}

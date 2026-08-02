@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1932874134712959037",
+    "created_at": "2025-06-11T19:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T20:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932882521173434700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1865831426303897600",
+          "start": 0,
+          "username": "Zero_158_Kana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932882521173434700",
+    "in_reply_to_user_id": "1865831426303897600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932874134712959037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zero_158_Kana 很久很久喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1932874134712959037",
+        "created_at": "2025-06-11T19:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T20:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932882521173434700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1865831426303897600",
+              "start": 0,
+              "username": "Zero_158_Kana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932882521173434700",
+        "in_reply_to_user_id": "1865831426303897600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932874134712959037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zero_158_Kana 很久很久喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865831426303897600",
+        "conversation_id": "1932874134712959037",
+        "created_at": "2025-06-11T18:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T19:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932874134712959037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LCG_Akiball/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/LCG_Akiball/status/1932365689534480561",
+              "start": 12,
+              "url": "https://t.co/oX9yRpeV5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932874134712959037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932365689534480561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我还剩多久呢xd…… https://t.co/oX9yRpeV5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF🏳️‍⚧️/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 3124,
+          "like_count": 93201,
+          "listed_count": 12,
+          "media_count": 1936,
+          "tweet_count": 15286
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "你们好！现在是零酱主导，另外几只可能会出现，为零酱犯病时伤害的人致歉orz\n/无证hrt2025.1.10\n/里推：@DreamlandSysSub\n/Lover：@calsym456 @AsdQWD358224 @Caroline_9870",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "DreamlandSysSub"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "calsym456"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Caroline_9870"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ2ANC"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之乡",
+        "name": "北雁梦 - ドレアムランド システム",
+        "pinned_tweet_id": "1919773070249632215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895352936487636992/HyGnw-G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 759,
+          "like_count": 8944,
+          "listed_count": 8,
+          "media_count": 278,
+          "tweet_count": 4803
+        },
+        "url": "https://t.co/ZxXMCZ2ANC",
+        "username": "Zero_158_Kana",
+        "verified": false
+      }
+    ]
+  }
+}

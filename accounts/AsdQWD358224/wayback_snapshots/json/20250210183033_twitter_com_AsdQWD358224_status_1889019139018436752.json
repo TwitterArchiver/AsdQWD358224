@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1889019139018436752",
+    "created_at": "2025-02-10T18:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T19:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889019139018436752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1826281483675299840",
+          "start": 3,
+          "username": "ci_shang85157"
+        },
+        {
+          "end": 31,
+          "id": "1844025283676094464",
+          "start": 19,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889019139018436752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888936935152124204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ci_shang85157: @Konekoutena 中推就是一个跨圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1889019139018436752",
+        "created_at": "2025-02-10T18:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T19:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889019139018436752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1826281483675299840",
+              "start": 3,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 31,
+              "id": "1844025283676094464",
+              "start": 19,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889019139018436752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888936935152124204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ci_shang85157: @Konekoutena 中推就是一个跨圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1888828821329347066",
+        "created_at": "2025-02-10T13:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T14:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888936935152124204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888936935152124204",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 560,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888828821329347066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 中推就是一个跨圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢猫猫/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_7650  宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "fe_ions"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "Caroline_7650"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学淡推版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 2533,
+          "like_count": 47336,
+          "listed_count": 8,
+          "media_count": 1044,
+          "tweet_count": 8786
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 236,
+          "like_count": 2335,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1064
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "关注枫糖喵，关注枫糖谢谢喵........一只博学的男娘，为您分享更多的文史社科知识。为防止失联，请关注同名YouTube频道。下附链接：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@konekoutena?si=Eu9nTBFT2tTC6T4C",
+                "start": 0,
+                "url": "https://t.co/YwVMVLgU2j"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1883663853734760915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869197200443805696/LKOOi2LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7133,
+          "following_count": 1268,
+          "like_count": 3861,
+          "listed_count": 26,
+          "media_count": 3269,
+          "tweet_count": 8889
+        },
+        "url": "https://t.co/YwVMVLgU2j",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

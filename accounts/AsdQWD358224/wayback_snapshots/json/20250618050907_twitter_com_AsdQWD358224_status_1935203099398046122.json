@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935058454760103936"
+      ],
+      "media_source_tweet_id": [
+        "1935058461450191080"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1935203099398046122",
+    "created_at": "2025-06-18T05:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T06:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935203099398046122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1796868561643741184",
+          "start": 3,
+          "username": "aestheticsguyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dGAaf1V5Ko",
+          "end": 48,
+          "expanded_url": "https://x.com/aestheticsguyy/status/1935058461450191080/photo/1",
+          "media_key": "3_1935058454760103936",
+          "start": 25,
+          "url": "https://t.co/dGAaf1V5Ko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935203099398046122",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1253
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935058461450191080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aestheticsguyy: 4K ✨ https://t.co/dGAaf1V5Ko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1935058454760103936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtq1aYeXoAAki_4.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935058454760103936"
+          ],
+          "media_source_tweet_id": [
+            "1935058461450191080"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1935203099398046122",
+        "created_at": "2025-06-18T05:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T06:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935203099398046122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1796868561643741184",
+              "start": 3,
+              "username": "aestheticsguyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGAaf1V5Ko",
+              "end": 48,
+              "expanded_url": "https://x.com/aestheticsguyy/status/1935058461450191080/photo/1",
+              "media_key": "3_1935058454760103936",
+              "start": 25,
+              "url": "https://t.co/dGAaf1V5Ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935203099398046122",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1253
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935058461450191080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aestheticsguyy: 4K ✨ https://t.co/dGAaf1V5Ko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935058454760103936"
+          ]
+        },
+        "author_id": "1796868561643741184",
+        "conversation_id": "1935058461450191080",
+        "created_at": "2025-06-17T19:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T20:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935058461450191080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGAaf1V5Ko",
+              "end": 28,
+              "expanded_url": "https://x.com/aestheticsguyy/status/1935058461450191080/photo/1",
+              "media_key": "3_1935058454760103936",
+              "start": 5,
+              "url": "https://t.co/dGAaf1V5Ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935058461450191080",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2178,
+          "impression_count": 542763,
+          "like_count": 11329,
+          "quote_count": 25,
+          "reply_count": 16,
+          "retweet_count": 1253
+        },
+        "reply_settings": "everyone",
+        "text": "4K ✨ https://t.co/dGAaf1V5Ko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "username": "fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 3136,
+          "like_count": 93829,
+          "listed_count": 12,
+          "media_count": 1946,
+          "tweet_count": 15383
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T11:37:13.000Z",
+        "description": "All things aesthetically pleasing 📸  Exclusive wallpapers via link in bio 🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/aestheticsguyy",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/aestheticsguyy",
+                "start": 0,
+                "url": "https://t.co/rDAPFVOWpZ"
+              }
+            ]
+          }
+        },
+        "id": "1796868561643741184",
+        "location": "⬇️ ",
+        "name": "Aesthetics 𝕏",
+        "pinned_tweet_id": "1932067698629877956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798732253729525760/3DRznoxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844290,
+          "following_count": 284,
+          "like_count": 25563,
+          "listed_count": 1119,
+          "media_count": 2573,
+          "tweet_count": 3661
+        },
+        "url": "https://t.co/rDAPFVOWpZ",
+        "username": "aestheticsguyy",
+        "verified": true
+      }
+    ]
+  }
+}

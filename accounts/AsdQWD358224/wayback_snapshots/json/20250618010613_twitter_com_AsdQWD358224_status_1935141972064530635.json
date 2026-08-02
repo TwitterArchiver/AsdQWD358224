@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1935141972064530635",
+    "created_at": "2025-06-18T01:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T02:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935141972064530635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1151913018936053760",
+          "start": 3,
+          "username": "jacksonhinklle"
+        },
+        {
+          "end": 28,
+          "id": "2435",
+          "start": 20,
+          "username": "bscholl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935141972064530635",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 741
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934894758859821429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jacksonhinklle: @bscholl No, fuck you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1935141972064530635",
+        "created_at": "2025-06-18T01:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T02:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935141972064530635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1151913018936053760",
+              "start": 3,
+              "username": "jacksonhinklle"
+            },
+            {
+              "end": 28,
+              "id": "2435",
+              "start": 20,
+              "username": "bscholl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935141972064530635",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 741
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934894758859821429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jacksonhinklle: @bscholl No, fuck you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1151913018936053760",
+        "conversation_id": "1934485200534180026",
+        "created_at": "2025-06-17T08:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T09:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934894758859821429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2435",
+              "start": 0,
+              "username": "bscholl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934894758859821429",
+        "in_reply_to_user_id": "2435",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 110648,
+          "like_count": 17476,
+          "quote_count": 3,
+          "reply_count": 55,
+          "retweet_count": 741
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934485200534180026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bscholl No, fuck you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "username": "fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 3135,
+          "like_count": 93789,
+          "listed_count": 12,
+          "media_count": 1946,
+          "tweet_count": 15370
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T17:53:59.000Z",
+        "description": "Follow: @LegitTargets & @ACPMain thedivewithjackson@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "LegitTargets"
+              },
+              {
+                "end": 32,
+                "start": 24,
+                "username": "ACPMain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/jacksonhinkle",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/jacksonhinkle",
+                "start": 0,
+                "url": "https://t.co/xcyQcehzt2"
+              }
+            ]
+          }
+        },
+        "id": "1151913018936053760",
+        "location": "Miami, FL",
+        "name": "Jackson Hinkle 🇺🇸",
+        "pinned_tweet_id": "1935113970588803225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567704552283193345/wMLFemzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3213721,
+          "following_count": 541,
+          "like_count": 16289,
+          "listed_count": 6868,
+          "media_count": 16643,
+          "tweet_count": 31394
+        },
+        "url": "https://t.co/xcyQcehzt2",
+        "username": "jacksonhinklle",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-18T21:48:17.000Z",
+        "description": "Founder/CEO @boomaero. Life is short so if you want to do a lot, it helps to move fast.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "boomaero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boomsupersonic.com",
+                "end": 23,
+                "expanded_url": "http://boomsupersonic.com",
+                "start": 0,
+                "url": "https://t.co/nvFyzIGRhN"
+              }
+            ]
+          }
+        },
+        "id": "2435",
+        "location": "Denver, CO",
+        "name": "Blake Scholl 🛫",
+        "pinned_tweet_id": "1888939430833975765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804594864392413184/P8wPASUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103001,
+          "following_count": 1865,
+          "like_count": 19080,
+          "listed_count": 805,
+          "media_count": 592,
+          "tweet_count": 8387
+        },
+        "url": "https://t.co/nvFyzIGRhN",
+        "username": "bscholl",
+        "verified": true
+      }
+    ]
+  }
+}

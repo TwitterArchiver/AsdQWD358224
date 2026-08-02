@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1873534470353211414",
+    "created_at": "2024-12-30T04:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T05:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873590421290639614"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "美滋滋",
+          "probability": 0.431,
+          "start": 7,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873590421290639614",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873534470353211414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 美滋滋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1873534470353211414",
+        "created_at": "2024-12-30T04:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T05:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873590421290639614"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "美滋滋",
+              "probability": 0.431,
+              "start": 7,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873590421290639614",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873534470353211414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 美滋滋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873285044229529600"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1873534470353211414",
+        "created_at": "2024-12-30T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873534470353211414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sew7Xs8sF4",
+              "end": 29,
+              "expanded_url": "https://x.com/yqua_/status/1873534470353211414/photo/1",
+              "media_key": "3_1873285044229529600",
+              "start": 6,
+              "url": "https://t.co/Sew7Xs8sF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873534470353211414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1149,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "是什么呢（ https://t.co/Sew7Xs8sF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？/07年17岁/高三在读/无政治倾向/抑郁ing…/汉族/拒绝建政/喜欢猫猫/对任何人友善（除了支黑）/生活推/成渝刷新/可以喊我“面面”/泛性恋/长相和棍哥一样/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1872682595814928454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1963,
+          "like_count": 11310,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2420
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "BORN TO CREATE ｜Staff For https://t.co/ey95qomsFA｜MtX🏳️‍⚧️🍥｜@BilibiliGaming Fans｜PUBGM Pro Player｜HOK Player｜Financal｜Geography｜Language：CN/EN/JP｜❤️Wife：@baiyun_99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "BilibiliGaming"
+              },
+              {
+                "end": 163,
+                "start": 153,
+                "username": "baiyun_99"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "1Go.ooo",
+                "end": 49,
+                "expanded_url": "http://1Go.ooo",
+                "start": 26,
+                "url": "https://t.co/ey95qomsFA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "陈塘庄",
+        "name": "铨🍥🔜PEN",
+        "pinned_tweet_id": "1841714384613052671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14619,
+          "following_count": 4286,
+          "like_count": 164758,
+          "listed_count": 65,
+          "media_count": 4088,
+          "tweet_count": 19774
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

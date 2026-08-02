@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1874978746328859086",
+    "created_at": "2025-01-03T03:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T04:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875028208267170008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1843096023595708416",
+          "start": 0,
+          "username": "luoling117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875028208267170008",
+    "in_reply_to_user_id": "1843096023595708416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874978746328859086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoling117 有我诶(*^@^*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1874978746328859086",
+        "created_at": "2025-01-03T03:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T04:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875028208267170008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843096023595708416",
+              "start": 0,
+              "username": "luoling117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875028208267170008",
+        "in_reply_to_user_id": "1843096023595708416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874978746328859086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoling117 有我诶(*^@^*)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874978740884647936"
+          ]
+        },
+        "author_id": "1843096023595708416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1874978746328859086",
+        "created_at": "2025-01-03T00:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T01:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874978746328859086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1873033238882504704/2pscbQsT?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1873033238882504704/2pscbQsT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/EjZiVaehS3"
+            },
+            {
+              "display_url": "pic.x.com/cxe50iffRE",
+              "end": 64,
+              "expanded_url": "https://x.com/luoling117/status/1874978746328859086/photo/1",
+              "media_key": "3_1874978740884647936",
+              "start": 41,
+              "url": "https://t.co/cxe50iffRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874978746328859086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/EjZiVaehS3 https://t.co/cxe50iffRE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1872682595814928454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 1986,
+          "like_count": 14492,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 2968
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T01:08:44.000Z",
+        "description": "13岁mtf，2011.01.17，位置陕西宝鸡，无证含糖，🏳️‍⚧️跨性别主义，164cm50kg   开放式关系，对象@mtfGuiMeng姐姐\n疑似狂躁症（？）+随时想死，女装已被烧，没胆子割腕又买不到亚硝酸钠qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "mtfGuiMeng"
+              }
+            ]
+          }
+        },
+        "id": "1843096023595708416",
+        "location": "陕西",
+        "name": "洛铃喵🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843350365103869952/rDufoxAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 50,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 214
+        },
+        "username": "luoling117",
+        "verified": false
+      }
+    ]
+  }
+}

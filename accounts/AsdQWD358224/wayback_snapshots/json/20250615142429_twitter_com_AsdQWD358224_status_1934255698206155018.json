@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880562517073866752"
+      ],
+      "media_source_tweet_id": [
+        "1934053243149058075"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1934255698206155018",
+    "created_at": "2025-06-15T14:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T15:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934255698206155018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "988421142435151874",
+          "start": 3,
+          "username": "COCOballKING"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ftQit8nqy6",
+          "end": 44,
+          "expanded_url": "https://x.com/COCOballKING/status/1934053243149058075/photo/1",
+          "media_key": "3_1880562517073866752",
+          "start": 21,
+          "url": "https://t.co/ftQit8nqy6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934255698206155018",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1708
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934053243149058075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @COCOballKING: ♣Q https://t.co/ftQit8nqy6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1880562517073866752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhkZpUgaMAAmrwr.jpg",
+        "width": 2930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880562517073866752"
+          ],
+          "media_source_tweet_id": [
+            "1934053243149058075"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1934255698206155018",
+        "created_at": "2025-06-15T14:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T15:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934255698206155018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "988421142435151874",
+              "start": 3,
+              "username": "COCOballKING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftQit8nqy6",
+              "end": 44,
+              "expanded_url": "https://x.com/COCOballKING/status/1934053243149058075/photo/1",
+              "media_key": "3_1880562517073866752",
+              "start": 21,
+              "url": "https://t.co/ftQit8nqy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934255698206155018",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1708
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934053243149058075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @COCOballKING: ♣Q https://t.co/ftQit8nqy6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880562517073866752"
+          ]
+        },
+        "author_id": "988421142435151874",
+        "conversation_id": "1934053243149058075",
+        "created_at": "2025-06-15T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934053243149058075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftQit8nqy6",
+              "end": 26,
+              "expanded_url": "https://x.com/COCOballKING/status/1934053243149058075/photo/1",
+              "media_key": "3_1880562517073866752",
+              "start": 3,
+              "url": "https://t.co/ftQit8nqy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934053243149058075",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 994,
+          "impression_count": 163626,
+          "like_count": 17400,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 1708
+        },
+        "reply_settings": "everyone",
+        "text": "♣Q https://t.co/ftQit8nqy6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "username": "fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 3131,
+          "like_count": 93532,
+          "listed_count": 12,
+          "media_count": 1945,
+          "tweet_count": 15337
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-23T14:15:39.000Z",
+        "description": "ただの傍観者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/31383108",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/31383108",
+                "start": 0,
+                "url": "https://t.co/w89fW9UPRU"
+              }
+            ]
+          }
+        },
+        "id": "988421142435151874",
+        "location": "rednote ID: COCOball",
+        "name": "COCOball",
+        "pinned_tweet_id": "1840194784427933887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703116124077035520/bX1Tz8R5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200137,
+          "following_count": 482,
+          "like_count": 37489,
+          "listed_count": 950,
+          "media_count": 478,
+          "tweet_count": 2825
+        },
+        "url": "https://t.co/w89fW9UPRU",
+        "username": "COCOballKING",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888443792115773440"
+      ],
+      "media_source_tweet_id": [
+        "1888445142853706032"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      }
+    ],
+    "conversation_id": "1890355121634115948",
+    "created_at": "2025-02-14T10:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T11:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890355121634115948"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 67,
+          "tag": "Xinjiang"
+        },
+        {
+          "end": 86,
+          "start": 78,
+          "tag": "noodles"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "新疆"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788515144634716160",
+          "start": 3,
+          "username": "tuo22658"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o98qBfv5mG",
+          "end": 114,
+          "expanded_url": "https://x.com/tuo22658/status/1888445142853706032/photo/1",
+          "media_key": "3_1888443792115773440",
+          "start": 91,
+          "url": "https://t.co/o98qBfv5mG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890355121634115948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888445142853706032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuo22658: 回家啦\n大新疆的牛肉面\n爽歪歪\nreturn home \nfirst meal:beef noodles\n#Xinjiang \n#noodles\n#新疆 https://t.co/o98qBfv5mG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1888443792115773440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjUZn59aMAAJ_o7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888443792115773440"
+          ],
+          "media_source_tweet_id": [
+            "1888445142853706032"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "1890355121634115948",
+        "created_at": "2025-02-14T10:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T11:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890355121634115948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 67,
+              "tag": "Xinjiang"
+            },
+            {
+              "end": 86,
+              "start": 78,
+              "tag": "noodles"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "新疆"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788515144634716160",
+              "start": 3,
+              "username": "tuo22658"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o98qBfv5mG",
+              "end": 114,
+              "expanded_url": "https://x.com/tuo22658/status/1888445142853706032/photo/1",
+              "media_key": "3_1888443792115773440",
+              "start": 91,
+              "url": "https://t.co/o98qBfv5mG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890355121634115948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888445142853706032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuo22658: 回家啦\n大新疆的牛肉面\n爽歪歪\nreturn home \nfirst meal:beef noodles\n#Xinjiang \n#noodles\n#新疆 https://t.co/o98qBfv5mG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888443792115773440"
+          ]
+        },
+        "author_id": "1788515144634716160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "1888445142853706032",
+        "created_at": "2025-02-09T04:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T05:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888445142853706032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "Xinjiang"
+            },
+            {
+              "end": 72,
+              "start": 64,
+              "tag": "noodles"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "新疆"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o98qBfv5mG",
+              "end": 100,
+              "expanded_url": "https://x.com/tuo22658/status/1888445142853706032/photo/1",
+              "media_key": "3_1888443792115773440",
+              "start": 77,
+              "url": "https://t.co/o98qBfv5mG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888445142853706032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5604,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "回家啦\n大新疆的牛肉面\n爽歪歪\nreturn home \nfirst meal:beef noodles\n#Xinjiang \n#noodles\n#新疆 https://t.co/o98qBfv5mG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢猫猫/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_7650  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 97,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "fe_ions"
+              },
+              {
+                "end": 151,
+                "start": 137,
+                "username": "Caroline_7650"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（戒O版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 2588,
+          "like_count": 50112,
+          "listed_count": 7,
+          "media_count": 1132,
+          "tweet_count": 9213
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T10:24:57.000Z",
+        "description": "I love China,Be positive,happy and love life.\n在光影与行走中捕捉美好，传递正能量，新疆达人一枚，走遍千山万水，爱玩爱吃爱分享，托起小幸福。欢迎互FO，坚持原创，关注慢则有限制，一一回关",
+        "id": "1788515144634716160",
+        "name": "骆驼刺（互fo）",
+        "pinned_tweet_id": "1889708108466819277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788515621019545600/Ctm13_eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3737,
+          "following_count": 3965,
+          "like_count": 10065,
+          "listed_count": 4,
+          "media_count": 267,
+          "tweet_count": 2189
+        },
+        "username": "tuo22658",
+        "verified": false
+      }
+    ]
+  }
+}

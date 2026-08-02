@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1892841069290594414",
+    "created_at": "2025-02-21T07:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T08:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892841069290594414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "772269147866537984",
+          "start": 3,
+          "username": "DaidaioAo"
+        },
+        {
+          "end": 25,
+          "id": "1781340980022575104",
+          "start": 15,
+          "username": "jinyuu519"
+        },
+        {
+          "end": 34,
+          "id": "1433678976564662273",
+          "start": 26,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "description": "#chiikawa #hachiware #吉伊卡哇 #烏薩奇 #animation #usagi #ちいかわ",
+          "display_url": "youtu.be/e8F-81ykXuk?si…",
+          "end": 58,
+          "expanded_url": "https://youtu.be/e8F-81ykXuk?si=_wN5aw2DxNpSk8RK",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1892561316826533888/1sSyrdh7?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1892561316826533888/1sSyrdh7?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "小八頭頂怎麼尖尖的？Why is Hachiware's head pointed?",
+          "unwound_url": "https://www.youtube.com/watch?si=_wN5aw2DxNpSk8RK&v=e8F-81ykXuk&feature=youtu.be",
+          "url": "https://t.co/tHiLZq9Usb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892841069290594414",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892561313471111390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DaidaioAo: @jinyuu519 @hsn8086 https://t.co/tHiLZq9Usb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1892841069290594414",
+        "created_at": "2025-02-21T07:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T08:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892841069290594414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "772269147866537984",
+              "start": 3,
+              "username": "DaidaioAo"
+            },
+            {
+              "end": 25,
+              "id": "1781340980022575104",
+              "start": 15,
+              "username": "jinyuu519"
+            },
+            {
+              "end": 34,
+              "id": "1433678976564662273",
+              "start": 26,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#chiikawa #hachiware #吉伊卡哇 #烏薩奇 #animation #usagi #ちいかわ",
+              "display_url": "youtu.be/e8F-81ykXuk?si…",
+              "end": 58,
+              "expanded_url": "https://youtu.be/e8F-81ykXuk?si=_wN5aw2DxNpSk8RK",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1892561316826533888/1sSyrdh7?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1892561316826533888/1sSyrdh7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "小八頭頂怎麼尖尖的？Why is Hachiware's head pointed?",
+              "unwound_url": "https://www.youtube.com/watch?si=_wN5aw2DxNpSk8RK&v=e8F-81ykXuk&feature=youtu.be",
+              "url": "https://t.co/tHiLZq9Usb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892841069290594414",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892561313471111390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DaidaioAo: @jinyuu519 @hsn8086 https://t.co/tHiLZq9Usb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "772269147866537984",
+        "conversation_id": "1892477811815801193",
+        "created_at": "2025-02-20T13:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T14:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892561313471111390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1781340980022575104",
+              "start": 0,
+              "username": "jinyuu519"
+            },
+            {
+              "end": 19,
+              "id": "1433678976564662273",
+              "start": 11,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#chiikawa #hachiware #吉伊卡哇 #烏薩奇 #animation #usagi #ちいかわ",
+              "display_url": "youtu.be/e8F-81ykXuk?si…",
+              "end": 43,
+              "expanded_url": "https://youtu.be/e8F-81ykXuk?si=_wN5aw2DxNpSk8RK",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1892561316826533888/1sSyrdh7?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1892561316826533888/1sSyrdh7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "小八頭頂怎麼尖尖的？Why is Hachiware's head pointed?",
+              "unwound_url": "https://www.youtube.com/watch?si=_wN5aw2DxNpSk8RK&v=e8F-81ykXuk&feature=youtu.be",
+              "url": "https://t.co/tHiLZq9Usb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892561313471111390",
+        "in_reply_to_user_id": "1781340980022575104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2150,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892488116037943362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinyuu519 @hsn8086 https://t.co/tHiLZq9Usb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（被教务处赶出学校版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 2634,
+          "like_count": 53782,
+          "listed_count": 7,
+          "media_count": 1334,
+          "tweet_count": 10114
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-04T03:04:47.000Z",
+        "description": "🎮CSGO Apex DbD Osu Warframe 無言フォロー失礼します。 台湾人です。 日本語△ English△ 相互フォローOK ホロライブアートワークリツイート者 気に入らない場合はリツイート通知をオフにします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "TwitterR.I.P.com",
+                "end": 23,
+                "expanded_url": "http://TwitterR.I.P.com",
+                "start": 0,
+                "url": "https://t.co/uiXQivdMi7"
+              }
+            ]
+          }
+        },
+        "id": "772269147866537984",
+        "location": "Taiwan🇹🇼",
+        "name": "ㄉㄉ呆呆🎗⛩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700844388203819008/xzPBY8xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 2721,
+          "like_count": 36447,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 12040
+        },
+        "url": "https://t.co/uiXQivdMi7",
+        "username": "DaidaioAo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T15:16:15.000Z",
+        "description": "",
+        "id": "1781340980022575104",
+        "name": "Scott",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798711669616463872/IVSvzKpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 82,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 269
+        },
+        "username": "jinyuu519",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39476,
+          "following_count": 919,
+          "like_count": 36579,
+          "listed_count": 104,
+          "media_count": 6522,
+          "tweet_count": 11710
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1951907259866337322",
+    "created_at": "2025-08-03T15:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952026529535517022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1784555674611134464",
+          "start": 0,
+          "username": "Kagura_miwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952026529535517022",
+    "in_reply_to_user_id": "1784555674611134464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951993970239717699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagura_miwa 软件开发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1951907259866337322",
+        "created_at": "2025-08-03T15:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952026529535517022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1784555674611134464",
+              "start": 0,
+              "username": "Kagura_miwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952026529535517022",
+        "in_reply_to_user_id": "1784555674611134464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951993970239717699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_miwa 软件开发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784555674611134464",
+        "conversation_id": "1951907259866337322",
+        "created_at": "2025-08-03T13:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951993970239717699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951993970239717699",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951907259866337322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fe_ions"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气system.（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 3116,
+          "like_count": 97558,
+          "listed_count": 12,
+          "media_count": 2015,
+          "tweet_count": 15847
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T12:10:20.000Z",
+        "description": "会说🇨🇳🇬🇧🇯🇵和🇫🇷（-ing）丨人文社科 政治哲学 数学丨想创作出自己的作品丨「推しの子」 #ブルアカ 柚鳥ナツ #ハンドリ 倉田ましろ丨欢迎来打扰我 我会很开心的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 64,
+                "start": 59,
+                "tag": "ハンドリ"
+              }
+            ]
+          }
+        },
+        "id": "1784555674611134464",
+        "location": "日本，名古屋市",
+        "name": "Oiseau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908219205323022338/ZToUzKgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 325,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 300
+        },
+        "username": "Kagura_miwa",
+        "verified": true
+      }
+    ]
+  }
+}

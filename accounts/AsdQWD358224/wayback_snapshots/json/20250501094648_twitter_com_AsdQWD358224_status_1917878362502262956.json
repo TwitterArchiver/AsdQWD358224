@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1917750085603012608"
+      ],
+      "media_source_tweet_id": [
+        "1917750163130495380"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1917878362502262956",
+    "created_at": "2025-05-01T09:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T10:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917878362502262956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1156981009763540992",
+          "start": 3,
+          "username": "AuraWithCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v32PgTMe83",
+          "end": 40,
+          "expanded_url": "https://x.com/AuraWithCats/status/1917750163130495380/video/1",
+          "media_key": "13_1917750085603012608",
+          "start": 17,
+          "url": "https://t.co/v32PgTMe83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917878362502262956",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 692
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917750163130495380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AuraWithCat: https://t.co/v32PgTMe83"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13912,
+        "height": 1280,
+        "media_key": "13_1917750085603012608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917750085603012608/img/5c7_lbzlcT0IEE1g.jpg",
+        "public_metrics": {
+          "view_count": 21873
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917750085603012608/vid/avc1/320x568/6pR4ZX5VtHXf8Nqc.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917750085603012608/vid/avc1/480x852/pLqiRDsqWeZotwcB.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917750085603012608/vid/avc1/720x1280/HCxi_bG4pbfP9rby.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917750085603012608/pl/pmrnpUwjFeMDCXAu.m3u8?tag=16&v=7e0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917750085603012608"
+          ],
+          "media_source_tweet_id": [
+            "1917750163130495380"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1917878362502262956",
+        "created_at": "2025-05-01T09:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T10:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917878362502262956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1156981009763540992",
+              "start": 3,
+              "username": "AuraWithCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v32PgTMe83",
+              "end": 40,
+              "expanded_url": "https://x.com/AuraWithCats/status/1917750163130495380/video/1",
+              "media_key": "13_1917750085603012608",
+              "start": 17,
+              "url": "https://t.co/v32PgTMe83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917878362502262956",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 692
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917750163130495380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AuraWithCat: https://t.co/v32PgTMe83"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917750085603012608"
+          ]
+        },
+        "author_id": "1156981009763540992",
+        "conversation_id": "1917750163130495380",
+        "created_at": "2025-05-01T01:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T02:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917750163130495380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v32PgTMe83",
+              "end": 23,
+              "expanded_url": "https://x.com/AuraWithCats/status/1917750163130495380/video/1",
+              "media_key": "13_1917750085603012608",
+              "start": 0,
+              "url": "https://t.co/v32PgTMe83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917750163130495380",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 438,
+          "impression_count": 87404,
+          "like_count": 7141,
+          "quote_count": 35,
+          "reply_count": 23,
+          "retweet_count": 692
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v32PgTMe83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/泛性恋/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "fe_ions"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 3125,
+          "like_count": 89480,
+          "listed_count": 12,
+          "media_count": 1864,
+          "tweet_count": 14654
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-01T17:32:23.000Z",
+        "description": "These cats with pawerful aura|| we don't own any content || Please Dm for credit ||III",
+        "id": "1156981009763540992",
+        "location": "DM for credit/removal",
+        "name": "Cats with pawerful aura",
+        "pinned_tweet_id": "1917600579523641799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903404281807724544/b7vyyYC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343705,
+          "following_count": 2,
+          "like_count": 102,
+          "listed_count": 915,
+          "media_count": 22314,
+          "tweet_count": 22787
+        },
+        "username": "AuraWithCat",
+        "verified": true
+      }
+    ]
+  }
+}

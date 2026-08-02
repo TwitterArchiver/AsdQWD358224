@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1942153983256342948",
+    "created_at": "2025-07-09T04:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T05:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942806852397588570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1542772014309511168",
+          "start": 0,
+          "username": "kaorukakoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942806852397588570",
+    "in_reply_to_user_id": "1542772014309511168",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942153983256342948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaorukakoii wwwwwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1942153983256342948",
+        "created_at": "2025-07-09T04:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T05:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942806852397588570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1542772014309511168",
+              "start": 0,
+              "username": "kaorukakoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942806852397588570",
+        "in_reply_to_user_id": "1542772014309511168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942153983256342948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaorukakoii wwwwwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542772014309511168",
+        "conversation_id": "1942153983256342948",
+        "created_at": "2025-07-07T09:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T10:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942153983256342948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942153983256342948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 44226,
+          "like_count": 1809,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "我：為什麼中國那邊都講潮玩啊\n我：這簡稱真的好怪\n\n觀眾：那你知道台灣叫什麼嗎\n我：不知道耶\n\n觀眾：台灣叫歹玩\n\n😠😠😠😠😠😠😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/OSDD/人生三周目\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "fe_ions"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分/谷雨（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 3116,
+          "like_count": 95305,
+          "listed_count": 12,
+          "media_count": 1971,
+          "tweet_count": 15601
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T07:28:14.000Z",
+        "description": "❖所屬@Sonet_VOiX\n地方咖啡廳店員，喜歡狗跟百合，狀態：想要摸摸小狗\n♟️直播地為Twitch\nママ:@makura_wet @huacha_oc\n\n🔸️我的狗➡️@corgicapon L2D建模帳➡️@kaoru_Live2D\nFanArt◊ #顧客回饋單",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 129,
+                "tag": "顧客回饋單"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Sonet_VOiX"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "makura_wet"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "huacha_oc"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "corgicapon"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "kaoru_Live2D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/kaoruVoix",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/kaoruVoix",
+                "start": 0,
+                "url": "https://t.co/05nmCZr8T4"
+              }
+            ]
+          }
+        },
+        "id": "1542772014309511168",
+        "location": "至高無上尊爵不凡的顧客腳底下",
+        "name": "淺野薰☕️好想被踩系Vtuber【VOiX所屬】",
+        "pinned_tweet_id": "1812128324585746564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859826951550365696/lE0hKzO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21451,
+          "following_count": 727,
+          "like_count": 38868,
+          "listed_count": 47,
+          "media_count": 769,
+          "tweet_count": 29920
+        },
+        "url": "https://t.co/05nmCZr8T4",
+        "username": "kaorukakoii",
+        "verified": true
+      }
+    ]
+  }
+}

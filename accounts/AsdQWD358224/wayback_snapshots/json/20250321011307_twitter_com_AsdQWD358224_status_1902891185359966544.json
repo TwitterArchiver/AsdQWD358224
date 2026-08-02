@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902653489551233024"
+      ],
+      "media_source_tweet_id": [
+        "1902653494378770899"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "1902891185359966544",
+    "created_at": "2025-03-21T01:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T02:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902891185359966544"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "東アジア",
+          "probability": 0.6273,
+          "start": 13,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "739332607683354625",
+          "start": 3,
+          "username": "RUGSH10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BkuHZ05Vzc",
+          "end": 54,
+          "expanded_url": "https://x.com/RUGSH10/status/1902653494378770899/photo/1",
+          "media_key": "3_1902653489551233024",
+          "start": 31,
+          "url": "https://t.co/BkuHZ05Vzc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902891185359966544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902653494378770899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RUGSH10: 東アジアの高速鉄道路線図作ってる💪 https://t.co/BkuHZ05Vzc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902653489551233024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmeVRJ9b0AA87Cq.jpg",
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902653489551233024"
+          ],
+          "media_source_tweet_id": [
+            "1902653494378770899"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1902891185359966544",
+        "created_at": "2025-03-21T01:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T02:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902891185359966544"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "東アジア",
+              "probability": 0.6273,
+              "start": 13,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "739332607683354625",
+              "start": 3,
+              "username": "RUGSH10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkuHZ05Vzc",
+              "end": 54,
+              "expanded_url": "https://x.com/RUGSH10/status/1902653494378770899/photo/1",
+              "media_key": "3_1902653489551233024",
+              "start": 31,
+              "url": "https://t.co/BkuHZ05Vzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902891185359966544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902653494378770899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RUGSH10: 東アジアの高速鉄道路線図作ってる💪 https://t.co/BkuHZ05Vzc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902653489551233024"
+          ]
+        },
+        "author_id": "739332607683354625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1902653494378770899",
+        "created_at": "2025-03-20T09:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T10:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902653494378770899"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "東アジア",
+              "probability": 0.6701,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkuHZ05Vzc",
+              "end": 41,
+              "expanded_url": "https://x.com/RUGSH10/status/1902653494378770899/photo/1",
+              "media_key": "3_1902653489551233024",
+              "start": 18,
+              "url": "https://t.co/BkuHZ05Vzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902653494378770899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 427,
+          "impression_count": 120518,
+          "like_count": 2605,
+          "quote_count": 37,
+          "reply_count": 31,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "東アジアの高速鉄道路線図作ってる💪 https://t.co/BkuHZ05Vzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "fe_ions"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 2869,
+          "like_count": 73494,
+          "listed_count": 9,
+          "media_count": 1660,
+          "tweet_count": 12866
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-05T05:46:44.000Z",
+        "description": "湘南を望郷し、北信で働き、雪国/第二次産業/大量輸送機関/きらら系の振興を願う(ヘッダにはAI生成物を使用)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rugsh10-map.sakura.ne.jp/home.html",
+                "end": 23,
+                "expanded_url": "https://rugsh10-map.sakura.ne.jp/home.html",
+                "start": 0,
+                "url": "https://t.co/FlUYfXHkaz"
+              }
+            ]
+          }
+        },
+        "id": "739332607683354625",
+        "location": "湘南→北信",
+        "name": "須比(すひ)",
+        "pinned_tweet_id": "1900537094881120711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741071265706995712/KpuTlC7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 1657,
+          "like_count": 231214,
+          "listed_count": 22,
+          "media_count": 1411,
+          "tweet_count": 24303
+        },
+        "url": "https://t.co/FlUYfXHkaz",
+        "username": "RUGSH10",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901835998218330112"
+      ],
+      "media_source_tweet_id": [
+        "1901836011778584691"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1901943658875645981",
+    "created_at": "2025-03-18T10:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T11:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901943658875645981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1197149465192189954",
+          "start": 3,
+          "username": "kuidourakusan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o7VqGdiwUb",
+          "end": 58,
+          "expanded_url": "https://x.com/kuidourakusan/status/1901836011778584691/photo/1",
+          "media_key": "3_1901835998218330112",
+          "start": 35,
+          "url": "https://t.co/o7VqGdiwUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901943658875645981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901836011778584691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuidourakusan: 最近また中華が多くなって来た😅 https://t.co/o7VqGdiwUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901835998218330112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmStw5baoAAy831.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901835998218330112"
+          ],
+          "media_source_tweet_id": [
+            "1901836011778584691"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1901943658875645981",
+        "created_at": "2025-03-18T10:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T11:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901943658875645981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1197149465192189954",
+              "start": 3,
+              "username": "kuidourakusan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7VqGdiwUb",
+              "end": 58,
+              "expanded_url": "https://x.com/kuidourakusan/status/1901836011778584691/photo/1",
+              "media_key": "3_1901835998218330112",
+              "start": 35,
+              "url": "https://t.co/o7VqGdiwUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901943658875645981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901836011778584691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuidourakusan: 最近また中華が多くなって来た😅 https://t.co/o7VqGdiwUb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901835998218330112"
+          ]
+        },
+        "author_id": "1197149465192189954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1901836011778584691",
+        "created_at": "2025-03-18T03:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T04:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901836011778584691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7VqGdiwUb",
+              "end": 39,
+              "expanded_url": "https://x.com/kuidourakusan/status/1901836011778584691/photo/1",
+              "media_key": "3_1901835998218330112",
+              "start": 16,
+              "url": "https://t.co/o7VqGdiwUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901836011778584691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9618,
+          "like_count": 1346,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "最近また中華が多くなって来た😅 https://t.co/o7VqGdiwUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "fe_ions"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 2849,
+          "like_count": 71899,
+          "listed_count": 9,
+          "media_count": 1652,
+          "tweet_count": 12759
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-20T13:47:43.000Z",
+        "description": "「手頃な価格で美味しくいただく」をモットーに活動する、食いしん坊の食い道楽です😊食べたものをスマホでアップしています✨美味しい料理は人を笑顔にしますよね👍古い過去ツイでも気にせず、好きな時にご自由にリプやリポストしてください😊僕もしてます😅 ※勧誘やLINEへの誘導DMはスルーさせていただきます🆖",
+        "id": "1197149465192189954",
+        "location": "日本 東京",
+        "name": "食い道楽",
+        "pinned_tweet_id": "1874138768950911013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1197149763549855746/4qECpqxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20647,
+          "following_count": 12658,
+          "like_count": 375069,
+          "listed_count": 78,
+          "media_count": 1522,
+          "tweet_count": 12498
+        },
+        "username": "kuidourakusan",
+        "verified": true
+      }
+    ]
+  }
+}

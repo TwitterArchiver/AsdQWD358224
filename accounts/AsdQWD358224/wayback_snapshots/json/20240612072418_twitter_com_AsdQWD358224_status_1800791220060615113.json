@@ -1,0 +1,491 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1800668557019353549",
+    "created_at": "2024-06-12T07:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T08:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800791220060615113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700578301549383680",
+          "start": 0,
+          "username": "neganwithlucy07"
+        },
+        {
+          "end": 28,
+          "id": "866818669619195904",
+          "start": 17,
+          "username": "China_Fact"
+        },
+        {
+          "end": 45,
+          "id": "313385516",
+          "start": 29,
+          "username": "TheNavroopSingh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800791220060615113",
+    "in_reply_to_user_id": "1700578301549383680",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800737998138679379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neganwithlucy07 @China_Fact @TheNavroopSingh 那么德克萨斯，加利福尼亚，印第安土著和夏威夷又是怎么回事呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1800668557019353549",
+        "created_at": "2024-06-12T07:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T08:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800791220060615113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700578301549383680",
+              "start": 0,
+              "username": "neganwithlucy07"
+            },
+            {
+              "end": 28,
+              "id": "866818669619195904",
+              "start": 17,
+              "username": "China_Fact"
+            },
+            {
+              "end": 45,
+              "id": "313385516",
+              "start": 29,
+              "username": "TheNavroopSingh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800791220060615113",
+        "in_reply_to_user_id": "1700578301549383680",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800737998138679379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neganwithlucy07 @China_Fact @TheNavroopSingh 那么德克萨斯，加利福尼亚，印第安土著和夏威夷又是怎么回事呢？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1700578301549383680",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1784015880214503425",
+              "name": "Turkmenistan vs Hong Kong, China"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226237394243584",
+              "name": "International - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756535491305473",
+              "name": "World Cup Qualification, AFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1784015880214503425",
+              "name": "Turkmenistan vs Hong Kong, China"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1784015880214503425",
+              "name": "Turkmenistan vs Hong Kong, China"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1800668557019353549",
+        "created_at": "2024-06-12T03:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T04:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800737998138679379"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Tibet",
+              "probability": 0.6846,
+              "start": 38,
+              "type": "Place"
+            },
+            {
+              "end": 58,
+              "normalized_text": "china",
+              "probability": 0.8783,
+              "start": 54,
+              "type": "Place"
+            },
+            {
+              "end": 71,
+              "normalized_text": "Tibet",
+              "probability": 0.8786,
+              "start": 67,
+              "type": "Place"
+            },
+            {
+              "end": 119,
+              "normalized_text": "china",
+              "probability": 0.9679,
+              "start": 115,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "866818669619195904",
+              "start": 0,
+              "username": "China_Fact"
+            },
+            {
+              "end": 28,
+              "id": "313385516",
+              "start": 12,
+              "username": "TheNavroopSingh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800737998138679379",
+        "in_reply_to_user_id": "866818669619195904",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1696,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800668557019353549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@China_Fact @TheNavroopSingh But it’s Tibet water not china water, Tibet is different country which is occupied by china which has to eventually will get a freedom someday"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 349,
+          "like_count": 493,
+          "listed_count": 0,
+          "tweet_count": 46
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T18:34:22.000Z",
+        "description": "",
+        "id": "1700578301549383680",
+        "name": "Pradeep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734066779327238144/u8fnSJYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 200,
+          "like_count": 843,
+          "listed_count": 0,
+          "tweet_count": 907
+        },
+        "username": "neganwithlucy07",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-23T00:50:50.000Z",
+        "description": "China_Perspective is a non-profit organization dedicated to spreading Chinese culture, news, as well as informing people of destructive cult activ.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinaplus.cri.cn",
+                "end": 23,
+                "expanded_url": "http://chinaplus.cri.cn",
+                "start": 0,
+                "url": "https://t.co/0Evzeom0ro"
+              }
+            ]
+          }
+        },
+        "id": "866818669619195904",
+        "location": "Beijing",
+        "name": "China Perspective",
+        "pinned_tweet_id": "1800668557019353549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1339757173849636865/UDzt9qpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101637,
+          "following_count": 78,
+          "like_count": 189,
+          "listed_count": 202,
+          "tweet_count": 29373
+        },
+        "url": "https://t.co/0Evzeom0ro",
+        "username": "China_Fact",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-08T15:38:49.000Z",
+        "description": "#IPR Lawyer, avowed #Constitutionalist, a Proud #Sanatani, Author of #TheGreatReset, co-author of #TheNewGlobalOrder & #KoreanPeninsula with @AsianWarrior.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "IPR"
+              },
+              {
+                "end": 38,
+                "start": 20,
+                "tag": "Constitutionalist"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "Sanatani"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "tag": "TheGreatReset"
+              },
+              {
+                "end": 116,
+                "start": 98,
+                "tag": "TheNewGlobalOrder"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "tag": "KoreanPeninsula"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 154,
+                "start": 141,
+                "username": "AsianWarrior"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asianwarrior.com",
+                "end": 23,
+                "expanded_url": "http://www.asianwarrior.com/",
+                "start": 0,
+                "url": "https://t.co/HBruCvbHj6"
+              }
+            ]
+          }
+        },
+        "id": "313385516",
+        "location": "New Delhi, India",
+        "name": "Navroop Singh",
+        "pinned_tweet_id": "1794428166905200926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798075690983854080/8PRDSS2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42847,
+          "following_count": 5607,
+          "like_count": 48795,
+          "listed_count": 518,
+          "tweet_count": 948597
+        },
+        "url": "https://t.co/HBruCvbHj6",
+        "username": "TheNavroopSingh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Destinations",
+          "id": "857603051657482241",
+          "name": "Destinations"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Recipies/Books",
+          "id": "846736745517350912",
+          "name": "Recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Recipies/Books",
+          "id": "846736745517350912",
+          "name": "Recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1194365176272699392",
+          "name": "Europe travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1306984092576002050",
+          "name": "Spain travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1306984092576002050",
+          "name": "Spain travel"
+        }
+      }
+    ],
+    "conversation_id": "1899755559529959546",
+    "created_at": "2025-03-12T09:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T10:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899755559529959546"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 31,
+          "tag": "recetas"
+        },
+        {
+          "end": 58,
+          "start": 46,
+          "tag": "gastronomía"
+        },
+        {
+          "end": 121,
+          "start": 109,
+          "tag": "GastroSpain"
+        },
+        {
+          "end": 133,
+          "start": 122,
+          "tag": "VisitSpain"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "18241502",
+          "start": 3,
+          "username": "EspanaEnLatam"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Descubre cuáles son los platos típicos más famosos de España. Información sobre recetas y zonas donde comer | spain.info",
+          "display_url": "buff.ly/2yMcGDR",
+          "end": 108,
+          "expanded_url": "https://buff.ly/2yMcGDR",
+          "images": [
+            {
+              "height": 864,
+              "url": "https://pbs.twimg.com/news_img/1880703398171090945/km6bWMFh?format=jpg&name=orig",
+              "width": 1920
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1880703398171090945/km6bWMFh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 85,
+          "status": 200,
+          "title": "Los platos típicos más famosos de España | spain.info",
+          "unwound_url": "https://www.spain.info/es/top/recetas-mas-famosas-gastronomia-espanola/",
+          "url": "https://t.co/CnoqbXfZIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899755559529959546",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "922630230115864576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EspanaEnLatam: Conoce ocho #recetas de la #gastronomía española de fama mundial:\nhttps://t.co/CnoqbXfZIl\n#GastroSpain #VisitSpain #Reci…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_922630225330089985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DM3XTTfWsAEbljA.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1158,
+        "media_key": "3_922630225674035205",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DM3XTUxW4AU5uoA.jpg",
+        "width": 1658
+      },
+      {
+        "height": 1748,
+        "media_key": "3_922630226055716866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DM3XTWMW4AInTVI.jpg",
+        "width": 2632
+      },
+      {
+        "height": 596,
+        "media_key": "3_922630225493716992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DM3XTUGXcAAOAA7.jpg",
+        "width": 805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194365176272699392",
+              "name": "Europe travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306984092576002050",
+              "name": "Spain travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1306984092576002050",
+              "name": "Spain travel"
+            }
+          }
+        ],
+        "conversation_id": "1899755559529959546",
+        "created_at": "2025-03-12T09:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T10:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899755559529959546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "recetas"
+            },
+            {
+              "end": 58,
+              "start": 46,
+              "tag": "gastronomía"
+            },
+            {
+              "end": 121,
+              "start": 109,
+              "tag": "GastroSpain"
+            },
+            {
+              "end": 133,
+              "start": 122,
+              "tag": "VisitSpain"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "18241502",
+              "start": 3,
+              "username": "EspanaEnLatam"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Descubre cuáles son los platos típicos más famosos de España. Información sobre recetas y zonas donde comer | spain.info",
+              "display_url": "buff.ly/2yMcGDR",
+              "end": 108,
+              "expanded_url": "https://buff.ly/2yMcGDR",
+              "images": [
+                {
+                  "height": 864,
+                  "url": "https://pbs.twimg.com/news_img/1880703398171090945/km6bWMFh?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1880703398171090945/km6bWMFh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "Los platos típicos más famosos de España | spain.info",
+              "unwound_url": "https://www.spain.info/es/top/recetas-mas-famosas-gastronomia-espanola/",
+              "url": "https://t.co/CnoqbXfZIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899755559529959546",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "922630230115864576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EspanaEnLatam: Conoce ocho #recetas de la #gastronomía española de fama mundial:\nhttps://t.co/CnoqbXfZIl\n#GastroSpain #VisitSpain #Reci…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_922630225330089985",
+            "3_922630225674035205",
+            "3_922630226055716866",
+            "3_922630225493716992"
+          ]
+        },
+        "author_id": "18241502",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          }
+        ],
+        "conversation_id": "922630230115864576",
+        "created_at": "2017-10-24T01:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2017-10-24T01:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "922630230115864576"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 101,
+              "normalized_text": "GastroSpain",
+              "probability": 0.3646,
+              "start": 91,
+              "type": "Organization"
+            },
+            {
+              "end": 113,
+              "normalized_text": "VisitSpain",
+              "probability": 0.409,
+              "start": 104,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "recetas"
+            },
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "gastronomía"
+            },
+            {
+              "end": 102,
+              "start": 90,
+              "tag": "GastroSpain"
+            },
+            {
+              "end": 114,
+              "start": 103,
+              "tag": "VisitSpain"
+            },
+            {
+              "end": 122,
+              "start": 115,
+              "tag": "Recipe"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "food"
+            },
+            {
+              "end": 140,
+              "start": 129,
+              "tag": "gastronomy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Descubre cuáles son los platos típicos más famosos de España. Información sobre recetas y zonas donde comer | spain.info",
+              "display_url": "buff.ly/2yMcGDR",
+              "end": 89,
+              "expanded_url": "https://buff.ly/2yMcGDR",
+              "images": [
+                {
+                  "height": 864,
+                  "url": "https://pbs.twimg.com/news_img/1880703398171090945/km6bWMFh?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1880703398171090945/km6bWMFh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 66,
+              "status": 200,
+              "title": "Los platos típicos más famosos de España | spain.info",
+              "unwound_url": "https://www.spain.info/es/top/recetas-mas-famosas-gastronomia-espanola/",
+              "url": "https://t.co/CnoqbXfZIl"
+            },
+            {
+              "display_url": "pic.x.com/GfD2v4lQ6w",
+              "end": 164,
+              "expanded_url": "https://x.com/spain/status/922630230115864576/photo/1",
+              "media_key": "3_922630225330089985",
+              "start": 141,
+              "url": "https://t.co/GfD2v4lQ6w"
+            },
+            {
+              "display_url": "pic.x.com/GfD2v4lQ6w",
+              "end": 164,
+              "expanded_url": "https://x.com/spain/status/922630230115864576/photo/1",
+              "media_key": "3_922630225674035205",
+              "start": 141,
+              "url": "https://t.co/GfD2v4lQ6w"
+            },
+            {
+              "display_url": "pic.x.com/GfD2v4lQ6w",
+              "end": 164,
+              "expanded_url": "https://x.com/spain/status/922630230115864576/photo/1",
+              "media_key": "3_922630226055716866",
+              "start": 141,
+              "url": "https://t.co/GfD2v4lQ6w"
+            },
+            {
+              "display_url": "pic.x.com/GfD2v4lQ6w",
+              "end": 164,
+              "expanded_url": "https://x.com/spain/status/922630230115864576/photo/1",
+              "media_key": "3_922630225493716992",
+              "start": 141,
+              "url": "https://t.co/GfD2v4lQ6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "922630230115864576",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 135,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "Conoce ocho #recetas de la #gastronomía española de fama mundial:\nhttps://t.co/CnoqbXfZIl\n#GastroSpain #VisitSpain #Recipe #food\n#gastronomy https://t.co/GfD2v4lQ6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 2761,
+          "like_count": 68205,
+          "listed_count": 7,
+          "media_count": 1601,
+          "tweet_count": 12251
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-19T13:32:21.000Z",
+        "description": "Cuenta oficial de LATAM Turismo de España. Etiqueta #VisitaEspaña",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 52,
+                "tag": "VisitaEspaña"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spain.info",
+                "end": 23,
+                "expanded_url": "http://www.spain.info",
+                "start": 0,
+                "url": "https://t.co/jfpr4I6hBG"
+              }
+            ]
+          }
+        },
+        "id": "18241502",
+        "location": "España",
+        "name": "España en Latam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240551712559190016/lVfwZ-Yq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334218,
+          "following_count": 23674,
+          "like_count": 39646,
+          "listed_count": 3611,
+          "media_count": 37885,
+          "tweet_count": 60352
+        },
+        "url": "https://t.co/jfpr4I6hBG",
+        "username": "EspanaEnLatam",
+        "verified": true
+      }
+    ]
+  }
+}

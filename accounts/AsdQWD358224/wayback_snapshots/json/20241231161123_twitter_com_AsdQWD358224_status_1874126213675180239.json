@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1874126213675180239",
+    "created_at": "2024-12-31T16:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T17:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874126213675180239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1852384375666819072",
+          "start": 3,
+          "username": "biantaishabi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874126213675180239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874074788857339989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biantaishabi4: 2024年的发现，电脑比女人好玩多了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1874126213675180239",
+        "created_at": "2024-12-31T16:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T17:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874126213675180239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1852384375666819072",
+              "start": 3,
+              "username": "biantaishabi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874126213675180239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874074788857339989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biantaishabi4: 2024年的发现，电脑比女人好玩多了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852384375666819072",
+        "conversation_id": "1874074788857339989",
+        "created_at": "2024-12-31T12:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T13:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874074788857339989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874074788857339989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2989,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "2024年的发现，电脑比女人好玩多了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？/07年17岁/高三在读/无政治倾向/重度抑郁重度焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1872682595814928454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 1965,
+          "like_count": 12469,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2615
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:17:17.000Z",
+        "description": "人如其名",
+        "id": "1852384375666819072",
+        "location": "改则县",
+        "name": "biantaishabi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852387842695335936/FiJ0XJ3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 599,
+          "like_count": 5693,
+          "listed_count": 11,
+          "media_count": 799,
+          "tweet_count": 14393
+        },
+        "username": "biantaishabi4",
+        "verified": false
+      }
+    ]
+  }
+}

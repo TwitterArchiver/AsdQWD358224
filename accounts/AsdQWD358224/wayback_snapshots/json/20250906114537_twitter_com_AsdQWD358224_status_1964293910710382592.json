@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1963618924387598589",
+    "created_at": "2025-09-06T11:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T12:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964293910710382592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1894364220151783424",
+          "start": 0,
+          "username": "sakura19864"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964293910710382592",
+    "in_reply_to_user_id": "1894364220151783424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963618924387598589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura19864 （互文"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_1963618921707442177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AtAW6bkAEeHSp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1963618924387598589",
+        "created_at": "2025-09-06T11:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T12:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964293910710382592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1894364220151783424",
+              "start": 0,
+              "username": "sakura19864"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964293910710382592",
+        "in_reply_to_user_id": "1894364220151783424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963618924387598589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura19864 （互文"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963618921707442177"
+          ]
+        },
+        "author_id": "1894364220151783424",
+        "conversation_id": "1963618924387598589",
+        "created_at": "2025-09-04T15:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963618924387598589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GoDdBIFjQ0",
+              "end": 27,
+              "expanded_url": "https://x.com/sakura19864/status/1963618924387598589/photo/1",
+              "media_key": "3_1963618921707442177",
+              "start": 4,
+              "url": "https://t.co/GoDdBIFjQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963618924387598589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1970,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么 https://t.co/GoDdBIFjQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/无政治倾向/❤️    \n@Caroline_9870   ❤️\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 3129,
+          "like_count": 99137,
+          "listed_count": 12,
+          "media_count": 2059,
+          "tweet_count": 16139
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:30:12.000Z",
+        "description": "噫吁嚱，危乎高哉。慎终如始，则无败事/可互fo",
+        "id": "1894364220151783424",
+        "location": "上海再教育集中营",
+        "name": "高夫☭⃠",
+        "pinned_tweet_id": "1957421205901939005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955886660203503616/cJOAsLMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 475,
+          "like_count": 245,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 127
+        },
+        "username": "sakura19864",
+        "verified": false
+      }
+    ]
+  }
+}

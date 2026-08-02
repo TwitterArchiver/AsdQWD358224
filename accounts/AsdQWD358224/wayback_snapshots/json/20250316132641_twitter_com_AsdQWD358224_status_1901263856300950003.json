@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1900950400532115456"
+      ],
+      "media_source_tweet_id": [
+        "1900952680165752905"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1901263856300950003",
+    "created_at": "2025-03-16T13:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T14:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901263856300950003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520449748292935680",
+          "start": 3,
+          "username": "Akiha_mgdw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GMJrs9RIyd",
+          "end": 86,
+          "expanded_url": "https://x.com/Akiha_mgdw/status/1900952680165752905/video/1",
+          "media_key": "13_1900950400532115456",
+          "start": 63,
+          "url": "https://t.co/GMJrs9RIyd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901263856300950003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900952680165752905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akiha_mgdw: 給堅持了一天的你們\n都超棒的 辛苦了～\n晚安(ฅ’ω’ฅ)​🩵\n\n（要耳朵近點才聽到秘密喔） https://t.co/GMJrs9RIyd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7500,
+        "height": 1080,
+        "media_key": "13_1900950400532115456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1900950400532115456/img/TgRHA9TtuFpWGxF0.jpg",
+        "public_metrics": {
+          "view_count": 25589
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900950400532115456/vid/avc1/480x270/PzFwbTyik7N_nDeC.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1900950400532115456/pl/j9381VyBGN839AeT.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900950400532115456/vid/avc1/640x360/Fl3xrOqib6EHoca7.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900950400532115456/vid/avc1/1920x1080/zwa75EVCXkBcDZG5.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900950400532115456/vid/avc1/1280x720/H2m9-yvC-zyMceCz.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1900950400532115456"
+          ],
+          "media_source_tweet_id": [
+            "1900952680165752905"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1901263856300950003",
+        "created_at": "2025-03-16T13:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T14:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901263856300950003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520449748292935680",
+              "start": 3,
+              "username": "Akiha_mgdw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMJrs9RIyd",
+              "end": 86,
+              "expanded_url": "https://x.com/Akiha_mgdw/status/1900952680165752905/video/1",
+              "media_key": "13_1900950400532115456",
+              "start": 63,
+              "url": "https://t.co/GMJrs9RIyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901263856300950003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900952680165752905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akiha_mgdw: 給堅持了一天的你們\n都超棒的 辛苦了～\n晚安(ฅ’ω’ฅ)​🩵\n\n（要耳朵近點才聽到秘密喔） https://t.co/GMJrs9RIyd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1900950400532115456"
+          ]
+        },
+        "author_id": "1520449748292935680",
+        "conversation_id": "1900952680165752905",
+        "created_at": "2025-03-15T16:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T17:41:23.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900950466475049009",
+          "1900952534006853992",
+          "1900952680165752905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMJrs9RIyd",
+              "end": 70,
+              "expanded_url": "https://x.com/Akiha_mgdw/status/1900952680165752905/video/1",
+              "media_key": "13_1900950400532115456",
+              "start": 47,
+              "url": "https://t.co/GMJrs9RIyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900952680165752905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 99496,
+          "like_count": 138,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "給堅持了一天的你們\n都超棒的 辛苦了～\n晚安(ฅ’ω’ฅ)​🩵\n\n（要耳朵近點才聽到秘密喔） https://t.co/GMJrs9RIyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2823,
+          "like_count": 70834,
+          "listed_count": 9,
+          "media_count": 1642,
+          "tweet_count": 12635
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T17:07:47.000Z",
+        "description": "Aki準備中～嗷嗚 香港 🇭🇰 。〖遊戲/聲音類/繪一點 〗。在人類社會打工的玩具小狼🥰 請務必跟Aki交個朋友！ https://t.co/xqBpPbQZ9j  Email: akiha.aqing@gmail.com。✨廣○｜日○｜EN ○｜中△",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Akiha%E7%99%B…",
+                "end": 81,
+                "expanded_url": "https://www.youtube.com/@Akiha%E7%99%BD%E6%99%B4Ch",
+                "start": 58,
+                "url": "https://t.co/xqBpPbQZ9j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/akihaaa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/akihaaa",
+                "start": 0,
+                "url": "https://t.co/UgwfUTpenl"
+              }
+            ]
+          }
+        },
+        "id": "1520449748292935680",
+        "name": "Akiha白晴☀️【🩵Aki🤍】",
+        "pinned_tweet_id": "1900952680165752905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891740274906497024/AIqje4-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 137,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/UgwfUTpenl",
+        "username": "Akiha_mgdw",
+        "verified": true
+      }
+    ]
+  }
+}

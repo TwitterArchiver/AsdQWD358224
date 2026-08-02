@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897227048713953280"
+      ],
+      "media_source_tweet_id": [
+        "1897227050693616067"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "1897655781417464311",
+    "created_at": "2025-03-06T14:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T15:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897655781417464311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3029861817",
+          "start": 3,
+          "username": "tra_sta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jqXyI4qAXJ",
+          "end": 64,
+          "expanded_url": "https://x.com/tra_sta/status/1897227050693616067/photo/1",
+          "media_key": "3_1897227048713953280",
+          "start": 41,
+          "url": "https://t.co/jqXyI4qAXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897655781417464311",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11491
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897227050693616067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tra_sta: 買った、WiFiルーターの上に載せる縁起悪いことしてる https://t.co/jqXyI4qAXJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1897227048713953280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRN8ujboAA8B-n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897227048713953280"
+          ],
+          "media_source_tweet_id": [
+            "1897227050693616067"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1897655781417464311",
+        "created_at": "2025-03-06T14:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T15:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897655781417464311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3029861817",
+              "start": 3,
+              "username": "tra_sta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqXyI4qAXJ",
+              "end": 64,
+              "expanded_url": "https://x.com/tra_sta/status/1897227050693616067/photo/1",
+              "media_key": "3_1897227048713953280",
+              "start": 41,
+              "url": "https://t.co/jqXyI4qAXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897655781417464311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11491
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897227050693616067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tra_sta: 買った、WiFiルーターの上に載せる縁起悪いことしてる https://t.co/jqXyI4qAXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897227048713953280"
+          ]
+        },
+        "author_id": "3029861817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1897227050693616067",
+        "created_at": "2025-03-05T10:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T11:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897227050693616067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqXyI4qAXJ",
+              "end": 51,
+              "expanded_url": "https://x.com/tra_sta/status/1897227050693616067/photo/1",
+              "media_key": "3_1897227048713953280",
+              "start": 28,
+              "url": "https://t.co/jqXyI4qAXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897227050693616067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3706,
+          "impression_count": 2498899,
+          "like_count": 107193,
+          "quote_count": 164,
+          "reply_count": 28,
+          "retweet_count": 11491
+        },
+        "reply_settings": "everyone",
+        "text": "買った、WiFiルーターの上に載せる縁起悪いことしてる https://t.co/jqXyI4qAXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 2733,
+          "like_count": 65100,
+          "listed_count": 8,
+          "media_count": 1545,
+          "tweet_count": 11782
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-11T09:13:13.000Z",
+        "description": "@coefont Founding Engineer / @traPisct / Minecraft / Valorant / 発言は個人の見解です",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "coefont"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "traPisct"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "trasta.dev",
+                "end": 23,
+                "expanded_url": "https://trasta.dev",
+                "start": 0,
+                "url": "https://t.co/5bFWiI25nl"
+              }
+            ]
+          }
+        },
+        "id": "3029861817",
+        "location": "Science Tokyo B4",
+        "name": "とらすた",
+        "pinned_tweet_id": "1896437123974365522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1336633960726581249/9d7UMDYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 897,
+          "like_count": 27285,
+          "listed_count": 27,
+          "media_count": 2839,
+          "tweet_count": 45205
+        },
+        "url": "https://t.co/5bFWiI25nl",
+        "username": "tra_sta",
+        "verified": true
+      }
+    ]
+  }
+}

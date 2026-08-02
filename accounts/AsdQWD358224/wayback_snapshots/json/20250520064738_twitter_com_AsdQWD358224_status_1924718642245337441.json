@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1924718642245337441",
+    "created_at": "2025-05-20T06:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T07:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924718642245337441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1188696685687365638",
+          "start": 3,
+          "username": "xVoid14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924718642245337441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924037201773690931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xVoid14: 互联网图灵测试\n①空气里最多的是？\n②0.5×0.8=？\n③√4＝？\n④五八_ _\n⑤0.11和0.8哪个大\n⑥光年是什么单位"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1924037201773690931].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924037201773690931",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924037201773690931"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1924718642245337441",
+        "created_at": "2025-05-20T06:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T07:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924718642245337441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1188696685687365638",
+              "start": 3,
+              "username": "xVoid14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924718642245337441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924037201773690931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xVoid14: 互联网图灵测试\n①空气里最多的是？\n②0.5×0.8=？\n③√4＝？\n④五八_ _\n⑤0.11和0.8哪个大\n⑥光年是什么单位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/泛性恋/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "fe_ions"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1922659380727591195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 3128,
+          "like_count": 91256,
+          "listed_count": 12,
+          "media_count": 1912,
+          "tweet_count": 15009
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-28T05:59:20.000Z",
+        "description": "欢迎来到我的XX空间 关注我关注我关注我 希望很快能赚大钱 互fo私信我哦 ⚠️X文内容仅供图一乐真假自辨哦",
+        "id": "1188696685687365638",
+        "name": "泪滴手动搬运机",
+        "pinned_tweet_id": "1920595710451593423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496348606340558851/-66tyHtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 146,
+          "like_count": 235,
+          "listed_count": 5,
+          "media_count": 218,
+          "tweet_count": 269
+        },
+        "username": "xVoid14",
+        "verified": false
+      }
+    ]
+  }
+}

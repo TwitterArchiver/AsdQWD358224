@@ -1,0 +1,607 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043321447154905088"
+      ],
+      "media_source_tweet_id": [
+        "2043321780014895465"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2044198989290201337",
+    "created_at": "2026-04-14T23:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T00:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044198989290201337"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "kig"
+        },
+        {
+          "end": 65,
+          "start": 56,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "genshinimpact"
+        },
+        {
+          "end": 87,
+          "start": 81,
+          "tag": "偶合K2G"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1073552945906626565",
+          "start": 3,
+          "username": "acted16"
+        },
+        {
+          "end": 48,
+          "id": "1356583549",
+          "start": 32,
+          "username": "kagurazakayashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pjrv86ThIy",
+          "end": 111,
+          "expanded_url": "https://x.com/acted16/status/2043321780014895465/photo/1",
+          "media_key": "3_2043321447154905088",
+          "start": 88,
+          "url": "https://t.co/Pjrv86ThIy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044198989290201337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043321780014895465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acted16: 呜，被推到墙上去了qwq  \n\n📷： @kagurazakayashi \n\n#kig #kigurumi #genshinimpact #偶合K2G https://t.co/Pjrv86ThIy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2732,
+        "media_key": "3_2043321447154905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtWB7ua8AArZN6.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043321447154905088"
+          ],
+          "media_source_tweet_id": [
+            "2043321780014895465"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2044198989290201337",
+        "created_at": "2026-04-14T23:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T00:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044198989290201337"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "kig"
+            },
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "genshinimpact"
+            },
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "偶合K2G"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1073552945906626565",
+              "start": 3,
+              "username": "acted16"
+            },
+            {
+              "end": 48,
+              "id": "1356583549",
+              "start": 32,
+              "username": "kagurazakayashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pjrv86ThIy",
+              "end": 111,
+              "expanded_url": "https://x.com/acted16/status/2043321780014895465/photo/1",
+              "media_key": "3_2043321447154905088",
+              "start": 88,
+              "url": "https://t.co/Pjrv86ThIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044198989290201337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043321780014895465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acted16: 呜，被推到墙上去了qwq  \n\n📷： @kagurazakayashi \n\n#kig #kigurumi #genshinimpact #偶合K2G https://t.co/Pjrv86ThIy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043321447154905088"
+          ]
+        },
+        "author_id": "1073552945906626565",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2043321780014895465",
+        "created_at": "2026-04-12T13:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043321780014895465"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "kig"
+            },
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 67,
+              "start": 53,
+              "tag": "genshinimpact"
+            },
+            {
+              "end": 74,
+              "start": 68,
+              "tag": "偶合K2G"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1356583549",
+              "start": 19,
+              "username": "kagurazakayashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pjrv86ThIy",
+              "end": 98,
+              "expanded_url": "https://x.com/acted16/status/2043321780014895465/photo/1",
+              "media_key": "3_2043321447154905088",
+              "start": 75,
+              "url": "https://t.co/Pjrv86ThIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043321780014895465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2526,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "呜，被推到墙上去了qwq  \n\n📷： @kagurazakayashi \n\n#kig #kigurumi #genshinimpact #偶合K2G https://t.co/Pjrv86ThIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2555,
+          "following_count": 3018,
+          "like_count": 101412,
+          "listed_count": 14,
+          "media_count": 2283,
+          "tweet_count": 17505
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T12:19:02.000Z",
+        "description": "超萌新废物肥猪kiger（DW10/11/13参与！） 小说大鸽子🕊️",
+        "id": "1073552945906626565",
+        "location": "绒布球惩戒调教中心",
+        "name": "咕咕喵",
+        "pinned_tweet_id": "1987401896538349695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861026526713794560/_AqWFQ3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7945,
+          "following_count": 2175,
+          "like_count": 38018,
+          "listed_count": 45,
+          "media_count": 295,
+          "tweet_count": 6738
+        },
+        "username": "acted16",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没头像/没推/发广告/抽象会拉黑。女装不发R18(但有擦边的)，不讨论政治。喜欢女装、COS、KIG，无性SM(Switch)。友跨顺男偶尔发跨权。G+难民。女装和kig照看账号tag #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 153,
+                "start": 137,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgqV77"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "2015424289886134737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15371,
+          "following_count": 6023,
+          "like_count": 22377,
+          "listed_count": 66,
+          "media_count": 553,
+          "tweet_count": 4308
+        },
+        "url": "https://t.co/s9yovgqV77",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1880613487602446422",
+    "created_at": "2025-01-18T13:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T14:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880613818436644880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "Inhara_Akime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880613818436644880",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880613487602446422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inhara_Akime 诶嘿～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1880613487602446422",
+        "created_at": "2025-01-18T13:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880613818436644880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "Inhara_Akime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880613818436644880",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880613487602446422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inhara_Akime 诶嘿～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "conversation_id": "1880613487602446422",
+        "created_at": "2025-01-18T13:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880613487602446422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Inhara_Akime/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Inhara_Akime/status/1880606947373965771",
+              "start": 7,
+              "url": "https://t.co/uWMrRBW0Cb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880613487602446422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880606947373965771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁JB加书签 https://t.co/uWMrRBW0Cb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 2182,
+          "like_count": 27577,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 5073
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "HRT：14/01/2025\nその時僕は、僕を忘れてほしいのです。",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原チュメ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879546390227087360/z4JOE4DG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 897,
+          "like_count": 58514,
+          "listed_count": 8,
+          "media_count": 3376,
+          "tweet_count": 19871
+        },
+        "username": "Inhara_Akime",
+        "verified": false
+      }
+    ]
+  }
+}

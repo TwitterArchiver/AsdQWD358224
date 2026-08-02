@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1880956339633180972",
+    "created_at": "2025-01-19T15:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T16:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880993739407302761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3703623798",
+          "start": 0,
+          "username": "KumaTea0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880993739407302761",
+    "in_reply_to_user_id": "3703623798",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880956339633180972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KumaTea0 11111111111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1880956339633180972",
+        "created_at": "2025-01-19T15:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880993739407302761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3703623798",
+              "start": 0,
+              "username": "KumaTea0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880993739407302761",
+        "in_reply_to_user_id": "3703623798",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880956339633180972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KumaTea0 11111111111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3703623798",
+        "conversation_id": "1880956339633180972",
+        "created_at": "2025-01-19T12:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T13:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880956339633180972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880956339633180972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扣1获取你的专属ccb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 2209,
+          "like_count": 28415,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 5328
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-27T12:44:40.000Z",
+        "description": "扫雷系推主",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KumaSpace",
+                "end": 23,
+                "expanded_url": "https://t.me/KumaSpace",
+                "start": 0,
+                "url": "https://t.co/dUZIiIeqxm"
+              }
+            ]
+          }
+        },
+        "id": "3703623798",
+        "location": "里推 →",
+        "name": "KumaTea",
+        "pinned_tweet_id": "1823984352671490539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677789849645109249/3Fz-Yly0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7300,
+          "following_count": 64,
+          "like_count": 46935,
+          "listed_count": 38,
+          "media_count": 2083,
+          "tweet_count": 12690
+        },
+        "url": "https://t.co/dUZIiIeqxm",
+        "username": "KumaTea0",
+        "verified": false
+      }
+    ]
+  }
+}

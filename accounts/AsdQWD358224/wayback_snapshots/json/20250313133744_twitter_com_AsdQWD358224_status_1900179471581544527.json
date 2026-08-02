@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1900174531563839491"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1900179471581544527",
+    "created_at": "2025-03-13T13:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T14:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900179471581544527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1504799211799265282",
+          "start": 3,
+          "username": "LiuSuK_Arcaea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900179471581544527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900174533375779268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiuSuK_Arcaea: 吃不吃糖"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-03-14T13:18:06.000Z",
+        "id": "1900174531563839491",
+        "options": [
+          {
+            "label": "永远不吃",
+            "position": 1,
+            "votes": 4
+          },
+          {
+            "label": "有机会就吃",
+            "position": 2,
+            "votes": 5
+          },
+          {
+            "label": "以后再吃",
+            "position": 3,
+            "votes": 3
+          },
+          {
+            "label": "喵喵",
+            "position": 4,
+            "votes": 14
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1900174531563839491"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1900179471581544527",
+        "created_at": "2025-03-13T13:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T14:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900179471581544527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1504799211799265282",
+              "start": 3,
+              "username": "LiuSuK_Arcaea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900179471581544527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900174533375779268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiuSuK_Arcaea: 吃不吃糖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1900174531563839491"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1900174533375779268",
+        "created_at": "2025-03-13T13:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T14:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900174533375779268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900174533375779268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吃不吃糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 2799,
+          "like_count": 69366,
+          "listed_count": 7,
+          "media_count": 1616,
+          "tweet_count": 12421
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/唯一所爱主人@yeziyu7777 友跨友同 可以找我交朋友喵 关注@KojikaXiaoLu_ @_FiniteWorld谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "KojikaXiaoLu_"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "_FiniteWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "网页非常好用！",
+        "name": "☆流苏☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899046698783268865/6CcLwlru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 1541,
+          "like_count": 25673,
+          "listed_count": 8,
+          "media_count": 728,
+          "tweet_count": 15660
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK_Arcaea",
+        "verified": false
+      }
+    ]
+  }
+}

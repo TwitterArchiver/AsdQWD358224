@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910258324123373568"
+      ],
+      "media_source_tweet_id": [
+        "1910258330276434153"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1910629468441632925",
+    "created_at": "2025-04-11T09:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T10:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910629468441632925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3491511012",
+          "start": 3,
+          "username": "sense_kabu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sAc72foRxu",
+          "end": 71,
+          "expanded_url": "https://x.com/sense_kabu/status/1910258330276434153/photo/1",
+          "media_key": "3_1910258324123373568",
+          "start": 48,
+          "url": "https://t.co/sAc72foRxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910629468441632925",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 995
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910258330276434153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sense_kabu: 今日はうまトマWハンバーグ定食を食べました。おいしかったです。 https://t.co/sAc72foRxu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910258324123373568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoKZ0yabUAA3fbw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910258324123373568"
+          ],
+          "media_source_tweet_id": [
+            "1910258330276434153"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1910629468441632925",
+        "created_at": "2025-04-11T09:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T10:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910629468441632925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3491511012",
+              "start": 3,
+              "username": "sense_kabu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAc72foRxu",
+              "end": 71,
+              "expanded_url": "https://x.com/sense_kabu/status/1910258330276434153/photo/1",
+              "media_key": "3_1910258324123373568",
+              "start": 48,
+              "url": "https://t.co/sAc72foRxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910629468441632925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 995
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910258330276434153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sense_kabu: 今日はうまトマWハンバーグ定食を食べました。おいしかったです。 https://t.co/sAc72foRxu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910258324123373568"
+          ]
+        },
+        "author_id": "3491511012",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1910258330276434153",
+        "created_at": "2025-04-10T09:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T10:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910258330276434153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAc72foRxu",
+              "end": 55,
+              "expanded_url": "https://x.com/sense_kabu/status/1910258330276434153/photo/1",
+              "media_key": "3_1910258324123373568",
+              "start": 32,
+              "url": "https://t.co/sAc72foRxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910258330276434153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 325196,
+          "like_count": 16906,
+          "quote_count": 55,
+          "reply_count": 51,
+          "retweet_count": 995
+        },
+        "reply_settings": "everyone",
+        "text": "今日はうまトマWハンバーグ定食を食べました。おいしかったです。 https://t.co/sAc72foRxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "fe_ions"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（2025.4.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 3007,
+          "like_count": 85587,
+          "listed_count": 12,
+          "media_count": 1793,
+          "tweet_count": 14053
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-08T09:34:44.000Z",
+        "description": "猫を飼う犬派の㊚ 毎日料理する一般ピーポー🍳ほぼ自炊🍚",
+        "id": "3491511012",
+        "location": "From Japan",
+        "name": "かぶ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422723874962116610/s88s-2Mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259049,
+          "following_count": 3305,
+          "like_count": 166834,
+          "listed_count": 865,
+          "media_count": 4014,
+          "tweet_count": 26381
+        },
+        "username": "sense_kabu",
+        "verified": true
+      }
+    ]
+  }
+}

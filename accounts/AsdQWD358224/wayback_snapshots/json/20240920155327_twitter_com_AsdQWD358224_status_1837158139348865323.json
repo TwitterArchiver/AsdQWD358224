@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1837106438465884307",
+    "created_at": "2024-09-20T15:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T16:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837158139348865323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4685749051",
+          "start": 0,
+          "username": "ProgressBar202_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837158139348865323",
+    "in_reply_to_user_id": "4685749051",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837106438465884307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProgressBar202_ 求你别发了，哥，一想到在过去的72%的时间我什么都没有做，我就感到心慌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1837106438465884307",
+        "created_at": "2024-09-20T15:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T16:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837158139348865323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4685749051",
+              "start": 0,
+              "username": "ProgressBar202_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837158139348865323",
+        "in_reply_to_user_id": "4685749051",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837106438465884307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProgressBar202_ 求你别发了，哥，一想到在过去的72%的时间我什么都没有做，我就感到心慌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837106434711924736"
+          ]
+        },
+        "author_id": "4685749051",
+        "conversation_id": "1837106438465884307",
+        "created_at": "2024-09-20T12:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T13:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837106438465884307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rc6d2skik8",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ProgressBar202_/status/1837106438465884307/photo/1",
+              "media_key": "3_1837106434711924736",
+              "start": 22,
+              "url": "https://t.co/rc6d2skiK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837106438465884307",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 103377,
+          "like_count": 7859,
+          "quote_count": 97,
+          "reply_count": 46,
+          "retweet_count": 1411
+        },
+        "reply_settings": "everyone",
+        "text": "2024 is 72% complete. https://t.co/rc6d2skiK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 986,
+          "like_count": 1892,
+          "listed_count": 0,
+          "tweet_count": 173
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-31T23:06:47.000Z",
+        "description": "Dividing the year into 100 pieces.",
+        "id": "4685749051",
+        "location": "UTC +0 / GMT",
+        "name": "Progress Bar 2024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741612833756835840/rt33Nc6q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355800,
+          "following_count": 1,
+          "like_count": 81,
+          "listed_count": 1027,
+          "tweet_count": 881
+        },
+        "username": "ProgressBar202_",
+        "verified": true
+      }
+    ]
+  }
+}

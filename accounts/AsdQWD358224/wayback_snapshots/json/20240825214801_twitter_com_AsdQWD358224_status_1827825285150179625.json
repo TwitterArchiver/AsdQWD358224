@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1827821823549210694",
+    "created_at": "2024-08-25T21:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T22:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827825285150179625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "887575245921558529",
+          "start": 0,
+          "username": "Nek0Express"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827825285150179625",
+    "in_reply_to_user_id": "887575245921558529",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827821823549210694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nek0Express 5：47"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1827821823549210694",
+        "created_at": "2024-08-25T21:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T22:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827825285150179625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "887575245921558529",
+              "start": 0,
+              "username": "Nek0Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827825285150179625",
+        "in_reply_to_user_id": "887575245921558529",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827821823549210694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nek0Express 5：47"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827821812212011008"
+          ]
+        },
+        "author_id": "887575245921558529",
+        "conversation_id": "1827821823549210694",
+        "created_at": "2024-08-25T21:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T22:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827821823549210694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l83g7u1n4v",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Nek0Express/status/1827821823549210694/photo/1",
+              "media_key": "3_1827821812212011008",
+              "start": 6,
+              "url": "https://t.co/L83g7U1n4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827821823549210694",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广式小龙爆 https://t.co/L83g7U1n4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "凹敖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 549,
+          "like_count": 1206,
+          "listed_count": 0,
+          "tweet_count": 95
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-19T07:30:03.000Z",
+        "description": "猫娘です/maimaiでらっくす好き/中文EnglishOK！日本語はまあまあですが、まだ勉強しています！/友達が欲しい！",
+        "id": "887575245921558529",
+        "location": "「無音の調和」に満ちた世界",
+        "name": "小星Nek0",
+        "pinned_tweet_id": "1772983632518414675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642087011686436865/NYRpkNke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36622,
+          "following_count": 88,
+          "like_count": 15,
+          "listed_count": 66,
+          "tweet_count": 8700
+        },
+        "username": "Nek0Express",
+        "verified": false
+      }
+    ]
+  }
+}

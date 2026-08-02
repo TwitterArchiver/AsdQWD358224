@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036709197904297984"
+      ],
+      "media_source_tweet_id": [
+        "2036709231978840509"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "2036743931908755766",
+    "created_at": "2026-03-25T09:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T10:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036743931908755766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821614513736781825",
+          "start": 3,
+          "username": "14ManGo1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BbHtt9KMdM",
+          "end": 40,
+          "expanded_url": "https://x.com/14ManGo1/status/2036709231978840509/video/1",
+          "media_key": "13_2036709197904297984",
+          "start": 17,
+          "url": "https://t.co/BbHtt9KMdM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036743931908755766",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036709231978840509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14ManGo1: 27 https://t.co/BbHtt9KMdM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17400,
+        "height": 3508,
+        "media_key": "13_2036709197904297984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036709197904297984/img/GUxyJ3RhmZR2CL50.jpg",
+        "public_metrics": {
+          "view_count": 807
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036709197904297984/vid/avc1/320x452/KpTdir4of-Qlk8u5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036709197904297984/vid/avc1/480x678/gnCSXyf7ljQskY__.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036709197904297984/vid/avc1/720x1018/QoIGQWKL3E30O56_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036709197904297984/pl/SVSXSAvF0CapxgLB.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036709197904297984"
+          ],
+          "media_source_tweet_id": [
+            "2036709231978840509"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2036743931908755766",
+        "created_at": "2026-03-25T09:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036743931908755766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821614513736781825",
+              "start": 3,
+              "username": "14ManGo1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbHtt9KMdM",
+              "end": 40,
+              "expanded_url": "https://x.com/14ManGo1/status/2036709231978840509/video/1",
+              "media_key": "13_2036709197904297984",
+              "start": 17,
+              "url": "https://t.co/BbHtt9KMdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036743931908755766",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036709231978840509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14ManGo1: 27 https://t.co/BbHtt9KMdM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036709197904297984"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2036709231978840509",
+        "created_at": "2026-03-25T07:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036709231978840509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbHtt9KMdM",
+              "end": 26,
+              "expanded_url": "https://x.com/14ManGo1/status/2036709231978840509/video/1",
+              "media_key": "13_2036709197904297984",
+              "start": 3,
+              "url": "https://t.co/BbHtt9KMdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036709231978840509",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1974,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "27 https://t.co/BbHtt9KMdM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/恋爱脑治愈中/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww \n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "calsys456"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656276719665152/czyvKgrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 3037,
+          "like_count": 101380,
+          "listed_count": 14,
+          "media_count": 2267,
+          "tweet_count": 17361
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木M-emo",
+        "pinned_tweet_id": "1581220939135479814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34285,
+          "following_count": 133,
+          "like_count": 345,
+          "listed_count": 114,
+          "media_count": 180,
+          "tweet_count": 381
+        },
+        "username": "14ManGo1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930398103284396033"
+      ],
+      "media_source_tweet_id": [
+        "1930398107457728877"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1930567156825313364",
+    "created_at": "2025-06-05T10:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T11:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930567156825313364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1851121225428582401",
+          "start": 3,
+          "username": "bekonkonkonkon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1hXt2Tvblb",
+          "end": 64,
+          "expanded_url": "https://x.com/bekonkonkonkon/status/1930398107457728877/photo/1",
+          "media_key": "3_1930398103284396033",
+          "start": 41,
+          "url": "https://t.co/1hXt2Tvblb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930567156825313364",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930398107457728877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @bekonkonkonkon: 親子丼\n古古古古古古米はまだ買えてない😆 https://t.co/1hXt2Tvblb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2027,
+        "media_key": "3_1930398103284396033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsom2OVasAESUfW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930398103284396033"
+          ],
+          "media_source_tweet_id": [
+            "1930398107457728877"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1930567156825313364",
+        "created_at": "2025-06-05T10:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T11:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930567156825313364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1851121225428582401",
+              "start": 3,
+              "username": "bekonkonkonkon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hXt2Tvblb",
+              "end": 64,
+              "expanded_url": "https://x.com/bekonkonkonkon/status/1930398107457728877/photo/1",
+              "media_key": "3_1930398103284396033",
+              "start": 41,
+              "url": "https://t.co/1hXt2Tvblb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930567156825313364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930398107457728877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @bekonkonkonkon: 親子丼\n古古古古古古米はまだ買えてない😆 https://t.co/1hXt2Tvblb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930398103284396033"
+          ]
+        },
+        "author_id": "1851121225428582401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1930398107457728877",
+        "created_at": "2025-06-04T22:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T23:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930398107457728877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hXt2Tvblb",
+              "end": 44,
+              "expanded_url": "https://x.com/bekonkonkonkon/status/1930398107457728877/photo/1",
+              "media_key": "3_1930398103284396033",
+              "start": 21,
+              "url": "https://t.co/1hXt2Tvblb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930398107457728877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9424,
+          "like_count": 1283,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 75
+        },
+        "reply_settings": "following",
+        "text": "親子丼\n古古古古古古米はまだ買えてない😆 https://t.co/1hXt2Tvblb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF🏳️‍⚧️/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 3132,
+          "like_count": 92724,
+          "listed_count": 12,
+          "media_count": 1927,
+          "tweet_count": 15218
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T04:38:14.000Z",
+        "description": "ボッチ1人暮らし全部1人で食べる　自分を基準にして食い過ぎとかマヨネーズ付けろやら付けるなとか言って来る奴嫌いｗ🥹元料理人　毎日自炊　物価高の今自分で作る方が圧倒的に安くて旨い😆安い食材で美味しいの食べたい　フォローはお気軽に😚ほぼフォロバします👍",
+        "id": "1851121225428582401",
+        "name": "ベコン",
+        "pinned_tweet_id": "1903596492075770102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854143728111501312/jSfi6X2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5786,
+          "following_count": 4590,
+          "like_count": 85640,
+          "listed_count": 32,
+          "media_count": 129,
+          "tweet_count": 1191
+        },
+        "username": "bekonkonkonkon",
+        "verified": true
+      }
+    ]
+  }
+}

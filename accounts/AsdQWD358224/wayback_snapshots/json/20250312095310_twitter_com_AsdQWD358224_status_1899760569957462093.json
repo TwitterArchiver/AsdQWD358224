@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896964810627276801",
+        "3_1896964820542582785",
+        "3_1896964838321975296",
+        "3_1896964850552655872"
+      ],
+      "media_source_tweet_id": [
+        "1899365675820560492",
+        "1899365675820560492",
+        "1899365675820560492",
+        "1899365675820560492"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1899760569957462093",
+    "created_at": "2025-03-12T09:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T10:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899760569957462093"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "fallen",
+          "probability": 0.5198,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3165209270",
+          "start": 3,
+          "username": "artindetails"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Z2G6nCgAH",
+          "end": 66,
+          "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+          "media_key": "3_1896964810627276801",
+          "start": 43,
+          "url": "https://t.co/4Z2G6nCgAH"
+        },
+        {
+          "display_url": "pic.x.com/4Z2G6nCgAH",
+          "end": 66,
+          "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+          "media_key": "3_1896964820542582785",
+          "start": 43,
+          "url": "https://t.co/4Z2G6nCgAH"
+        },
+        {
+          "display_url": "pic.x.com/4Z2G6nCgAH",
+          "end": 66,
+          "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+          "media_key": "3_1896964838321975296",
+          "start": 43,
+          "url": "https://t.co/4Z2G6nCgAH"
+        },
+        {
+          "display_url": "pic.x.com/4Z2G6nCgAH",
+          "end": 66,
+          "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+          "media_key": "3_1896964850552655872",
+          "start": 43,
+          "url": "https://t.co/4Z2G6nCgAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899760569957462093",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1219
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899365675820560492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artindetails: a trail of fallen beauty https://t.co/4Z2G6nCgAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1896964810627276801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNfcdja4AE__Ym.jpg",
+        "width": 1200
+      },
+      {
+        "height": 750,
+        "media_key": "3_1896964820542582785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNfdCfacAEk0Z_.png",
+        "width": 750
+      },
+      {
+        "height": 562,
+        "media_key": "3_1896964838321975296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNfeEuWcAAQmUf.png",
+        "width": 750
+      },
+      {
+        "height": 1112,
+        "media_key": "3_1896964850552655872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNfeySX0AA2AOL.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896964810627276801",
+            "3_1896964820542582785",
+            "3_1896964838321975296",
+            "3_1896964850552655872"
+          ],
+          "media_source_tweet_id": [
+            "1899365675820560492",
+            "1899365675820560492",
+            "1899365675820560492",
+            "1899365675820560492"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1899760569957462093",
+        "created_at": "2025-03-12T09:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T10:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899760569957462093"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "fallen",
+              "probability": 0.5198,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3165209270",
+              "start": 3,
+              "username": "artindetails"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Z2G6nCgAH",
+              "end": 66,
+              "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+              "media_key": "3_1896964810627276801",
+              "start": 43,
+              "url": "https://t.co/4Z2G6nCgAH"
+            },
+            {
+              "display_url": "pic.x.com/4Z2G6nCgAH",
+              "end": 66,
+              "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+              "media_key": "3_1896964820542582785",
+              "start": 43,
+              "url": "https://t.co/4Z2G6nCgAH"
+            },
+            {
+              "display_url": "pic.x.com/4Z2G6nCgAH",
+              "end": 66,
+              "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+              "media_key": "3_1896964838321975296",
+              "start": 43,
+              "url": "https://t.co/4Z2G6nCgAH"
+            },
+            {
+              "display_url": "pic.x.com/4Z2G6nCgAH",
+              "end": 66,
+              "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+              "media_key": "3_1896964850552655872",
+              "start": 43,
+              "url": "https://t.co/4Z2G6nCgAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899760569957462093",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1219
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899365675820560492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artindetails: a trail of fallen beauty https://t.co/4Z2G6nCgAH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896964810627276801",
+            "3_1896964820542582785",
+            "3_1896964838321975296",
+            "3_1896964850552655872"
+          ]
+        },
+        "author_id": "3165209270",
+        "conversation_id": "1899365675820560492",
+        "created_at": "2025-03-11T07:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T08:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899365675820560492"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "fallen beauty",
+              "probability": 0.5759,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Z2G6nCgAH",
+              "end": 48,
+              "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+              "media_key": "3_1896964810627276801",
+              "start": 25,
+              "url": "https://t.co/4Z2G6nCgAH"
+            },
+            {
+              "display_url": "pic.x.com/4Z2G6nCgAH",
+              "end": 48,
+              "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+              "media_key": "3_1896964820542582785",
+              "start": 25,
+              "url": "https://t.co/4Z2G6nCgAH"
+            },
+            {
+              "display_url": "pic.x.com/4Z2G6nCgAH",
+              "end": 48,
+              "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+              "media_key": "3_1896964838321975296",
+              "start": 25,
+              "url": "https://t.co/4Z2G6nCgAH"
+            },
+            {
+              "display_url": "pic.x.com/4Z2G6nCgAH",
+              "end": 48,
+              "expanded_url": "https://x.com/artindetails/status/1899365675820560492/photo/1",
+              "media_key": "3_1896964850552655872",
+              "start": 25,
+              "url": "https://t.co/4Z2G6nCgAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899365675820560492",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 104535,
+          "like_count": 8257,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 1219
+        },
+        "reply_settings": "everyone",
+        "text": "a trail of fallen beauty https://t.co/4Z2G6nCgAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 2765,
+          "like_count": 68276,
+          "listed_count": 7,
+          "media_count": 1601,
+          "tweet_count": 12259
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-20T11:00:08.000Z",
+        "description": "— Dedicated to the seekers. ☾ @artindetaiIs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "artindetaiIs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/artindetails",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/artindetails",
+                "start": 0,
+                "url": "https://t.co/zRjbVdaeod"
+              }
+            ]
+          }
+        },
+        "id": "3165209270",
+        "name": "ᅠ",
+        "pinned_tweet_id": "1855526307171356767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544503030531248128/HqjYjqEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865754,
+          "following_count": 47,
+          "like_count": 31416,
+          "listed_count": 3918,
+          "media_count": 7265,
+          "tweet_count": 9980
+        },
+        "url": "https://t.co/zRjbVdaeod",
+        "username": "artindetails",
+        "verified": true
+      }
+    ]
+  }
+}

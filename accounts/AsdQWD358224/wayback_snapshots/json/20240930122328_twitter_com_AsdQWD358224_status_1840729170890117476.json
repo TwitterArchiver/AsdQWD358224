@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1840633039543746992",
+    "created_at": "2024-09-30T12:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T13:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840729170890117476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840729170890117476",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840633039543746992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 冲刺！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1840633039543746992",
+        "created_at": "2024-09-30T12:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T13:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840729170890117476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840729170890117476",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840633039543746992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 冲刺！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840633036578443264"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1840633039543746992",
+        "created_at": "2024-09-30T06:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T07:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840633039543746992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/koimktt2rd",
+              "end": 23,
+              "expanded_url": "https://twitter.com/hsn8086/status/1840633039543746992/photo/1",
+              "media_key": "3_1840633036578443264",
+              "start": 0,
+              "url": "https://t.co/KOiMkTT2Rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840633039543746992",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 805,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KOiMkTT2Rd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 1086,
+          "like_count": 2001,
+          "listed_count": 0,
+          "tweet_count": 222
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn!",
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1766387926320214177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3435,
+          "following_count": 867,
+          "like_count": 35556,
+          "listed_count": 10,
+          "tweet_count": 5546
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893372362222936064"
+      ],
+      "media_source_tweet_id": [
+        "1893372819079098708"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1893467831745888504",
+    "created_at": "2025-02-23T01:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T02:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893467831745888504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "734167130053201920",
+          "start": 3,
+          "username": "chefsevenn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j38Wyyrpxs",
+          "end": 39,
+          "expanded_url": "https://x.com/chefsevenn/status/1893372819079098708/photo/1",
+          "media_key": "3_1893372362222936064",
+          "start": 16,
+          "url": "https://t.co/j38Wyyrpxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893467831745888504",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893372819079098708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chefsevenn: https://t.co/j38Wyyrpxs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1893372362222936064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkacIcXXIAANrlF.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893372362222936064"
+          ],
+          "media_source_tweet_id": [
+            "1893372819079098708"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1893467831745888504",
+        "created_at": "2025-02-23T01:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T02:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893467831745888504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "734167130053201920",
+              "start": 3,
+              "username": "chefsevenn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j38Wyyrpxs",
+              "end": 39,
+              "expanded_url": "https://x.com/chefsevenn/status/1893372819079098708/photo/1",
+              "media_key": "3_1893372362222936064",
+              "start": 16,
+              "url": "https://t.co/j38Wyyrpxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893467831745888504",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893372819079098708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chefsevenn: https://t.co/j38Wyyrpxs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893372362222936064"
+          ]
+        },
+        "author_id": "734167130053201920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1893372819079098708",
+        "created_at": "2025-02-22T18:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T19:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893372819079098708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j38Wyyrpxs",
+              "end": 23,
+              "expanded_url": "https://x.com/chefsevenn/status/1893372819079098708/photo/1",
+              "media_key": "3_1893372362222936064",
+              "start": 0,
+              "url": "https://t.co/j38Wyyrpxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893372819079098708",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 12609,
+          "like_count": 739,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j38Wyyrpxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（被教务处赶出学校版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 2639,
+          "like_count": 54509,
+          "listed_count": 7,
+          "media_count": 1354,
+          "tweet_count": 10263
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-21T23:40:58.000Z",
+        "description": "Cooking the way it should be.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/chefsevenn?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/chefsevenn?igsh=MTc5cnJ6c3V5MHUxZQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/TW3wf5x6Ql"
+              }
+            ]
+          }
+        },
+        "id": "734167130053201920",
+        "name": "Chef 👩🏻‍🍳",
+        "pinned_tweet_id": "1881062489024290987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876133301095710720/oWZQPNz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69500,
+          "following_count": 845,
+          "like_count": 3620,
+          "listed_count": 83,
+          "media_count": 335,
+          "tweet_count": 33990
+        },
+        "url": "https://t.co/TW3wf5x6Ql",
+        "username": "chefsevenn",
+        "verified": true
+      }
+    ]
+  }
+}

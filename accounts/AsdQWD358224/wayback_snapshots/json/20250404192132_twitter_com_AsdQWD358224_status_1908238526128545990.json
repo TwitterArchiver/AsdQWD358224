@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1908238526128545990",
+    "created_at": "2025-04-04T19:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T20:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908238526128545990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "486200917",
+          "start": 3,
+          "username": "realJM_victory"
+        },
+        {
+          "end": 35,
+          "id": "44186175",
+          "start": 20,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908238526128545990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908050644356989201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realJM_victory: @xiaojingcanxue 良心商家，西药负责疗效，中药负责安慰剂。这一下子让病人从生理和心理都照顾到了。能想出这办法的医生绝对是好医生，因为他知道你不信西医，你的病难治…其二，能这样下药的医生，想必通晓西医的同时又通晓中医，是全才，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1908238526128545990",
+        "created_at": "2025-04-04T19:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T20:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908238526128545990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "486200917",
+              "start": 3,
+              "username": "realJM_victory"
+            },
+            {
+              "end": 35,
+              "id": "44186175",
+              "start": 20,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908238526128545990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908050644356989201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realJM_victory: @xiaojingcanxue 良心商家，西药负责疗效，中药负责安慰剂。这一下子让病人从生理和心理都照顾到了。能想出这办法的医生绝对是好医生，因为他知道你不信西医，你的病难治…其二，能这样下药的医生，想必通晓西医的同时又通晓中医，是全才，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "486200917",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1908002575577956397",
+        "created_at": "2025-04-04T06:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T07:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908050644356989201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908050644356989201",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12964,
+          "like_count": 378,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908002575577956397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 良心商家，西药负责疗效，中药负责安慰剂。这一下子让病人从生理和心理都照顾到了。能想出这办法的医生绝对是好医生，因为他知道你不信西医，你的病难治…其二，能这样下药的医生，想必通晓西医的同时又通晓中医，是全才，还通晓心理学。这样的人才不多了，还如此通透人性，简直是在世华佗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/+5g版/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "fe_ions"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️❤️❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 2942,
+          "like_count": 82378,
+          "listed_count": 11,
+          "media_count": 1756,
+          "tweet_count": 13796
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-08T01:30:35.000Z",
+        "description": "神说，“要有光。”光就出现了。——创世纪1:3。",
+        "id": "486200917",
+        "location": "Western Australia, Australia",
+        "name": "否极泰来",
+        "pinned_tweet_id": "1858108834797252716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223939057123618819/sTQbaORM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 2717,
+          "like_count": 30068,
+          "listed_count": 10,
+          "media_count": 820,
+          "tweet_count": 19609
+        },
+        "username": "realJM_victory",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232618,
+          "following_count": 1842,
+          "like_count": 190,
+          "listed_count": 1210,
+          "media_count": 25566,
+          "tweet_count": 32725
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

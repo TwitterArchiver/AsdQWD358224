@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937103125418065920",
+        "3_1937103125363544064",
+        "3_1937103125501927424",
+        "3_1937103125334085632"
+      ],
+      "media_source_tweet_id": [
+        "1937103135132340512",
+        "1937103135132340512",
+        "1937103135132340512",
+        "1937103135132340512"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1937373762653184302",
+    "created_at": "2025-06-24T04:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T05:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937373762653184302"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "カプー"
+        },
+        {
+          "end": 55,
+          "start": 49,
+          "tag": "capoo"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "咖波"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1519869093586751488",
+          "start": 3,
+          "username": "bugcat_capoo_tw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jdxuO78Pn1",
+          "end": 83,
+          "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+          "media_key": "3_1937103125418065920",
+          "start": 60,
+          "url": "https://t.co/jdxuO78Pn1"
+        },
+        {
+          "display_url": "pic.x.com/jdxuO78Pn1",
+          "end": 83,
+          "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+          "media_key": "3_1937103125363544064",
+          "start": 60,
+          "url": "https://t.co/jdxuO78Pn1"
+        },
+        {
+          "display_url": "pic.x.com/jdxuO78Pn1",
+          "end": 83,
+          "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+          "media_key": "3_1937103125501927424",
+          "start": 60,
+          "url": "https://t.co/jdxuO78Pn1"
+        },
+        {
+          "display_url": "pic.x.com/jdxuO78Pn1",
+          "end": 83,
+          "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+          "media_key": "3_1937103125334085632",
+          "start": 60,
+          "url": "https://t.co/jdxuO78Pn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937373762653184302",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937103135132340512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bugcat_capoo_tw: Capoo in hong kong❤️\n\n #カプー #capoo #咖波 https://t.co/jdxuO78Pn1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937103125418065920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuH5B4PXwAAYSmW.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937103125363544064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuH5B4CX0AArzrM.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1937103125501927424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuH5B4jXYAAhFc5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937103125334085632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuH5B37WUAA3YdB.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937103125418065920",
+            "3_1937103125363544064",
+            "3_1937103125501927424",
+            "3_1937103125334085632"
+          ],
+          "media_source_tweet_id": [
+            "1937103135132340512",
+            "1937103135132340512",
+            "1937103135132340512",
+            "1937103135132340512"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937373762653184302",
+        "created_at": "2025-06-24T04:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937373762653184302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "カプー"
+            },
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "capoo"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "咖波"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1519869093586751488",
+              "start": 3,
+              "username": "bugcat_capoo_tw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdxuO78Pn1",
+              "end": 83,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+              "media_key": "3_1937103125418065920",
+              "start": 60,
+              "url": "https://t.co/jdxuO78Pn1"
+            },
+            {
+              "display_url": "pic.x.com/jdxuO78Pn1",
+              "end": 83,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+              "media_key": "3_1937103125363544064",
+              "start": 60,
+              "url": "https://t.co/jdxuO78Pn1"
+            },
+            {
+              "display_url": "pic.x.com/jdxuO78Pn1",
+              "end": 83,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+              "media_key": "3_1937103125501927424",
+              "start": 60,
+              "url": "https://t.co/jdxuO78Pn1"
+            },
+            {
+              "display_url": "pic.x.com/jdxuO78Pn1",
+              "end": 83,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+              "media_key": "3_1937103125334085632",
+              "start": 60,
+              "url": "https://t.co/jdxuO78Pn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937373762653184302",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937103135132340512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bugcat_capoo_tw: Capoo in hong kong❤️\n\n #カプー #capoo #咖波 https://t.co/jdxuO78Pn1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937103125418065920",
+            "3_1937103125363544064",
+            "3_1937103125501927424",
+            "3_1937103125334085632"
+          ]
+        },
+        "author_id": "1519869093586751488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937103135132340512",
+        "created_at": "2025-06-23T10:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T11:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937103135132340512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "カプー"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "capoo"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "咖波"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdxuO78Pn1",
+              "end": 62,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+              "media_key": "3_1937103125418065920",
+              "start": 39,
+              "url": "https://t.co/jdxuO78Pn1"
+            },
+            {
+              "display_url": "pic.x.com/jdxuO78Pn1",
+              "end": 62,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+              "media_key": "3_1937103125363544064",
+              "start": 39,
+              "url": "https://t.co/jdxuO78Pn1"
+            },
+            {
+              "display_url": "pic.x.com/jdxuO78Pn1",
+              "end": 62,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+              "media_key": "3_1937103125501927424",
+              "start": 39,
+              "url": "https://t.co/jdxuO78Pn1"
+            },
+            {
+              "display_url": "pic.x.com/jdxuO78Pn1",
+              "end": 62,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1937103135132340512/photo/1",
+              "media_key": "3_1937103125334085632",
+              "start": 39,
+              "url": "https://t.co/jdxuO78Pn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937103135132340512",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 55218,
+          "like_count": 2749,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "Capoo in hong kong❤️\n\n #カプー #capoo #咖波 https://t.co/jdxuO78Pn1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "fe_ions"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 3131,
+          "like_count": 94302,
+          "listed_count": 12,
+          "media_count": 1946,
+          "tweet_count": 15444
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T02:40:18.000Z",
+        "description": "Strange creature that looks like a cat and a bug. From Taiwan.  猫と虫のように見える奇妙な生き物。台湾から",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/capoo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/capoo",
+                "start": 0,
+                "url": "https://t.co/XuFbWWyx7k"
+              }
+            ]
+          }
+        },
+        "id": "1519869093586751488",
+        "location": "Taichung City, Taiwan",
+        "name": "Bugcat Capoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519869339981152257/KbHAyq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110988,
+          "following_count": 69,
+          "like_count": 77,
+          "listed_count": 231,
+          "media_count": 280,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/XuFbWWyx7k",
+        "username": "bugcat_capoo_tw",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892587542614056960"
+      ],
+      "media_source_tweet_id": [
+        "1892587555528286313"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1892636179272520012",
+    "created_at": "2025-02-20T18:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T19:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892636179272520012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "177101260",
+          "start": 3,
+          "username": "Rainmaker1973"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WIuev5bW5W",
+          "end": 61,
+          "expanded_url": "https://x.com/Rainmaker1973/status/1892587555528286313/photo/1",
+          "media_key": "3_1892587542614056960",
+          "start": 38,
+          "url": "https://t.co/WIuev5bW5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892636179272520012",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892587555528286313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainmaker1973: Japanese emoticons https://t.co/WIuev5bW5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 531,
+        "media_key": "3_1892587542614056960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkPSV7fXIAApN3y.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892587542614056960"
+          ],
+          "media_source_tweet_id": [
+            "1892587555528286313"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1892636179272520012",
+        "created_at": "2025-02-20T18:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T19:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892636179272520012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "177101260",
+              "start": 3,
+              "username": "Rainmaker1973"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIuev5bW5W",
+              "end": 61,
+              "expanded_url": "https://x.com/Rainmaker1973/status/1892587555528286313/photo/1",
+              "media_key": "3_1892587542614056960",
+              "start": 38,
+              "url": "https://t.co/WIuev5bW5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892636179272520012",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892587555528286313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainmaker1973: Japanese emoticons https://t.co/WIuev5bW5W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892587542614056960"
+          ]
+        },
+        "author_id": "177101260",
+        "conversation_id": "1892587555528286313",
+        "created_at": "2025-02-20T14:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T15:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892587555528286313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIuev5bW5W",
+              "end": 42,
+              "expanded_url": "https://x.com/Rainmaker1973/status/1892587555528286313/photo/1",
+              "media_key": "3_1892587542614056960",
+              "start": 19,
+              "url": "https://t.co/WIuev5bW5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892587555528286313",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 344,
+          "impression_count": 86908,
+          "like_count": 672,
+          "quote_count": 8,
+          "reply_count": 26,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "Japanese emoticons https://t.co/WIuev5bW5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（被赶出学校版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 2627,
+          "like_count": 53420,
+          "listed_count": 7,
+          "media_count": 1319,
+          "tweet_count": 10038
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-11T07:13:13.000Z",
+        "description": "Engineer. Selecting and curating pictures and videos trying to add context, source and explanation to science, tech, art and weather topics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Rainmaker1973",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Rainmaker1973",
+                "start": 0,
+                "url": "https://t.co/gbBU9j0GwP"
+              }
+            ]
+          }
+        },
+        "id": "177101260",
+        "location": "Italy, North by Northwest",
+        "name": "Massimo",
+        "pinned_tweet_id": "1738536254818443453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370961,
+          "following_count": 155,
+          "like_count": 8585,
+          "listed_count": 16178,
+          "media_count": 171482,
+          "tweet_count": 323165
+        },
+        "url": "https://t.co/gbBU9j0GwP",
+        "username": "Rainmaker1973",
+        "verified": true
+      }
+    ]
+  }
+}

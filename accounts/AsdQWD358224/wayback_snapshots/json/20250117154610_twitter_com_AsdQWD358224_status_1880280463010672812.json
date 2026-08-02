@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "1260987765946109952",
+          "name": "Holistic healing/nutrition"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Healthy Eating",
+          "id": "917859184368009216",
+          "name": "Healthy Eating"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "1260987765946109952",
+          "name": "Holistic healing/nutrition"
+        }
+      }
+    ],
+    "conversation_id": "1880280463010672812",
+    "created_at": "2025-01-17T15:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T16:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880280463010672812"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 81,
+          "tag": "china"
+        },
+        {
+          "end": 100,
+          "start": 88,
+          "tag": "sichuanfood"
+        },
+        {
+          "end": 113,
+          "start": 101,
+          "tag": "chengducity"
+        },
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "food"
+        },
+        {
+          "end": 126,
+          "start": 120,
+          "tag": "local"
+        },
+        {
+          "end": 139,
+          "start": 127,
+          "tag": "healthyfood"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "700723618913742848",
+          "start": 3,
+          "username": "hello_chengdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880280463010672812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1123154985842167808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hello_chengdu: 十二道川菜之椒盐鱼卷、茄汁大虾、三鲜烧什锦、酸汤肥牛🌶️Sichuan Cuisine\n—————————————————\n#china #sichuanfood #chengducity #food #local #healthyfood…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Healthy Eating",
+              "id": "917859184368009216",
+              "name": "Healthy Eating"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          }
+        ],
+        "conversation_id": "1880280463010672812",
+        "created_at": "2025-01-17T15:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880280463010672812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "china"
+            },
+            {
+              "end": 100,
+              "start": 88,
+              "tag": "sichuanfood"
+            },
+            {
+              "end": 113,
+              "start": 101,
+              "tag": "chengducity"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "food"
+            },
+            {
+              "end": 126,
+              "start": 120,
+              "tag": "local"
+            },
+            {
+              "end": 139,
+              "start": 127,
+              "tag": "healthyfood"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "700723618913742848",
+              "start": 3,
+              "username": "hello_chengdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880280463010672812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1123154985842167808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hello_chengdu: 十二道川菜之椒盐鱼卷、茄汁大虾、三鲜烧什锦、酸汤肥牛🌶️Sichuan Cuisine\n—————————————————\n#china #sichuanfood #chengducity #food #local #healthyfood…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1123154954837823489",
+            "3_1123154954821062657",
+            "3_1123154954821066754",
+            "3_1123154954821103616"
+          ]
+        },
+        "author_id": "700723618913742848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Healthy Eating",
+              "id": "917859184368009216",
+              "name": "Healthy Eating"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "description": "China",
+              "id": "855088529113718784",
+              "name": "China"
+            }
+          }
+        ],
+        "conversation_id": "1123154985842167808",
+        "created_at": "2019-04-30T09:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2019-04-30T09:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1123154985842167808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "china"
+            },
+            {
+              "end": 81,
+              "start": 69,
+              "tag": "sichuanfood"
+            },
+            {
+              "end": 94,
+              "start": 82,
+              "tag": "chengducity"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "food"
+            },
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "local"
+            },
+            {
+              "end": 120,
+              "start": 108,
+              "tag": "healthyfood"
+            },
+            {
+              "end": 129,
+              "start": 121,
+              "tag": "musttry"
+            },
+            {
+              "end": 138,
+              "start": 130,
+              "tag": "chengdu"
+            },
+            {
+              "end": 149,
+              "start": 139,
+              "tag": "lifestyle"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "life"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3cpCMtvP7",
+              "end": 179,
+              "expanded_url": "https://x.com/hello_chengdu/status/1123154985842167808/photo/1",
+              "media_key": "3_1123154954837823489",
+              "start": 156,
+              "url": "https://t.co/m3cpCMtvP7"
+            },
+            {
+              "display_url": "pic.x.com/m3cpCMtvP7",
+              "end": 179,
+              "expanded_url": "https://x.com/hello_chengdu/status/1123154985842167808/photo/1",
+              "media_key": "3_1123154954821062657",
+              "start": 156,
+              "url": "https://t.co/m3cpCMtvP7"
+            },
+            {
+              "display_url": "pic.x.com/m3cpCMtvP7",
+              "end": 179,
+              "expanded_url": "https://x.com/hello_chengdu/status/1123154985842167808/photo/1",
+              "media_key": "3_1123154954821066754",
+              "start": 156,
+              "url": "https://t.co/m3cpCMtvP7"
+            },
+            {
+              "display_url": "pic.x.com/m3cpCMtvP7",
+              "end": 179,
+              "expanded_url": "https://x.com/hello_chengdu/status/1123154985842167808/photo/1",
+              "media_key": "3_1123154954821103616",
+              "start": 156,
+              "url": "https://t.co/m3cpCMtvP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1123154985842167808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "十二道川菜之椒盐鱼卷、茄汁大虾、三鲜烧什锦、酸汤肥牛🌶️Sichuan Cuisine\n—————————————————\n#china #sichuanfood #chengducity #food #local #healthyfood #musttry #chengdu #lifestyle #life https://t.co/m3cpCMtvP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 2167,
+          "like_count": 26994,
+          "listed_count": 3,
+          "media_count": 401,
+          "tweet_count": 4905
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-19T16:48:24.000Z",
+        "description": "Explore this city more!",
+        "id": "700723618913742848",
+        "name": "HELLO Chengdu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1217655756197109760/BwGCVF-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5339,
+          "following_count": 134,
+          "like_count": 202,
+          "listed_count": 6,
+          "media_count": 693,
+          "tweet_count": 787
+        },
+        "username": "hello_chengdu",
+        "verified": false
+      }
+    ]
+  }
+}

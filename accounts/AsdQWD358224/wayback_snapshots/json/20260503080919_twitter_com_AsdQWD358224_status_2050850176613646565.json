@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050115970190970880"
+      ],
+      "media_source_tweet_id": [
+        "2050115979095548031"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "2050850176613646565",
+    "created_at": "2026-05-03T08:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050850176613646565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1428645097810374662",
+          "start": 3,
+          "username": "Obama_revival"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fVl6Jv2d5x",
+          "end": 99,
+          "expanded_url": "https://x.com/Obama_revival/status/2050115979095548031/photo/1",
+          "media_key": "3_2050115970190970880",
+          "start": 76,
+          "url": "https://t.co/fVl6Jv2d5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050850176613646565",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1828
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050115979095548031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Obama_revival: Bonne fête des travailleuses et travailleurs mes oomfs ! https://t.co/fVl6Jv2d5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1996,
+        "media_key": "3_2050115970190970880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHN5nOeWkAAt0WM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050115970190970880"
+          ],
+          "media_source_tweet_id": [
+            "2050115979095548031"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2050850176613646565",
+        "created_at": "2026-05-03T08:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050850176613646565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1428645097810374662",
+              "start": 3,
+              "username": "Obama_revival"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVl6Jv2d5x",
+              "end": 99,
+              "expanded_url": "https://x.com/Obama_revival/status/2050115979095548031/photo/1",
+              "media_key": "3_2050115970190970880",
+              "start": 76,
+              "url": "https://t.co/fVl6Jv2d5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050850176613646565",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1828
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050115979095548031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Obama_revival: Bonne fête des travailleuses et travailleurs mes oomfs ! https://t.co/fVl6Jv2d5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050115970190970880"
+          ]
+        },
+        "author_id": "1428645097810374662",
+        "conversation_id": "2050115979095548031",
+        "created_at": "2026-05-01T07:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050115979095548031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVl6Jv2d5x",
+              "end": 80,
+              "expanded_url": "https://x.com/Obama_revival/status/2050115979095548031/photo/1",
+              "media_key": "3_2050115970190970880",
+              "start": 57,
+              "url": "https://t.co/fVl6Jv2d5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050115979095548031",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1889,
+          "impression_count": 376012,
+          "like_count": 12980,
+          "quote_count": 75,
+          "reply_count": 40,
+          "retweet_count": 1828
+        },
+        "reply_settings": "everyone",
+        "text": "Bonne fête des travailleuses et travailleurs mes oomfs ! https://t.co/fVl6Jv2d5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 3024,
+          "like_count": 101608,
+          "listed_count": 14,
+          "media_count": 2292,
+          "tweet_count": 17602
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-20T09:11:11.000Z",
+        "description": "je drive",
+        "id": "1428645097810374662",
+        "location": "tes murs",
+        "name": "赤オバマ🌾🚩",
+        "pinned_tweet_id": "1928186465730580676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950248251686309888/hQnTpLJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 1482,
+          "like_count": 204954,
+          "listed_count": 1,
+          "media_count": 5523,
+          "tweet_count": 54158
+        },
+        "username": "Obama_revival",
+        "verified": false
+      }
+    ]
+  }
+}

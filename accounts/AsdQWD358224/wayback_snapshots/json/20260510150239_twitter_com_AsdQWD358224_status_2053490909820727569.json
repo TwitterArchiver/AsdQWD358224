@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049909210981527552"
+      ],
+      "media_source_tweet_id": [
+        "2049909785957667068"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027963394",
+          "name": "Battlefield"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Battlefield V",
+          "id": "1004425417288085504",
+          "name": "Battlefield V"
+        }
+      }
+    ],
+    "conversation_id": "2053490909820727569",
+    "created_at": "2026-05-10T15:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053490909820727569"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "BFV"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1794401545943162881",
+          "start": 3,
+          "username": "alived0849"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GpTcOz4qTH",
+          "end": 84,
+          "expanded_url": "https://x.com/alived0849/status/2049909785957667068/video/1",
+          "media_key": "13_2049909210981527552",
+          "start": 61,
+          "url": "https://t.co/GpTcOz4qTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053490909820727569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049909785957667068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alived0849: たった280円で買える\"最高峰FPS\"を久しぶりにプレイ！\n\nお前ら全員買え🫵\n#BFV https://t.co/GpTcOz4qTH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81685,
+        "height": 1080,
+        "media_key": "13_2049909210981527552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049909210981527552/img/OQv-HkKU9YK0bPtL.jpg",
+        "public_metrics": {
+          "view_count": 332
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049909210981527552/vid/avc1/480x270/9JeEoEKtOT636mVx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049909210981527552/vid/avc1/640x360/XY7DreMo0sqtIht4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049909210981527552/vid/avc1/1280x720/k5KFm2_CcTw21OAq.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049909210981527552/pl/H0gnfws8rKGoWzHH.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049909210981527552"
+          ],
+          "media_source_tweet_id": [
+            "2049909785957667068"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027963394",
+              "name": "Battlefield"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Battlefield V",
+              "id": "1004425417288085504",
+              "name": "Battlefield V"
+            }
+          }
+        ],
+        "conversation_id": "2053490909820727569",
+        "created_at": "2026-05-10T15:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053490909820727569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "BFV"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1794401545943162881",
+              "start": 3,
+              "username": "alived0849"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpTcOz4qTH",
+              "end": 84,
+              "expanded_url": "https://x.com/alived0849/status/2049909785957667068/video/1",
+              "media_key": "13_2049909210981527552",
+              "start": 61,
+              "url": "https://t.co/GpTcOz4qTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053490909820727569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049909785957667068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alived0849: たった280円で買える\"最高峰FPS\"を久しぶりにプレイ！\n\nお前ら全員買え🫵\n#BFV https://t.co/GpTcOz4qTH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049909210981527552"
+          ]
+        },
+        "author_id": "1794401545943162881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027963394",
+              "name": "Battlefield"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Battlefield V",
+              "id": "1004425417288085504",
+              "name": "Battlefield V"
+            }
+          }
+        ],
+        "conversation_id": "2049909785957667068",
+        "created_at": "2026-04-30T17:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049909785957667068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "BFV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpTcOz4qTH",
+              "end": 68,
+              "expanded_url": "https://x.com/alived0849/status/2049909785957667068/video/1",
+              "media_key": "13_2049909210981527552",
+              "start": 45,
+              "url": "https://t.co/GpTcOz4qTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049909785957667068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 809,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "たった280円で買える\"最高峰FPS\"を久しぶりにプレイ！\n\nお前ら全員買え🫵\n#BFV https://t.co/GpTcOz4qTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 3026,
+          "like_count": 101743,
+          "listed_count": 14,
+          "media_count": 2294,
+          "tweet_count": 17639
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T16:14:17.000Z",
+        "description": "令和のこの時代にBFシリーズメインにいろんなゲームでスナイパーしてます。 Player:@VlCTIMZED\nサブ垢:@Sora_elxsub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "VlCTIMZED"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "Sora_elxsub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@sora_elxxx?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@sora_elxxx?si=Q7DUztytXyZKYAw6",
+                "start": 0,
+                "url": "https://t.co/lPxEbjkLSW"
+              }
+            ]
+          }
+        },
+        "id": "1794401545943162881",
+        "location": "大都会な富山県",
+        "name": "Soraさん",
+        "pinned_tweet_id": "2035707513367384316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013949242033750016/9nMECG9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 470,
+          "like_count": 192342,
+          "listed_count": 0,
+          "media_count": 2653,
+          "tweet_count": 9099
+        },
+        "url": "https://t.co/lPxEbjkLSW",
+        "username": "alived0849",
+        "verified": false
+      }
+    ]
+  }
+}

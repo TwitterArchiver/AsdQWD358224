@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1905198569818124696",
+    "created_at": "2025-03-28T12:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T13:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905605097532653590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224953820716945408",
+          "start": 0,
+          "username": "ChingteLai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905605097532653590",
+    "in_reply_to_user_id": "1224953820716945408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905198569818124696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChingteLai 赖宝可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1905198420182364160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCf3nWa8AAzI7A.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1905198420320714752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCf3n3aAAAjpqM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1905198420350095360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCf3n-aUAAUyUc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1905198420387864576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCf3oHaoAAFFaF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1905198569818124696",
+        "created_at": "2025-03-28T12:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905605097532653590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224953820716945408",
+              "start": 0,
+              "username": "ChingteLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905605097532653590",
+        "in_reply_to_user_id": "1224953820716945408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905198569818124696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChingteLai 赖宝可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905198420182364160",
+            "3_1905198420320714752",
+            "3_1905198420350095360",
+            "3_1905198420387864576"
+          ]
+        },
+        "author_id": "1224953820716945408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1905198569818124696",
+        "created_at": "2025-03-27T10:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905198569818124696"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "of",
+              "probability": 0.4948,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 248,
+              "normalized_text": "Taiwan",
+              "probability": 0.9827,
+              "start": 243,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 249,
+              "start": 242,
+              "tag": "Taiwan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yf8ikcoPlK",
+              "end": 309,
+              "expanded_url": "https://x.com/ChingteLai/status/1905198569818124696/photo/1",
+              "media_key": "3_1905198420182364160",
+              "start": 286,
+              "url": "https://t.co/yf8ikcoPlK"
+            },
+            {
+              "display_url": "pic.x.com/yf8ikcoPlK",
+              "end": 309,
+              "expanded_url": "https://x.com/ChingteLai/status/1905198569818124696/photo/1",
+              "media_key": "3_1905198420320714752",
+              "start": 286,
+              "url": "https://t.co/yf8ikcoPlK"
+            },
+            {
+              "display_url": "pic.x.com/yf8ikcoPlK",
+              "end": 309,
+              "expanded_url": "https://x.com/ChingteLai/status/1905198569818124696/photo/1",
+              "media_key": "3_1905198420350095360",
+              "start": 286,
+              "url": "https://t.co/yf8ikcoPlK"
+            },
+            {
+              "display_url": "pic.x.com/yf8ikcoPlK",
+              "end": 309,
+              "expanded_url": "https://x.com/ChingteLai/status/1905198569818124696/photo/1",
+              "media_key": "3_1905198420387864576",
+              "start": 286,
+              "url": "https://t.co/yf8ikcoPlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905198569818124696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 127384,
+          "like_count": 1857,
+          "quote_count": 14,
+          "reply_count": 323,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "Today our Whole-of-Society Defense Resilience Committee held its first field exercises to enhance all-around coordination &amp; set the stage for the nationwide 2025 Urban Resilience Exercises. When our government &amp; people work together, #Taiwan remains prepared for any challenge. https://t.co/yf8ikcoPlK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/07年17岁/性别是康师傅方便面/人生二周目/喜欢渃灵和卡西欧/成都刷新/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "fe_ions"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 2912,
+          "like_count": 78218,
+          "listed_count": 11,
+          "media_count": 1704,
+          "tweet_count": 13335
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNP8H"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730152721926516736/K-asKS36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362344,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 1088,
+          "media_count": 337,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/jlskvCNP8H",
+        "username": "ChingteLai",
+        "verified": true
+      }
+    ]
+  }
+}

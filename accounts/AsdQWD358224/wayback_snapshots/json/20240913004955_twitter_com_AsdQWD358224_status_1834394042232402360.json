@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1834390537832476835",
+    "created_at": "2024-09-13T00:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T01:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834394042232402360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1038150281794646017",
+          "start": 0,
+          "username": "earthcurated"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834394042232402360",
+    "in_reply_to_user_id": "1038150281794646017",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834390537832476835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@earthcurated 秘鲁-玻利维亚邦联"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1834390537832476835",
+        "created_at": "2024-09-13T00:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T01:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834394042232402360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1038150281794646017",
+              "start": 0,
+              "username": "earthcurated"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834394042232402360",
+        "in_reply_to_user_id": "1038150281794646017",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834390537832476835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@earthcurated 秘鲁-玻利维亚邦联"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834285140534575104"
+          ]
+        },
+        "author_id": "1038150281794646017",
+        "conversation_id": "1834390537832476835",
+        "created_at": "2024-09-13T00:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T01:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834390537832476835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wagzlory3l",
+              "end": 66,
+              "expanded_url": "https://twitter.com/earthcurated/status/1834390537832476835/photo/1",
+              "media_key": "3_1834285140534575104",
+              "start": 43,
+              "url": "https://t.co/wAGzLOrY3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834390537832476835",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3167,
+          "like_count": 23,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "What comes to mind when you think of Peru? https://t.co/wAGzLOrY3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "凹敖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 19,
+          "like_count": 7,
+          "listed_count": 0,
+          "tweet_count": 119
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-07T19:41:29.000Z",
+        "description": "Exploring the most beautiful destinations and sharing inspiration and factual stories from Earth. followed by @elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1038150281794646017",
+        "name": "Earth",
+        "pinned_tweet_id": "1833560980061642762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590966054800564225/3hZ1EhAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479313,
+          "following_count": 48187,
+          "like_count": 34929,
+          "listed_count": 1990,
+          "tweet_count": 8946
+        },
+        "username": "earthcurated",
+        "verified": true
+      }
+    ]
+  }
+}

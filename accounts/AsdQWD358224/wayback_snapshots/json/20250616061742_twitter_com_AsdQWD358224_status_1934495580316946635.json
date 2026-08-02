@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934182189056557056"
+      ],
+      "media_source_tweet_id": [
+        "1934182199915696395"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1934495580316946635",
+    "created_at": "2025-06-16T06:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T07:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934495580316946635"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 14,
+          "tag": "軽い気持ちで描いたら反響があった絵"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "710457539121405954",
+          "start": 3,
+          "username": "boy_illu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJityk6Xoh",
+          "end": 56,
+          "expanded_url": "https://x.com/boy_illu/status/1934182199915696395/photo/1",
+          "media_key": "3_1934182189056557056",
+          "start": 33,
+          "url": "https://t.co/BJityk6Xoh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934495580316946635",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8187
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934182199915696395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boy_illu: #軽い気持ちで描いたら反響があった絵 https://t.co/BJityk6Xoh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1103,
+        "media_key": "3_1934182189056557056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GteYdAWagAAo9n_.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934182189056557056"
+          ],
+          "media_source_tweet_id": [
+            "1934182199915696395"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1934495580316946635",
+        "created_at": "2025-06-16T06:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T07:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934495580316946635"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 14,
+              "tag": "軽い気持ちで描いたら反響があった絵"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "710457539121405954",
+              "start": 3,
+              "username": "boy_illu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJityk6Xoh",
+              "end": 56,
+              "expanded_url": "https://x.com/boy_illu/status/1934182199915696395/photo/1",
+              "media_key": "3_1934182189056557056",
+              "start": 33,
+              "url": "https://t.co/BJityk6Xoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934495580316946635",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8187
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934182199915696395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boy_illu: #軽い気持ちで描いたら反響があった絵 https://t.co/BJityk6Xoh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934182189056557056"
+          ]
+        },
+        "author_id": "710457539121405954",
+        "conversation_id": "1934182199915696395",
+        "created_at": "2025-06-15T09:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T10:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934182199915696395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "軽い気持ちで描いたら反響があった絵"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJityk6Xoh",
+              "end": 42,
+              "expanded_url": "https://x.com/boy_illu/status/1934182199915696395/photo/1",
+              "media_key": "3_1934182189056557056",
+              "start": 19,
+              "url": "https://t.co/BJityk6Xoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934182199915696395",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6168,
+          "impression_count": 1928069,
+          "like_count": 85891,
+          "quote_count": 115,
+          "reply_count": 90,
+          "retweet_count": 8187
+        },
+        "reply_settings": "everyone",
+        "text": "#軽い気持ちで描いたら反響があった絵 https://t.co/BJityk6Xoh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "username": "fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 3132,
+          "like_count": 93583,
+          "listed_count": 12,
+          "media_count": 1945,
+          "tweet_count": 15338
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-17T13:27:31.000Z",
+        "description": "ロボット、SF、女の子などが好きな2001年生まれのお絵描きマンです。 skeb再開しました https://t.co/wCS7qUHNne お仕事募集中！！！！！です メールアドレス mikan.11618@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@boy_illu",
+                "end": 70,
+                "expanded_url": "https://skeb.jp/@boy_illu",
+                "start": 47,
+                "url": "https://t.co/wCS7qUHNne"
+              }
+            ]
+          }
+        },
+        "id": "710457539121405954",
+        "location": "お布団",
+        "name": "三上レモン C106 日 南地区o09b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651337267586428928/ClrXfSlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12124,
+          "following_count": 980,
+          "like_count": 110874,
+          "listed_count": 137,
+          "media_count": 595,
+          "tweet_count": 19460
+        },
+        "username": "boy_illu",
+        "verified": false
+      }
+    ]
+  }
+}

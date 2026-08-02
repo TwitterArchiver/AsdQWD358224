@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047482904423600128"
+      ],
+      "media_source_tweet_id": [
+        "2047483170313129999"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "GPS & Maps",
+          "id": "1037076248877395968",
+          "name": "GPS and maps"
+        }
+      }
+    ],
+    "conversation_id": "2047652226911567999",
+    "created_at": "2026-04-24T12:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047652226911567999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "134716312",
+          "start": 3,
+          "username": "YamayaT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/elpwc/status/2…",
+          "end": 45,
+          "expanded_url": "https://x.com/elpwc/status/2047295692507656665",
+          "start": 22,
+          "url": "https://t.co/FMyVAcVZqK"
+        },
+        {
+          "display_url": "pic.x.com/wh7Md6HMeT",
+          "end": 69,
+          "expanded_url": "https://x.com/YamayaT/status/2047483170313129999/photo/1",
+          "media_key": "3_2047482904423600128",
+          "start": 46,
+          "url": "https://t.co/wh7Md6HMeT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047652226911567999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047483170313129999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YamayaT: BIG板桥@昆明\nhttps://t.co/FMyVAcVZqK https://t.co/wh7Md6HMeT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2047482904423600128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoe2oHakAAfTU_.jpg",
+        "width": 1217
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047482904423600128"
+          ],
+          "media_source_tweet_id": [
+            "2047483170313129999"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "2047652226911567999",
+        "created_at": "2026-04-24T12:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047652226911567999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "134716312",
+              "start": 3,
+              "username": "YamayaT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/elpwc/status/2…",
+              "end": 45,
+              "expanded_url": "https://x.com/elpwc/status/2047295692507656665",
+              "start": 22,
+              "url": "https://t.co/FMyVAcVZqK"
+            },
+            {
+              "display_url": "pic.x.com/wh7Md6HMeT",
+              "end": 69,
+              "expanded_url": "https://x.com/YamayaT/status/2047483170313129999/photo/1",
+              "media_key": "3_2047482904423600128",
+              "start": 46,
+              "url": "https://t.co/wh7Md6HMeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047652226911567999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047483170313129999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YamayaT: BIG板桥@昆明\nhttps://t.co/FMyVAcVZqK https://t.co/wh7Md6HMeT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047482904423600128"
+          ]
+        },
+        "author_id": "134716312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "2047483170313129999",
+        "created_at": "2026-04-24T01:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047483170313129999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elpwc/status/2…",
+              "end": 32,
+              "expanded_url": "https://x.com/elpwc/status/2047295692507656665",
+              "start": 9,
+              "url": "https://t.co/FMyVAcVZqK"
+            },
+            {
+              "display_url": "pic.x.com/wh7Md6HMeT",
+              "end": 56,
+              "expanded_url": "https://x.com/YamayaT/status/2047483170313129999/photo/1",
+              "media_key": "3_2047482904423600128",
+              "start": 33,
+              "url": "https://t.co/wh7Md6HMeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047483170313129999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 30730,
+          "like_count": 336,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047295692507656665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BIG板桥@昆明\nhttps://t.co/FMyVAcVZqK https://t.co/wh7Md6HMeT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 3027,
+          "like_count": 101543,
+          "listed_count": 14,
+          "media_count": 2289,
+          "tweet_count": 17569
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-19T07:12:50.000Z",
+        "description": "2002年よりライターやってます。中国IT系トレンド系紹介の連載ほか『異国飯100倍お楽しみマニュアル』『中国のインターネット史（共に星海社）』など本数冊出版。記事は #山谷剛史記事 。Huawei,36krのTWの中の人。お仕事依頼は dtgoshi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "山谷剛史記事"
+              }
+            ]
+          }
+        },
+        "id": "134716312",
+        "location": "雲南省🐘→日本",
+        "name": "山谷剛史　アジア中国ITライター＆異国飯",
+        "pinned_tweet_id": "2047247279678169508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043466806443294721/QsmHp_rS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49633,
+          "following_count": 992,
+          "like_count": 51137,
+          "listed_count": 1022,
+          "media_count": 60653,
+          "tweet_count": 341158
+        },
+        "username": "YamayaT",
+        "verified": true
+      }
+    ]
+  }
+}

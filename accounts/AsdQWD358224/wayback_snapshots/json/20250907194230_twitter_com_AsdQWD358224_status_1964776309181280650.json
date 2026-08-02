@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1964740075964760369",
+    "created_at": "2025-09-07T19:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T20:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964776309181280650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "518878004",
+          "start": 0,
+          "username": "wowlfackyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964776309181280650",
+    "in_reply_to_user_id": "518878004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964772291776258496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wowlfackyou 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1964740075964760369",
+        "created_at": "2025-09-07T19:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T20:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964776309181280650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "518878004",
+              "start": 0,
+              "username": "wowlfackyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964776309181280650",
+        "in_reply_to_user_id": "518878004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964772291776258496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowlfackyou 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "518878004",
+        "conversation_id": "1964740075964760369",
+        "created_at": "2025-09-07T19:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T20:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964772291776258496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964772291776258496",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964740075964760369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 抱歉推油，我只能看出来这么多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/无政治倾向/❤️    \n@Caroline_9870   ❤️\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 3136,
+          "like_count": 99477,
+          "listed_count": 12,
+          "media_count": 2062,
+          "tweet_count": 16168
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-08T21:07:38.000Z",
+        "description": "I must be the……,have a guess.",
+        "id": "518878004",
+        "location": "China",
+        "name": "motahacuto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960666335094169603/hEz_5Rb-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 31,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "username": "wowlfackyou",
+        "verified": false
+      }
+    ]
+  }
+}

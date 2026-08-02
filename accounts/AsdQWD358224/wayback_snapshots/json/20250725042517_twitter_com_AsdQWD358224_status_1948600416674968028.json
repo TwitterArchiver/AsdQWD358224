@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948345521338531840"
+      ],
+      "media_source_tweet_id": [
+        "1948345524169408791"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1948600416674968028",
+    "created_at": "2025-07-25T04:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T05:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948600416674968028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1638893284218261504",
+          "start": 3,
+          "username": "Benzyl_titanium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JbH3CwSavM",
+          "end": 59,
+          "expanded_url": "https://x.com/Benzyl_titanium/status/1948345524169408791/photo/1",
+          "media_key": "3_1948345521338531840",
+          "start": 36,
+          "url": "https://t.co/JbH3CwSavM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948600416674968028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948345524169408791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Benzyl_titanium: 专注达姐姐击败了ADHD妹妹 https://t.co/JbH3CwSavM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_1948345521338531840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwnp7csbQAAcT97.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948345521338531840"
+          ],
+          "media_source_tweet_id": [
+            "1948345524169408791"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1948600416674968028",
+        "created_at": "2025-07-25T04:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948600416674968028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1638893284218261504",
+              "start": 3,
+              "username": "Benzyl_titanium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbH3CwSavM",
+              "end": 59,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1948345524169408791/photo/1",
+              "media_key": "3_1948345521338531840",
+              "start": 36,
+              "url": "https://t.co/JbH3CwSavM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948600416674968028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948345524169408791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Benzyl_titanium: 专注达姐姐击败了ADHD妹妹 https://t.co/JbH3CwSavM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948345521338531840"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1948345524169408791",
+        "created_at": "2025-07-24T11:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948345524169408791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbH3CwSavM",
+              "end": 38,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1948345524169408791/photo/1",
+              "media_key": "3_1948345521338531840",
+              "start": 15,
+              "url": "https://t.co/JbH3CwSavM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948345524169408791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 15427,
+          "like_count": 391,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "专注达姐姐击败了ADHD妹妹 https://t.co/JbH3CwSavM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fe_ions"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气system.（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 3117,
+          "like_count": 96620,
+          "listed_count": 12,
+          "media_count": 1999,
+          "tweet_count": 15725
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计 https://t.co/avoL4bMrR2 @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Benzyl-titanium.top",
+                "end": 130,
+                "expanded_url": "https://www.Benzyl-titanium.top",
+                "start": 107,
+                "url": "https://t.co/avoL4bMrR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Benzyl-titanium",
+                "end": 23,
+                "expanded_url": "https://github.com/Benzyl-titanium",
+                "start": 0,
+                "url": "https://t.co/TYSAJHRX5k"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 521,
+          "like_count": 8250,
+          "listed_count": 6,
+          "media_count": 342,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/TYSAJHRX5k",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

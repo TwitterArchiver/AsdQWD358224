@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1880265127653700096",
+    "created_at": "2025-01-17T14:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880265127653700096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667565707389992960",
+          "start": 3,
+          "username": "lineneny"
+        },
+        {
+          "end": 27,
+          "id": "1757944489346568192",
+          "start": 14,
+          "username": "shaoguanwai2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880265127653700096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880247920576127230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lineneny: @shaoguanwai2 看见表情包不偷的是这个👍👍👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1880265127653700096",
+        "created_at": "2025-01-17T14:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880265127653700096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667565707389992960",
+              "start": 3,
+              "username": "lineneny"
+            },
+            {
+              "end": 27,
+              "id": "1757944489346568192",
+              "start": 14,
+              "username": "shaoguanwai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880265127653700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880247920576127230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lineneny: @shaoguanwai2 看见表情包不偷的是这个👍👍👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667565707389992960",
+        "conversation_id": "1880241686837883188",
+        "created_at": "2025-01-17T13:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T14:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880247920576127230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1757944489346568192",
+              "start": 0,
+              "username": "shaoguanwai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880247920576127230",
+        "in_reply_to_user_id": "1757944489346568192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880241686837883188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoguanwai2 看见表情包不偷的是这个👍👍👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 2166,
+          "like_count": 26931,
+          "listed_count": 3,
+          "media_count": 400,
+          "tweet_count": 4881
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T16:13:58.000Z",
+        "description": "人人都不看好我，偏偏我也不争气，人人都笑话我，偏偏我也最好笑，人人都欺负我，偏偏我也最好欺负，人人都骂我，偏偏我也不是什么好东西，人人都说是金子总会发光，偏偏我是胖猫，我不要发光，我要吃麦当劳",
+        "id": "1667565707389992960",
+        "location": "-0.1m",
+        "name": "⁺✞ʚ 浮游生物重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1861017506871398604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876914096559587328/ZoLKlm-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 148,
+          "like_count": 6111,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 3354
+        },
+        "username": "lineneny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T01:47:49.000Z",
+        "description": "一些碎碎念 一些奇奇怪怪的文案 提问箱 https://t.co/hcNRO2Dip0 希望大家一切顺利天天开心 不加v不闲聊不接推广 喜欢我可以给我打钱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oiiiii36411",
+                "end": 43,
+                "expanded_url": "https://ngl.link/oiiiii36411",
+                "start": 20,
+                "url": "https://t.co/hcNRO2Dip0"
+              }
+            ]
+          }
+        },
+        "id": "1757944489346568192",
+        "location": "随便",
+        "name": "Oiiiii",
+        "pinned_tweet_id": "1868580766978130347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875547046725480449/wgthGEHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6818,
+          "following_count": 154,
+          "like_count": 15663,
+          "listed_count": 10,
+          "media_count": 795,
+          "tweet_count": 11510
+        },
+        "username": "shaoguanwai2",
+        "verified": false
+      }
+    ]
+  }
+}

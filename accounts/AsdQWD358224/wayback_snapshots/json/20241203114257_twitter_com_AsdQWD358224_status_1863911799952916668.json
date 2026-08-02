@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1863896287919165787",
+    "created_at": "2024-12-03T11:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T12:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863911799952916668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759609422777577472",
+          "start": 0,
+          "username": "liuying_021464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863911799952916668",
+    "in_reply_to_user_id": "1759609422777577472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863896287919165787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuying_021464 爱你宝宝(๑˙❥˙๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1863896287919165787",
+        "created_at": "2024-12-03T11:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T12:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863911799952916668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759609422777577472",
+              "start": 0,
+              "username": "liuying_021464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863911799952916668",
+        "in_reply_to_user_id": "1759609422777577472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863896287919165787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuying_021464 爱你宝宝(๑˙❥˙๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759609422777577472",
+        "conversation_id": "1863896287919165787",
+        "created_at": "2024-12-03T10:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T11:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863896287919165787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863896287919165787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好喜欢你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 1706,
+          "like_count": 4284,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 941
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T16:03:02.000Z",
+        "description": "能找到的，属于你我的梦│想要温柔对待所有人呢~（除政治讨论）│非二元性别建构探索中",
+        "id": "1759609422777577472",
+        "location": "格拉默共和国（？）",
+        "name": "流萤",
+        "pinned_tweet_id": "1862427919315845531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862371655919566848/CniqSHpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1230,
+          "like_count": 31354,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 12227
+        },
+        "username": "liuying_021464",
+        "verified": false
+      }
+    ]
+  }
+}

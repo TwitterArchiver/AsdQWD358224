@@ -1,0 +1,552 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030278256826744832",
+        "3_2030278257040617473"
+      ],
+      "media_source_tweet_id": [
+        "2030278261998330156",
+        "2030278261998330156"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2030293911999316162",
+    "created_at": "2026-03-07T14:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030293911999316162"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "Tighnari"
+        },
+        {
+          "end": 57,
+          "start": 43,
+          "tag": "GenshinImpact"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662751672584769536",
+          "start": 3,
+          "username": "kitagawa_ti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n1AFi8xsL0",
+          "end": 81,
+          "expanded_url": "https://x.com/kitagawa_ti/status/2030278261998330156/photo/1",
+          "media_key": "3_2030278256826744832",
+          "start": 58,
+          "url": "https://t.co/n1AFi8xsL0"
+        },
+        {
+          "display_url": "pic.x.com/n1AFi8xsL0",
+          "end": 81,
+          "expanded_url": "https://x.com/kitagawa_ti/status/2030278261998330156/photo/1",
+          "media_key": "3_2030278257040617473",
+          "start": 58,
+          "url": "https://t.co/n1AFi8xsL0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030293911999316162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030278261998330156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitagawa_ti: コラボ衣装たち (再掲)\n\n #Tighnari  #GenshinImpact https://t.co/n1AFi8xsL0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2030278256826744832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz_UVVbgAANvBy.jpg",
+        "width": 959
+      },
+      {
+        "height": 963,
+        "media_key": "3_2030278257040617473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz_UWIa8AE6MaL.jpg",
+        "width": 757
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030278256826744832",
+            "3_2030278257040617473"
+          ],
+          "media_source_tweet_id": [
+            "2030278261998330156",
+            "2030278261998330156"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2030293911999316162",
+        "created_at": "2026-03-07T14:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030293911999316162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "Tighnari"
+            },
+            {
+              "end": 57,
+              "start": 43,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662751672584769536",
+              "start": 3,
+              "username": "kitagawa_ti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1AFi8xsL0",
+              "end": 81,
+              "expanded_url": "https://x.com/kitagawa_ti/status/2030278261998330156/photo/1",
+              "media_key": "3_2030278256826744832",
+              "start": 58,
+              "url": "https://t.co/n1AFi8xsL0"
+            },
+            {
+              "display_url": "pic.x.com/n1AFi8xsL0",
+              "end": 81,
+              "expanded_url": "https://x.com/kitagawa_ti/status/2030278261998330156/photo/1",
+              "media_key": "3_2030278257040617473",
+              "start": 58,
+              "url": "https://t.co/n1AFi8xsL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030293911999316162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030278261998330156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitagawa_ti: コラボ衣装たち (再掲)\n\n #Tighnari  #GenshinImpact https://t.co/n1AFi8xsL0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030278256826744832",
+            "3_2030278257040617473"
+          ]
+        },
+        "author_id": "1662751672584769536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2030278261998330156",
+        "created_at": "2026-03-07T13:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030278261998330156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "Tighnari"
+            },
+            {
+              "end": 40,
+              "start": 26,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1AFi8xsL0",
+              "end": 64,
+              "expanded_url": "https://x.com/kitagawa_ti/status/2030278261998330156/photo/1",
+              "media_key": "3_2030278256826744832",
+              "start": 41,
+              "url": "https://t.co/n1AFi8xsL0"
+            },
+            {
+              "display_url": "pic.x.com/n1AFi8xsL0",
+              "end": 64,
+              "expanded_url": "https://x.com/kitagawa_ti/status/2030278261998330156/photo/1",
+              "media_key": "3_2030278257040617473",
+              "start": 41,
+              "url": "https://t.co/n1AFi8xsL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030278261998330156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 158,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "コラボ衣装たち (再掲)\n\n #Tighnari  #GenshinImpact https://t.co/n1AFi8xsL0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/恋爱脑治愈中/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww \n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "calsys456"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656276719665152/czyvKgrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 3046,
+          "like_count": 101053,
+          "listed_count": 14,
+          "media_count": 2257,
+          "tweet_count": 17183
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T09:24:34.000Z",
+        "description": "18￤好きなものを描きます🌼/3L◎/Skeb→https://t.co/FGSvr5TgYa 他何かありましたらDMまで✉️🕊️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kitagawa_ti",
+                "end": 47,
+                "expanded_url": "http://skeb.jp/@kitagawa_ti",
+                "start": 24,
+                "url": "https://t.co/FGSvr5TgYa"
+              }
+            ]
+          }
+        },
+        "id": "1662751672584769536",
+        "location": "転載、AI学習、使用禁止",
+        "name": "北側",
+        "pinned_tweet_id": "2009556455247241508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883850924608917504/sjqg9K9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 50,
+          "like_count": 6653,
+          "listed_count": 16,
+          "media_count": 155,
+          "tweet_count": 982
+        },
+        "username": "kitagawa_ti",
+        "verified": false
+      }
+    ]
+  }
+}

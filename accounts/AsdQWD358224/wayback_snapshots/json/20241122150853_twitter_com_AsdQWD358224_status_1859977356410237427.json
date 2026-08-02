@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1859974303942615499",
+    "created_at": "2024-11-22T15:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T16:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859977356410237427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671285339523280896",
+          "start": 0,
+          "username": "isaacz_san"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859977356410237427",
+    "in_reply_to_user_id": "1671285339523280896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859974303942615499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isaacz_san 请问一下有无中文字幕？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1859974303942615499",
+        "created_at": "2024-11-22T15:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T16:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859977356410237427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671285339523280896",
+              "start": 0,
+              "username": "isaacz_san"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859977356410237427",
+        "in_reply_to_user_id": "1671285339523280896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859974303942615499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isaacz_san 请问一下有无中文字幕？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859974131242180608"
+          ]
+        },
+        "author_id": "1671285339523280896",
+        "conversation_id": "1859974303942615499",
+        "created_at": "2024-11-22T14:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T15:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859974303942615499"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "HoI4",
+              "probability": 0.2406,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WGHVSrRd3",
+              "end": 79,
+              "expanded_url": "https://x.com/isaacz_san/status/1859974303942615499/photo/1",
+              "media_key": "3_1859974131242180608",
+              "start": 56,
+              "url": "https://t.co/2WGHVSrRd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859974303942615499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1392,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "HoI4の動画は日曜日に投稿が延期になりそうです！すみません！もう少しだけお待ちいただけますと幸いです...! https://t.co/2WGHVSrRd3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1611,
+          "like_count": 3433,
+          "listed_count": 0,
+          "tweet_count": 716
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T22:34:22.000Z",
+        "description": "YouTubeでゆっくり実況しています(登録者35万人) \nお仕事などの重要な連絡がある方はチャンネルに記載されたGmailにまで。\nXのDMで連絡したい場合はまずはリプライでご連絡を。\nYouTube :https://t.co/1ANN57dpgA\n絵師様:@mebarumss\nFAタグ:#Z倉庫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "Z倉庫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "mebarumss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@IsaacZ",
+                "end": 126,
+                "expanded_url": "https://www.youtube.com/@IsaacZ",
+                "start": 103,
+                "url": "https://t.co/1ANN57dpgA"
+              }
+            ]
+          }
+        },
+        "id": "1671285339523280896",
+        "location": "塹壕",
+        "name": "アイザックZ@ゆっくり実況者-35万人",
+        "pinned_tweet_id": "1677989005076623362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675101656814600193/HLukjrav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15451,
+          "following_count": 71,
+          "like_count": 3811,
+          "listed_count": 29,
+          "tweet_count": 2001
+        },
+        "username": "isaacz_san",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1893163052914343972",
+    "created_at": "2025-02-22T08:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T09:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893212690690253195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863807953108897792",
+          "start": 0,
+          "username": "A_SadDeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893212690690253195",
+    "in_reply_to_user_id": "1863807953108897792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893163052914343972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_SadDeer 只有活着才能逐渐改变自己现在的生存状态"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1893163052914343972].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1893163052914343972",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1893163052914343972"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1893163052914343972",
+        "created_at": "2025-02-22T08:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T09:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893212690690253195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863807953108897792",
+              "start": 0,
+              "username": "A_SadDeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893212690690253195",
+        "in_reply_to_user_id": "1863807953108897792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893163052914343972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_SadDeer 只有活着才能逐渐改变自己现在的生存状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（被教务处赶出学校版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 2637,
+          "like_count": 54212,
+          "listed_count": 7,
+          "media_count": 1343,
+          "tweet_count": 10214
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T04:50:34.000Z",
+        "description": "这里是🦌的小号/里推 ⚠️另一个小鹿：无底线发癫/涉及政治/负能量警告 本账号私信功能仅用于大号的记事板 我将不会回复任何发给此帐号的私信内容｜日常内容/交流请移步大号@KoJikaXiaoLu_｜“无须在意我 只是有点不太开心”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "KoJikaXiaoLu_"
+              }
+            ]
+          }
+        },
+        "id": "1863807953108897792",
+        "location": "中华人民共和国",
+        "name": "-小鹿-🦌",
+        "pinned_tweet_id": "1880476550824620428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893001401434882048/1WSpZLQZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 126,
+          "like_count": 532,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 179
+        },
+        "username": "A_SadDeer",
+        "verified": false
+      }
+    ]
+  }
+}

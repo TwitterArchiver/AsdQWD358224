@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1986222406248337495",
+    "created_at": "2025-11-06T15:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T16:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986454686887780828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791762241706205184",
+          "start": 0,
+          "username": "datasuki_intj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986454686887780828",
+    "in_reply_to_user_id": "1791762241706205184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986222406248337495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@datasuki_intj 你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界冒险游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1986222406248337495",
+        "created_at": "2025-11-06T15:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986454686887780828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791762241706205184",
+              "start": 0,
+              "username": "datasuki_intj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986454686887780828",
+        "in_reply_to_user_id": "1791762241706205184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986222406248337495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@datasuki_intj 你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界冒险游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791762241706205184",
+        "conversation_id": "1986222406248337495",
+        "created_at": "2025-11-06T00:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T01:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986222406248337495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guts_1997/stat…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/guts_1997/status/1986048918862627224",
+              "start": 70,
+              "url": "https://t.co/Gc2suak8Ig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986222406248337495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 38678,
+          "like_count": 250,
+          "quote_count": 2,
+          "reply_count": 141,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986048918862627224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终有一天中国军队会在日本本土拆除这座塔，把所有的砖石运回国。\n与此同时，把靖国神社夷为平地，木头烧成炭，金属炼成一枚新的玺印赐给日本天皇。 https://t.co/Gc2suak8Ig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/多边关系/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️\n/秋分在线中/我绝对是健全人/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "calsys456"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "fe_ions"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 3129,
+          "like_count": 100310,
+          "listed_count": 12,
+          "media_count": 2158,
+          "tweet_count": 16606
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T09:27:00.000Z",
+        "description": "A multilingual 🇨🇳🇺🇸🇯🇵🇰🇷 INTJ working with data. A polyglot in progress. Write stories for fun. I treat people the way they deserve.",
+        "id": "1791762241706205184",
+        "location": "World",
+        "name": "Herlock",
+        "pinned_tweet_id": "1986379647328935961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925570024032673795/MCj-2eAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 80,
+          "like_count": 12315,
+          "listed_count": 48,
+          "media_count": 442,
+          "tweet_count": 8238
+        },
+        "username": "datasuki_intj",
+        "verified": false
+      }
+    ]
+  }
+}

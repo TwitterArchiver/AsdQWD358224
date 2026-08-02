@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1883077273588474273",
+    "created_at": "2025-01-25T10:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T11:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883093401807294587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860241233878351872",
+          "start": 0,
+          "username": "TiSaTo1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883093401807294587",
+    "in_reply_to_user_id": "1860241233878351872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883080820833099968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiSaTo1234 表达了作者的无奈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1883077273588474273",
+        "created_at": "2025-01-25T10:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T11:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883093401807294587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860241233878351872",
+              "start": 0,
+              "username": "TiSaTo1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883093401807294587",
+        "in_reply_to_user_id": "1860241233878351872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883080820833099968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiSaTo1234 表达了作者的无奈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860241233878351872",
+        "conversation_id": "1883077273588474273",
+        "created_at": "2025-01-25T09:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T10:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883080820833099968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883080820833099968",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883077273588474273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 語文試卷：請問此處的“扔”有什麼效果🤓👆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 2328,
+          "like_count": 35170,
+          "listed_count": 5,
+          "media_count": 623,
+          "tweet_count": 6514
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T08:37:37.000Z",
+        "description": "こんにちは！うちは日本語勉強中だ。２次元とパソコンゲームとテレビゲーム好き。🥰特にペルソナ５とresident evil4（2023）大好きだあ。🤓👆ぜひ私とお話しに来てください！🥰 telegram:@TiSaTo   Line:tisatoda",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 101,
+                "username": "TiSaTo"
+              }
+            ]
+          }
+        },
+        "id": "1860241233878351872",
+        "location": "Illinois, USA",
+        "name": "SaTo Ti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860241283215949827/JVDrM_V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 195
+        },
+        "username": "TiSaTo1234",
+        "verified": false
+      }
+    ]
+  }
+}

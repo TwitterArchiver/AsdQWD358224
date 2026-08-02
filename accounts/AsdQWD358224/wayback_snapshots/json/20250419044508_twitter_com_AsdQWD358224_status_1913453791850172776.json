@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1912742460834607476",
+    "created_at": "2025-04-19T04:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T05:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913453791850172776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224953820716945408",
+          "start": 0,
+          "username": "ChingteLai"
+        },
+        {
+          "end": 26,
+          "id": "2842312937",
+          "start": 12,
+          "username": "stuartsmithmp"
+        },
+        {
+          "end": 34,
+          "id": "459049208",
+          "start": 27,
+          "username": "TangiU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913453791850172776",
+    "in_reply_to_user_id": "1224953820716945408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912742460834607476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChingteLai @stuartsmithmp @TangiU 要个互fo喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1912742350520217600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GottCJ2acAAzvyt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1912742380320788480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GottD43bEAAt0ch.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1912742380870242304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GottD66bEAAOA2O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1912742398922485761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GottE-KacAEc_q8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1912742460834607476",
+        "created_at": "2025-04-19T04:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T05:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913453791850172776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224953820716945408",
+              "start": 0,
+              "username": "ChingteLai"
+            },
+            {
+              "end": 26,
+              "id": "2842312937",
+              "start": 12,
+              "username": "stuartsmithmp"
+            },
+            {
+              "end": 34,
+              "id": "459049208",
+              "start": 27,
+              "username": "TangiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913453791850172776",
+        "in_reply_to_user_id": "1224953820716945408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912742460834607476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChingteLai @stuartsmithmp @TangiU 要个互fo喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912742350520217600",
+            "3_1912742380320788480",
+            "3_1912742380870242304",
+            "3_1912742398922485761"
+          ]
+        },
+        "author_id": "1224953820716945408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Energy Technology",
+              "id": "898654185146560512",
+              "name": "Energy Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1912742460834607476",
+        "created_at": "2025-04-17T05:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T06:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912742460834607476"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Kia",
+              "probability": 0.4725,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 25,
+              "normalized_text": "NewZealand",
+              "probability": 0.3833,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 146,
+              "normalized_text": "Taiwan",
+              "probability": 0.9833,
+              "start": 141,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "NewZealand"
+            },
+            {
+              "end": 147,
+              "start": 140,
+              "tag": "Taiwan"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 85,
+              "id": "2842312937",
+              "start": 71,
+              "username": "stuartsmithmp"
+            },
+            {
+              "end": 99,
+              "id": "459049208",
+              "start": 92,
+              "username": "TangiU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vt0lnLx758",
+              "end": 314,
+              "expanded_url": "https://x.com/ChingteLai/status/1912742460834607476/photo/1",
+              "media_key": "3_1912742350520217600",
+              "start": 291,
+              "url": "https://t.co/Vt0lnLx758"
+            },
+            {
+              "display_url": "pic.x.com/Vt0lnLx758",
+              "end": 314,
+              "expanded_url": "https://x.com/ChingteLai/status/1912742460834607476/photo/1",
+              "media_key": "3_1912742380320788480",
+              "start": 291,
+              "url": "https://t.co/Vt0lnLx758"
+            },
+            {
+              "display_url": "pic.x.com/Vt0lnLx758",
+              "end": 314,
+              "expanded_url": "https://x.com/ChingteLai/status/1912742460834607476/photo/1",
+              "media_key": "3_1912742380870242304",
+              "start": 291,
+              "url": "https://t.co/Vt0lnLx758"
+            },
+            {
+              "display_url": "pic.x.com/Vt0lnLx758",
+              "end": 314,
+              "expanded_url": "https://x.com/ChingteLai/status/1912742460834607476/photo/1",
+              "media_key": "3_1912742398922485761",
+              "start": 291,
+              "url": "https://t.co/Vt0lnLx758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912742460834607476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 87056,
+          "like_count": 1691,
+          "quote_count": 15,
+          "reply_count": 181,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "Kia ora to the #NewZealand cross-party parliamentary delegation led by @stuartsmithmp &amp; @TangiU, and sincere thanks for the Māori song. #Taiwan cherishes your support &amp; looks forward to greater collaboration from agriculture, energy &amp; tech to exchanges among indigenous peoples. https://t.co/Vt0lnLx758"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "fe_ions"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 3075,
+          "like_count": 86809,
+          "listed_count": 12,
+          "media_count": 1821,
+          "tweet_count": 14281
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNP8H"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730152721926516736/K-asKS36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375891,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 1127,
+          "media_count": 342,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/jlskvCNP8H",
+        "username": "ChingteLai",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-24T00:49:38.000Z",
+        "description": "National Party MP for Kaikoura Authorised by Stuart Smith - 22 Scott St, Blenheim",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stuartsmith.co.nz",
+                "end": 23,
+                "expanded_url": "http://stuartsmith.co.nz",
+                "start": 0,
+                "url": "https://t.co/GXAw1X6UNk"
+              }
+            ]
+          }
+        },
+        "id": "2842312937",
+        "location": "Marlborough",
+        "name": "Stuart Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/560529877737037825/DiU6k-z5_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 242,
+          "like_count": 894,
+          "listed_count": 48,
+          "media_count": 294,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/GXAw1X6UNk",
+        "username": "stuartsmithmp",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-09T07:05:25.000Z",
+        "description": "MP for Palmerston North; committed to providing a strong, local voice for Palmy in Parliament. Authorised by Tangi Utikere MP, Parliament Buildings, Wellington.",
+        "id": "459049208",
+        "name": "Tangi Utikere",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1355069418036842496/aA_J2vzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 88,
+          "like_count": 82,
+          "listed_count": 11,
+          "media_count": 4,
+          "tweet_count": 437
+        },
+        "username": "TangiU",
+        "verified": false
+      }
+    ]
+  }
+}

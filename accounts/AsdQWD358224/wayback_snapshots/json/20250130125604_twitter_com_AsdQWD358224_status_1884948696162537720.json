@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1884647601804615806",
+    "created_at": "2025-01-30T12:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T13:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884948696162537720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1851171470728134657",
+          "start": 0,
+          "username": "yuki40582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884948696162537720",
+    "in_reply_to_user_id": "1851171470728134657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884647601804615806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki40582 好吃～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1884647601804615806",
+        "created_at": "2025-01-30T12:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884948696162537720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1851171470728134657",
+              "start": 0,
+              "username": "yuki40582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884948696162537720",
+        "in_reply_to_user_id": "1851171470728134657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884647601804615806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki40582 好吃～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884647599015419906"
+          ]
+        },
+        "author_id": "1851171470728134657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1884647601804615806",
+        "created_at": "2025-01-29T16:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T17:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884647601804615806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PHESnQ8vuI",
+              "end": 42,
+              "expanded_url": "https://x.com/yuki40582/status/1884647601804615806/photo/1",
+              "media_key": "3_1884647599015419906",
+              "start": 19,
+              "url": "https://t.co/PHESnQ8vuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884647601804615806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作息已经一塌糊涂。\n鲜虾鱼板面好吃😋 https://t.co/PHESnQ8vuI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "fe_ions"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 2409,
+          "like_count": 39947,
+          "listed_count": 6,
+          "media_count": 831,
+          "tweet_count": 7496
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:57:36.000Z",
+        "description": "称呼：Yuki或neko（？\n07|宅女|日常|吐黑泥|od|话很多|有时很没素质\n本体是随机刷新在推的人机。\n宝宝@ImCowNow\n最会捧场的@jm6680\n谢谢你们关注我爱你们\n@tottokawaiii\n转帖自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "ImCowNow"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "jm6680"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "tottokawaiii"
+              }
+            ]
+          }
+        },
+        "id": "1851171470728134657",
+        "location": "🚪20",
+        "name": "雪",
+        "pinned_tweet_id": "1878056071157178557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874223479685603328/IpHXskwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 40,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 605
+        },
+        "username": "yuki40582",
+        "verified": false
+      }
+    ]
+  }
+}

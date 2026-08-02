@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1938230986309058560"
+      ],
+      "media_source_tweet_id": [
+        "1938231137161326598"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1938517872416047607",
+    "created_at": "2025-06-27T08:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T09:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938517872416047607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493535317743538178",
+          "start": 3,
+          "username": "ckchiki3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W92JFAaMlj",
+          "end": 65,
+          "expanded_url": "https://x.com/ckchiki3/status/1938231137161326598/video/1",
+          "media_key": "13_1938230986309058560",
+          "start": 42,
+          "url": "https://t.co/W92JFAaMlj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938517872416047607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938231137161326598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ckchiki3: 完成させてしまった\n\nCentipede \"FULL\" https://t.co/W92JFAaMlj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139754,
+        "height": 1080,
+        "media_key": "13_1938230986309058560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938230986309058560/img/dRA4_OYsGp36UG5y.jpg",
+        "public_metrics": {
+          "view_count": 3469
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938230986309058560/vid/avc1/320x320/peKnMwG5C0iUWt8a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938230986309058560/vid/avc1/540x540/JHUkQRlLoQviVo9g.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938230986309058560/vid/avc1/720x720/cESUMcBvJWsOLFlF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938230986309058560/pl/selCjFJN2INrGx2K.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938230986309058560"
+          ],
+          "media_source_tweet_id": [
+            "1938231137161326598"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938517872416047607",
+        "created_at": "2025-06-27T08:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938517872416047607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493535317743538178",
+              "start": 3,
+              "username": "ckchiki3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W92JFAaMlj",
+              "end": 65,
+              "expanded_url": "https://x.com/ckchiki3/status/1938231137161326598/video/1",
+              "media_key": "13_1938230986309058560",
+              "start": 42,
+              "url": "https://t.co/W92JFAaMlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938517872416047607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938231137161326598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ckchiki3: 完成させてしまった\n\nCentipede \"FULL\" https://t.co/W92JFAaMlj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938230986309058560"
+          ]
+        },
+        "author_id": "1493535317743538178",
+        "conversation_id": "1938231137161326598",
+        "created_at": "2025-06-26T13:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T14:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938231137161326598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W92JFAaMlj",
+              "end": 51,
+              "expanded_url": "https://x.com/ckchiki3/status/1938231137161326598/video/1",
+              "media_key": "13_1938230986309058560",
+              "start": 28,
+              "url": "https://t.co/W92JFAaMlj"
+            },
+            {
+              "display_url": "x.com/ckchiki3/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/ckchiki3/status/1937901868480626721",
+              "start": 52,
+              "url": "https://t.co/uLKrQYMPtn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938231137161326598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12800,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937901868480626721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完成させてしまった\n\nCentipede \"FULL\" https://t.co/W92JFAaMlj https://t.co/uLKrQYMPtn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "fe_ions"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 3131,
+          "like_count": 94501,
+          "listed_count": 12,
+          "media_count": 1948,
+          "tweet_count": 15463
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T10:39:16.000Z",
+        "description": "ラズ推しと見せかけてソルト推し　癖→@ckchiki4　FA→#しおりすたーず",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "しおりすたーず"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "ckchiki4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ckchiki3",
+                "end": 23,
+                "expanded_url": "https://lit.link/ckchiki3",
+                "start": 0,
+                "url": "https://t.co/oh6EyUYosv"
+              }
+            ]
+          }
+        },
+        "id": "1493535317743538178",
+        "location": "Osaka - Nara",
+        "name": "ちき(しおりす)",
+        "pinned_tweet_id": "1919648477510029447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919064239291162624/LnWVk4NF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 873,
+          "like_count": 39670,
+          "listed_count": 7,
+          "media_count": 1708,
+          "tweet_count": 13116
+        },
+        "url": "https://t.co/oh6EyUYosv",
+        "username": "ckchiki3",
+        "verified": false
+      }
+    ]
+  }
+}

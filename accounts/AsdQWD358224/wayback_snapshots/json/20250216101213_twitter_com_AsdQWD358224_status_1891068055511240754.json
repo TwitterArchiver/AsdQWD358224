@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889604121550069760"
+      ],
+      "media_source_tweet_id": [
+        "1889604136640880670"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1891068055511240754",
+    "created_at": "2025-02-16T10:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T11:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891068055511240754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1858445074247389185",
+          "start": 3,
+          "username": "bobibobibo888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LBpMVaHjg0",
+          "end": 56,
+          "expanded_url": "https://x.com/bobibobibo888/status/1889604136640880670/photo/1",
+          "media_key": "3_1889604121550069760",
+          "start": 33,
+          "url": "https://t.co/LBpMVaHjg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891068055511240754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889604136640880670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bobibobibo888: 谁要来一口我做的漂亮松饼🥞 https://t.co/LBpMVaHjg0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1889604121550069760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjk4798bIAAMCuz.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889604121550069760"
+          ],
+          "media_source_tweet_id": [
+            "1889604136640880670"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1891068055511240754",
+        "created_at": "2025-02-16T10:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T11:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891068055511240754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1858445074247389185",
+              "start": 3,
+              "username": "bobibobibo888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBpMVaHjg0",
+              "end": 56,
+              "expanded_url": "https://x.com/bobibobibo888/status/1889604136640880670/photo/1",
+              "media_key": "3_1889604121550069760",
+              "start": 33,
+              "url": "https://t.co/LBpMVaHjg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891068055511240754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889604136640880670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bobibobibo888: 谁要来一口我做的漂亮松饼🥞 https://t.co/LBpMVaHjg0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889604121550069760"
+          ]
+        },
+        "author_id": "1858445074247389185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889604136640880670",
+        "created_at": "2025-02-12T09:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T10:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889604136640880670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBpMVaHjg0",
+              "end": 37,
+              "expanded_url": "https://x.com/bobibobibo888/status/1889604136640880670/photo/1",
+              "media_key": "3_1889604121550069760",
+              "start": 14,
+              "url": "https://t.co/LBpMVaHjg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889604136640880670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 56905,
+          "like_count": 675,
+          "quote_count": 1,
+          "reply_count": 78,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "谁要来一口我做的漂亮松饼🥞 https://t.co/LBpMVaHjg0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢猫猫/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_7650  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 97,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "fe_ions"
+              },
+              {
+                "end": 151,
+                "start": 137,
+                "username": "Caroline_7650"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（戒O版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 2606,
+          "like_count": 50852,
+          "listed_count": 7,
+          "media_count": 1181,
+          "tweet_count": 9379
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T09:40:22.000Z",
+        "description": "包子碎碎念（不加v不搞黄",
+        "id": "1858445074247389185",
+        "name": "包子",
+        "pinned_tweet_id": "1873390210467467651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864607079593340928/ToeGq9Cd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 36,
+          "like_count": 1645,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 560
+        },
+        "username": "bobibobibo888",
+        "verified": false
+      }
+    ]
+  }
+}

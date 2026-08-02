@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1886368308993355973",
+    "created_at": "2025-02-03T11:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T12:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886374375487848853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860501553297125376",
+          "start": 0,
+          "username": "ogasawarafuuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886374375487848853",
+    "in_reply_to_user_id": "1860501553297125376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886368308993355973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ogasawarafuuko 可爱鲨鲨～～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1886368308993355973",
+        "created_at": "2025-02-03T11:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T12:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886374375487848853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1860501553297125376",
+              "start": 0,
+              "username": "ogasawarafuuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886374375487848853",
+        "in_reply_to_user_id": "1860501553297125376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886368308993355973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ogasawarafuuko 可爱鲨鲨～～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886368299925295104"
+          ]
+        },
+        "author_id": "1860501553297125376",
+        "conversation_id": "1886368308993355973",
+        "created_at": "2025-02-03T10:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T11:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886368308993355973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0c6C08bcGn",
+              "end": 27,
+              "expanded_url": "https://x.com/ogasawarafuuko/status/1886368308993355973/photo/1",
+              "media_key": "3_1886368299925295104",
+              "start": 4,
+              "url": "https://t.co/0c6C08bcGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886368308993355973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "サメ！ https://t.co/0c6C08bcGn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "fe_ions"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 2477,
+          "like_count": 42614,
+          "listed_count": 7,
+          "media_count": 929,
+          "tweet_count": 7973
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T01:52:03.000Z",
+        "description": "INFP☆天の川に行って、 小さな星を摘み取り、 小さな瓶に入れて一緒に寝てみたい☆砂糖を食べ 始めた日: 令和6年11月22日☆残りの人生が幸せでありますように☆サポートされている言語🇹🇼🇯🇵🇨🇳🇬🇧マシュマロリンク https://t.co/pLsY7D2zGA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/toraemonn",
+                "end": 133,
+                "expanded_url": "http://t.me/toraemonn",
+                "start": 110,
+                "url": "https://t.co/pLsY7D2zGA"
+              }
+            ]
+          }
+        },
+        "id": "1860501553297125376",
+        "location": "Hino-shi, Tokyo",
+        "name": "小笠原ふうこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860502863828393984/4UXjRpUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 24,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "ogasawarafuuko",
+        "verified": false
+      }
+    ]
+  }
+}

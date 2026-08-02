@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1880185978725494983",
+    "created_at": "2025-01-17T09:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T10:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880186821168202197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880186821168202197",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880185978725494983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 什么味道？⊙_⊙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1880185978725494983",
+        "created_at": "2025-01-17T09:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T10:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880186821168202197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880186821168202197",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880185978725494983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 什么味道？⊙_⊙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880185971142193157"
+          ]
+        },
+        "author_id": "1666599054917218305",
+        "conversation_id": "1880185978725494983",
+        "created_at": "2025-01-17T09:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T10:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880185978725494983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFQXXvGv9v",
+              "end": 28,
+              "expanded_url": "https://x.com/kirakira4th/status/1880185978725494983/photo/1",
+              "media_key": "3_1880185971142193157",
+              "start": 5,
+              "url": "https://t.co/dFQXXvGv9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880185978725494983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恩！情！ https://t.co/dFQXXvGv9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 2159,
+          "like_count": 26750,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 4813
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "你觉得是那就是",
+        "id": "1666599054917218305",
+        "name": "仿生井盖会梦见电子河南人吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875792193795088384/0kEOTGgO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10655,
+          "following_count": 2343,
+          "like_count": 42354,
+          "listed_count": 16,
+          "media_count": 251,
+          "tweet_count": 10977
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

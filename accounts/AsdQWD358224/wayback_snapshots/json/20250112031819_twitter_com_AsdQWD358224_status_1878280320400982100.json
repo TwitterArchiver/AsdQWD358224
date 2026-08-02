@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878005722530955264",
+        "3_1878005722568630272",
+        "3_1878005723344576512"
+      ],
+      "media_source_tweet_id": [
+        "1878005725643088309",
+        "1878005725643088309",
+        "1878005725643088309"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1878280320400982100",
+    "created_at": "2025-01-12T03:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T04:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878280320400982100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557586491114631168",
+          "start": 3,
+          "username": "66666666_6__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rl1tXKkaiT",
+          "end": 56,
+          "expanded_url": "https://x.com/66666666_6__/status/1878005725643088309/photo/1",
+          "media_key": "3_1878005722530955264",
+          "start": 33,
+          "url": "https://t.co/rl1tXKkaiT"
+        },
+        {
+          "display_url": "pic.x.com/rl1tXKkaiT",
+          "end": 56,
+          "expanded_url": "https://x.com/66666666_6__/status/1878005725643088309/photo/1",
+          "media_key": "3_1878005722568630272",
+          "start": 33,
+          "url": "https://t.co/rl1tXKkaiT"
+        },
+        {
+          "display_url": "pic.x.com/rl1tXKkaiT",
+          "end": 56,
+          "expanded_url": "https://x.com/66666666_6__/status/1878005725643088309/photo/1",
+          "media_key": "3_1878005723344576512",
+          "start": 33,
+          "url": "https://t.co/rl1tXKkaiT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878280320400982100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 244
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878005725643088309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @66666666_6__: 人民解放軍兵士の現用個人装備 https://t.co/rl1tXKkaiT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1878005722530955264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhAEQSmbwAAyDmi.jpg",
+        "width": 1000
+      },
+      {
+        "height": 720,
+        "media_key": "3_1878005722568630272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhAEQSvaoAAVtxZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1878005723344576512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhAEQVoaoAAD7sH.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878005722530955264",
+            "3_1878005722568630272",
+            "3_1878005723344576512"
+          ],
+          "media_source_tweet_id": [
+            "1878005725643088309",
+            "1878005725643088309",
+            "1878005725643088309"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1878280320400982100",
+        "created_at": "2025-01-12T03:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T04:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878280320400982100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557586491114631168",
+              "start": 3,
+              "username": "66666666_6__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rl1tXKkaiT",
+              "end": 56,
+              "expanded_url": "https://x.com/66666666_6__/status/1878005725643088309/photo/1",
+              "media_key": "3_1878005722530955264",
+              "start": 33,
+              "url": "https://t.co/rl1tXKkaiT"
+            },
+            {
+              "display_url": "pic.x.com/rl1tXKkaiT",
+              "end": 56,
+              "expanded_url": "https://x.com/66666666_6__/status/1878005725643088309/photo/1",
+              "media_key": "3_1878005722568630272",
+              "start": 33,
+              "url": "https://t.co/rl1tXKkaiT"
+            },
+            {
+              "display_url": "pic.x.com/rl1tXKkaiT",
+              "end": 56,
+              "expanded_url": "https://x.com/66666666_6__/status/1878005725643088309/photo/1",
+              "media_key": "3_1878005723344576512",
+              "start": 33,
+              "url": "https://t.co/rl1tXKkaiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878280320400982100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 244
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878005725643088309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @66666666_6__: 人民解放軍兵士の現用個人装備 https://t.co/rl1tXKkaiT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878005722530955264",
+            "3_1878005722568630272",
+            "3_1878005723344576512"
+          ]
+        },
+        "author_id": "1557586491114631168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1878005725643088309",
+        "created_at": "2025-01-11T09:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T10:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878005725643088309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rl1tXKkaiT",
+              "end": 38,
+              "expanded_url": "https://x.com/66666666_6__/status/1878005725643088309/photo/1",
+              "media_key": "3_1878005722530955264",
+              "start": 15,
+              "url": "https://t.co/rl1tXKkaiT"
+            },
+            {
+              "display_url": "pic.x.com/rl1tXKkaiT",
+              "end": 38,
+              "expanded_url": "https://x.com/66666666_6__/status/1878005725643088309/photo/1",
+              "media_key": "3_1878005722568630272",
+              "start": 15,
+              "url": "https://t.co/rl1tXKkaiT"
+            },
+            {
+              "display_url": "pic.x.com/rl1tXKkaiT",
+              "end": 38,
+              "expanded_url": "https://x.com/66666666_6__/status/1878005725643088309/photo/1",
+              "media_key": "3_1878005723344576512",
+              "start": 15,
+              "url": "https://t.co/rl1tXKkaiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878005725643088309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 378,
+          "impression_count": 131593,
+          "like_count": 1202,
+          "quote_count": 32,
+          "reply_count": 19,
+          "retweet_count": 244
+        },
+        "reply_settings": "everyone",
+        "text": "人民解放軍兵士の現用個人装備 https://t.co/rl1tXKkaiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 2087,
+          "like_count": 24912,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 4386
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T04:35:41.000Z",
+        "description": "にわかミリオタ。人民解放軍🫡🪖/サバゲー🔫/中華人民共和国🇨🇳/中国軍歌・革命歌🔈🚩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/ja/q/7244b375-…",
+                "end": 23,
+                "expanded_url": "https://peing.net/ja/q/7244b375-756a-428d-9b3c-a0b3ff5388e8",
+                "start": 0,
+                "url": "https://t.co/E7Od1Z7Mf3"
+              }
+            ]
+          }
+        },
+        "id": "1557586491114631168",
+        "location": "アジア",
+        "name": "うぇいじぇん/为建🇨🇳🪂",
+        "pinned_tweet_id": "1876631653076140187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863583309919588352/lWrXWL99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3788,
+          "following_count": 1691,
+          "like_count": 38912,
+          "listed_count": 37,
+          "media_count": 719,
+          "tweet_count": 5222
+        },
+        "url": "https://t.co/E7Od1Z7Mf3",
+        "username": "66666666_6__",
+        "verified": true
+      }
+    ]
+  }
+}

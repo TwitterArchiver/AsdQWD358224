@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1842594291534954960",
+    "created_at": "2024-10-05T15:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T16:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842594291534954960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1808147793544192000",
+          "start": 3,
+          "username": "LumaoCrafts"
+        },
+        {
+          "end": 79,
+          "id": "1808147793544192000",
+          "start": 67,
+          "username": "LumaoCrafts"
+        },
+        {
+          "end": 97,
+          "id": "1808147793544192000",
+          "start": 85,
+          "username": "LumaoCrafts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842594291534954960",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 673
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840713849315451211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LumaoCrafts: 鹿猫工坊-国庆节活动\n活动时间2024.10.1---2024.10.7\n参与方式：\n1. 在X关注@LumaoCrafts\n2. 转发@LumaoCrafts置顶的活动推\n抽取两位幸运小伙伴！奖品：基础款（均码）各一件\n开奖时间：2024.1…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842594291534954960].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842594291534954960",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842594291534954960"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840713792508002304",
+            "3_1840713792768122880",
+            "3_1840713792722006016",
+            "3_1840713792726224896"
+          ]
+        },
+        "author_id": "1808147793544192000",
+        "conversation_id": "1840713849315451211",
+        "created_at": "2024-09-30T11:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T12:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840713849315451211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1808147793544192000",
+              "start": 50,
+              "username": "LumaoCrafts"
+            },
+            {
+              "end": 80,
+              "id": "1808147793544192000",
+              "start": 68,
+              "username": "LumaoCrafts"
+            },
+            {
+              "end": 187,
+              "id": "759472842316582912",
+              "start": 176,
+              "username": "BlueCrow42"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MayDx2aAb",
+              "end": 211,
+              "expanded_url": "https://x.com/LumaoCrafts/status/1840713849315451211/photo/1",
+              "media_key": "3_1840713792508002304",
+              "start": 188,
+              "url": "https://t.co/9MayDx2aAb"
+            },
+            {
+              "display_url": "pic.x.com/9MayDx2aAb",
+              "end": 211,
+              "expanded_url": "https://x.com/LumaoCrafts/status/1840713849315451211/photo/1",
+              "media_key": "3_1840713792768122880",
+              "start": 188,
+              "url": "https://t.co/9MayDx2aAb"
+            },
+            {
+              "display_url": "pic.x.com/9MayDx2aAb",
+              "end": 211,
+              "expanded_url": "https://x.com/LumaoCrafts/status/1840713849315451211/photo/1",
+              "media_key": "3_1840713792722006016",
+              "start": 188,
+              "url": "https://t.co/9MayDx2aAb"
+            },
+            {
+              "display_url": "pic.x.com/9MayDx2aAb",
+              "end": 211,
+              "expanded_url": "https://x.com/LumaoCrafts/status/1840713849315451211/photo/1",
+              "media_key": "3_1840713792726224896",
+              "start": 188,
+              "url": "https://t.co/9MayDx2aAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840713849315451211",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 117042,
+          "like_count": 330,
+          "quote_count": 19,
+          "reply_count": 136,
+          "retweet_count": 673
+        },
+        "reply_settings": "everyone",
+        "text": "鹿猫工坊-国庆节活动\n活动时间2024.10.1---2024.10.7\n参与方式：\n1. 在X关注@LumaoCrafts\n2. 转发@LumaoCrafts置顶的活动推\n抽取两位幸运小伙伴！奖品：基础款（均码）各一件\n开奖时间：2024.10.10 发布中奖结果\n活动期间：满1000元减200元，满1600元减300元 （所有品类）\n图上展示模特@BlueCrow42 https://t.co/9MayDx2aAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 1150,
+          "like_count": 2106,
+          "listed_count": 0,
+          "tweet_count": 232
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T14:37:14.000Z",
+        "description": "鹿猫工坊本人~！\nLatex定制和产品咨询请联系：\n微信：lumaolatex\nQQ：1841371760\nPlease DM to purchase products, UDST TRC20 payment is supported.",
+        "id": "1808147793544192000",
+        "name": "鹿猫工坊",
+        "pinned_tweet_id": "1840713849315451211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808148231177883648/QqgCgSem_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 118,
+          "like_count": 1060,
+          "listed_count": 15,
+          "tweet_count": 79
+        },
+        "username": "LumaoCrafts",
+        "verified": false
+      }
+    ]
+  }
+}

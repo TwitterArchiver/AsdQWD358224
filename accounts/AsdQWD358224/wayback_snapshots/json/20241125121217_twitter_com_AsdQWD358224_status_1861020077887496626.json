@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1860989893922734331",
+    "created_at": "2024-11-25T12:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T13:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861020077887496626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662505852924772352",
+          "start": 0,
+          "username": "xuexitongLOVEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861020077887496626",
+    "in_reply_to_user_id": "1662505852924772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860989893922734331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuexitongLOVEU 别介，跑个2km试试？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1860989893922734331",
+        "created_at": "2024-11-25T12:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T13:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861020077887496626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662505852924772352",
+              "start": 0,
+              "username": "xuexitongLOVEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861020077887496626",
+        "in_reply_to_user_id": "1662505852924772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860989893922734331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuexitongLOVEU 别介，跑个2km试试？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662505852924772352",
+        "conversation_id": "1860989893922734331",
+        "created_at": "2024-11-25T10:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T11:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860989893922734331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860989893922734331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 396,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我需要色情活动带来的快感掩盖自己焦虑，身体机能不好，人生没有方向感的事实……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 1663,
+          "like_count": 3654,
+          "listed_count": 0,
+          "tweet_count": 764
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T17:07:51.000Z",
+        "description": "学习强国\n学♂习群群号1012226951",
+        "id": "1662505852924772352",
+        "name": "学习通",
+        "pinned_tweet_id": "1858695809124233411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859395078420406272/VYjNYSjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 1188,
+          "like_count": 4491,
+          "listed_count": 2,
+          "tweet_count": 1948
+        },
+        "username": "xuexitongLOVEU",
+        "verified": false
+      }
+    ]
+  }
+}

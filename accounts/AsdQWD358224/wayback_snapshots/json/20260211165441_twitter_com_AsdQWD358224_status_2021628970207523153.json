@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "2021628970207523153",
+    "created_at": "2026-02-11T16:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T17:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021628970207523153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1220059316528373761",
+          "start": 3,
+          "username": "Chippi2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021628970207523153",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021418421670572205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chippi2000: WHOPPER🍔WHOPPER🍔WHOPPER🍔WHOPPER🍔Junior👶🍔Double🍔🍔Triple WHOPPER🍔🍔🍔YOU🫵LIVE🏠️AT📍CAMBRIDGE🌉STREET🛣️STDNEY🇬🇧4️⃣5️⃣3️⃣6️⃣5️⃣🤯YOU…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2021418412531122179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2FVhVaAAMAHAo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2021628970207523153",
+        "created_at": "2026-02-11T16:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021628970207523153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1220059316528373761",
+              "start": 3,
+              "username": "Chippi2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021628970207523153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021418421670572205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chippi2000: WHOPPER🍔WHOPPER🍔WHOPPER🍔WHOPPER🍔Junior👶🍔Double🍔🍔Triple WHOPPER🍔🍔🍔YOU🫵LIVE🏠️AT📍CAMBRIDGE🌉STREET🛣️STDNEY🇬🇧4️⃣5️⃣3️⃣6️⃣5️⃣🤯YOU…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021418412531122179"
+          ]
+        },
+        "author_id": "1220059316528373761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10023891829",
+              "name": "Verizon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10023891829",
+              "name": "Verizon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026319207",
+              "name": "Verizon Wireless"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2021418421670572205",
+        "created_at": "2026-02-11T02:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T03:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021418421670572205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2kerwfo16",
+              "end": 277,
+              "expanded_url": "https://x.com/Chippi2000/status/2021418421670572205/photo/1",
+              "media_key": "3_2021418412531122179",
+              "start": 254,
+              "url": "https://t.co/Y2kerwfo16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021418421670572205",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3102,
+          "impression_count": 732338,
+          "like_count": 23041,
+          "quote_count": 189,
+          "reply_count": 43,
+          "retweet_count": 3393
+        },
+        "reply_settings": "everyone",
+        "text": "WHOPPER🍔WHOPPER🍔WHOPPER🍔WHOPPER🍔Junior👶🍔Double🍔🍔Triple WHOPPER🍔🍔🍔YOU🫵LIVE🏠️AT📍CAMBRIDGE🌉STREET🛣️STDNEY🇬🇧4️⃣5️⃣3️⃣6️⃣5️⃣🤯YOU🫵USE🔓VERIZON✅WIFI🛜YOUR🫵SSID🏷️IS👉“GIVE🤲ME🧑‍🦱👈FREE🆓LIGMA👅💦🟡🟡”AND🔗ITS🟰USES🔓WPA2🌐SECURITY🔑IS👉PASS1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣😨YOUR🫵IP🌐📍IS👉1️⃣6️⃣ https://t.co/Y2kerwfo16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/多边关系/蛋挞单推/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww \n  @QieZhiyuan ❤️\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "calsys456"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "QieZhiyuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656276719665152/czyvKgrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 3050,
+          "like_count": 100978,
+          "listed_count": 14,
+          "media_count": 2241,
+          "tweet_count": 17083
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-22T19:03:16.000Z",
+        "description": "ミルクちゃんをすこれ 寝ることとなでなでされるのが大好きなかわいいミルクちゃんです #MilCrysta #からぱり 所属 #VRChat ID:Chippi2000 💍:@inuanesan アイコン：@tutsucha ヘッダー：＠pumony 干し芋→https://t.co/Uvd7Xdy9u1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 42,
+                "tag": "MilCrysta"
+              },
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "からぱり"
+              },
+              {
+                "end": 69,
+                "start": 62,
+                "tag": "VRChat"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "inuanesan"
+              },
+              {
+                "end": 111,
+                "start": 102,
+                "username": "tutsucha"
+              },
+              {
+                "end": 124,
+                "start": 117,
+                "username": "pumony"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/oT811",
+                "end": 152,
+                "expanded_url": "https://x.gd/oT811",
+                "start": 129,
+                "url": "https://t.co/Uvd7Xdy9u1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_85a6e7d4-4eb2-4e94-aaab-3298097ecacd",
+                "start": 0,
+                "url": "https://t.co/HRtoSWYJxE"
+              }
+            ]
+          }
+        },
+        "id": "1220059316528373761",
+        "location": "VRChat Since:2021/1/1",
+        "name": "Chippi2000 💙🐈",
+        "pinned_tweet_id": "1712012889731850529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853114035086204928/9QsCvW-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 680,
+          "like_count": 10345,
+          "listed_count": 47,
+          "media_count": 3451,
+          "tweet_count": 36556
+        },
+        "url": "https://t.co/HRtoSWYJxE",
+        "username": "Chippi2000",
+        "verified": true
+      }
+    ]
+  }
+}

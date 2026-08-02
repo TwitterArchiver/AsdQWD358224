@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1882958595043602616",
+    "created_at": "2025-01-25T02:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T03:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882972447722639694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830129345899188224",
+          "start": 0,
+          "username": "y6302448844989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882972447722639694",
+    "in_reply_to_user_id": "1830129345899188224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882958595043602616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y6302448844989 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1882958595043602616",
+        "created_at": "2025-01-25T02:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T03:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882972447722639694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830129345899188224",
+              "start": 0,
+              "username": "y6302448844989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882972447722639694",
+        "in_reply_to_user_id": "1830129345899188224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882958595043602616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y6302448844989 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882958590438195200"
+          ]
+        },
+        "author_id": "1830129345899188224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1882958595043602616",
+        "created_at": "2025-01-25T01:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T02:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882958595043602616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1880673147218706432/A5QgjAz5?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1880673147218706432/A5QgjAz5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/gWHEPiIwm5"
+            },
+            {
+              "display_url": "pic.x.com/La4O1Eyoj3",
+              "end": 64,
+              "expanded_url": "https://x.com/y6302448844989/status/1882958595043602616/photo/1",
+              "media_key": "3_1882958590438195200",
+              "start": 41,
+              "url": "https://t.co/La4O1Eyoj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882958595043602616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/gWHEPiIwm5 https://t.co/La4O1Eyoj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 2318,
+          "like_count": 34414,
+          "listed_count": 5,
+          "media_count": 591,
+          "tweet_count": 6337
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T06:24:20.000Z",
+        "description": "蓝孩纸，郁抑症，轻度健忘症，不反对任何思想，不谈论与政治有关的事。愿意与每个人和平友好玩耍，喜欢看番òᆺó，手游的主流基本都玩。好朋友：推友。欢迎大家互fo🍊祝大家元旦快乐！我们迈向2025啦！🎉(=^▽^=)   小號@XiMaoMao630244",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 110,
+                "username": "XiMaoMao630244"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%9B%9E%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%9B%9E%E5%BE%A9%E4%B8%AD%E3%81%AE%E8%B2%93",
+                "start": 0,
+                "url": "https://t.co/8eJS8ordrP"
+              }
+            ]
+          }
+        },
+        "id": "1830129345899188224",
+        "location": "死者の楽園",
+        "name": "回復中の猫（半断推中",
+        "pinned_tweet_id": "1882751367246442697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872880612807524352/go99Kt7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 2923,
+          "like_count": 6912,
+          "listed_count": 5,
+          "media_count": 51,
+          "tweet_count": 2901
+        },
+        "url": "https://t.co/8eJS8ordrP",
+        "username": "y6302448844989",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905049955087364096"
+      ],
+      "media_source_tweet_id": [
+        "1905049970144890947"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1905266394981441718",
+    "created_at": "2025-03-27T14:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T15:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905266394981441718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1379053041995890695",
+          "start": 3,
+          "username": "phantom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qwKuyuEtTD",
+          "end": 36,
+          "expanded_url": "https://x.com/phantom/status/1905049970144890947/photo/1",
+          "media_key": "3_1905049955087364096",
+          "start": 13,
+          "url": "https://t.co/qwKuyuEtTD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905266394981441718",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1047
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905049970144890947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @phantom: https://t.co/qwKuyuEtTD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_1905049955087364096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnAY1zxbMAADXTo.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905049955087364096"
+          ],
+          "media_source_tweet_id": [
+            "1905049970144890947"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905266394981441718",
+        "created_at": "2025-03-27T14:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T15:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905266394981441718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1379053041995890695",
+              "start": 3,
+              "username": "phantom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwKuyuEtTD",
+              "end": 36,
+              "expanded_url": "https://x.com/phantom/status/1905049970144890947/photo/1",
+              "media_key": "3_1905049955087364096",
+              "start": 13,
+              "url": "https://t.co/qwKuyuEtTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905266394981441718",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1047
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905049970144890947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @phantom: https://t.co/qwKuyuEtTD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905049955087364096"
+          ]
+        },
+        "author_id": "1379053041995890695",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905049970144890947",
+        "created_at": "2025-03-27T00:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T01:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905049970144890947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwKuyuEtTD",
+              "end": 23,
+              "expanded_url": "https://x.com/phantom/status/1905049970144890947/photo/1",
+              "media_key": "3_1905049955087364096",
+              "start": 0,
+              "url": "https://t.co/qwKuyuEtTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905049970144890947",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 434,
+          "impression_count": 336926,
+          "like_count": 11886,
+          "quote_count": 98,
+          "reply_count": 560,
+          "retweet_count": 1047
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qwKuyuEtTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧/成都刷新/可以喊我“面面”/泛性恋\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "fe_ions"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 2910,
+          "like_count": 77488,
+          "listed_count": 11,
+          "media_count": 1693,
+          "tweet_count": 13257
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-05T12:47:30.000Z",
+        "description": "The friendly crypto wallet built for DeFi & NFTs. | Get support at https://t.co/4xgbjivbm2 | We never DM first or ask for your Secret Recovery Phrase!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "help.phantom.com",
+                "end": 90,
+                "expanded_url": "http://help.phantom.com",
+                "start": 67,
+                "url": "https://t.co/4xgbjivbm2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "phantom.com",
+                "end": 23,
+                "expanded_url": "https://phantom.com",
+                "start": 0,
+                "url": "https://t.co/kYcGm3m58Q"
+              }
+            ]
+          }
+        },
+        "id": "1379053041995890695",
+        "name": "Phantom",
+        "pinned_tweet_id": "1897339479511457896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675202638026252291/4StTDIF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865620,
+          "following_count": 1389,
+          "like_count": 101616,
+          "listed_count": 3031,
+          "media_count": 5579,
+          "tweet_count": 40090
+        },
+        "url": "https://t.co/kYcGm3m58Q",
+        "username": "phantom",
+        "verified": true
+      }
+    ]
+  }
+}

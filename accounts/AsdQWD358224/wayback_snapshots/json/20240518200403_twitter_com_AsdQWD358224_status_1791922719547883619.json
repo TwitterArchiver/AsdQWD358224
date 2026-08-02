@@ -1,0 +1,426 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1791077591379574784"
+      ],
+      "media_source_tweet_id": [
+        "1791077602070810827"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Destinations",
+          "id": "857603051657482241",
+          "name": "Destinations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1243532879646224384",
+          "name": "Wonders of the World"
+        }
+      }
+    ],
+    "conversation_id": "1791922719547883619",
+    "created_at": "2024-05-18T20:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T21:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791922719547883619"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Giza",
+          "probability": 0.6024,
+          "start": 34,
+          "type": "Place"
+        },
+        {
+          "end": 44,
+          "normalized_text": "Egypt",
+          "probability": 0.7687,
+          "start": 40,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1038150281794646017",
+          "start": 3,
+          "username": "earthcurated"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/35wUt2e6JV",
+          "end": 70,
+          "expanded_url": "https://twitter.com/earthcurated/status/1791077602070810827/photo/1",
+          "media_key": "3_1791077591379574784",
+          "start": 47,
+          "url": "https://t.co/35wUt2e6JV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791922719547883619",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1080
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791077602070810827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @earthcurated: The Pyramids of Giza, Egypt. https://t.co/35wUt2e6JV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1791077591379574784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNsvlG9XgAAp9G0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791077591379574784"
+          ],
+          "media_source_tweet_id": [
+            "1791077602070810827"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243532879646224384",
+              "name": "Wonders of the World"
+            }
+          }
+        ],
+        "conversation_id": "1791922719547883619",
+        "created_at": "2024-05-18T20:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T21:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791922719547883619"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Giza",
+              "probability": 0.6024,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Egypt",
+              "probability": 0.7687,
+              "start": 40,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1038150281794646017",
+              "start": 3,
+              "username": "earthcurated"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/35wUt2e6JV",
+              "end": 70,
+              "expanded_url": "https://twitter.com/earthcurated/status/1791077602070810827/photo/1",
+              "media_key": "3_1791077591379574784",
+              "start": 47,
+              "url": "https://t.co/35wUt2e6JV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791922719547883619",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1080
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791077602070810827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @earthcurated: The Pyramids of Giza, Egypt. https://t.co/35wUt2e6JV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791077591379574784"
+          ]
+        },
+        "author_id": "1038150281794646017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243532879646224384",
+              "name": "Wonders of the World"
+            }
+          }
+        ],
+        "conversation_id": "1791077602070810827",
+        "created_at": "2024-05-16T12:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T13:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791077602070810827"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Giza",
+              "probability": 0.6386,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 26,
+              "normalized_text": "Egypt",
+              "probability": 0.861,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/35wUt2e6JV",
+              "end": 52,
+              "expanded_url": "https://twitter.com/earthcurated/status/1791077602070810827/photo/1",
+              "media_key": "3_1791077591379574784",
+              "start": 29,
+              "url": "https://t.co/35wUt2e6JV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791077602070810827",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 190200,
+          "like_count": 6498,
+          "quote_count": 30,
+          "reply_count": 56,
+          "retweet_count": 1080
+        },
+        "reply_settings": "everyone",
+        "text": "The Pyramids of Giza, Egypt. https://t.co/35wUt2e6JV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 312,
+          "like_count": 384,
+          "listed_count": 0,
+          "tweet_count": 9
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-07T19:41:29.000Z",
+        "description": "Displaying Earth's beautiful destinations curated by the world's greatest Photographers. followed by @elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1038150281794646017",
+        "name": "Earth",
+        "pinned_tweet_id": "1791528690351772104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590966054800564225/3hZ1EhAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390079,
+          "following_count": 49351,
+          "like_count": 33406,
+          "listed_count": 1709,
+          "tweet_count": 5067
+        },
+        "username": "earthcurated",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Behavior around Fashion",
+          "id": "1006277139233103872",
+          "name": "Behavior around fashion"
+        }
+      }
+    ],
+    "conversation_id": "1959052317808107611",
+    "created_at": "2025-08-23T00:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T01:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959052317808107611"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Mizu1",
+          "probability": 0.7263,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 97,
+          "normalized_text": "Mizu5",
+          "probability": 0.7491,
+          "start": 93,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695167845305376768",
+          "start": 3,
+          "username": "RESOBEATSCEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959052317808107611",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1256
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958845635072815561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RESOBEATSCEO: Mizu1,2,3,4 -&gt; wears shorts and pants fearing of not being understood \n\nMizu5 -&gt; he wears a skirt but covers her eyes una…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1622,
+        "media_key": "3_1958845628085125121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy83uGfXQAEE3vX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          }
+        ],
+        "conversation_id": "1959052317808107611",
+        "created_at": "2025-08-23T00:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T01:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959052317808107611"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Mizu1",
+              "probability": 0.7263,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 97,
+              "normalized_text": "Mizu5",
+              "probability": 0.7491,
+              "start": 93,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695167845305376768",
+              "start": 3,
+              "username": "RESOBEATSCEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959052317808107611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1256
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958845635072815561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RESOBEATSCEO: Mizu1,2,3,4 -&gt; wears shorts and pants fearing of not being understood \n\nMizu5 -&gt; he wears a skirt but covers her eyes una…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958845628085125121"
+          ]
+        },
+        "author_id": "1695167845305376768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          }
+        ],
+        "conversation_id": "1958845635072815561",
+        "created_at": "2025-08-22T10:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T11:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958845635072815561"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Mizu1",
+              "probability": 0.8366,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "Mizu5",
+              "probability": 0.8543,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 162,
+              "normalized_text": "Mizu6",
+              "probability": 0.8395,
+              "start": 158,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qithEEhpBW",
+              "end": 233,
+              "expanded_url": "https://x.com/RESOBEATSCEO/status/1958845635072815561/photo/1",
+              "media_key": "3_1958845628085125121",
+              "start": 210,
+              "url": "https://t.co/qithEEhpBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958845635072815561",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 761,
+          "impression_count": 121035,
+          "like_count": 9477,
+          "quote_count": 125,
+          "reply_count": 49,
+          "retweet_count": 1256
+        },
+        "reply_settings": "everyone",
+        "text": "Mizu1,2,3,4 -&gt; wears shorts and pants fearing of not being understood \n\nMizu5 -&gt; he wears a skirt but covers her eyes unable to face herself or others\n\nMizu6 -&gt; finally a skirt/dress accepting herself https://t.co/qithEEhpBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fe_ions"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 3113,
+          "like_count": 97938,
+          "listed_count": 12,
+          "media_count": 2034,
+          "tweet_count": 15993
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T20:15:05.000Z",
+        "description": "Azusawa world 🐹 @lixieewixie | T48 ORS 🎤 | ahlelele ahlelas",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "lixieewixie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anchanresobeats.straw.page",
+                "end": 23,
+                "expanded_url": "https://anchanresobeats.straw.page",
+                "start": 0,
+                "url": "https://t.co/oNq5rYnY7d"
+              }
+            ]
+          }
+        },
+        "id": "1695167845305376768",
+        "name": "uta ▰ 宇辰",
+        "pinned_tweet_id": "1957493780220649925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957503104410071040/RYpKwXmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4735,
+          "following_count": 2454,
+          "like_count": 47934,
+          "listed_count": 66,
+          "media_count": 11507,
+          "tweet_count": 44226
+        },
+        "url": "https://t.co/oNq5rYnY7d",
+        "username": "RESOBEATSCEO",
+        "verified": false
+      }
+    ]
+  }
+}

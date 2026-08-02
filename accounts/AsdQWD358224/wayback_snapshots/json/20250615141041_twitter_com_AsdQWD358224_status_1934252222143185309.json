@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933801422870753283"
+      ],
+      "media_source_tweet_id": [
+        "1933801604601557491"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1934252222143185309",
+    "created_at": "2025-06-15T14:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T15:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934252222143185309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "924329097584525312",
+          "start": 3,
+          "username": "sumika_inagaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kPMgFnim7f",
+          "end": 47,
+          "expanded_url": "https://x.com/sumika_inagaki/status/1933801604601557491/photo/1",
+          "media_key": "3_1933801422870753283",
+          "start": 24,
+          "url": "https://t.co/kPMgFnim7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934252222143185309",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2315
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933801604601557491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sumika_inagaki: 餃子会 https://t.co/kPMgFnim7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1933801422870753283",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtY-JfxbMAMnuNQ.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933801422870753283"
+          ],
+          "media_source_tweet_id": [
+            "1933801604601557491"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934252222143185309",
+        "created_at": "2025-06-15T14:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T15:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934252222143185309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "924329097584525312",
+              "start": 3,
+              "username": "sumika_inagaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPMgFnim7f",
+              "end": 47,
+              "expanded_url": "https://x.com/sumika_inagaki/status/1933801604601557491/photo/1",
+              "media_key": "3_1933801422870753283",
+              "start": 24,
+              "url": "https://t.co/kPMgFnim7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934252222143185309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2315
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933801604601557491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sumika_inagaki: 餃子会 https://t.co/kPMgFnim7f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933801422870753283"
+          ]
+        },
+        "author_id": "924329097584525312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1933801604601557491",
+        "created_at": "2025-06-14T08:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T09:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933801604601557491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPMgFnim7f",
+              "end": 27,
+              "expanded_url": "https://x.com/sumika_inagaki/status/1933801604601557491/photo/1",
+              "media_key": "3_1933801422870753283",
+              "start": 4,
+              "url": "https://t.co/kPMgFnim7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933801604601557491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1224,
+          "impression_count": 295544,
+          "like_count": 20245,
+          "quote_count": 29,
+          "reply_count": 10,
+          "retweet_count": 2315
+        },
+        "reply_settings": "everyone",
+        "text": "餃子会 https://t.co/kPMgFnim7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/MTF/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "username": "fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至（❤️.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 3131,
+          "like_count": 93504,
+          "listed_count": 12,
+          "media_count": 1945,
+          "tweet_count": 15334
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-28T17:36:44.000Z",
+        "description": "イラストレーター／京都芸術大学非常勤講師 日常をテーマにイラストを描いています。オリジナル絵やお仕事絵、ファンアートなどいろいろ上げます。 ✉ご依頼・ご連絡 madogiwa_totto@yahoo.co.jp 📒Skeb https://t.co/jrYPj7vVEv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sumika_inagaki",
+                "end": 135,
+                "expanded_url": "http://skeb.jp/@sumika_inagaki",
+                "start": 112,
+                "url": "https://t.co/jrYPj7vVEv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/sumika-inagaki",
+                "end": 23,
+                "expanded_url": "https://potofu.me/sumika-inagaki",
+                "start": 0,
+                "url": "https://t.co/DWwg5scvrx"
+              }
+            ]
+          }
+        },
+        "id": "924329097584525312",
+        "location": "個人の方からのご依頼、展示のお誘いは現在お受けしておりません",
+        "name": "イナガキスミカ",
+        "pinned_tweet_id": "1879868911530992052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870290262955831300/7KzyvGYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20343,
+          "following_count": 1538,
+          "like_count": 5024,
+          "listed_count": 237,
+          "media_count": 1445,
+          "tweet_count": 6493
+        },
+        "url": "https://t.co/DWwg5scvrx",
+        "username": "sumika_inagaki",
+        "verified": false
+      }
+    ]
+  }
+}

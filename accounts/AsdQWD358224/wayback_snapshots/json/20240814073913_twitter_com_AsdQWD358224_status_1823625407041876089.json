@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1588462792918839297",
+    "created_at": "2024-08-14T07:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T08:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823625407041876089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "934889420767092737",
+          "start": 0,
+          "username": "BantzFerdinand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823625407041876089",
+    "in_reply_to_user_id": "934889420767092737",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1588462792918839297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BantzFerdinand 1.75版本就这样，每一个国家都在无穷无尽的打内战"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1588462792918839297",
+        "created_at": "2024-08-14T07:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T08:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823625407041876089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "934889420767092737",
+              "start": 0,
+              "username": "BantzFerdinand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823625407041876089",
+        "in_reply_to_user_id": "934889420767092737",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1588462792918839297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BantzFerdinand 1.75版本就这样，每一个国家都在无穷无尽的打内战"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1588462690305015808"
+          ]
+        },
+        "author_id": "934889420767092737",
+        "conversation_id": "1588462792918839297",
+        "created_at": "2022-11-04T09:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2022-11-04T09:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1588462792918839297"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "victoria3",
+              "probability": 0.7162,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "victoria3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kdvamoyqz",
+              "end": 67,
+              "expanded_url": "https://twitter.com/BantzFerdinand/status/1588462792918839297/photo/1",
+              "media_key": "3_1588462690305015808",
+              "start": 44,
+              "url": "https://t.co/6kdvAmoYqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1588462792918839297",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mate this game's haunted as fuck #victoria3 https://t.co/6kdvAmoYqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 455,
+          "like_count": 816,
+          "listed_count": 0,
+          "tweet_count": 71
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-26T20:59:42.000Z",
+        "description": "Alphabet Mafia Consigliere.\n\n29.\n\nHistory Post-Grad.\n\nRetro Gamer.\n\nHorror nerd.\n\nShe/her.",
+        "id": "934889420767092737",
+        "location": "Glasgow, Scotland",
+        "name": "Heather Retro ↙️↙️↙️ 🇺🇦",
+        "pinned_tweet_id": "1764346469149036706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819120692408782848/-7Eq6EV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 769,
+          "like_count": 246850,
+          "listed_count": 2,
+          "tweet_count": 30044
+        },
+        "username": "BantzFerdinand",
+        "verified": false
+      }
+    ]
+  }
+}

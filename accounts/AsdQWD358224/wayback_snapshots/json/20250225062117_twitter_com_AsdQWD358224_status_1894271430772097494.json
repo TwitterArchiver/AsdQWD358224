@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1894194803128373249"
+      ],
+      "media_source_tweet_id": [
+        "1894194896376140124"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1894271430772097494",
+    "created_at": "2025-02-25T06:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T07:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894271430772097494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1834802130710081536",
+          "start": 3,
+          "username": "ColeLees1899"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbLBynaDJ6",
+          "end": 73,
+          "expanded_url": "https://x.com/ColeLees1899/status/1894194896376140124/video/1",
+          "media_key": "13_1894194803128373249",
+          "start": 50,
+          "url": "https://t.co/NbLBynaDJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894271430772097494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894194896376140124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ColeLees1899: 刚出炉的菜煎饼皮薄酥脆，上面的菜很多！记得每天都要好好吃早饭！ https://t.co/NbLBynaDJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8264,
+        "height": 1280,
+        "media_key": "13_1894194803128373249",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1894194803128373249/img/8bX0k7bhjEY1PyaK.jpg",
+        "public_metrics": {
+          "view_count": 69
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1894194803128373249/vid/avc1/320x568/OFLK1st3YPak4qCE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1894194803128373249/vid/avc1/480x852/1C9Q5rnDqr8xOp0f.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1894194803128373249/vid/avc1/720x1280/QAU-FGE-AuFHRtry.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1894194803128373249/pl/ye4bPvxNZcKXuusu.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1894194803128373249"
+          ],
+          "media_source_tweet_id": [
+            "1894194896376140124"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1894271430772097494",
+        "created_at": "2025-02-25T06:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T07:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894271430772097494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1834802130710081536",
+              "start": 3,
+              "username": "ColeLees1899"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbLBynaDJ6",
+              "end": 73,
+              "expanded_url": "https://x.com/ColeLees1899/status/1894194896376140124/video/1",
+              "media_key": "13_1894194803128373249",
+              "start": 50,
+              "url": "https://t.co/NbLBynaDJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894271430772097494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894194896376140124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ColeLees1899: 刚出炉的菜煎饼皮薄酥脆，上面的菜很多！记得每天都要好好吃早饭！ https://t.co/NbLBynaDJ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1894194803128373249"
+          ]
+        },
+        "author_id": "1834802130710081536",
+        "conversation_id": "1894194896376140124",
+        "created_at": "2025-02-25T01:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894194896376140124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbLBynaDJ6",
+              "end": 55,
+              "expanded_url": "https://x.com/ColeLees1899/status/1894194896376140124/video/1",
+              "media_key": "13_1894194803128373249",
+              "start": 32,
+              "url": "https://t.co/NbLBynaDJ6"
+            },
+            {
+              "display_url": "x.com/colelees1899/s…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/colelees1899/status/1893617586694193246",
+              "start": 56,
+              "url": "https://t.co/afqtQtDzDx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894194896376140124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893617586694193246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚出炉的菜煎饼皮薄酥脆，上面的菜很多！记得每天都要好好吃早饭！ https://t.co/NbLBynaDJ6 https://t.co/afqtQtDzDx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（被教务处赶出学校版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 2656,
+          "like_count": 56021,
+          "listed_count": 7,
+          "media_count": 1393,
+          "tweet_count": 10512
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T03:52:02.000Z",
+        "description": "大号@colelee1899   既然都胖了，那更要好好吃美食 Follow 100% Love China 100% （China cuisine is the best ）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "colelee1899"
+              }
+            ]
+          }
+        },
+        "id": "1834802130710081536",
+        "location": "有你的地方",
+        "name": "Cole lees",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834803698759090176/3W72zNkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 1606,
+          "like_count": 12141,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1408
+        },
+        "username": "ColeLees1899",
+        "verified": false
+      }
+    ]
+  }
+}

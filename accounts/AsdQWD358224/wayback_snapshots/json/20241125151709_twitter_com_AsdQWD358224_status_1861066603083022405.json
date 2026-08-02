@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1861032096577232971",
+    "created_at": "2024-11-25T15:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T16:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861066603083022405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1474091860025122817",
+          "start": 0,
+          "username": "ShitpostGate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861066603083022405",
+    "in_reply_to_user_id": "1474091860025122817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861032096577232971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShitpostGate 至少它还不是甜的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1861032096577232971",
+        "created_at": "2024-11-25T15:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T16:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861066603083022405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1474091860025122817",
+              "start": 0,
+              "username": "ShitpostGate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861066603083022405",
+        "in_reply_to_user_id": "1474091860025122817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861032096577232971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShitpostGate 至少它还不是甜的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860542264054845440"
+          ]
+        },
+        "author_id": "1474091860025122817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1861032096577232971",
+        "created_at": "2024-11-25T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861032096577232971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fa7OHm14lc",
+              "end": 31,
+              "expanded_url": "https://x.com/ShitpostGate/status/1861032096577232971/photo/1",
+              "media_key": "3_1860542264054845440",
+              "start": 8,
+              "url": "https://t.co/Fa7OHm14lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861032096577232971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 40737,
+          "like_count": 321,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Hungry? https://t.co/Fa7OHm14lc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 1664,
+          "like_count": 3679,
+          "listed_count": 0,
+          "tweet_count": 786
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:57:58.000Z",
+        "description": "Love $hitposting and posting whatever I want/Satire/memes/some personal stuff I like. Affiliate of @METAPCS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "METAPCS"
+              }
+            ]
+          }
+        },
+        "id": "1474091860025122817",
+        "location": "Psych ward",
+        "name": "ShitpostGateway",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655280202824417287/XGiBiQze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464226,
+          "following_count": 2286,
+          "like_count": 3017,
+          "listed_count": 2994,
+          "tweet_count": 36921
+        },
+        "username": "ShitpostGate",
+        "verified": true
+      }
+    ]
+  }
+}

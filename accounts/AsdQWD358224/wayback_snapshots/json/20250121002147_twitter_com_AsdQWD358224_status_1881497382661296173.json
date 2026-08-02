@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1881353915192717814",
+    "created_at": "2025-01-21T00:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T01:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881497382661296173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1862931803931303936",
+          "start": 0,
+          "username": "zpananasdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881497382661296173",
+    "in_reply_to_user_id": "1862931803931303936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881353915192717814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zpananasdf 抱抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1881353915192717814",
+        "created_at": "2025-01-21T00:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T01:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881497382661296173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862931803931303936",
+              "start": 0,
+              "username": "zpananasdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881497382661296173",
+        "in_reply_to_user_id": "1862931803931303936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881353915192717814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zpananasdf 抱抱～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881353912411897856"
+          ]
+        },
+        "author_id": "1862931803931303936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1881353915192717814",
+        "created_at": "2025-01-20T14:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T15:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881353915192717814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qq0WacceiM",
+              "end": 23,
+              "expanded_url": "https://x.com/zpananasdf/status/1881353915192717814/photo/1",
+              "media_key": "3_1881353912411897856",
+              "start": 0,
+              "url": "https://t.co/Qq0WacceiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881353915192717814",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 127,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qq0WacceiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 2245,
+          "like_count": 29842,
+          "listed_count": 5,
+          "media_count": 494,
+          "tweet_count": 5596
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:48:56.000Z",
+        "description": "爱好广泛（等于没有爱好）/无证含糖🍥/未出柜/抑郁症患者",
+        "id": "1862931803931303936",
+        "name": "仲夏幽竹🍥",
+        "pinned_tweet_id": "1873526743228932213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863536947073097728/2nGMSQ4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 341,
+          "like_count": 1617,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 474
+        },
+        "username": "zpananasdf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052130473074188294"
+      ],
+      "media_source_tweet_id": [
+        "2052130535745503394"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053177115651289578",
+    "created_at": "2026-05-09T18:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053177115651289578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049622629972094976",
+          "start": 3,
+          "username": "gimmickmoder"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b2fQAGbGUH",
+          "end": 41,
+          "expanded_url": "https://x.com/gimmickmoder/status/2052130535745503394/video/1",
+          "media_key": "13_2052130473074188294",
+          "start": 18,
+          "url": "https://t.co/b2fQAGbGUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053177115651289578",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 455
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052130535745503394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gimmickmoder: https://t.co/b2fQAGbGUH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7198,
+        "height": 632,
+        "media_key": "13_2052130473074188294",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052130473074188294/img/VmkXRAgJ0Vii5c4B.jpg",
+        "public_metrics": {
+          "view_count": 332585
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052130473074188294/vid/avc1/272x270/d6DIVlJPYpy8jbYL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052130473074188294/vid/avc1/364x360/11sLqYUlbSdSBTA3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052130473074188294/vid/avc1/640x632/AI4kgWW0e_s_VeWt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052130473074188294/pl/W1z2q5RGvirA8NUs.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052130473074188294"
+          ],
+          "media_source_tweet_id": [
+            "2052130535745503394"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053177115651289578",
+        "created_at": "2026-05-09T18:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053177115651289578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049622629972094976",
+              "start": 3,
+              "username": "gimmickmoder"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2fQAGbGUH",
+              "end": 41,
+              "expanded_url": "https://x.com/gimmickmoder/status/2052130535745503394/video/1",
+              "media_key": "13_2052130473074188294",
+              "start": 18,
+              "url": "https://t.co/b2fQAGbGUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053177115651289578",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 455
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052130535745503394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gimmickmoder: https://t.co/b2fQAGbGUH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052130473074188294"
+          ]
+        },
+        "author_id": "2049622629972094976",
+        "conversation_id": "2052130535745503394",
+        "created_at": "2026-05-06T20:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T21:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052130535745503394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2fQAGbGUH",
+              "end": 23,
+              "expanded_url": "https://x.com/gimmickmoder/status/2052130535745503394/video/1",
+              "media_key": "13_2052130473074188294",
+              "start": 0,
+              "url": "https://t.co/b2fQAGbGUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052130535745503394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1290,
+          "impression_count": 989608,
+          "like_count": 5154,
+          "quote_count": 322,
+          "reply_count": 102,
+          "retweet_count": 455
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b2fQAGbGUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 3024,
+          "like_count": 101666,
+          "listed_count": 14,
+          "media_count": 2292,
+          "tweet_count": 17615
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T22:51:56.000Z",
+        "description": "stupid tweets | main acc @tttt_pics | pfp by @utututuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "tttt_pics"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "utututuna"
+              }
+            ]
+          }
+        },
+        "id": "2049622629972094976",
+        "name": "stupid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051991301868924931/JKl4xZds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 65,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 24
+        },
+        "username": "gimmickmoder",
+        "verified": false
+      }
+    ]
+  }
+}

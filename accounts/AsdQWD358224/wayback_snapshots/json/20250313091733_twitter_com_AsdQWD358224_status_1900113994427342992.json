@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899726621994864640"
+      ],
+      "media_source_tweet_id": [
+        "1899726626650456154"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      }
+    ],
+    "conversation_id": "1900113994427342992",
+    "created_at": "2025-03-13T09:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T10:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900113994427342992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843606554316357632",
+          "start": 3,
+          "username": "sazan_kaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/29GWIukn6k",
+          "end": 52,
+          "expanded_url": "https://x.com/sazan_kaa/status/1899726626650456154/photo/1",
+          "media_key": "3_1899726621994864640",
+          "start": 29,
+          "url": "https://t.co/29GWIukn6k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900113994427342992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2324
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899726626650456154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sazan_kaa: ホラーゲームの難しい謎解き https://t.co/29GWIukn6k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_1899726621994864640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl0vTCpbUAAtUqq.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899726621994864640"
+          ],
+          "media_source_tweet_id": [
+            "1899726626650456154"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          }
+        ],
+        "conversation_id": "1900113994427342992",
+        "created_at": "2025-03-13T09:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T10:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900113994427342992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843606554316357632",
+              "start": 3,
+              "username": "sazan_kaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/29GWIukn6k",
+              "end": 52,
+              "expanded_url": "https://x.com/sazan_kaa/status/1899726626650456154/photo/1",
+              "media_key": "3_1899726621994864640",
+              "start": 29,
+              "url": "https://t.co/29GWIukn6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900113994427342992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2324
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899726626650456154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sazan_kaa: ホラーゲームの難しい謎解き https://t.co/29GWIukn6k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899726621994864640"
+          ]
+        },
+        "author_id": "1843606554316357632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          }
+        ],
+        "conversation_id": "1899726626650456154",
+        "created_at": "2025-03-12T07:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T08:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899726626650456154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29GWIukn6k",
+              "end": 37,
+              "expanded_url": "https://x.com/sazan_kaa/status/1899726626650456154/photo/1",
+              "media_key": "3_1899726621994864640",
+              "start": 14,
+              "url": "https://t.co/29GWIukn6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899726626650456154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1431,
+          "impression_count": 1536302,
+          "like_count": 46577,
+          "quote_count": 99,
+          "reply_count": 54,
+          "retweet_count": 2324
+        },
+        "reply_settings": "everyone",
+        "text": "ホラーゲームの難しい謎解き https://t.co/29GWIukn6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 2798,
+          "like_count": 69162,
+          "listed_count": 7,
+          "media_count": 1611,
+          "tweet_count": 12401
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T10:57:20.000Z",
+        "description": "𝑪𝑯𝑰𝑳𝑳（チルル）",
+        "id": "1843606554316357632",
+        "name": "さざんか",
+        "pinned_tweet_id": "1882729341383241992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895095680957661184/Dl7fKKdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 129,
+          "like_count": 1563,
+          "listed_count": 14,
+          "media_count": 101,
+          "tweet_count": 625
+        },
+        "username": "sazan_kaa",
+        "verified": false
+      }
+    ]
+  }
+}

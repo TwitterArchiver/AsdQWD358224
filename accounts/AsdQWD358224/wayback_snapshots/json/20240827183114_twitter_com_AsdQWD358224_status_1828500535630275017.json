@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1827906518307795188",
+    "created_at": "2024-08-27T18:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T19:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828500535630275017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "Victoria__Nagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828500535630275017",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828485152760349177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victoria__Nagi 重要的是工业基础，毛时代培育了大量的熟练工人，清除了社会上的绝大部分污秽，稳定了人口增长和粮食产量，同时大规模扫盲。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1827906518307795188",
+        "created_at": "2024-08-27T18:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T19:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828500535630275017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "Victoria__Nagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828500535630275017",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828485152760349177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victoria__Nagi 重要的是工业基础，毛时代培育了大量的熟练工人，清除了社会上的绝大部分污秽，稳定了人口增长和粮食产量，同时大规模扫盲。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1827906518307795188",
+        "created_at": "2024-08-27T17:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T18:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828485152760349177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828485152760349177",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828484611787440134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 原子弹跟毛没有直接关系吧\n工业化的话，大跃进其实不算数啊，我总觉得跟邓改革开放差远了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "凹敖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 572,
+          "like_count": 1225,
+          "listed_count": 0,
+          "tweet_count": 100
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "一只小阿斯。底层跨。可以叫我Nagi🥺口头禅：哭哭",
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "维多利亚线",
+        "pinned_tweet_id": "1827260894948078003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794154626050048000/fQ3d7tf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 362,
+          "like_count": 3324,
+          "listed_count": 0,
+          "tweet_count": 3627
+        },
+        "username": "Victoria__Nagi",
+        "verified": false
+      }
+    ]
+  }
+}

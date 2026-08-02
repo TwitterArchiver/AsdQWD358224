@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1880975818471710842",
+    "created_at": "2025-01-19T13:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T14:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880975818471710842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 38,
+          "id": "1446813263526772736",
+          "start": 25,
+          "username": "MakeItAQuote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880975818471710842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷推日常：\n\n看到非常难崩的推文\n↓\n↓\n↓\n召唤@MakeItAQuote"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1880975818471710842",
+        "created_at": "2025-01-19T13:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T14:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880975818471710842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1446813263526772736",
+              "start": 25,
+              "username": "MakeItAQuote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880975818471710842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷推日常：\n\n看到非常难崩的推文\n↓\n↓\n↓\n召唤@MakeItAQuote"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 2204,
+          "like_count": 28275,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 5284
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T12:22:23.000Z",
+        "description": "Input: \"@makeitaquote Quote\" to generate a tweet. Input: \"@DeleteMyQuote Delete\" if you want a tweet removed. Powered by @socialtensor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "makeitaquote"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "DeleteMyQuote"
+              },
+              {
+                "end": 134,
+                "start": 121,
+                "username": "socialtensor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makeitaquote.com",
+                "end": 23,
+                "expanded_url": "https://makeitaquote.com/",
+                "start": 0,
+                "url": "https://t.co/SeOd2QVomH"
+              }
+            ]
+          }
+        },
+        "id": "1446813263526772736",
+        "name": "Make it a quote",
+        "pinned_tweet_id": "1842219999903060251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816146556212375552/2K-tXe3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711440,
+          "following_count": 14,
+          "like_count": 117,
+          "listed_count": 1124,
+          "media_count": 1821382,
+          "tweet_count": 1905119
+        },
+        "url": "https://t.co/SeOd2QVomH",
+        "username": "MakeItAQuote",
+        "verified": true
+      }
+    ]
+  }
+}

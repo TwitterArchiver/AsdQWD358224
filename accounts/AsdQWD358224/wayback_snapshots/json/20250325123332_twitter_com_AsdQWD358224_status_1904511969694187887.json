@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900157190889234440"
+      ],
+      "media_source_tweet_id": [
+        "1900157199638552997"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286732523326717952",
+          "name": "Street food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1286732523326717952",
+          "name": "Street food"
+        }
+      }
+    ],
+    "conversation_id": "1904511969694187887",
+    "created_at": "2025-03-25T12:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T13:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904511969694187887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1315695841022111745",
+          "start": 3,
+          "username": "taiwan417"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ARJ7eqGXzd",
+          "end": 56,
+          "expanded_url": "https://x.com/taiwan417/status/1900157199638552997/photo/1",
+          "media_key": "3_1900157190889234440",
+          "start": 33,
+          "url": "https://t.co/ARJ7eqGXzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904511969694187887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900157199638552997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taiwan417: 炒羊肉を食らう。（スープご飯付き） https://t.co/ARJ7eqGXzd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900157190889234440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl625cxbYAgLuOR.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900157190889234440"
+          ],
+          "media_source_tweet_id": [
+            "1900157199638552997"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286732523326717952",
+              "name": "Street food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1286732523326717952",
+              "name": "Street food"
+            }
+          }
+        ],
+        "conversation_id": "1904511969694187887",
+        "created_at": "2025-03-25T12:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T13:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904511969694187887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1315695841022111745",
+              "start": 3,
+              "username": "taiwan417"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARJ7eqGXzd",
+              "end": 56,
+              "expanded_url": "https://x.com/taiwan417/status/1900157199638552997/photo/1",
+              "media_key": "3_1900157190889234440",
+              "start": 33,
+              "url": "https://t.co/ARJ7eqGXzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904511969694187887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900157199638552997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taiwan417: 炒羊肉を食らう。（スープご飯付き） https://t.co/ARJ7eqGXzd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900157190889234440"
+          ]
+        },
+        "author_id": "1315695841022111745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286732523326717952",
+              "name": "Street food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1286732523326717952",
+              "name": "Street food"
+            }
+          }
+        ],
+        "conversation_id": "1900157199638552997",
+        "created_at": "2025-03-13T12:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T13:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900157199638552997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARJ7eqGXzd",
+              "end": 41,
+              "expanded_url": "https://x.com/taiwan417/status/1900157199638552997/photo/1",
+              "media_key": "3_1900157190889234440",
+              "start": 18,
+              "url": "https://t.co/ARJ7eqGXzd"
+            },
+            {
+              "display_url": "x.com/taiwan417/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/taiwan417/status/1900156695172551101",
+              "start": 42,
+              "url": "https://t.co/AGNZgEMuyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900157199638552997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3168,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900156695172551101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炒羊肉を食らう。（スープご飯付き） https://t.co/ARJ7eqGXzd https://t.co/AGNZgEMuyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧/成都刷新/可以喊我“面面”/泛性恋\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "fe_ions"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 2897,
+          "like_count": 77054,
+          "listed_count": 11,
+          "media_count": 1687,
+          "tweet_count": 13200
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T16:48:36.000Z",
+        "description": "夜市が好きすぎる人✏️台湾全国の夜市を記録 📏測量中 ... 全台灣夜市地圖 夜市になるのが夢 #はしご夜市 https://t.co/H1QjPaYpdJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "はしご夜市"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/taiwan417",
+                "end": 78,
+                "expanded_url": "https://instagram.com/taiwan417",
+                "start": 55,
+                "url": "https://t.co/H1QjPaYpdJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiwan417.com",
+                "end": 23,
+                "expanded_url": "http://taiwan417.com",
+                "start": 0,
+                "url": "https://t.co/h6d67HQ51X"
+              }
+            ]
+          }
+        },
+        "id": "1315695841022111745",
+        "location": "夜市測量中...",
+        "name": "よいちず | 台湾夜市",
+        "pinned_tweet_id": "1818959117148704827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847718040454254593/hSxD4Nqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 27,
+          "like_count": 3147,
+          "listed_count": 14,
+          "media_count": 436,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/h6d67HQ51X",
+        "username": "taiwan417",
+        "verified": false
+      }
+    ]
+  }
+}

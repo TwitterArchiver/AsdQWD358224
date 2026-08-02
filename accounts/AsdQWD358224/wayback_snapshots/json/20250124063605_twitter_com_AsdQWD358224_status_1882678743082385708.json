@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882412389737562112"
+      ],
+      "media_source_tweet_id": [
+        "1882412432649564274"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1882678743082385708",
+    "created_at": "2025-01-24T06:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T07:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882678743082385708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "708333493965557760",
+          "start": 3,
+          "username": "escape_show31"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NVxYuLZ9x5",
+          "end": 57,
+          "expanded_url": "https://x.com/escape_show31/status/1882412432649564274/photo/1",
+          "media_key": "3_1882412389737562112",
+          "start": 34,
+          "url": "https://t.co/NVxYuLZ9x5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882678743082385708",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 613
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882412432649564274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @escape_show31: 地中海性気候みたいなステージ https://t.co/NVxYuLZ9x5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 563,
+        "media_key": "3_1882412389737562112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh-sGFMaAAAQELY.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882412389737562112"
+          ],
+          "media_source_tweet_id": [
+            "1882412432649564274"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882678743082385708",
+        "created_at": "2025-01-24T06:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T07:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882678743082385708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "708333493965557760",
+              "start": 3,
+              "username": "escape_show31"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVxYuLZ9x5",
+              "end": 57,
+              "expanded_url": "https://x.com/escape_show31/status/1882412432649564274/photo/1",
+              "media_key": "3_1882412389737562112",
+              "start": 34,
+              "url": "https://t.co/NVxYuLZ9x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882678743082385708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 613
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882412432649564274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @escape_show31: 地中海性気候みたいなステージ https://t.co/NVxYuLZ9x5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882412389737562112"
+          ]
+        },
+        "author_id": "708333493965557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882412432649564274",
+        "created_at": "2025-01-23T12:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T13:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882412432649564274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVxYuLZ9x5",
+              "end": 38,
+              "expanded_url": "https://x.com/escape_show31/status/1882412432649564274/photo/1",
+              "media_key": "3_1882412389737562112",
+              "start": 15,
+              "url": "https://t.co/NVxYuLZ9x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882412432649564274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 284378,
+          "like_count": 7013,
+          "quote_count": 103,
+          "reply_count": 22,
+          "retweet_count": 613
+        },
+        "reply_settings": "everyone",
+        "text": "地中海性気候みたいなステージ https://t.co/NVxYuLZ9x5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 2317,
+          "like_count": 33724,
+          "listed_count": 4,
+          "media_count": 581,
+          "tweet_count": 6178
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-11T16:47:19.000Z",
+        "description": "YouTube「トフィーの地理教室」を運営。松竹芸能で芸人もしています。今年は高校と予備校と大学で非常勤講師をしています。地理おた部に所属。お仕事ください！芸人アカウント→@TOFFEE2210",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "TOFFEE2210"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCBv7A…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCBv7A7quBvUCd9FycrDNksA",
+                "start": 0,
+                "url": "https://t.co/GDn5AczomF"
+              }
+            ]
+          }
+        },
+        "id": "708333493965557760",
+        "name": "トフィーの地理教室",
+        "pinned_tweet_id": "1880997979362152480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730379098844000256/Avr1Hb0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3845,
+          "following_count": 1424,
+          "like_count": 3585,
+          "listed_count": 45,
+          "media_count": 568,
+          "tweet_count": 6188
+        },
+        "url": "https://t.co/GDn5AczomF",
+        "username": "escape_show31",
+        "verified": false
+      }
+    ]
+  }
+}

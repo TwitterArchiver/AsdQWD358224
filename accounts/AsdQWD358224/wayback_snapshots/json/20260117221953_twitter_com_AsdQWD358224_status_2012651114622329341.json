@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "2012651114622329341",
+    "created_at": "2026-01-17T22:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T23:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012651114622329341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832664562086060032",
+          "start": 3,
+          "username": "Amy526969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012651114622329341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012225547577799165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amy526969: 人就是每个阶段都以为自己开智了，实际上再过一年甚至只要几个月就知道自己那个时候还是大傻逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2012651114622329341",
+        "created_at": "2026-01-17T22:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T23:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012651114622329341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832664562086060032",
+              "start": 3,
+              "username": "Amy526969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012651114622329341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012225547577799165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amy526969: 人就是每个阶段都以为自己开智了，实际上再过一年甚至只要几个月就知道自己那个时候还是大傻逼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832664562086060032",
+        "conversation_id": "2012225547577799165",
+        "created_at": "2026-01-16T18:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T19:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012225547577799165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012225547577799165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 39399,
+          "like_count": 1561,
+          "quote_count": 16,
+          "reply_count": 43,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "人就是每个阶段都以为自己开智了，实际上再过一年甚至只要几个月就知道自己那个时候还是大傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/多边关系/蛋挞单推/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww \n  @QieZhiyuan ❤️\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "calsys456"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "QieZhiyuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010959806212022272/wO34eygu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 3058,
+          "like_count": 100893,
+          "listed_count": 12,
+          "media_count": 2219,
+          "tweet_count": 16951
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "生活将我击倒在地 我幸福的睡着了 ｜🎺 @mili07190 ｜提问箱https://t.co/mQpJze4fzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 58,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 35,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "name": "amy",
+        "pinned_tweet_id": "1983125418573013044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 149,
+          "like_count": 15347,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 5772
+        },
+        "username": "Amy526969",
+        "verified": false
+      }
+    ]
+  }
+}

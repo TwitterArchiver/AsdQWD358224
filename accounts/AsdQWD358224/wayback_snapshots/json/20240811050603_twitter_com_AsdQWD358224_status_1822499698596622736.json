@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1821882912565809195",
+    "created_at": "2024-08-11T05:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T06:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822499698596622736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1689018690971275264",
+          "start": 0,
+          "username": "MapGameMoments"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822499698596622736",
+    "in_reply_to_user_id": "1689018690971275264",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821882912565809195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MapGameMoments 快去请镜座"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1821882912565809195",
+        "created_at": "2024-08-11T05:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T06:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822499698596622736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1689018690971275264",
+              "start": 0,
+              "username": "MapGameMoments"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822499698596622736",
+        "in_reply_to_user_id": "1689018690971275264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821882912565809195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MapGameMoments 快去请镜座"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821882909432635392"
+          ]
+        },
+        "author_id": "1689018690971275264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1821882912565809195",
+        "created_at": "2024-08-09T12:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T13:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821882912565809195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylohubamt3",
+              "end": 63,
+              "expanded_url": "https://twitter.com/MapGameMoments/status/1821882912565809195/photo/1",
+              "media_key": "3_1821882909432635392",
+              "start": 40,
+              "url": "https://t.co/YlohUBamT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821882912565809195",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 425,
+          "impression_count": 217980,
+          "like_count": 6946,
+          "quote_count": 14,
+          "reply_count": 127,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "Guys they started pushing me, what i do https://t.co/YlohUBamT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 409,
+          "like_count": 693,
+          "listed_count": 0,
+          "tweet_count": 66
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T21:00:28.000Z",
+        "description": "The Epicest Moments In Map Gaming | Account Ran By @Dogger02184383 | dm submissions are welcome | not a political extremist | sometimes posts other stuff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Dogger02184383"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paradoxinteractive.com/our-games/disc…",
+                "end": 23,
+                "expanded_url": "https://www.paradoxinteractive.com/our-games/discover",
+                "start": 0,
+                "url": "https://t.co/E21s2gnJUc"
+              }
+            ]
+          }
+        },
+        "id": "1689018690971275264",
+        "location": "being naval invaded",
+        "name": "Epic Map Game Moments",
+        "pinned_tweet_id": "1804231057945903300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819013605800443905/JMZKitPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3301,
+          "following_count": 307,
+          "like_count": 34137,
+          "listed_count": 3,
+          "tweet_count": 8480
+        },
+        "url": "https://t.co/E21s2gnJUc",
+        "username": "MapGameMoments",
+        "verified": false
+      }
+    ]
+  }
+}

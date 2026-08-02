@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "2035791693740724430",
+    "created_at": "2026-03-22T18:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T19:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035791693740724430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1568268459674574848",
+          "start": 3,
+          "username": "calsys456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035791693740724430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035611816294785081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @calsys456: 且不提AI，人维护大文件就很难嘛？我开发common-lisp库和emacs插件的时候经常经手几万行的文件，大部分阅读起来都毫无难度。在我们的ANSI标准和社区标准里，我们有一个分号的行内注释、两个分号的步骤注释、三个分号的代码块注释、四个分号的页…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2035791693740724430",
+        "created_at": "2026-03-22T18:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T19:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035791693740724430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1568268459674574848",
+              "start": 3,
+              "username": "calsys456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035791693740724430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035611816294785081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @calsys456: 且不提AI，人维护大文件就很难嘛？我开发common-lisp库和emacs插件的时候经常经手几万行的文件，大部分阅读起来都毫无难度。在我们的ANSI标准和社区标准里，我们有一个分号的行内注释、两个分号的步骤注释、三个分号的代码块注释、四个分号的页…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "conversation_id": "2035611816294785081",
+        "created_at": "2026-03-22T06:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035611816294785081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yetone/status/…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/yetone/status/2035245401100755026",
+              "start": 158,
+              "url": "https://t.co/nj6rarwHqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035611816294785081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "且不提AI，人维护大文件就很难嘛？我开发common-lisp库和emacs插件的时候经常经手几万行的文件，大部分阅读起来都毫无难度。在我们的ANSI标准和社区标准里，我们有一个分号的行内注释、两个分号的步骤注释、三个分号的代码块注释、四个分号的页注释。我们还有ASCII-12分页符，它会在emacs中渲染成一条长线，长线上下会有注释写成的页脚和页眉。我们会系统地组织代码，把变量定义放在页的前面，类型其次，方法和函数随后。每个函数定义的第三个参数都是docstring，docstring的第一行必须是80个字符内的简介，并且docstring必须介绍所有的参数。我们的编辑器（emacs）会正确渲染docstring和它内部插入的符号，并插入超链接。我们还有专门的CI对这些规范进行检查。\n\n人工智能是智能，工人智能也是智能。工人智能不好好维护的东西，换人工智能来也不可能缝补的好。LLM非常聪明，你怎么对待自己的代码，它就怎么对待你的代码——君视臣如草芥，臣视君如寇仇。自己的东西，自己都不好好对待的话，还能指望别人（或智能体）替你操心嘛？\n\nAI guys，醒一醒，去学习软件工程。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 9664,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035245401100755026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "且不提AI，人维护大文件就很难嘛？我开发common-lisp库和emacs插件的时候经常经手几万行的文件，大部分阅读起来都毫无难度。在我们的ANSI标准和社区标准里，我们有一个分号的行内注释、两个分号的步骤注释、三个分号的代码块注释、四个分号的页注释。我们还有ASCII-12分页符，它会在emacs中渲染成一条 https://t.co/nj6rarwHqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/恋爱脑治愈中/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww \n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "calsys456"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 & 鲜虾🍤鱼板🍥面🍜～",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656276719665152/czyvKgrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 3036,
+          "like_count": 101288,
+          "listed_count": 14,
+          "media_count": 2267,
+          "tweet_count": 17311
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ADHD & BPD & C-PTSD & DID & MDD & Schizophrenia | Write in Lisp | Sister @Simone_Luxem @AsdQWD358224, Lover @HANLIANYI331 @wired_hero @Caroline_9870 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "wired_hero"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "calsys.org",
+                "end": 23,
+                "expanded_url": "https://calsys.org",
+                "start": 0,
+                "url": "https://t.co/MUWDEAOVp9"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Wuhan",
+        "name": "北雁月月「月历系统」🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010619340497043456/kc6DVAN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 1089,
+          "like_count": 47566,
+          "listed_count": 8,
+          "media_count": 255,
+          "tweet_count": 4833
+        },
+        "url": "https://t.co/MUWDEAOVp9",
+        "username": "calsys456",
+        "verified": true
+      }
+    ]
+  }
+}

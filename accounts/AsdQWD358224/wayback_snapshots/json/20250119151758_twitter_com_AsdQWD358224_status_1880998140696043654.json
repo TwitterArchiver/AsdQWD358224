@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880993268932186113"
+      ],
+      "media_source_tweet_id": [
+        "1880993272937779336"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1880998140696043654",
+    "created_at": "2025-01-19T15:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T16:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880998140696043654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1491205591754473474",
+          "start": 3,
+          "username": "keshiwohaokun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hGBF8SdpDG",
+          "end": 50,
+          "expanded_url": "https://x.com/keshiwohaokun/status/1880993272937779336/photo/1",
+          "media_key": "3_1880993268932186113",
+          "start": 27,
+          "url": "https://t.co/hGBF8SdpDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880998140696043654",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880993272937779336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keshiwohaokun: 拜见沙糖桔之神 https://t.co/hGBF8SdpDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1880993268932186113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhqhaYOakAE0xtj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880993268932186113"
+          ],
+          "media_source_tweet_id": [
+            "1880993272937779336"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1880998140696043654",
+        "created_at": "2025-01-19T15:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880998140696043654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1491205591754473474",
+              "start": 3,
+              "username": "keshiwohaokun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGBF8SdpDG",
+              "end": 50,
+              "expanded_url": "https://x.com/keshiwohaokun/status/1880993272937779336/photo/1",
+              "media_key": "3_1880993268932186113",
+              "start": 27,
+              "url": "https://t.co/hGBF8SdpDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880998140696043654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880993272937779336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keshiwohaokun: 拜见沙糖桔之神 https://t.co/hGBF8SdpDG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880993268932186113"
+          ]
+        },
+        "author_id": "1491205591754473474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1880993272937779336",
+        "created_at": "2025-01-19T14:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880993272937779336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGBF8SdpDG",
+              "end": 31,
+              "expanded_url": "https://x.com/keshiwohaokun/status/1880993272937779336/photo/1",
+              "media_key": "3_1880993268932186113",
+              "start": 8,
+              "url": "https://t.co/hGBF8SdpDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880993272937779336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拜见沙糖桔之神 https://t.co/hGBF8SdpDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 2210,
+          "like_count": 28433,
+          "listed_count": 3,
+          "media_count": 460,
+          "tweet_count": 5333
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T00:21:40.000Z",
+        "description": "†女的，大概是活的 † sub｜ 日常推/文盲/自由散漫/不接推广 不接置顶/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=PT1iuT9D",
+                "start": 0,
+                "url": "https://t.co/TMKGn0r56g"
+              }
+            ]
+          }
+        },
+        "id": "1491205591754473474",
+        "location": "自用VPN↓",
+        "name": "可是我好困",
+        "pinned_tweet_id": "1828761484031394200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818981689731031040/CRhpHpuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30607,
+          "following_count": 555,
+          "like_count": 63275,
+          "listed_count": 67,
+          "media_count": 2699,
+          "tweet_count": 30260
+        },
+        "url": "https://t.co/TMKGn0r56g",
+        "username": "keshiwohaokun",
+        "verified": false
+      }
+    ]
+  }
+}

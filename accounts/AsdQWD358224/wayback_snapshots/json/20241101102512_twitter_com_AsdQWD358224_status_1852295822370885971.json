@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1849887736507007108",
+    "created_at": "2024-11-01T10:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T11:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852295822370885971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1812217449338785792",
+          "start": 0,
+          "username": "beijieyoufengle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852295822370885971",
+    "in_reply_to_user_id": "1812217449338785792",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849887736507007108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beijieyoufengle 明日方舟的通行证？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1849887736507007108",
+        "created_at": "2024-11-01T10:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T11:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852295822370885971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812217449338785792",
+              "start": 0,
+              "username": "beijieyoufengle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852295822370885971",
+        "in_reply_to_user_id": "1812217449338785792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849887736507007108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beijieyoufengle 明日方舟的通行证？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849887723253006336",
+            "3_1849887724532269057",
+            "3_1849887724087672836"
+          ]
+        },
+        "author_id": "1812217449338785792",
+        "conversation_id": "1849887736507007108",
+        "created_at": "2024-10-25T18:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T19:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849887736507007108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8d96f5BaE",
+              "end": 78,
+              "expanded_url": "https://x.com/beijieyoufengle/status/1849887736507007108/photo/1",
+              "media_key": "3_1849887723253006336",
+              "start": 55,
+              "url": "https://t.co/Q8d96f5BaE"
+            },
+            {
+              "display_url": "pic.x.com/Q8d96f5BaE",
+              "end": 78,
+              "expanded_url": "https://x.com/beijieyoufengle/status/1849887736507007108/photo/1",
+              "media_key": "3_1849887724532269057",
+              "start": 55,
+              "url": "https://t.co/Q8d96f5BaE"
+            },
+            {
+              "display_url": "pic.x.com/Q8d96f5BaE",
+              "end": 78,
+              "expanded_url": "https://x.com/beijieyoufengle/status/1849887736507007108/photo/1",
+              "media_key": "3_1849887724087672836",
+              "start": 55,
+              "url": "https://t.co/Q8d96f5BaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849887736507007108",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 843502,
+          "like_count": 1517,
+          "quote_count": 8,
+          "reply_count": 139,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "动星dd，今天晚上7点进西区负三洗手间男厕第二扇门隔间推门进来免费体验鹅穴，自备tt，多爽也不准发出声音哦😋 https://t.co/Q8d96f5BaE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站",
+        "name": "鲜虾🍤鱼板🍥面🍜（互FO）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 1363,
+          "like_count": 2538,
+          "listed_count": 0,
+          "tweet_count": 493
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T20:08:13.000Z",
+        "description": "北极的一只企鹅～不是鹅！//Coser//明日方舟//🇭🇰//互fo请私信//🏳‍⚧mtf(mtx?)//大证//187//超社恐 请不要大力拍打或滑动哦//垫具人//线下⭕️ 全国可🛬 🚪30聊天🚪100线下(过门报价)//经常被封 不想弄丢鹅宝加Q群101017654（coser/同类直通 顺男过🚪）",
+        "id": "1812217449338785792",
+        "location": "距离你5.0cm/s",
+        "name": "鹅宝不是鹅🏳‍⚧（三号机）",
+        "pinned_tweet_id": "1823997009357103518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821329508370173952/hJiyuZYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9565,
+          "following_count": 184,
+          "like_count": 543,
+          "listed_count": 19,
+          "tweet_count": 462
+        },
+        "username": "beijieyoufengle",
+        "verified": false
+      }
+    ]
+  }
+}

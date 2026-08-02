@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897283579115397123"
+      ],
+      "media_source_tweet_id": [
+        "1897283583011905825"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1897286944197108013",
+    "created_at": "2025-03-05T14:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T15:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897286944197108013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857335218673483776",
+          "start": 3,
+          "username": "mngy289164"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6x8YpiaGd",
+          "end": 44,
+          "expanded_url": "https://x.com/mngy289164/status/1897283583011905825/photo/1",
+          "media_key": "3_1897283579115397123",
+          "start": 21,
+          "url": "https://t.co/G6x8YpiaGd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897286944197108013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897283583011905825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mngy289164: 世界再见 https://t.co/G6x8YpiaGd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1897283579115397123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSBXOta4AMtMCN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897283579115397123"
+          ],
+          "media_source_tweet_id": [
+            "1897283583011905825"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1897286944197108013",
+        "created_at": "2025-03-05T14:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T15:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897286944197108013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857335218673483776",
+              "start": 3,
+              "username": "mngy289164"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6x8YpiaGd",
+              "end": 44,
+              "expanded_url": "https://x.com/mngy289164/status/1897283583011905825/photo/1",
+              "media_key": "3_1897283579115397123",
+              "start": 21,
+              "url": "https://t.co/G6x8YpiaGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897286944197108013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897283583011905825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mngy289164: 世界再见 https://t.co/G6x8YpiaGd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897283579115397123"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "1897283583011905825",
+        "created_at": "2025-03-05T13:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T14:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897283583011905825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6x8YpiaGd",
+              "end": 28,
+              "expanded_url": "https://x.com/mngy289164/status/1897283583011905825/photo/1",
+              "media_key": "3_1897283579115397123",
+              "start": 5,
+              "url": "https://t.co/G6x8YpiaGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897283583011905825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 118,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "世界再见 https://t.co/G6x8YpiaGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（上学ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 2726,
+          "like_count": 63930,
+          "listed_count": 8,
+          "media_count": 1524,
+          "tweet_count": 11637
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "09MTF🍥/幸福......？",
+        "id": "1857335218673483776",
+        "location": "晚安......",
+        "name": "梦雨",
+        "pinned_tweet_id": "1878110660200161498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892963684630302720/UiC-xcV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 241,
+          "like_count": 682,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 262
+        },
+        "username": "mngy289164",
+        "verified": false
+      }
+    ]
+  }
+}

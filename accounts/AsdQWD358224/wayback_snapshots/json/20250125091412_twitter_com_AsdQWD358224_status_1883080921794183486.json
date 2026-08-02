@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1883080657250971931",
+    "created_at": "2025-01-25T09:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T10:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883080921794183486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672124894694490117",
+          "start": 0,
+          "username": "NanaseToki0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883080921794183486",
+    "in_reply_to_user_id": "1672124894694490117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883080657250971931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaseToki0 咱也是（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1883080657250971931",
+        "created_at": "2025-01-25T09:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T10:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883080921794183486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672124894694490117",
+              "start": 0,
+              "username": "NanaseToki0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883080921794183486",
+        "in_reply_to_user_id": "1672124894694490117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883080657250971931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaseToki0 咱也是（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672124894694490117",
+        "conversation_id": "1883080657250971931",
+        "created_at": "2025-01-25T09:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T10:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883080657250971931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AsdQWD358224/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/AsdQWD358224/status/1883069816434811154",
+              "start": 5,
+              "url": "https://t.co/DF4MpQVzAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883080657250971931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883069816434811154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "郊狼（） https://t.co/DF4MpQVzAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 2328,
+          "like_count": 35054,
+          "listed_count": 5,
+          "media_count": 620,
+          "tweet_count": 6492
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T06:10:28.000Z",
+        "description": "20岁/MtF/天残党丑蝈蝻/人群中最不像xyn的就是我/持证含糖/泛性恋/双相/BPD/HPD/ADHD/人格分裂/ISFP-T/抖M/火车迷/已炸柜/超大只/数码爱好者/负能小号@PROGYNOVAxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "PROGYNOVAxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.LGBT",
+                "end": 23,
+                "expanded_url": "http://2345.LGBT",
+                "start": 0,
+                "url": "https://t.co/aNjIsIZxob"
+              }
+            ]
+          }
+        },
+        "id": "1672124894694490117",
+        "location": "上局金温公司",
+        "name": "七濑与喜🏳️‍⚧️🍥没人要的家伙",
+        "pinned_tweet_id": "1865753292997054820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862392793315917827/Wl41dGX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 755,
+          "like_count": 7969,
+          "listed_count": 8,
+          "media_count": 682,
+          "tweet_count": 4155
+        },
+        "url": "https://t.co/aNjIsIZxob",
+        "username": "NanaseToki0",
+        "verified": false
+      }
+    ]
+  }
+}

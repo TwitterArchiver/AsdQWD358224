@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1993829505438503582",
+    "created_at": "2025-11-26T23:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T00:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993829505438503582"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Trieste",
+          "probability": 0.9741,
+          "start": 20,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1361358167192567811",
+          "start": 3,
+          "username": "Fincantieri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993829505438503582",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993424137704878085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fincantieri: In Trieste, the “Be comfortable in the uncomfortable” Convention reminded us that true entrepreneurial spirit is born from…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1993424061515403264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6oQn1FXkAAPmcI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1993829505438503582",
+        "created_at": "2025-11-26T23:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T00:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993829505438503582"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Trieste",
+              "probability": 0.9741,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1361358167192567811",
+              "start": 3,
+              "username": "Fincantieri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993829505438503582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993424137704878085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fincantieri: In Trieste, the “Be comfortable in the uncomfortable” Convention reminded us that true entrepreneurial spirit is born from…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993424061515403264"
+          ]
+        },
+        "author_id": "1361358167192567811",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          }
+        ],
+        "conversation_id": "1993424137704878085",
+        "created_at": "2025-11-25T20:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T21:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993424137704878085"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Trieste",
+              "probability": 0.9827,
+              "start": 3,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X91b4w1hSD",
+              "end": 303,
+              "expanded_url": "https://x.com/Fincantieri/status/1993424137704878085/photo/1",
+              "media_key": "3_1993424061515403264",
+              "start": 280,
+              "url": "https://t.co/X91b4w1hSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993424137704878085",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "In Trieste, the “Be comfortable in the uncomfortable” Convention reminded us that true entrepreneurial spirit is born from seeing change as an opportunity to seize together. In this meeting, we demonstrated that innovation springs from the courage to step forward and the will to turn every challenge into tangible value.\n\nBeing Fincantieri means believing in the strength of ideas, in our ability to evolve, and in respect for the values that have always guided us. Today, we celebrated our identity: a community that grows, renews itself, and looks ahead with determination.\n\nWe bring on board a new energy, certain that only united can we overcome every limit and continue to write the future of our industry."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 702649,
+          "like_count": 1337,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "In Trieste, the “Be comfortable in the uncomfortable” Convention reminded us that true entrepreneurial spirit is born from seeing change as an opportunity to seize together. In this meeting, we demonstrated that innovation springs from the courage to step forward and the will to https://t.co/X91b4w1hSD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/多边关系/蛋挞单推/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@franciswwwww  超级好的姐姐w\n/秋分在线中/我绝对是健全人/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "calsys456"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "franciswwwww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2643,
+          "following_count": 3121,
+          "like_count": 100511,
+          "listed_count": 12,
+          "media_count": 2181,
+          "tweet_count": 16724
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-15T16:55:24.000Z",
+        "description": "We are #Fincantieri. One of the world’s largest shipbuilding groups with one goal: bringing a green and digital future on board.\n#FutureOnBoard",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 7,
+                "tag": "Fincantieri"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "tag": "FutureOnBoard"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fincantieri.com",
+                "end": 23,
+                "expanded_url": "http://www.fincantieri.com",
+                "start": 0,
+                "url": "https://t.co/t940rp54kf"
+              }
+            ]
+          }
+        },
+        "id": "1361358167192567811",
+        "name": "Fincantieri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709214158397280256/-z1UGFpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33325,
+          "following_count": 427,
+          "like_count": 1932,
+          "listed_count": 80,
+          "media_count": 2160,
+          "tweet_count": 2818
+        },
+        "url": "https://t.co/t940rp54kf",
+        "username": "Fincantieri",
+        "verified": true
+      }
+    ]
+  }
+}

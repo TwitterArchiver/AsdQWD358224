@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1806334403565478160",
+    "created_at": "2024-06-29T12:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T13:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807028046400311354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "91095173",
+          "start": 0,
+          "username": "PDXVictoria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807028046400311354",
+    "in_reply_to_user_id": "91095173",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806334403565478160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PDXVictoria 优化一下AI逻辑好不好？能不能给AI多添加一些工业化的权重啊？玩到后期，AI的建设列表全是军营，投资池里面几百m的投资不用，顶着二三十点的建筑力只造军营，你们这帮斯德哥尔摩日山羊的，什么时候才能给他优化了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1806334403565478160",
+        "created_at": "2024-06-29T12:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T13:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807028046400311354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "91095173",
+              "start": 0,
+              "username": "PDXVictoria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807028046400311354",
+        "in_reply_to_user_id": "91095173",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806334403565478160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PDXVictoria 优化一下AI逻辑好不好？能不能给AI多添加一些工业化的权重啊？玩到后期，AI的建设列表全是军营，投资池里面几百m的投资不用，顶着二三十点的建筑力只造军营，你们这帮斯德哥尔摩日山羊的，什么时候才能给他优化了？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806323722434813952"
+          ]
+        },
+        "author_id": "91095173",
+        "conversation_id": "1806334403565478160",
+        "created_at": "2024-06-27T14:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T15:00:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806326713908969502",
+          "1806334403565478160"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Martin",
+              "probability": 0.5158,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Dev Diary 123",
+              "probability": 0.8503,
+              "start": 94,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Hello and welcome to another Victoria 3 Dev Diary, coming hot on the heels of Update 1.7 and the Sphere of Influence expansion. Today’s Dev Diary will be a pretty short one, focusing on our...",
+              "display_url": "pdxint.at/45PpIhm",
+              "end": 254,
+              "expanded_url": "https://pdxint.at/45PpIhm",
+              "start": 231,
+              "status": 200,
+              "title": "Victoria 3 - Dev Diary #123 - Sphere of Influence Post-Release...",
+              "unwound_url": "https://forum.paradoxplaza.com/forum/developer-diary/victoria-3-dev-diary-123-sphere-of-influence-post-release-thoughts.1691824/",
+              "url": "https://t.co/PMhy8BTope"
+            },
+            {
+              "display_url": "pic.twitter.com/L8Qt2ZFyP7",
+              "end": 278,
+              "expanded_url": "https://twitter.com/PDXVictoria/status/1806334403565478160/photo/1",
+              "media_key": "3_1806323722434813952",
+              "start": 255,
+              "url": "https://t.co/L8Qt2ZFyP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806334403565478160",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4629,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Ahoy there! \n\nJoin us with Martin today as he enlightens us all on some of what is to come in Dev Diary 123, talking about our response to Update 1.7 / Sphere of Influence and some details about upcoming hotfixes!\n\nRead more here: https://t.co/PMhy8BTope https://t.co/L8Qt2ZFyP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 361,
+          "like_count": 534,
+          "listed_count": 0,
+          "tweet_count": 60
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T12:30:05.000Z",
+        "description": "Guide your nation through the tumultuous Industrial Revolution to The Great War in #Victoria3. Politics, Economy, Expansion, Revolution. History is in your hand",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 83,
+                "tag": "Victoria3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "victoria3game.com",
+                "end": 23,
+                "expanded_url": "http://victoria3game.com/",
+                "start": 0,
+                "url": "https://t.co/YFNqPmWF77"
+              }
+            ]
+          }
+        },
+        "id": "91095173",
+        "location": "Stockholm, Sweden",
+        "name": "Victoria 3",
+        "pinned_tweet_id": "1805274314524045807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584486276228694017/osN1FfgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48564,
+          "following_count": 30,
+          "like_count": 318,
+          "listed_count": 183,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/YFNqPmWF77",
+        "username": "PDXVictoria",
+        "verified": true
+      }
+    ]
+  }
+}

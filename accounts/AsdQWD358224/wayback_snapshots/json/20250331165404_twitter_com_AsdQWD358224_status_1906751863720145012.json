@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1906722390891171840"
+      ],
+      "media_source_tweet_id": [
+        "1906722523745505283"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1906751863720145012",
+    "created_at": "2025-03-31T16:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T17:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906751863720145012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R6H6byAY5m",
+          "end": 77,
+          "expanded_url": "https://x.com/yottan20001202/status/1906722523745505283/video/1",
+          "media_key": "13_1906722390891171840",
+          "start": 54,
+          "url": "https://t.co/R6H6byAY5m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906751863720145012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906722523745505283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: よしき「相手どうせ理論値だろうから俺も理論値出せばいいべ！！！！」 https://t.co/R6H6byAY5m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12408,
+        "height": 1920,
+        "media_key": "13_1906722390891171840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1906722390891171840/img/nO3Kt_1NOGiXU6qM.jpg",
+        "public_metrics": {
+          "view_count": 3239
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906722390891171840/vid/avc1/320x692/eG9eeu36DmUlMUKE.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906722390891171840/vid/avc1/480x1040/T5qyhxk44LcwkRPC.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906722390891171840/vid/avc1/720x1560/PIb-_5Qgi626uN_S.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906722390891171840/pl/Y8P2ms3dUOca6AWC.m3u8?tag=16"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906722390891171840"
+          ],
+          "media_source_tweet_id": [
+            "1906722523745505283"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906751863720145012",
+        "created_at": "2025-03-31T16:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T17:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906751863720145012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6H6byAY5m",
+              "end": 77,
+              "expanded_url": "https://x.com/yottan20001202/status/1906722523745505283/video/1",
+              "media_key": "13_1906722390891171840",
+              "start": 54,
+              "url": "https://t.co/R6H6byAY5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906751863720145012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906722523745505283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: よしき「相手どうせ理論値だろうから俺も理論値出せばいいべ！！！！」 https://t.co/R6H6byAY5m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906722390891171840"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "1906722523745505283",
+        "created_at": "2025-03-31T14:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906722523745505283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6H6byAY5m",
+              "end": 57,
+              "expanded_url": "https://x.com/yottan20001202/status/1906722523745505283/video/1",
+              "media_key": "13_1906722390891171840",
+              "start": 34,
+              "url": "https://t.co/R6H6byAY5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906722523745505283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7202,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "よしき「相手どうせ理論値だろうから俺も理論値出せばいいべ！！！！」 https://t.co/R6H6byAY5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/07年17岁/含糖友跨顺男/人生二周目/喜欢渃灵和卡西欧/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 2928,
+          "like_count": 80115,
+          "listed_count": 11,
+          "media_count": 1726,
+          "tweet_count": 13529
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会7回優勝(5連覇中！)🏆／フジテレビ2時間生放送出演+大会優勝／地上波テレビ出演／公式生放送出演／白譜面全曲＆ST紫全曲理論値AP／PANDORA白世界初理論値AP／太鼓.全良71(25)／ウニ、プロセカ／サブ@ysk__sub_／インスタ→yottan20001202／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓チャンネル登録してね↓   チームNX 太鼓:EF",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40389,
+          "following_count": 795,
+          "like_count": 24661,
+          "listed_count": 87,
+          "media_count": 12573,
+          "tweet_count": 63176
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

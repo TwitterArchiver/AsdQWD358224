@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1882977731530600852",
+    "created_at": "2025-01-25T04:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T05:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883005731060027722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1480515596844343297",
+          "start": 0,
+          "username": "nakasenonanaho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883005731060027722",
+    "in_reply_to_user_id": "1480515596844343297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883005505028968803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakasenonanaho 快来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1882977731530600852",
+        "created_at": "2025-01-25T04:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T05:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883005731060027722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1480515596844343297",
+              "start": 0,
+              "username": "nakasenonanaho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883005731060027722",
+        "in_reply_to_user_id": "1480515596844343297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883005505028968803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakasenonanaho 快来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480515596844343297",
+        "conversation_id": "1882977731530600852",
+        "created_at": "2025-01-25T04:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T05:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883005505028968803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "成都",
+              "probability": 0.7613,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883005505028968803",
+        "in_reply_to_user_id": "1480515596844343297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883004960021135698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 2月1日に成都に引っ越してきました。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 2322,
+          "like_count": 34746,
+          "listed_count": 5,
+          "media_count": 605,
+          "tweet_count": 6418
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-10T12:23:50.000Z",
+        "description": "",
+        "id": "1480515596844343297",
+        "location": "Kyoto City Fushimi Ward, Kyoto",
+        "name": "中世古ななほ🏳️‍⚧️",
+        "pinned_tweet_id": "1715035951540388318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874977978431778818/Ec9Za-rK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 25,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 85
+        },
+        "username": "nakasenonanaho",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855390521256206336",
+        "3_1855390521256296448"
+      ],
+      "media_source_tweet_id": [
+        "1855390530622116337",
+        "1855390530622116337"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1899822681731797202",
+    "created_at": "2025-03-12T13:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T14:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899822681731797202"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "台北",
+          "probability": 0.3642,
+          "start": 18,
+          "type": "Place"
+        },
+        {
+          "end": 45,
+          "normalized_text": "高木直子さん",
+          "probability": 0.6377,
+          "start": 40,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 91,
+          "tag": "台北中山地下街"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "誠品書店"
+        },
+        {
+          "end": 111,
+          "start": 106,
+          "tag": "高木直子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1725731586984091648",
+          "start": 3,
+          "username": "gumi_triplog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p4OlZWqtRh",
+          "end": 135,
+          "expanded_url": "https://x.com/gumi_triplog/status/1855390530622116337/photo/1",
+          "media_key": "3_1855390521256206336",
+          "start": 112,
+          "url": "https://t.co/p4OlZWqtRh"
+        },
+        {
+          "display_url": "pic.x.com/p4OlZWqtRh",
+          "end": 135,
+          "expanded_url": "https://x.com/gumi_triplog/status/1855390530622116337/photo/1",
+          "media_key": "3_1855390521256296448",
+          "start": 112,
+          "url": "https://t.co/p4OlZWqtRh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899822681731797202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855390530622116337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gumi_triplog: 台北の地下鉄レッドラインの地下街、誠品書店で高木直子さんのフェアやってて展示物面白かった。誠品書店は見てるだけでも楽しい。雨の日にもうってつけ。\n#台北中山地下街 #誠品書店 #高木直子 https://t.co/p4OlZWqtRh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1855390521256206336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb-r2UsaYAAhWPP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1855390521256296448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb-r2UsbwAAOhX2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855390521256206336",
+            "3_1855390521256296448"
+          ],
+          "media_source_tweet_id": [
+            "1855390530622116337",
+            "1855390530622116337"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1899822681731797202",
+        "created_at": "2025-03-12T13:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T14:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899822681731797202"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "台北",
+              "probability": 0.3642,
+              "start": 18,
+              "type": "Place"
+            },
+            {
+              "end": 45,
+              "normalized_text": "高木直子さん",
+              "probability": 0.6377,
+              "start": 40,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 91,
+              "tag": "台北中山地下街"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "誠品書店"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "高木直子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1725731586984091648",
+              "start": 3,
+              "username": "gumi_triplog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4OlZWqtRh",
+              "end": 135,
+              "expanded_url": "https://x.com/gumi_triplog/status/1855390530622116337/photo/1",
+              "media_key": "3_1855390521256206336",
+              "start": 112,
+              "url": "https://t.co/p4OlZWqtRh"
+            },
+            {
+              "display_url": "pic.x.com/p4OlZWqtRh",
+              "end": 135,
+              "expanded_url": "https://x.com/gumi_triplog/status/1855390530622116337/photo/1",
+              "media_key": "3_1855390521256296448",
+              "start": 112,
+              "url": "https://t.co/p4OlZWqtRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899822681731797202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855390530622116337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gumi_triplog: 台北の地下鉄レッドラインの地下街、誠品書店で高木直子さんのフェアやってて展示物面白かった。誠品書店は見てるだけでも楽しい。雨の日にもうってつけ。\n#台北中山地下街 #誠品書店 #高木直子 https://t.co/p4OlZWqtRh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855390521256206336",
+            "3_1855390521256296448"
+          ]
+        },
+        "author_id": "1725731586984091648",
+        "conversation_id": "1855390530622116337",
+        "created_at": "2024-11-09T23:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T00:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855390530622116337"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "台北",
+              "probability": 0.9172,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 27,
+              "normalized_text": "高木直子さん",
+              "probability": 0.6317,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 73,
+              "tag": "台北中山地下街"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "誠品書店"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "高木直子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4OlZWqtRh",
+              "end": 117,
+              "expanded_url": "https://x.com/gumi_triplog/status/1855390530622116337/photo/1",
+              "media_key": "3_1855390521256206336",
+              "start": 94,
+              "url": "https://t.co/p4OlZWqtRh"
+            },
+            {
+              "display_url": "pic.x.com/p4OlZWqtRh",
+              "end": 117,
+              "expanded_url": "https://x.com/gumi_triplog/status/1855390530622116337/photo/1",
+              "media_key": "3_1855390521256296448",
+              "start": 94,
+              "url": "https://t.co/p4OlZWqtRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855390530622116337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "台北の地下鉄レッドラインの地下街、誠品書店で高木直子さんのフェアやってて展示物面白かった。誠品書店は見てるだけでも楽しい。雨の日にもうってつけ。\n#台北中山地下街 #誠品書店 #高木直子 https://t.co/p4OlZWqtRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "fe_ions"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 2791,
+          "like_count": 68624,
+          "listed_count": 7,
+          "media_count": 1608,
+          "tweet_count": 12308
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T04:24:32.000Z",
+        "description": "Travel information, hotels, and delicious restaurants in Asia, mainly Taiwan and Vietnam . /旅行した時の情報、美味しいお店を忘備録的にツイートします。泊まるホテルは基本安宿。",
+        "id": "1725731586984091648",
+        "location": "日本 東京",
+        "name": "グミだけで夜ふかし/Gumi triplog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725732104871587840/Jhhgo0C3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 91,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 414
+        },
+        "username": "gumi_triplog",
+        "verified": false
+      }
+    ]
+  }
+}

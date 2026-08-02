@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1824009414073815515",
+    "created_at": "2024-08-18T03:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T04:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825018745628348808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1038150281794646017",
+          "start": 0,
+          "username": "earthcurated"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825018745628348808",
+    "in_reply_to_user_id": "1038150281794646017",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824009414073815515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@earthcurated 君士坦丁堡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1824009414073815515",
+        "created_at": "2024-08-18T03:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T04:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825018745628348808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1038150281794646017",
+              "start": 0,
+              "username": "earthcurated"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825018745628348808",
+        "in_reply_to_user_id": "1038150281794646017",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824009414073815515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@earthcurated 君士坦丁堡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824009405538402305"
+          ]
+        },
+        "author_id": "1038150281794646017",
+        "conversation_id": "1824009414073815515",
+        "created_at": "2024-08-15T09:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T10:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824009414073815515"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Mars",
+              "probability": 0.9842,
+              "start": 36,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gep27hiveb",
+              "end": 89,
+              "expanded_url": "https://twitter.com/earthcurated/status/1824009414073815515/photo/1",
+              "media_key": "3_1824009405538402305",
+              "start": 66,
+              "url": "https://t.co/Gep27HiVeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824009414073815515",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 506,
+          "impression_count": 1131067,
+          "like_count": 10574,
+          "quote_count": 641,
+          "reply_count": 8710,
+          "retweet_count": 1404
+        },
+        "reply_settings": "everyone",
+        "text": "If you could name the first city on Mars, what would you name it? https://t.co/Gep27HiVeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "汉族\n拒绝政治",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "一只塔罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 463,
+          "like_count": 992,
+          "listed_count": 0,
+          "tweet_count": 82
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-07T19:41:29.000Z",
+        "description": "Displaying Earth's beautiful destinations curated by the world's greatest Photographers.",
+        "id": "1038150281794646017",
+        "name": "Earth",
+        "pinned_tweet_id": "1824009414073815515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590966054800564225/3hZ1EhAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466100,
+          "following_count": 48343,
+          "like_count": 34402,
+          "listed_count": 1941,
+          "tweet_count": 7487
+        },
+        "username": "earthcurated",
+        "verified": true
+      }
+    ]
+  }
+}

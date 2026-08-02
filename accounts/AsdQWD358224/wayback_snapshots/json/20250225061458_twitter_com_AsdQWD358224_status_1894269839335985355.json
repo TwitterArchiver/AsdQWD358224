@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1894004716419383540",
+    "created_at": "2025-02-25T06:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T07:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894269839335985355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813371882059726848",
+          "start": 0,
+          "username": "chenethan1023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894269839335985355",
+    "in_reply_to_user_id": "1813371882059726848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894004716419383540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenethan1023 奶龙可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_1894004708420763649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjbP1hWQAE0Qss.jpg",
+        "width": 716
+      },
+      {
+        "height": 682,
+        "media_key": "3_1894004708286910464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjbP1Bb0AAwzxw.jpg",
+        "width": 716
+      },
+      {
+        "height": 682,
+        "media_key": "3_1894004708424949760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjbP1iWIAAUKSa.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1894004716419383540",
+        "created_at": "2025-02-25T06:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T07:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894269839335985355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813371882059726848",
+              "start": 0,
+              "username": "chenethan1023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894269839335985355",
+        "in_reply_to_user_id": "1813371882059726848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894004716419383540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenethan1023 奶龙可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894004708420763649",
+            "3_1894004708286910464",
+            "3_1894004708424949760"
+          ]
+        },
+        "author_id": "1813371882059726848",
+        "conversation_id": "1894004716419383540",
+        "created_at": "2025-02-24T12:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894004716419383540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QuIt50kkfE",
+              "end": 33,
+              "expanded_url": "https://x.com/chenethan1023/status/1894004716419383540/photo/1",
+              "media_key": "3_1894004708420763649",
+              "start": 10,
+              "url": "https://t.co/QuIt50kkfE"
+            },
+            {
+              "display_url": "pic.x.com/QuIt50kkfE",
+              "end": 33,
+              "expanded_url": "https://x.com/chenethan1023/status/1894004716419383540/photo/1",
+              "media_key": "3_1894004708286910464",
+              "start": 10,
+              "url": "https://t.co/QuIt50kkfE"
+            },
+            {
+              "display_url": "pic.x.com/QuIt50kkfE",
+              "end": 33,
+              "expanded_url": "https://x.com/chenethan1023/status/1894004716419383540/photo/1",
+              "media_key": "3_1894004708424949760",
+              "start": 10,
+              "url": "https://t.co/QuIt50kkfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894004716419383540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 42311,
+          "like_count": 583,
+          "quote_count": 14,
+          "reply_count": 53,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "藍綠白支持者現狀😂 https://t.co/QuIt50kkfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（被教务处赶出学校版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 2655,
+          "like_count": 55999,
+          "listed_count": 7,
+          "media_count": 1393,
+          "tweet_count": 10508
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T00:35:47.000Z",
+        "description": "在中推圈打滾的台灣人🇹🇼/日本語学習者🇯🇵/友地球人🌏/可悲高中生😭/不常鍵政/看心情互fo(大部分都會）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chenet…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/chenethan1023.bsky.social",
+                "start": 0,
+                "url": "https://t.co/OOyxt8BmRq"
+              }
+            ]
+          }
+        },
+        "id": "1813371882059726848",
+        "location": "地球上的某個角落",
+        "name": "うてん 🌧️",
+        "pinned_tweet_id": "1845790325706813884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871937070278889472/grytoyz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 317,
+          "like_count": 12181,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 2220
+        },
+        "url": "https://t.co/OOyxt8BmRq",
+        "username": "chenethan1023",
+        "verified": false
+      }
+    ]
+  }
+}

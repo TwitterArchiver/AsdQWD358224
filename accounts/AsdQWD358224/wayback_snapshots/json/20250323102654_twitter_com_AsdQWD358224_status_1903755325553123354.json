@@ -1,0 +1,683 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      }
+    ],
+    "conversation_id": "1892590804876534018",
+    "created_at": "2025-03-23T10:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T11:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903755325553123354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "155814794",
+          "start": 0,
+          "username": "iingwen"
+        },
+        {
+          "end": 20,
+          "id": "1224953820716945408",
+          "start": 9,
+          "username": "ChingteLai"
+        },
+        {
+          "end": 32,
+          "id": "1882248102746451968",
+          "start": 21,
+          "username": "josephwutw"
+        },
+        {
+          "end": 42,
+          "id": "376412378",
+          "start": 33,
+          "username": "HFXforum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903755325553123354",
+    "in_reply_to_user_id": "155814794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892590804876534018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iingwen @ChingteLai @josephwutw @HFXforum 您好，可以互fo嗎？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_1892584574997147648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkPPpMQWsAA4A2X.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2496,
+        "media_key": "3_1892584624301244416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkPPsD7XgAABAtz.jpg",
+        "width": 3744
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1892584653980381184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkPPtyfbMAAvKDK.jpg",
+        "width": 4096
+      },
+      {
+        "height": 964,
+        "media_key": "3_1892584682966908928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkPPveeWgAAZDav.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "1892590804876534018",
+        "created_at": "2025-03-23T10:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T11:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903755325553123354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "155814794",
+              "start": 0,
+              "username": "iingwen"
+            },
+            {
+              "end": 20,
+              "id": "1224953820716945408",
+              "start": 9,
+              "username": "ChingteLai"
+            },
+            {
+              "end": 32,
+              "id": "1882248102746451968",
+              "start": 21,
+              "username": "josephwutw"
+            },
+            {
+              "end": 42,
+              "id": "376412378",
+              "start": 33,
+              "username": "HFXforum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903755325553123354",
+        "in_reply_to_user_id": "155814794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892590804876534018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iingwen @ChingteLai @josephwutw @HFXforum 您好，可以互fo嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892584574997147648",
+            "3_1892584624301244416",
+            "3_1892584653980381184",
+            "3_1892584682966908928"
+          ]
+        },
+        "author_id": "155814794",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1892590804876534018",
+        "created_at": "2025-02-20T15:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T16:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892590804876534018"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 134,
+              "normalized_text": "Taiwan",
+              "probability": 0.972,
+              "start": 129,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 128,
+              "tag": "Taiwan"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1224953820716945408",
+              "start": 21,
+              "username": "ChingteLai"
+            },
+            {
+              "end": 50,
+              "id": "1882248102746451968",
+              "start": 39,
+              "username": "josephwutw"
+            },
+            {
+              "end": 88,
+              "id": "376412378",
+              "start": 79,
+              "username": "HFXforum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPXY6eodfJ",
+              "end": 311,
+              "expanded_url": "https://x.com/iingwen/status/1892590804876534018/photo/1",
+              "media_key": "3_1892584574997147648",
+              "start": 288,
+              "url": "https://t.co/uPXY6eodfJ"
+            },
+            {
+              "display_url": "pic.x.com/uPXY6eodfJ",
+              "end": 311,
+              "expanded_url": "https://x.com/iingwen/status/1892590804876534018/photo/1",
+              "media_key": "3_1892584624301244416",
+              "start": 288,
+              "url": "https://t.co/uPXY6eodfJ"
+            },
+            {
+              "display_url": "pic.x.com/uPXY6eodfJ",
+              "end": 311,
+              "expanded_url": "https://x.com/iingwen/status/1892590804876534018/photo/1",
+              "media_key": "3_1892584653980381184",
+              "start": 288,
+              "url": "https://t.co/uPXY6eodfJ"
+            },
+            {
+              "display_url": "pic.x.com/uPXY6eodfJ",
+              "end": 311,
+              "expanded_url": "https://x.com/iingwen/status/1892590804876534018/photo/1",
+              "media_key": "3_1892584682966908928",
+              "start": 288,
+              "url": "https://t.co/uPXY6eodfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892590804876534018",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 135810,
+          "like_count": 3323,
+          "quote_count": 8,
+          "reply_count": 189,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "Along with President @ChingteLai &amp; @JosephWuTW, I was proud to welcome the @HFXforum &amp; friends from around the world to #Taiwan to experience our democracy firsthand. Working together, we can ensure security, strengthen our resilience, &amp; safeguard our democratic way of life. https://t.co/uPXY6eodfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧/成都刷新/可以喊我“面面”/泛性恋\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "fe_ions"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 2885,
+          "like_count": 75351,
+          "listed_count": 11,
+          "media_count": 1675,
+          "tweet_count": 13023
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-15T06:45:09.000Z",
+        "description": "中華民國第15任總統 Former President of the Republic of China (Taiwan)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "presidenttsai.com",
+                "end": 23,
+                "expanded_url": "http://www.presidenttsai.com",
+                "start": 0,
+                "url": "https://t.co/vbMyJhRNu1"
+              }
+            ]
+          }
+        },
+        "id": "155814794",
+        "location": "Taipei City",
+        "name": "蔡英文 Tsai Ing-wen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616607829305208832/wqRoWiTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436714,
+          "following_count": 40,
+          "like_count": 546,
+          "listed_count": 6035,
+          "media_count": 2436,
+          "tweet_count": 4653
+        },
+        "url": "https://t.co/vbMyJhRNu1",
+        "username": "iingwen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNP8H"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730152721926516736/K-asKS36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361784,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 1085,
+          "media_count": 334,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/jlskvCNP8H",
+        "username": "ChingteLai",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T02:05:13.000Z",
+        "description": "Secretary-General, Taiwan National Security Council.\nFormer Minister of Foreign Affairs. \nAlso known as JW.",
+        "id": "1882248102746451968",
+        "location": "Taiwan",
+        "name": "Joseph Wu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883090133056196608/1z_4paYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2580,
+          "following_count": 60,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 88
+        },
+        "username": "josephwutw",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-19T20:58:31.000Z",
+        "description": "Promoting strategic cooperation among democracies through our flagship Forum, Peace With Women Fellowship, and John McCain Prize. Tweet ≠ endorsement.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "halifaxtheforum.org",
+                "end": 23,
+                "expanded_url": "http://www.halifaxtheforum.org",
+                "start": 0,
+                "url": "https://t.co/6HE7bHm2PC"
+              }
+            ]
+          }
+        },
+        "id": "376412378",
+        "location": "Washington, DC",
+        "name": "Halifax The Forum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329464497862479872/04nA4yPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13788,
+          "following_count": 2131,
+          "like_count": 853,
+          "listed_count": 149,
+          "media_count": 2056,
+          "tweet_count": 12496
+        },
+        "url": "https://t.co/6HE7bHm2PC",
+        "username": "HFXforum",
+        "verified": true
+      }
+    ]
+  }
+}

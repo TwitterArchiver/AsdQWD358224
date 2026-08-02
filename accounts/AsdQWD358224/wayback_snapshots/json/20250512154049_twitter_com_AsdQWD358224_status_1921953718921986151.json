@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1921928777380012075",
+    "created_at": "2025-05-12T15:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T16:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921953718921986151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "949628172575809536",
+          "start": 0,
+          "username": "tosshi_0716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921953718921986151",
+    "in_reply_to_user_id": "949628172575809536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921928777380012075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tosshi_0716 您"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921928261136781312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwPkhjXkAANEy6.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 186323,
+        "height": 1280,
+        "media_key": "13_1921928261115727872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921928261115727872/img/rwxgc8eTuMVxITB1.jpg",
+        "public_metrics": {
+          "view_count": 3810
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921928261115727872/vid/avc1/320x568/bUW3wmXNW2sfbjxj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921928261115727872/vid/avc1/480x852/Z4myMGYUbzl9FLI9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921928261115727872/vid/avc1/720x1280/50LQQyv1Vi7MPaJi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921928261115727872/pl/Qa1GYysAtRtn3-Wt.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1921928777380012075",
+        "created_at": "2025-05-12T15:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T16:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921953718921986151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "949628172575809536",
+              "start": 0,
+              "username": "tosshi_0716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921953718921986151",
+        "in_reply_to_user_id": "949628172575809536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921928777380012075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tosshi_0716 您"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921928261136781312",
+            "13_1921928261115727872"
+          ]
+        },
+        "author_id": "949628172575809536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921928777380012075",
+        "created_at": "2025-05-12T14:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T15:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921928777380012075"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "MASTER ALL PERFECT",
+              "probability": 0.3997,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aC6fzy1zsR",
+              "end": 141,
+              "expanded_url": "https://x.com/tosshi_0716/status/1921928777380012075/video/1",
+              "media_key": "3_1921928261136781312",
+              "start": 118,
+              "url": "https://t.co/aC6fzy1zsR"
+            },
+            {
+              "display_url": "pic.x.com/aC6fzy1zsR",
+              "end": 141,
+              "expanded_url": "https://x.com/tosshi_0716/status/1921928777380012075/video/1",
+              "media_key": "13_1921928261115727872",
+              "start": 118,
+              "url": "https://t.co/aC6fzy1zsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921928777380012075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 14293,
+          "like_count": 405,
+          "quote_count": 8,
+          "reply_count": 40,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "系ぎて Re:MASTER\nALL PERFECT！！！！！\n！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！\n\nやっっったぞーーーーーーーー！！！！！！！！！！！！！！！！！！\n本当に本当にうれしい！！！ https://t.co/aC6fzy1zsR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/泛性恋/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "fe_ions"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 3126,
+          "like_count": 90898,
+          "listed_count": 12,
+          "media_count": 1904,
+          "tweet_count": 14953
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-06T13:06:14.000Z",
+        "description": "音ゲーやってます maimai16332(画面) 宙双(舞星宴)神、輝舞舞、真全理/CHUNITHM 17.25/オンゲキ21.143/ボルテ20.457/弐寺 十段/プロセカ//スマブラ/スプラ/パズドラ//ホロ/#とっしーのルービックキューブ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 108,
+                "tag": "とっしーのルービックキューブ"
+              }
+            ]
+          }
+        },
+        "id": "949628172575809536",
+        "name": "トッシー",
+        "pinned_tweet_id": "1921928777380012075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504656082706251783/gw2p_45u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1200,
+          "like_count": 94425,
+          "listed_count": 7,
+          "media_count": 3452,
+          "tweet_count": 17318
+        },
+        "username": "tosshi_0716",
+        "verified": false
+      }
+    ]
+  }
+}

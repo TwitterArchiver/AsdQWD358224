@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878173443897937920",
+        "3_1878173444044648448"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1878152407789756840",
+    "created_at": "2025-01-11T20:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T21:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878173448692023693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 29,
+          "id": "1862933126466666496",
+          "start": 15,
+          "username": "moremoreagain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FbfhRfwYMz",
+          "end": 56,
+          "expanded_url": "https://x.com/AsdQWD358224/status/1878173448692023693/photo/1",
+          "media_key": "3_1878173443897937920",
+          "start": 33,
+          "url": "https://t.co/FbfhRfwYMz"
+        },
+        {
+          "display_url": "pic.x.com/FbfhRfwYMz",
+          "end": 56,
+          "expanded_url": "https://x.com/AsdQWD358224/status/1878173448692023693/photo/1",
+          "media_key": "3_1878173444044648448",
+          "start": 33,
+          "url": "https://t.co/FbfhRfwYMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878173448692023693",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878171984917622826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @moremoreagain 浅割 https://t.co/FbfhRfwYMz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1878173448692023693].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1878173448692023693",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1878173448692023693"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1878173443897937920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhCcy9Yb0AAtQB4.jpg",
+        "width": 1793
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1878173444044648448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhCcy97acAA-65k.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688385343580680192",
+        "conversation_id": "1878152407789756840",
+        "created_at": "2025-01-11T20:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T21:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878171984917622826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            },
+            {
+              "end": 28,
+              "id": "1862933126466666496",
+              "start": 14,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878171984917622826",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878171355621003731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 @moremoreagain 可以吗😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 2086,
+          "like_count": 24569,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 4344
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "也可以叫我末里せい(清)？\n泛左进步b成分杂 和平反战 非顺 直 健全群体平权即保卫人权 鸠图伊勒主义\n活一天是一天\n希望大家开心幸福\n祝愿大家平安顺遂\n愿善的人性理性感性终将引领拥有祂的人走向平和柔善的一个又一个地上天国 ^_^\n\n我爱@manakaao68！！！！！！！！！！！！\n永远！！！！！！！！！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 119,
+                "username": "manakaao68"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "小小の木ノ幡みら(是 平和を守れ 哟)🐳⭐️🌴🍥🍉",
+        "pinned_tweet_id": "1877743659074093170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876888618486362112/4cEzMJ8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1148,
+          "like_count": 51581,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 23123
+        },
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "07年大学牲｜偶尔抽象｜来推特发癫｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖｜屏蔽我之前可以跟我说一下原因吗🥺我不会多纠缠的😭什么原因都可以😭\nhttps://t.co/jLUjmSEaHT提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moremoreagain",
+                "end": 118,
+                "expanded_url": "https://ngl.link/moremoreagain",
+                "start": 95,
+                "url": "https://t.co/jLUjmSEaHT"
+              }
+            ]
+          }
+        },
+        "id": "1862933126466666496",
+        "name": "琥珀",
+        "pinned_tweet_id": "1874659413547798629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863409830171742208/hTjZ4qQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 420,
+          "like_count": 13557,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 6328
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

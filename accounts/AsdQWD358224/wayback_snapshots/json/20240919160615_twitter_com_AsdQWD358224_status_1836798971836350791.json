@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1836777478389420444",
+    "created_at": "2024-09-19T16:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T17:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836798971836350791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824699081496649728",
+          "start": 0,
+          "username": "lat_me2die"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836798971836350791",
+    "in_reply_to_user_id": "1824699081496649728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836777478389420444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lat_me2die 你是地球人类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1836777478389420444",
+        "created_at": "2024-09-19T16:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T17:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836798971836350791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824699081496649728",
+              "start": 0,
+              "username": "lat_me2die"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836798971836350791",
+        "in_reply_to_user_id": "1824699081496649728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836777478389420444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lat_me2die 你是地球人类"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836777467207458816"
+          ]
+        },
+        "author_id": "1824699081496649728",
+        "conversation_id": "1836777478389420444",
+        "created_at": "2024-09-19T14:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T15:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836777478389420444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/npbhfz0y5h",
+              "end": 31,
+              "expanded_url": "https://twitter.com/lat_me2die/status/1836777478389420444/photo/1",
+              "media_key": "3_1836777467207458816",
+              "start": 8,
+              "url": "https://t.co/nPbhfz0Y5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836777478389420444",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以我是那种呢 https://t.co/nPbhfz0Y5h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 163
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:46:00.000Z",
+        "description": "大家嚎，这里是红移，一个17岁的蟈蝻高中生喵，希望可以和大家成为朋友，会爱每一个人🥺（不要离开我）║重抑重焦精神病一位║LGBTQ+友好║会OD/割手║左下的三个梦想：英雄纳雄耐尔，自由与世界和平║坚定的互fo主义者║🇺🇦🇵🇸反抗侵略是每个人的责任",
+        "id": "1824699081496649728",
+        "location": "深圳湾底",
+        "name": "138亿年的红移",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836541656167809025/P61Sf8ko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 121,
+          "like_count": 121,
+          "listed_count": 0,
+          "tweet_count": 52
+        },
+        "username": "lat_me2die",
+        "verified": false
+      }
+    ]
+  }
+}

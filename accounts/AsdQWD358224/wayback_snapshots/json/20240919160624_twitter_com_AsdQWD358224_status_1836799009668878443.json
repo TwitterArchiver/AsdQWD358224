@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1836527804286120401",
+    "created_at": "2024-09-19T16:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T17:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836799009668878443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800023244420026368",
+          "start": 0,
+          "username": "Nothingto_U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836799009668878443",
+    "in_reply_to_user_id": "1800023244420026368",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836527804286120401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nothingto_U ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1836527804286120401].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1836527804286120401",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1836527804286120401"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1836527804286120401",
+        "created_at": "2024-09-19T16:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T17:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836799009668878443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800023244420026368",
+              "start": 0,
+              "username": "Nothingto_U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836799009668878443",
+        "in_reply_to_user_id": "1800023244420026368",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836527804286120401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nothingto_U ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 164
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T04:33:08.000Z",
+        "description": "幻想成为中推小天使😇目前是一只乌鸦🐦‍⬛还在等他回来║😡我是不会死的！失踪只是手机被老登收了而已║🏳️‍🌈🏳️‍⚧️LGBTQ+友好║🇨🇳🇹🇼和平万岁，一中各表║左下颠佬，自由意志毛主义者（这是什么东西）",
+        "id": "1800023244420026368",
+        "name": "138亿年的紅移",
+        "pinned_tweet_id": "1836543440781185091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836423025232879616/-IyvMtU5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1071,
+          "like_count": 34253,
+          "listed_count": 2,
+          "tweet_count": 10282
+        },
+        "username": "Nothingto_U",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893618940724535296",
+        "3_1893618947846529024"
+      ],
+      "media_source_tweet_id": [
+        "1893618950589522251",
+        "1893618950589522251"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1893620852572188914",
+    "created_at": "2025-02-23T11:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T12:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893620852572188914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507705239507329034",
+          "start": 3,
+          "username": "xinzoruo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lfqhq9EMYs",
+          "end": 43,
+          "expanded_url": "https://x.com/xinzoruo/status/1893618950589522251/photo/1",
+          "media_key": "3_1893618940724535296",
+          "start": 20,
+          "url": "https://t.co/lfqhq9EMYs"
+        },
+        {
+          "display_url": "pic.x.com/lfqhq9EMYs",
+          "end": 43,
+          "expanded_url": "https://x.com/xinzoruo/status/1893618950589522251/photo/1",
+          "media_key": "3_1893618947846529024",
+          "start": 20,
+          "url": "https://t.co/lfqhq9EMYs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893620852572188914",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893618950589522251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinzoruo: 🔥🔥🔥🔥🔥 https://t.co/lfqhq9EMYs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1893618940724535296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkd8ZM3WYAATyqU.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1893618947846529024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkd8ZnZXYAADB7Z.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893618940724535296",
+            "3_1893618947846529024"
+          ],
+          "media_source_tweet_id": [
+            "1893618950589522251",
+            "1893618950589522251"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1893620852572188914",
+        "created_at": "2025-02-23T11:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893620852572188914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507705239507329034",
+              "start": 3,
+              "username": "xinzoruo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfqhq9EMYs",
+              "end": 43,
+              "expanded_url": "https://x.com/xinzoruo/status/1893618950589522251/photo/1",
+              "media_key": "3_1893618940724535296",
+              "start": 20,
+              "url": "https://t.co/lfqhq9EMYs"
+            },
+            {
+              "display_url": "pic.x.com/lfqhq9EMYs",
+              "end": 43,
+              "expanded_url": "https://x.com/xinzoruo/status/1893618950589522251/photo/1",
+              "media_key": "3_1893618947846529024",
+              "start": 20,
+              "url": "https://t.co/lfqhq9EMYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893620852572188914",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893618950589522251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinzoruo: 🔥🔥🔥🔥🔥 https://t.co/lfqhq9EMYs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893618940724535296",
+            "3_1893618947846529024"
+          ]
+        },
+        "author_id": "1507705239507329034",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1891093995842879878",
+        "created_at": "2025-02-23T11:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893618950589522251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfqhq9EMYs",
+              "end": 29,
+              "expanded_url": "https://x.com/xinzoruo/status/1893618950589522251/photo/1",
+              "media_key": "3_1893618940724535296",
+              "start": 6,
+              "url": "https://t.co/lfqhq9EMYs"
+            },
+            {
+              "display_url": "pic.x.com/lfqhq9EMYs",
+              "end": 29,
+              "expanded_url": "https://x.com/xinzoruo/status/1893618950589522251/photo/1",
+              "media_key": "3_1893618947846529024",
+              "start": 6,
+              "url": "https://t.co/lfqhq9EMYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893618950589522251",
+        "in_reply_to_user_id": "1507705239507329034",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 7110,
+          "like_count": 1030,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891093995842879878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🔥🔥🔥🔥🔥 https://t.co/lfqhq9EMYs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/重度抑郁+焦虑/喜欢渃灵喵/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    姐姐^ω^\n@Caroline_9870  爱你宝宝～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "fe_ions"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Caroline_9870"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（被教务处赶出学校版）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 2643,
+          "like_count": 54856,
+          "listed_count": 7,
+          "media_count": 1368,
+          "tweet_count": 10306
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T13:05:29.000Z",
+        "description": "原神、zzzeroやってます、夜蘭推し、yelanhaver，悲催等兰人→快乐等兰人→开心有兰人→开心6命有兰人 →愉悦6影rua鲨人       (头像 /アイコン/PFP☞OK)",
+        "id": "1507705239507329034",
+        "location": "璃月港    岩上茶室",
+        "name": "心臓弱眞君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507705872868249603/XTEK56bE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226630,
+          "following_count": 19,
+          "like_count": 2099,
+          "listed_count": 2570,
+          "media_count": 722,
+          "tweet_count": 1298
+        },
+        "username": "xinzoruo",
+        "verified": false
+      }
+    ]
+  }
+}

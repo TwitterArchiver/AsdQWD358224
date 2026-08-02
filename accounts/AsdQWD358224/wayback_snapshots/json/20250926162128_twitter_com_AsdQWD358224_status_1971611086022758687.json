@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971014216707452928"
+      ],
+      "media_source_tweet_id": [
+        "1971014221103263976"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1971611086022758687",
+    "created_at": "2025-09-26T16:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T17:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971611086022758687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "819329857465253888",
+          "start": 3,
+          "username": "biggersocks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P770LGvTWk",
+          "end": 40,
+          "expanded_url": "https://x.com/biggersocks/status/1971014221103263976/photo/1",
+          "media_key": "3_1971014216707452928",
+          "start": 17,
+          "url": "https://t.co/P770LGvTWk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971611086022758687",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19099
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971014221103263976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biggersocks: https://t.co/P770LGvTWk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 836,
+        "media_key": "3_1971014216707452928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1py_LoXsAAILit.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971014216707452928"
+          ],
+          "media_source_tweet_id": [
+            "1971014221103263976"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1971611086022758687",
+        "created_at": "2025-09-26T16:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971611086022758687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "819329857465253888",
+              "start": 3,
+              "username": "biggersocks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P770LGvTWk",
+              "end": 40,
+              "expanded_url": "https://x.com/biggersocks/status/1971014221103263976/photo/1",
+              "media_key": "3_1971014216707452928",
+              "start": 17,
+              "url": "https://t.co/P770LGvTWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971611086022758687",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19099
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971014221103263976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biggersocks: https://t.co/P770LGvTWk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971014216707452928"
+          ]
+        },
+        "author_id": "819329857465253888",
+        "conversation_id": "1971014221103263976",
+        "created_at": "2025-09-25T00:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T01:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971014221103263976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P770LGvTWk",
+              "end": 23,
+              "expanded_url": "https://x.com/biggersocks/status/1971014221103263976/photo/1",
+              "media_key": "3_1971014216707452928",
+              "start": 0,
+              "url": "https://t.co/P770LGvTWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971014221103263976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6020,
+          "impression_count": 2964206,
+          "like_count": 237151,
+          "quote_count": 417,
+          "reply_count": 130,
+          "retweet_count": 19099
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P770LGvTWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/反战反仇恨/❤️    \n@Caroline_9870   ❤️   @calsym456  ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️\n/秋分在线中/双相焦虑阿斯ADHD C-PTSD/混合型系统/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "calsym456"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "fe_ions"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 3142,
+          "like_count": 100039,
+          "listed_count": 11,
+          "media_count": 2096,
+          "tweet_count": 16331
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-11T23:47:15.000Z",
+        "description": ":3",
+        "id": "819329857465253888",
+        "location": "yearning",
+        "name": "bigsock",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919941549837737984/as6ZPA00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23309,
+          "following_count": 13368,
+          "like_count": 308214,
+          "listed_count": 50,
+          "media_count": 3855,
+          "tweet_count": 11603
+        },
+        "username": "biggersocks",
+        "verified": true
+      }
+    ]
+  }
+}

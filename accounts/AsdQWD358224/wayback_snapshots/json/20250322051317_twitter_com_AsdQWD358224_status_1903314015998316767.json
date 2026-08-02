@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902737095791104000"
+      ],
+      "media_source_tweet_id": [
+        "1902737097535946976"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1903314015998316767",
+    "created_at": "2025-03-22T05:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T06:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903314015998316767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710843354668204032",
+          "start": 3,
+          "username": "4azai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pmGVDS9SGI",
+          "end": 56,
+          "expanded_url": "https://x.com/4azai/status/1902737097535946976/photo/1",
+          "media_key": "3_1902737095791104000",
+          "start": 33,
+          "url": "https://t.co/pmGVDS9SGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903314015998316767",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10633
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902737097535946976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4azai: MY DAD KILLED HIMSELF https://t.co/pmGVDS9SGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1902737095791104000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmfhTreWUAA5eJA.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902737095791104000"
+          ],
+          "media_source_tweet_id": [
+            "1902737097535946976"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1903314015998316767",
+        "created_at": "2025-03-22T05:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T06:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903314015998316767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710843354668204032",
+              "start": 3,
+              "username": "4azai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmGVDS9SGI",
+              "end": 56,
+              "expanded_url": "https://x.com/4azai/status/1902737097535946976/photo/1",
+              "media_key": "3_1902737095791104000",
+              "start": 33,
+              "url": "https://t.co/pmGVDS9SGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903314015998316767",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10633
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902737097535946976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4azai: MY DAD KILLED HIMSELF https://t.co/pmGVDS9SGI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902737095791104000"
+          ]
+        },
+        "author_id": "1710843354668204032",
+        "conversation_id": "1902737097535946976",
+        "created_at": "2025-03-20T15:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T16:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902737097535946976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmGVDS9SGI",
+              "end": 45,
+              "expanded_url": "https://x.com/4azai/status/1902737097535946976/photo/1",
+              "media_key": "3_1902737095791104000",
+              "start": 22,
+              "url": "https://t.co/pmGVDS9SGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902737097535946976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12206,
+          "impression_count": 6604642,
+          "like_count": 279796,
+          "quote_count": 2322,
+          "reply_count": 2696,
+          "retweet_count": 10633
+        },
+        "reply_settings": "everyone",
+        "text": "MY DAD KILLED HIMSELF https://t.co/pmGVDS9SGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/LGBT+友善/MTF🏳️‍⚧️/07年17岁/高三在读/人生二周目/喜欢渃灵和卡西欧/成都刷新/可以喊我“面面”/泛性恋\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝/主人\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "fe_ions"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜（❤️ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 2873,
+          "like_count": 74202,
+          "listed_count": 11,
+          "media_count": 1666,
+          "tweet_count": 12927
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T02:24:28.000Z",
+        "description": "he / him | gf is @Abbysoreal__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "Abbysoreal__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4azai.straw.page",
+                "end": 23,
+                "expanded_url": "https://4azai.straw.page",
+                "start": 0,
+                "url": "https://t.co/WWkLyCHy43"
+              }
+            ]
+          }
+        },
+        "id": "1710843354668204032",
+        "location": "18",
+        "name": "NOT bam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897831475266940928/WGhf5NTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 369,
+          "like_count": 14984,
+          "listed_count": 15,
+          "media_count": 3980,
+          "tweet_count": 19926
+        },
+        "url": "https://t.co/WWkLyCHy43",
+        "username": "4azai",
+        "verified": false
+      }
+    ]
+  }
+}

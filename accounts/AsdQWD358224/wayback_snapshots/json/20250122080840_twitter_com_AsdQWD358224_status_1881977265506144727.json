@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881661433592889344"
+      ],
+      "media_source_tweet_id": [
+        "1881661445089411189"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "1881977265506144727",
+    "created_at": "2025-01-22T08:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T09:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881977265506144727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1368048128365105153",
+          "start": 3,
+          "username": "miniarchillect"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Gf34KL9oz",
+          "end": 43,
+          "expanded_url": "https://x.com/miniarchillect/status/1881661445089411189/photo/1",
+          "media_key": "3_1881661433592889344",
+          "start": 20,
+          "url": "https://t.co/2Gf34KL9oz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881977265506144727",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2820
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881661445089411189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miniarchillect: https://t.co/2Gf34KL9oz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1881661433592889344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh0BGrjbQAAn33Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881661433592889344"
+          ],
+          "media_source_tweet_id": [
+            "1881661445089411189"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1881977265506144727",
+        "created_at": "2025-01-22T08:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T09:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881977265506144727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1368048128365105153",
+              "start": 3,
+              "username": "miniarchillect"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Gf34KL9oz",
+              "end": 43,
+              "expanded_url": "https://x.com/miniarchillect/status/1881661445089411189/photo/1",
+              "media_key": "3_1881661433592889344",
+              "start": 20,
+              "url": "https://t.co/2Gf34KL9oz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881977265506144727",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2820
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881661445089411189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miniarchillect: https://t.co/2Gf34KL9oz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881661433592889344"
+          ]
+        },
+        "author_id": "1368048128365105153",
+        "conversation_id": "1881661445089411189",
+        "created_at": "2025-01-21T11:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T12:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881661445089411189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Gf34KL9oz",
+              "end": 23,
+              "expanded_url": "https://x.com/miniarchillect/status/1881661445089411189/photo/1",
+              "media_key": "3_1881661433592889344",
+              "start": 0,
+              "url": "https://t.co/2Gf34KL9oz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881661445089411189",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1721,
+          "impression_count": 442206,
+          "like_count": 25719,
+          "quote_count": 36,
+          "reply_count": 34,
+          "retweet_count": 2820
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2Gf34KL9oz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 2283,
+          "like_count": 31632,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 5820
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T03:57:59.000Z",
+        "description": "The mini ocular engine.",
+        "id": "1368048128365105153",
+        "location": "𝕏",
+        "name": "Mini Archillect",
+        "pinned_tweet_id": "1881949453416124807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872776618432991232/SjdVJCZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89326,
+          "following_count": 196,
+          "like_count": 12747,
+          "listed_count": 474,
+          "media_count": 6282,
+          "tweet_count": 7356
+        },
+        "username": "miniarchillect",
+        "verified": true
+      }
+    ]
+  }
+}

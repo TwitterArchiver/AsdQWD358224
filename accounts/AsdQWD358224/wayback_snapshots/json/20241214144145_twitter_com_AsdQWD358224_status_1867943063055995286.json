@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1867870399129854457",
+    "created_at": "2024-12-14T14:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T15:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867943063055995286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374225903136481284",
+          "start": 0,
+          "username": "Whatis7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867943063055995286",
+    "in_reply_to_user_id": "1374225903136481284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867870399129854457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatis7777777 谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1867870399129854457",
+        "created_at": "2024-12-14T14:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T15:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867943063055995286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374225903136481284",
+              "start": 0,
+              "username": "Whatis7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867943063055995286",
+        "in_reply_to_user_id": "1374225903136481284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867870399129854457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatis7777777 谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374225903136481284",
+        "conversation_id": "1867870399129854457",
+        "created_at": "2024-12-14T09:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T10:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867870399129854457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867870399129854457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2123,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "写给小孩哥：\n\n生命很长\n黑暗时，每一秒都是煎熬\n生命很短，\n一眨眼，又到了被人类称作年的\n尽头\n生命\n也许有意义\n也许没有\n但我，多么希望\n每一朵花\n都曾淋漓尽致地绽放过\n也许有人爱过你\n也许没有\n那又有什么关系\n但如果你学会爱自己\n就等于爱着神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺？男？（没有翻车）/高三在读/无政治倾向/抑郁ing…/汉族/拒绝建政/喜欢猫猫/对任何人友善（除了zhihei）/成渝刷新/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1818,
+          "like_count": 5564,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1223
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T05:06:10.000Z",
+        "description": "Be true, be brave, be strong… \n真相不反抗，就被谎言拿走了阵地。\nI'm proud of being Chinese.\n------------------------------------\n小孩哥友好。",
+        "id": "1374225903136481284",
+        "name": "实事求是永立不败之地",
+        "pinned_tweet_id": "1751155746484682802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861998799088164864/4l9vzpVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46787,
+          "following_count": 3214,
+          "like_count": 179036,
+          "listed_count": 175,
+          "media_count": 6047,
+          "tweet_count": 81431
+        },
+        "username": "Whatis7777777",
+        "verified": true
+      }
+    ]
+  }
+}
