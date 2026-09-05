@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090428183535349760"
+      ],
+      "media_source_tweet_id": [
+        "2090428303970562133"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "2090742522113032493",
+    "created_at": "2026-08-21T10:07:16.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090742522113032493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552795969959636992",
+          "start": 3,
+          "username": "EndWokeness"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LC6do0LdzT",
+          "end": 133,
+          "expanded_url": "https://x.com/EndWokeness/status/2090428303970562133/video/1",
+          "media_key": "13_2090428183535349760",
+          "start": 110,
+          "url": "https://t.co/LC6do0LdzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090742522113032493",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2090428183535349760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5350
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090428303970562133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EndWokeness: Lindsay Clancy brutally strangled her 3 kids to death\n\nCurrent scene outside the courthouse: https://t.co/LC6do0LdzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21266,
+        "height": 1080,
+        "media_key": "13_2090428183535349760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090428183535349760/img/LltDbkrdtpDasL2Y.jpg",
+        "public_metrics": {
+          "view_count": 5510397
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090428183535349760/vid/avc1/1888x1080/aXcw4jMgTeoYAwia.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090428183535349760/vid/avc1/628x360/vAcqo3hIXiShWZzS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090428183535349760/vid/avc1/1258x720/kEfJi-SafPFhyCvS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090428183535349760/pl/Au9PgOy8ftFd1WH0.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090428183535349760/vid/avc1/472x270/LK2sF0_HuEMWYBpZ.mp4"
+          }
+        ],
+        "width": 1888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090428183535349760"
+          ],
+          "media_source_tweet_id": [
+            "2090428303970562133"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2090742522113032493",
+        "created_at": "2026-08-21T10:07:16.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090742522113032493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552795969959636992",
+              "start": 3,
+              "username": "EndWokeness"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LC6do0LdzT",
+              "end": 133,
+              "expanded_url": "https://x.com/EndWokeness/status/2090428303970562133/video/1",
+              "media_key": "13_2090428183535349760",
+              "start": 110,
+              "url": "https://t.co/LC6do0LdzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090742522113032493",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090428183535349760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5350
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090428303970562133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EndWokeness: Lindsay Clancy brutally strangled her 3 kids to death\n\nCurrent scene outside the courthouse: https://t.co/LC6do0LdzT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090428183535349760"
+          ]
+        },
+        "author_id": "1552795969959636992",
+        "conversation_id": "2090428303970562133",
+        "created_at": "2026-08-20T13:18:40.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090428303970562133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LC6do0LdzT",
+              "end": 116,
+              "expanded_url": "https://x.com/EndWokeness/status/2090428303970562133/video/1",
+              "media_key": "13_2090428183535349760",
+              "start": 93,
+              "url": "https://t.co/LC6do0LdzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090428303970562133",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090428183535349760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7836,
+          "impression_count": 13846806,
+          "like_count": 50350,
+          "quote_count": 4320,
+          "reply_count": 7207,
+          "retweet_count": 5349
+        },
+        "reply_settings": "everyone",
+        "text": "Lindsay Clancy brutally strangled her 3 kids to death\n\nCurrent scene outside the courthouse: https://t.co/LC6do0LdzT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 133,
+                "start": 119,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2090742522113032493",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 2983,
+          "like_count": 102921,
+          "listed_count": 13,
+          "media_count": 2341,
+          "tweet_count": 18416
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-28T23:20:28.000Z",
+        "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+        "id": "1552795969959636992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090635577464930672",
+        "name": "End Wokeness",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552795969959636992/1784486106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3915021,
+          "following_count": 1393,
+          "like_count": 20408,
+          "listed_count": 9001,
+          "media_count": 12359,
+          "tweet_count": 24764
+        },
+        "url": "",
+        "username": "EndWokeness",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

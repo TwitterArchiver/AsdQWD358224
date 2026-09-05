@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092237065752834048",
+        "3_2092237065677307904",
+        "3_2092237065694150656",
+        "3_2092237065769676800"
+      ],
+      "media_source_tweet_id": [
+        "2092237075634692381",
+        "2092237075634692381",
+        "2092237075634692381",
+        "2092237075634692381"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092651933240901704",
+    "created_at": "2026-08-26T16:34:35.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092651933240901704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "969389763760291840",
+          "start": 3,
+          "username": "hishark777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LCS11rnzgs",
+          "end": 52,
+          "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+          "media_key": "3_2092237065752834048",
+          "start": 29,
+          "url": "https://t.co/LCS11rnzgs"
+        },
+        {
+          "display_url": "pic.x.com/LCS11rnzgs",
+          "end": 52,
+          "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+          "media_key": "3_2092237065677307904",
+          "start": 29,
+          "url": "https://t.co/LCS11rnzgs"
+        },
+        {
+          "display_url": "pic.x.com/LCS11rnzgs",
+          "end": 52,
+          "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+          "media_key": "3_2092237065694150656",
+          "start": 29,
+          "url": "https://t.co/LCS11rnzgs"
+        },
+        {
+          "display_url": "pic.x.com/LCS11rnzgs",
+          "end": 52,
+          "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+          "media_key": "3_2092237065769676800",
+          "start": 29,
+          "url": "https://t.co/LCS11rnzgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092651933240901704",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092237065752834048"
+      },
+      {
+        "media_key": "3_2092237065677307904"
+      },
+      {
+        "media_key": "3_2092237065694150656"
+      },
+      {
+        "media_key": "3_2092237065769676800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092237075634692381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hishark777: 我靠我百分之一百是小厨神 https://t.co/LCS11rnzgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092237065752834048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkehrIacAA9Byo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092237065677307904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkehq2aAAAWlbI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092237065694150656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkehq6bAAAzLrh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092237065769676800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkehrMbcAAch99.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092237065752834048",
+            "3_2092237065677307904",
+            "3_2092237065694150656",
+            "3_2092237065769676800"
+          ],
+          "media_source_tweet_id": [
+            "2092237075634692381",
+            "2092237075634692381",
+            "2092237075634692381",
+            "2092237075634692381"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092651933240901704",
+        "created_at": "2026-08-26T16:34:35.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092651933240901704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "969389763760291840",
+              "start": 3,
+              "username": "hishark777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCS11rnzgs",
+              "end": 52,
+              "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+              "media_key": "3_2092237065752834048",
+              "start": 29,
+              "url": "https://t.co/LCS11rnzgs"
+            },
+            {
+              "display_url": "pic.x.com/LCS11rnzgs",
+              "end": 52,
+              "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+              "media_key": "3_2092237065677307904",
+              "start": 29,
+              "url": "https://t.co/LCS11rnzgs"
+            },
+            {
+              "display_url": "pic.x.com/LCS11rnzgs",
+              "end": 52,
+              "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+              "media_key": "3_2092237065694150656",
+              "start": 29,
+              "url": "https://t.co/LCS11rnzgs"
+            },
+            {
+              "display_url": "pic.x.com/LCS11rnzgs",
+              "end": 52,
+              "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+              "media_key": "3_2092237065769676800",
+              "start": 29,
+              "url": "https://t.co/LCS11rnzgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092651933240901704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092237065752834048"
+          },
+          {
+            "media_key": "3_2092237065677307904"
+          },
+          {
+            "media_key": "3_2092237065694150656"
+          },
+          {
+            "media_key": "3_2092237065769676800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092237075634692381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hishark777: 我靠我百分之一百是小厨神 https://t.co/LCS11rnzgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092237065752834048",
+            "3_2092237065677307904",
+            "3_2092237065694150656",
+            "3_2092237065769676800"
+          ]
+        },
+        "author_id": "969389763760291840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092237075634692381",
+        "created_at": "2026-08-25T13:06:05.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092237075634692381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCS11rnzgs",
+              "end": 36,
+              "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+              "media_key": "3_2092237065752834048",
+              "start": 13,
+              "url": "https://t.co/LCS11rnzgs"
+            },
+            {
+              "display_url": "pic.x.com/LCS11rnzgs",
+              "end": 36,
+              "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+              "media_key": "3_2092237065677307904",
+              "start": 13,
+              "url": "https://t.co/LCS11rnzgs"
+            },
+            {
+              "display_url": "pic.x.com/LCS11rnzgs",
+              "end": 36,
+              "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+              "media_key": "3_2092237065694150656",
+              "start": 13,
+              "url": "https://t.co/LCS11rnzgs"
+            },
+            {
+              "display_url": "pic.x.com/LCS11rnzgs",
+              "end": 36,
+              "expanded_url": "https://x.com/hishark777/status/2092237075634692381/photo/1",
+              "media_key": "3_2092237065769676800",
+              "start": 13,
+              "url": "https://t.co/LCS11rnzgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092237075634692381",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092237065752834048"
+          },
+          {
+            "media_key": "3_2092237065677307904"
+          },
+          {
+            "media_key": "3_2092237065694150656"
+          },
+          {
+            "media_key": "3_2092237065769676800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 23629,
+          "like_count": 787,
+          "quote_count": 2,
+          "reply_count": 191,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我百分之一百是小厨神 https://t.co/LCS11rnzgs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 /@xiao_wen0510   /@Nahida_miao/@fe_ions/@happyhejsday /@wanan071020/ @rosmarinou\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "wanan071020"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2092651933240901704",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 2971,
+          "like_count": 102968,
+          "listed_count": 13,
+          "media_count": 2346,
+          "tweet_count": 18473
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-02T01:51:44.000Z",
+        "description": "屁话很多 只爱发碎碎念 ENFJ \n是全世界中很小的一只 NPC",
+        "id": "969389763760291840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092612079442383087",
+        "name": "喂鯊魚",
+        "pinned_tweet_id": "1454258962677653504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969389763760291840/1774847799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083020844507578368/uH6R6ZqX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 522,
+          "like_count": 269,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "hishark777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "2087913728511754391",
+    "created_at": "2026-08-13T14:46:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087913728511754391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1568268459674574848",
+          "start": 3,
+          "username": "calsys456"
+        },
+        {
+          "end": 31,
+          "id": "1395658814402162689",
+          "start": 15,
+          "username": "8964tou12345678"
+        },
+        {
+          "end": 47,
+          "id": "1918274202580467713",
+          "start": 32,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087913728511754391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051983694349603211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @calsys456: @8964tou12345678 @CyberKanjousen 有研究发现跨性别与神经多样性高度相关（这也是社群中显著可见的现象），令寻常人感到良好的环境对自闭症、AuDHD等人群来说可能并不合适。跨性别的抑郁/自杀率可能不只是“跨性别”本身造成…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2087913728511754391",
+        "created_at": "2026-08-13T14:46:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087913728511754391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1568268459674574848",
+              "start": 3,
+              "username": "calsys456"
+            },
+            {
+              "end": 31,
+              "id": "1395658814402162689",
+              "start": 15,
+              "username": "8964tou12345678"
+            },
+            {
+              "end": 47,
+              "id": "1918274202580467713",
+              "start": 32,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087913728511754391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051983694349603211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @calsys456: @8964tou12345678 @CyberKanjousen 有研究发现跨性别与神经多样性高度相关（这也是社群中显著可见的现象），令寻常人感到良好的环境对自闭症、AuDHD等人群来说可能并不合适。跨性别的抑郁/自杀率可能不只是“跨性别”本身造成…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "conversation_id": "2051650935366283558",
+        "created_at": "2026-05-06T11:13:31.000Z",
+        "display_text_range": [
+          33,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051983694349603211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "8964tou12345678"
+            },
+            {
+              "end": 32,
+              "id": "1918274202580467713",
+              "start": 17,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051983694349603211",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 216,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051731663403585570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tou12345678 @CyberKanjousen 有研究发现跨性别与神经多样性高度相关（这也是社群中显著可见的现象），令寻常人感到良好的环境对自闭症、AuDHD等人群来说可能并不合适。跨性别的抑郁/自杀率可能不只是“跨性别”本身造成的，而是多种人们未能探明的因素的结合qaq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 133,
+                "start": 119,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2087913728511754391",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 2996,
+          "like_count": 102955,
+          "listed_count": 13,
+          "media_count": 2338,
+          "tweet_count": 18347
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ADHD & BPD & C-PTSD & DID & MDD & Schizophrenia | Write in Lisp | Sister @Simone_Luxem @AsdQWD358224, Lover @HANLIANYI331 @wired_hero @Caroline_9870 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "wired_hero"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "calsys.org",
+                "end": 23,
+                "expanded_url": "https://calsys.org",
+                "start": 0,
+                "url": "https://t.co/MUWDEAOVp9"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "is_identity_verified": false,
+        "location": "Wuhan",
+        "most_recent_tweet_id": "2087195833917939989",
+        "name": "北雁月月「月历系统」🏳‍⚧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568268459674574848/1679705348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010619340497043456/kc6DVAN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 1140,
+          "like_count": 49671,
+          "listed_count": 10,
+          "media_count": 279,
+          "tweet_count": 5049
+        },
+        "url": "https://t.co/MUWDEAOVp9",
+        "username": "calsys456",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087899984289030383",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395658814402162689/1686382233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10504,
+          "following_count": 11197,
+          "like_count": 340323,
+          "listed_count": 65,
+          "media_count": 2431,
+          "tweet_count": 55064
+        },
+        "url": "",
+        "username": "8964tou12345678",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLo50A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 65,
+                "url": "https://t.co/NMKeNLo50A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087913062586032218",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15105,
+          "following_count": 879,
+          "like_count": 33444,
+          "listed_count": 25,
+          "media_count": 2617,
+          "tweet_count": 12142
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

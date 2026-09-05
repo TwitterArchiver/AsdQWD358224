@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090796939633897473"
+      ],
+      "media_source_tweet_id": [
+        "2090796957300367783"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "2091010463262036477",
+    "created_at": "2026-08-22T03:51:58.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T04:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091010463262036477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751084995312275456",
+          "start": 3,
+          "username": "mikumiku3648"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oKoPw2jrKl",
+          "end": 105,
+          "expanded_url": "https://x.com/mikumiku3648/status/2090796957300367783/video/1",
+          "media_key": "13_2090796939633897473",
+          "start": 82,
+          "url": "https://t.co/oKoPw2jrKl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091010463262036477",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090796939633897473"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090796957300367783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikumiku3648: 唉，意识形态入脑导致的\na指导什么时候能意识到生活舒服的原因并不是性别而是他家里很有钱\n美本文科连最基本的世界观方法论都不教吗 https://t.co/oKoPw2jrKl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13916,
+        "height": 582,
+        "media_key": "13_2090796939633897473",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090796939633897473/img/DyBU9Lm6QxmP3REr.jpg",
+        "public_metrics": {
+          "view_count": 254
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090796939633897473/vid/avc1/408x270/NKFQbKk00odxW7FN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090796939633897473/vid/avc1/544x360/uGKvtO-JFj-d5XR0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090796939633897473/vid/avc1/880x582/lX7Xb8Zh1Mfn7_SZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090796939633897473/pl/CdInuRtdZumsWWOf.m3u8"
+          }
+        ],
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090796939633897473"
+          ],
+          "media_source_tweet_id": [
+            "2090796957300367783"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2091010463262036477",
+        "created_at": "2026-08-22T03:51:58.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091010463262036477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751084995312275456",
+              "start": 3,
+              "username": "mikumiku3648"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKoPw2jrKl",
+              "end": 105,
+              "expanded_url": "https://x.com/mikumiku3648/status/2090796957300367783/video/1",
+              "media_key": "13_2090796939633897473",
+              "start": 82,
+              "url": "https://t.co/oKoPw2jrKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091010463262036477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090796939633897473"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090796957300367783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikumiku3648: 唉，意识形态入脑导致的\na指导什么时候能意识到生活舒服的原因并不是性别而是他家里很有钱\n美本文科连最基本的世界观方法论都不教吗 https://t.co/oKoPw2jrKl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090796939633897473"
+          ]
+        },
+        "author_id": "1751084995312275456",
+        "conversation_id": "2090796957300367783",
+        "created_at": "2026-08-21T13:43:34.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090796957300367783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKoPw2jrKl",
+              "end": 87,
+              "expanded_url": "https://x.com/mikumiku3648/status/2090796957300367783/video/1",
+              "media_key": "13_2090796939633897473",
+              "start": 64,
+              "url": "https://t.co/oKoPw2jrKl"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2090594226698354968",
+              "start": 88,
+              "url": "https://t.co/bkZ7mIfIXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090796957300367783",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090796939633897473"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 696,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090594226698354968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，意识形态入脑导致的\na指导什么时候能意识到生活舒服的原因并不是性别而是他家里很有钱\n美本文科连最基本的世界观方法论都不教吗 https://t.co/oKoPw2jrKl https://t.co/bkZ7mIfIXK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 133,
+                "start": 119,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2091010463262036477",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2544,
+          "following_count": 2984,
+          "like_count": 102921,
+          "listed_count": 13,
+          "media_count": 2341,
+          "tweet_count": 18428
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "「私たちが経験した平凡な日常は、連続して起こる奇跡かもしれません」 友達！：@meguruKirara Remi @miku_suki393939 对象：@Mikuloverr_新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Yuuteki",
+                "end": 23,
+                "expanded_url": "https://github.com/Yuuteki",
+                "start": 0,
+                "url": "https://t.co/Wcto2ghIDr"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "is_identity_verified": false,
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "most_recent_tweet_id": "2090838158388994108",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751084995312275456/1778265865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055371914752008192/buXiE2oc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3984,
+          "following_count": 1341,
+          "like_count": 39602,
+          "listed_count": 17,
+          "media_count": 3041,
+          "tweet_count": 16000
+        },
+        "url": "https://t.co/Wcto2ghIDr",
+        "username": "mikumiku3648",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

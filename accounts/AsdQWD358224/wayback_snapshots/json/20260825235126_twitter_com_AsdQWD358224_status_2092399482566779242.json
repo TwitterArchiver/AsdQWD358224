@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "2092399482566779242",
+    "created_at": "2026-08-25T23:51:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T00:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092399482566779242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1355721251180961792",
+          "start": 3,
+          "username": "GuntherEagleman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092399482566779242",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2950
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091914101626692058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuntherEagleman: Lindsay Clancy strangled her three children to death.\n\nShe played with them in the snow.\nOrdered takeout.\nCalled the p…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 598230,
+        "height": 720,
+        "media_key": "13_2091913864434651137",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091913864434651137/img/-dkul-W2Uo39heT3.jpg",
+        "public_metrics": {
+          "view_count": 420184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091913864434651137/vid/avc1/480x270/MkEnYZgOGQ8sA3Qy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091913864434651137/vid/avc1/640x360/yCOyJfUmhndOzyoi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091913864434651137/vid/avc1/1280x720/ayRNp6-TUgtdHQfU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091913864434651137/pl/VklLMT1E5ZF91_zB.m3u8?tag=14&v=ab4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2092399482566779242",
+        "created_at": "2026-08-25T23:51:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T00:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092399482566779242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1355721251180961792",
+              "start": 3,
+              "username": "GuntherEagleman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092399482566779242",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2950
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091914101626692058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuntherEagleman: Lindsay Clancy strangled her three children to death.\n\nShe played with them in the snow.\nOrdered takeout.\nCalled the p…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091913864434651137"
+          ]
+        },
+        "author_id": "1355721251180961792",
+        "conversation_id": "2091914101626692058",
+        "created_at": "2026-08-24T15:42:42.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091914101626692058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIJTwhPLzW",
+              "end": 303,
+              "expanded_url": "https://x.com/GuntherEagleman/status/2091914101626692058/video/1",
+              "media_key": "13_2091913864434651137",
+              "start": 280,
+              "url": "https://t.co/iIJTwhPLzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091914101626692058",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091913864434651137"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Lindsay Clancy strangled her three children to death.\n\nShe played with them in the snow.\nOrdered takeout.\nCalled the pharmacy about their medicine.\n\nThen she killed them one by one.\n\nI don’t care if it was postpartum psychosis.\n\nI don’t care about command voices or mental health debates.\n\nThree little kids are gone forever because of what she did.\n\nThey deserved a mother who protected them — not one who took their lives.\n\nShe needs to be held fully accountable.\n\nNo excuses. No soft landing.\nJustice for those babies. That’s it."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 1122806,
+          "like_count": 18602,
+          "quote_count": 167,
+          "reply_count": 890,
+          "retweet_count": 2950
+        },
+        "reply_settings": "everyone",
+        "text": "Lindsay Clancy strangled her three children to death.\n\nShe played with them in the snow.\nOrdered takeout.\nCalled the pharmacy about their medicine.\n\nThen she killed them one by one.\n\nI don’t care if it was postpartum psychosis.\n\nI don’t care about command voices or mental health https://t.co/iIJTwhPLzW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 133,
+                "start": 119,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2092399482566779242",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 2975,
+          "like_count": 102938,
+          "listed_count": 13,
+          "media_count": 2343,
+          "tweet_count": 18454
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-31T03:35:19.000Z",
+        "description": "David J. Freeman | Political Commentator | Commentary, Opinion & Satire | Host of the Double Eagleman Podcast",
+        "id": "1355721251180961792",
+        "is_identity_verified": true,
+        "location": "California to Texas in 2007",
+        "most_recent_tweet_id": "2092399307638862092",
+        "name": "Gunther Eagleman™",
+        "pinned_tweet_id": "2092300376191943030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355721251180961792/1740358024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606836521784512512/Xb-_cXXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764790,
+          "following_count": 103686,
+          "like_count": 1309977,
+          "listed_count": 4929,
+          "media_count": 66561,
+          "tweet_count": 499216
+        },
+        "url": "",
+        "username": "GuntherEagleman",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

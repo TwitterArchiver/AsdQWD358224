@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "2092646200361275853",
+    "created_at": "2026-08-26T16:11:48.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092646200361275853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973353431449608192",
+          "start": 3,
+          "username": "love__hamster"
+        },
+        {
+          "end": 32,
+          "id": "987508360336424961",
+          "start": 19,
+          "username": "safaricheung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092646200361275853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091821267188097040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love__hamster: @safaricheung 致中国朋友：由于翻译功能，日语中显示为“野兽前辈”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2092646200361275853",
+        "created_at": "2026-08-26T16:11:48.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092646200361275853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973353431449608192",
+              "start": 3,
+              "username": "love__hamster"
+            },
+            {
+              "end": 32,
+              "id": "987508360336424961",
+              "start": 19,
+              "username": "safaricheung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092646200361275853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091821267188097040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love__hamster: @safaricheung 致中国朋友：由于翻译功能，日语中显示为“野兽前辈”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973353431449608192",
+        "conversation_id": "2091742180478276037",
+        "created_at": "2026-08-24T09:33:48.000Z",
+        "display_text_range": [
+          14,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091821267188097040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "987508360336424961",
+              "start": 0,
+              "username": "safaricheung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091821267188097040",
+        "in_reply_to_user_id": "987508360336424961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 127289,
+          "like_count": 3195,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091742180478276037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safaricheung 致中国朋友：由于翻译功能，日语中显示为“野兽前辈”。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 /@xiao_wen0510   /@Nahida_miao/@fe_ions/@happyhejsday /@wanan071020/ @rosmarinou\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "wanan071020"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2092646200361275853",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535,
+          "following_count": 2971,
+          "like_count": 102959,
+          "listed_count": 13,
+          "media_count": 2345,
+          "tweet_count": 18469
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-01T11:45:12.000Z",
+        "description": "音楽とかプラモとか好き　BUMP OF CHICKEN/Ado/Queen　　Ratio Clavis 2/6参戦！\n無言フォロー失礼します\n中学生",
+        "id": "1973353431449608192",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2092632938626367533",
+        "name": "かいわれ",
+        "pinned_tweet_id": "2030495862934356136",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973353799629836288/YG0BYqUC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 139,
+          "like_count": 5063,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 589
+        },
+        "url": "",
+        "username": "love__hamster",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-21T01:48:34.000Z",
+        "description": "Editor @update4weekly ⚡. Marketing Strategy Analyst @studiomockup 🎨. Aviation photographer ✈️ . Sometime I produce Chinese tweets.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "update4weekly"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "studiomockup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "studiomockup.ink",
+                "end": 23,
+                "expanded_url": "http://studiomockup.ink",
+                "start": 0,
+                "url": "https://t.co/mgiqx6ATeF"
+              }
+            ]
+          }
+        },
+        "id": "987508360336424961",
+        "is_identity_verified": false,
+        "location": "Chaoyang, Beijing ",
+        "most_recent_tweet_id": "2092487467962372156",
+        "name": "safari",
+        "pinned_tweet_id": "2069346518747009053",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/987508360336424961/1692770349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535513461358153728/qaYfZwAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12285,
+          "following_count": 355,
+          "like_count": 5910,
+          "listed_count": 73,
+          "media_count": 3184,
+          "tweet_count": 7922
+        },
+        "url": "https://t.co/mgiqx6ATeF",
+        "username": "safaricheung",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
