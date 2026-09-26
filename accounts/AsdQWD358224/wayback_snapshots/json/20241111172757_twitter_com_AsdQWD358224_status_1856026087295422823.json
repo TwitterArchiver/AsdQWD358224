@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1856026087295422823",
+    "created_at": "2024-11-11T17:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T18:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856026087295422823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/charming_xiaoy…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/charming_xiaoyu/status/1855671123830292816",
+          "start": 111,
+          "url": "https://t.co/LP1lrReLal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856026087295422823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855671123830292816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出生地:四川\n性别:男\n核心天赋:抽象\n家庭成分:群众\n家庭经济情况:一般\n营养状况:食堂\n父母态度:普通\n亲戚态度:普通\n生活状态:上课，睡觉，抑郁\n社交条件:和朋友聊的很开\n教育质量:郊区公立中学\n最高学历:普通高中 https://t.co/LP1lrReLal"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1856026087295422823",
+        "created_at": "2024-11-11T17:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T18:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856026087295422823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/charming_xiaoy…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/charming_xiaoyu/status/1855671123830292816",
+              "start": 111,
+              "url": "https://t.co/LP1lrReLal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856026087295422823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855671123830292816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出生地:四川\n性别:男\n核心天赋:抽象\n家庭成分:群众\n家庭经济情况:一般\n营养状况:食堂\n父母态度:普通\n亲戚态度:普通\n生活状态:上课，睡觉，抑郁\n社交条件:和朋友聊的很开\n教育质量:郊区公立中学\n最高学历:普通高中 https://t.co/LP1lrReLal"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697936336228126721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1855671123830292816",
+        "created_at": "2024-11-10T17:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T18:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855671123830292816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1234567wwerr/s…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/1234567wwerr/status/1855667147713945640",
+              "start": 123,
+              "url": "https://t.co/F9ueaDsrNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855671123830292816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5133,
+          "like_count": 15,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855667147713945640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出生地:四川\n性别:男\n核心天赋:干什么都倒霉\n家庭成分:体制内\n家庭经济情况:应该不错\n营养状况:学校食堂\n父母态度:良好\n亲戚态度:你小时候我还抱过你嘞\n生活状态:上课，打游戏，紫砂\n社交条件:社恐\n教育质量:本人开摆中\n最高学历:二本在读 https://t.co/F9ueaDsrNp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/友跨顺男/高三在读/无政治倾向/汉族/拒绝建政/喜欢猫猫/友善/",
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站",
+        "name": "鲜虾🍤鱼板🍥面🍜（互FO）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1495,
+          "like_count": 3021,
+          "listed_count": 0,
+          "tweet_count": 633
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "永远怀念🕯@luxuanwen3                                                               06郭楠｜摆烂大学生｜友跨🏳️‍⚧️｜I人｜学习画画和日语中..｜欢迎互fo(未回可能取)｜小号@xiaoyu0114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "luxuanwen3"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "xiaoyu0114514"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "理塘国",
+        "name": "迷人の小语",
+        "pinned_tweet_id": "1838399541936296116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850737921856540673/ZPCNcCy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 791,
+          "like_count": 27513,
+          "listed_count": 1,
+          "tweet_count": 2081
+        },
+        "username": "charming_xiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099815154762616832"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "2099504894805692817",
+    "created_at": "2026-09-15T10:58:45.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099815174777807163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965368623121530883",
+          "start": 0,
+          "username": "PunishedFaze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJ7olBkhWN",
+          "end": 48,
+          "expanded_url": "https://x.com/AsdQWD358224/status/2099815174777807163/photo/1",
+          "media_key": "3_2099815154762616832",
+          "start": 25,
+          "url": "https://t.co/aJ7olBkhWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099815174777807163",
+    "in_reply_to_user_id": "1965368623121530883",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099815154762616832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099504894805692817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PunishedFaze 这是中国的进口的香烟 https://t.co/aJ7olBkhWN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2099815154762616832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQKwgmbkAAq3fJ.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099815154762616832"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2099504894805692817",
+        "created_at": "2026-09-15T10:58:45.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099815174777807163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965368623121530883",
+              "start": 0,
+              "username": "PunishedFaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJ7olBkhWN",
+              "end": 48,
+              "expanded_url": "https://x.com/AsdQWD358224/status/2099815174777807163/photo/1",
+              "media_key": "3_2099815154762616832",
+              "start": 25,
+              "url": "https://t.co/aJ7olBkhWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099815174777807163",
+        "in_reply_to_user_id": "1965368623121530883",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099815154762616832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099504894805692817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PunishedFaze 这是中国的进口的香烟 https://t.co/aJ7olBkhWN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965368623121530883",
+        "conversation_id": "2099504894805692817",
+        "created_at": "2026-09-14T14:25:48.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099504894805692817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cigaretteworld…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/cigaretteworld1/status/2099104843600113716",
+              "start": 79,
+              "url": "https://t.co/89dvCPcrTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099504894805692817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4311,
+          "impression_count": 4312151,
+          "like_count": 303803,
+          "quote_count": 301,
+          "reply_count": 494,
+          "retweet_count": 21156
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099104843600113716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It's weird seeing American cigarette packs, like, where's the gore on the box? https://t.co/89dvCPcrTJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 /@xiao_wen0510   /@Nahida_miao/@fe_ions/@happyhejsday /@wanan071020/ @rosmarinou\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "wanan071020"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2099815174777807163",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 2966,
+          "like_count": 102939,
+          "listed_count": 13,
+          "media_count": 2349,
+          "tweet_count": 18540
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T10:56:22.000Z",
+        "description": "Tomokos husband. Autistic guy who loves his oomfs. I rt a lot. If we're moots, we're friends. Discord link below.\n\nPriv: @Shadowmonke1273\nDiscord: punishedfaze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 121,
+                "username": "Shadowmonke1273"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/URvB3Jp5pU",
+                "end": 23,
+                "expanded_url": "https://discord.gg/URvB3Jp5pU",
+                "start": 0,
+                "url": "https://t.co/TkfEamfws3"
+              }
+            ]
+          }
+        },
+        "id": "1965368623121530883",
+        "is_identity_verified": false,
+        "location": "Evil Ass Rape Building",
+        "most_recent_tweet_id": "2099733504586027255",
+        "name": "Fazemonke1273 ✝️",
+        "pinned_tweet_id": "2054099452332224716",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965368623121530883/1777661748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041417086946140162/anfVC-D3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 724,
+          "like_count": 64977,
+          "listed_count": 12,
+          "media_count": 1115,
+          "tweet_count": 3314
+        },
+        "url": "https://t.co/TkfEamfws3",
+        "username": "PunishedFaze",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

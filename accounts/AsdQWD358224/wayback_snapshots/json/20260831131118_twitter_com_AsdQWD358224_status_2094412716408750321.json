@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094185277892009984"
+      ],
+      "media_source_tweet_id": [
+        "2094185302428700819"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "2094412716408750321",
+    "created_at": "2026-08-31T13:11:18.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T14:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094412716408750321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2071693390895616000",
+          "start": 3,
+          "username": "AmJellyCar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kGFu3wCa9r",
+          "end": 74,
+          "expanded_url": "https://x.com/AmJellyCar/status/2094185302428700819/video/1",
+          "media_key": "13_2094185277892009984",
+          "start": 51,
+          "url": "https://t.co/kGFu3wCa9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094412716408750321",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2094185277892009984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094185302428700819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmJellyCar: me when i fricking get you &gt;:3c https://t.co/kGFu3wCa9r"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4078,
+        "height": 720,
+        "media_key": "13_2094185277892009984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094185277892009984/img/nsP1QkiTMSRImwDL.jpg",
+        "public_metrics": {
+          "view_count": 11261
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094185277892009984/vid/avc1/480x270/JAtF_SzKBOckQIxs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094185277892009984/vid/avc1/640x360/twZ5VeWxxSeh1oD9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094185277892009984/vid/avc1/1280x720/BNC4eMxgnsalQyj1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094185277892009984/pl/3e1rrSyhaJYpMdVn.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094185277892009984"
+          ],
+          "media_source_tweet_id": [
+            "2094185302428700819"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2094412716408750321",
+        "created_at": "2026-08-31T13:11:18.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094412716408750321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2071693390895616000",
+              "start": 3,
+              "username": "AmJellyCar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGFu3wCa9r",
+              "end": 74,
+              "expanded_url": "https://x.com/AmJellyCar/status/2094185302428700819/video/1",
+              "media_key": "13_2094185277892009984",
+              "start": 51,
+              "url": "https://t.co/kGFu3wCa9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094412716408750321",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2094185277892009984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094185302428700819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmJellyCar: me when i fricking get you &gt;:3c https://t.co/kGFu3wCa9r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094185277892009984"
+          ]
+        },
+        "author_id": "2071693390895616000",
+        "conversation_id": "2094185302428700819",
+        "created_at": "2026-08-30T22:07:38.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094185302428700819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGFu3wCa9r",
+              "end": 58,
+              "expanded_url": "https://x.com/AmJellyCar/status/2094185302428700819/video/1",
+              "media_key": "13_2094185277892009984",
+              "start": 35,
+              "url": "https://t.co/kGFu3wCa9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094185302428700819",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2094185277892009984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 18592,
+          "like_count": 1958,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "me when i fricking get you &gt;:3c https://t.co/kGFu3wCa9r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 /@xiao_wen0510   /@Nahida_miao/@fe_ions/@happyhejsday /@wanan071020/ @rosmarinou\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "wanan071020"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2094412716408750321",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 2978,
+          "like_count": 103052,
+          "listed_count": 13,
+          "media_count": 2346,
+          "tweet_count": 18493
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T20:33:32.000Z",
+        "description": "girl EST. 2024 ♀️\nmassively skill issued 🎮\nDMs open, let's be friends? 💖\nneed.... more.... jirai.... outfits.... ✨️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/xskdFx8fPg",
+                "end": 23,
+                "expanded_url": "https://discord.gg/xskdFx8fPg",
+                "start": 0,
+                "url": "https://t.co/DDKqoMKKIr"
+              }
+            ]
+          }
+        },
+        "id": "2071693390895616000",
+        "is_identity_verified": false,
+        "location": "shrimp town",
+        "most_recent_tweet_id": "2094314849899803058",
+        "name": "Angelica 🏳️‍⚧️",
+        "pinned_tweet_id": "2089198210082574390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071693390895616000/1783640016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071785286196133888/UaLXtgHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3904,
+          "following_count": 111,
+          "like_count": 2469,
+          "listed_count": 7,
+          "media_count": 208,
+          "tweet_count": 1454
+        },
+        "url": "https://t.co/DDKqoMKKIr",
+        "username": "AmJellyCar",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

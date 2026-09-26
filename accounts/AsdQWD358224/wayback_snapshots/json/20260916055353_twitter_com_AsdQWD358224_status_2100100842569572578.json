@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099776741590097920"
+      ],
+      "media_source_tweet_id": [
+        "2099776746123940334"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "conversation_id": "2100100842569572578",
+    "created_at": "2026-09-16T05:53:53.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T06:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100100842569572578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1644490540455698433",
+          "start": 3,
+          "username": "genkai0_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MPZ0nrceZu",
+          "end": 53,
+          "expanded_url": "https://x.com/genkai0_0/status/2099776746123940334/photo/1",
+          "media_key": "3_2099776741590097920",
+          "start": 30,
+          "url": "https://t.co/MPZ0nrceZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100100842569572578",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099776741590097920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 413
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099776746123940334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @genkai0_0: 親に模試の成績報告する時コレ https://t.co/MPZ0nrceZu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 277,
+        "media_key": "3_2099776741590097920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPn0kYa4AAFgnZ.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099776741590097920"
+          ],
+          "media_source_tweet_id": [
+            "2099776746123940334"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2100100842569572578",
+        "created_at": "2026-09-16T05:53:53.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100100842569572578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1644490540455698433",
+              "start": 3,
+              "username": "genkai0_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MPZ0nrceZu",
+              "end": 53,
+              "expanded_url": "https://x.com/genkai0_0/status/2099776746123940334/photo/1",
+              "media_key": "3_2099776741590097920",
+              "start": 30,
+              "url": "https://t.co/MPZ0nrceZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100100842569572578",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099776741590097920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099776746123940334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @genkai0_0: 親に模試の成績報告する時コレ https://t.co/MPZ0nrceZu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099776741590097920"
+          ]
+        },
+        "author_id": "1644490540455698433",
+        "conversation_id": "2099776746123940334",
+        "created_at": "2026-09-15T08:26:02.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099776746123940334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MPZ0nrceZu",
+              "end": 38,
+              "expanded_url": "https://x.com/genkai0_0/status/2099776746123940334/photo/1",
+              "media_key": "3_2099776741590097920",
+              "start": 15,
+              "url": "https://t.co/MPZ0nrceZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099776746123940334",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099776741590097920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 362,
+          "impression_count": 112324,
+          "like_count": 4932,
+          "quote_count": 19,
+          "reply_count": 24,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "親に模試の成績報告する時コレ https://t.co/MPZ0nrceZu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 /@xiao_wen0510   /@Nahida_miao/@fe_ions/@happyhejsday /@wanan071020/ @rosmarinou\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "wanan071020"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2100100842569572578",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 2967,
+          "like_count": 102941,
+          "listed_count": 13,
+          "media_count": 2349,
+          "tweet_count": 18541
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-08T00:02:22.000Z",
+        "description": "t=1/文系/広大情科志望/白面書浪(はくめんのしょろう)\n鍵垢以外基本的にフォロバします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rz7clzcfiht9iu…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rz7clzcfiht9iup?t=LJYXgM&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/j8H5QsFDPH"
+              }
+            ]
+          }
+        },
+        "id": "1644490540455698433",
+        "is_identity_verified": false,
+        "location": "愛日楼西高等学校卒",
+        "most_recent_tweet_id": "2099843213683310758",
+        "name": "白面書浪",
+        "pinned_tweet_id": "2063822777552195601",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1644490540455698433/1787981544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034849230465155073/2SIwBBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 2629,
+          "like_count": 32441,
+          "listed_count": 8,
+          "media_count": 551,
+          "tweet_count": 10319
+        },
+        "url": "https://t.co/j8H5QsFDPH",
+        "username": "genkai0_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "conversation_id": "1838379152858386890",
+    "created_at": "2024-09-24T00:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T01:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838379567414940122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1513348512393560064",
+          "start": 0,
+          "username": "kazami_kumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838379567414940122",
+    "in_reply_to_user_id": "1513348512393560064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838379152858386890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazami_kumo 为什么要巧克力加炸鸡排，又甜又咸很不融洽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1838379152858386890",
+        "created_at": "2024-09-24T00:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T01:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838379567414940122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513348512393560064",
+              "start": 0,
+              "username": "kazami_kumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838379567414940122",
+        "in_reply_to_user_id": "1513348512393560064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838379152858386890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazami_kumo 为什么要巧克力加炸鸡排，又甜又咸很不融洽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838379143853150209"
+          ]
+        },
+        "author_id": "1513348512393560064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1838379152858386890",
+        "created_at": "2024-09-24T00:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T01:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838379152858386890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msngs2z3xi",
+              "end": 128,
+              "expanded_url": "https://twitter.com/kazami_kumo/status/1838379152858386890/photo/1",
+              "media_key": "3_1838379143853150209",
+              "start": 105,
+              "url": "https://t.co/msNGS2Z3XI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838379152858386890",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道這是甚麼嗎？\n\n巧克力\n酥炸\n脆雞排\n加一層起司煉乳\n\n我沒有在台灣以外的地方看過它\n但現在我開始期待能看到了\n\n因為它其實超好吃的……\n\n喔不，我的朋友\n我正在變成台灣的形狀\n（你好幾年前就是了好嗎） https://t.co/msNGS2Z3XI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n茄皇",
+        "id": "1680247071608303616",
+        "location": "Kowloon City District",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 1040,
+          "like_count": 1926,
+          "listed_count": 0,
+          "tweet_count": 197
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T02:49:53.000Z",
+        "description": "Vtuber Preparation\n\n偶爾有點可愛的紳士情報員，從故事書中被召喚出來，喜歡甜的東西與正式的西方料理，希望人們能更多的理解英國食物\n\n二創標籤： #諜影鏡像\n迷因標籤： #智商爆諜\n\n棉花糖：\nhttps://t.co/PIPxH4b8U6",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "諜影鏡像"
+              },
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "智商爆諜"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/kazami_kumo",
+                "end": 128,
+                "expanded_url": "https://marshmallow-qa.com/kazami_kumo",
+                "start": 105,
+                "url": "https://t.co/PIPxH4b8U6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kazakumo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kazakumo",
+                "start": 0,
+                "url": "https://t.co/qQO2qJGmKg"
+              }
+            ]
+          }
+        },
+        "id": "1513348512393560064",
+        "location": "I am every where ：）",
+        "name": "☬ KUMO 💼 風見九雲 現正長期準備中 ☬",
+        "pinned_tweet_id": "1798995030553862621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793888487760072706/VEid8ryP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5475,
+          "following_count": 423,
+          "like_count": 96349,
+          "listed_count": 3,
+          "tweet_count": 66621
+        },
+        "url": "https://t.co/qQO2qJGmKg",
+        "username": "kazami_kumo",
+        "verified": false
+      }
+    ]
+  }
+}
