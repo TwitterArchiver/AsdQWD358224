@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1427352573401452555",
+          "name": "Crisis in Afghanistan"
+        }
+      }
+    ],
+    "conversation_id": "2103117810654396601",
+    "created_at": "2026-09-24T13:42:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103117810654396601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2955315479",
+          "start": 3,
+          "username": "bpthaber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103117810654396601",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102808130996347129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bpthaber: Hearts of Iron IV'ün Steam incelemeleri, tepkilerin ardından \"Çok Olumlu\"dan \"Çoğunlukla Olumsuz\"a döndü.\n\n— Olaydan önce gün…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2102805172770471937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6qKdrWgAE2hOy.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2102805183617007617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6qLGFXgAEx1nL.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "2103117810654396601",
+        "created_at": "2026-09-24T13:42:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103117810654396601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2955315479",
+              "start": 3,
+              "username": "bpthaber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103117810654396601",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102808130996347129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bpthaber: Hearts of Iron IV'ün Steam incelemeleri, tepkilerin ardından \"Çok Olumlu\"dan \"Çoğunlukla Olumsuz\"a döndü.\n\n— Olaydan önce gün…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102805172770471937",
+            "3_2102805183617007617"
+          ]
+        },
+        "author_id": "2955315479",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "2102808130996347129",
+        "created_at": "2026-09-23T17:11:41.000Z",
+        "display_text_range": [
+          0,
+          229
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102808130996347129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIKB5iOYn0",
+              "end": 253,
+              "expanded_url": "https://x.com/bpthaber/status/2102808130996347129/photo/1",
+              "media_key": "3_2102805172770471937",
+              "start": 230,
+              "url": "https://t.co/JIKB5iOYn0"
+            },
+            {
+              "display_url": "pic.x.com/JIKB5iOYn0",
+              "end": 253,
+              "expanded_url": "https://x.com/bpthaber/status/2102808130996347129/photo/1",
+              "media_key": "3_2102805183617007617",
+              "start": 230,
+              "url": "https://t.co/JIKB5iOYn0"
+            },
+            {
+              "display_url": "x.com/bpthaber/statu…",
+              "end": 277,
+              "expanded_url": "https://twitter.com/bpthaber/status/2102797359079915534",
+              "start": 254,
+              "url": "https://t.co/F97sCaLMIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102808130996347129",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "3_2102805172770471937"
+          },
+          {
+            "media_key": "3_2102805183617007617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 235,
+          "impression_count": 1009484,
+          "like_count": 4886,
+          "quote_count": 54,
+          "reply_count": 72,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102797359079915534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Hearts of Iron IV'ün Steam incelemeleri, tepkilerin ardından \"Çok Olumlu\"dan \"Çoğunlukla Olumsuz\"a döndü.\n\n— Olaydan önce günlük ortalama 60 olumlu inceleme alan oyun, bugün birkaç saat içinde 6.000'e yakın olumsuz inceleme aldı. https://t.co/JIKB5iOYn0 https://t.co/F97sCaLMIO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 /@xiao_wen0510   /@Nahida_miao/@fe_ions/@happyhejsday /@wanan071020/ @rosmarinou\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "wanan071020"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2103117810654396601",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 2961,
+          "like_count": 102830,
+          "listed_count": 13,
+          "media_count": 2352,
+          "tweet_count": 18549
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-01T19:07:22.000Z",
+        "description": "BPT, haber ajanslarından derlediği ve internette yer alan haberleri tarar, araştırır ve doğruluğundan emin olduğu zaman paylaşır. info@bpt.tr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bpt.tr",
+                "end": 23,
+                "expanded_url": "http://bpt.tr",
+                "start": 0,
+                "url": "https://t.co/lfqu8tTm6x"
+              }
+            ]
+          }
+        },
+        "id": "2955315479",
+        "is_identity_verified": true,
+        "location": "İstanbul, Türkiye",
+        "most_recent_tweet_id": "2103116910682398723",
+        "name": "BPT",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2955315479/1786732510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347941491889549318/uvn8isXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670293,
+          "following_count": 72,
+          "like_count": 9098,
+          "listed_count": 1862,
+          "media_count": 119988,
+          "tweet_count": 165269
+        },
+        "url": "https://t.co/lfqu8tTm6x",
+        "username": "bpthaber",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108093270538756096"
+      ],
+      "media_source_tweet_id": [
+        "2108093285004959754"
+      ]
+    },
+    "author_id": "1680247071608303616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2108173751364079912",
+    "created_at": "2026-10-08T12:32:44.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T13:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108173751364079912"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "miku"
+        },
+        {
+          "end": 45,
+          "start": 36,
+          "tag": "VOCALOID"
+        },
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797535583096733696",
+          "start": 3,
+          "username": "LoneStar6072"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y0am2a4IDK",
+          "end": 75,
+          "expanded_url": "https://x.com/LoneStar6072/status/2108093285004959754/photo/1",
+          "media_key": "3_2108093270538756096",
+          "start": 52,
+          "url": "https://t.co/Y0am2a4IDK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108173751364079912",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108093270538756096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 217
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108093285004959754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LoneStar6072: “所有人都深爱着地球”\n#miku #VOCALOID #初音ミク https://t.co/Y0am2a4IDK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1993,
+        "media_key": "3_2108093270538756096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUFzqQ_aoAARoi9.jpg",
+        "width": 1294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108093270538756096"
+          ],
+          "media_source_tweet_id": [
+            "2108093285004959754"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2108173751364079912",
+        "created_at": "2026-10-08T12:32:44.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T13:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108173751364079912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "miku"
+            },
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "VOCALOID"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797535583096733696",
+              "start": 3,
+              "username": "LoneStar6072"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0am2a4IDK",
+              "end": 75,
+              "expanded_url": "https://x.com/LoneStar6072/status/2108093285004959754/photo/1",
+              "media_key": "3_2108093270538756096",
+              "start": 52,
+              "url": "https://t.co/Y0am2a4IDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108173751364079912",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108093270538756096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108093285004959754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LoneStar6072: “所有人都深爱着地球”\n#miku #VOCALOID #初音ミク https://t.co/Y0am2a4IDK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108093270538756096"
+          ]
+        },
+        "author_id": "1797535583096733696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2108093285004959754",
+        "created_at": "2026-10-08T07:13:00.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T08:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108093285004959754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "miku"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "VOCALOID"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0am2a4IDK",
+              "end": 57,
+              "expanded_url": "https://x.com/LoneStar6072/status/2108093285004959754/photo/1",
+              "media_key": "3_2108093270538756096",
+              "start": 34,
+              "url": "https://t.co/Y0am2a4IDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108093285004959754",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108093270538756096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 21148,
+          "like_count": 1931,
+          "quote_count": 13,
+          "reply_count": 24,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "“所有人都深爱着地球”\n#miku #VOCALOID #初音ミク https://t.co/Y0am2a4IDK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 /@xiao_wen0510   /@Nahida_miao/@fe_ions/@happyhejsday /@wanan071020/ @rosmarinou\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "wanan071020"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2108173751364079912",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "2073048271032053803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 2955,
+          "like_count": 102869,
+          "listed_count": 13,
+          "media_count": 2359,
+          "tweet_count": 18579
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-03T07:47:52.000Z",
+        "description": "18｜無證含糖跨女🏳️‍⚧️/同類可fo｜是一隻仙鶴🎋\nHRT💊24.10.6-至今\n毒舌｜吃貨｜攝影｜日常｜喜歡ボカロ｜喜歡劍道/弓道｜高版本Minecraf pvper\n夢想是當一名P主！\n一般通過尼龍萌新\n姐姐@sengonzen24174\n妹妹@SakuraAmesaki\n小徒弟@MingQiSJDY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 108,
+                "username": "sengonzen24174"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "SakuraAmesaki"
+              },
+              {
+                "end": 155,
+                "start": 144,
+                "username": "MingQiSJDY"
+              }
+            ]
+          }
+        },
+        "id": "1797535583096733696",
+        "is_identity_verified": false,
+        "location": "白粧都",
+        "most_recent_tweet_id": "2108173573269696948",
+        "name": "櫻井 安久🍥",
+        "pinned_tweet_id": "2104446295180296233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797535583096733696/1779970363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059971072506699776/-KcqeiZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 313,
+          "like_count": 2920,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 589
+        },
+        "url": "",
+        "username": "LoneStar6072",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
